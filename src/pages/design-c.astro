@@ -1,0 +1,74 @@
+---
+import Base from '../layouts/Base.astro';
+import { getCollection } from 'astro:content';
+const latest = (await getCollection('blog'))
+  .sort((a, b) => b.data.date.valueOf() - a.data.date.valueOf())[0];
+const doors = [
+  { href: '/art', label: 'Art', img: '/images/srg1679.jpg', c: 'var(--c-art)' },
+  { href: '/music', label: 'Music', img: '/images/srg0900.jpg', c: 'var(--c-music)' },
+  { href: '/consulting', label: 'Consulting', img: '/images/srg2837-crop.jpg', c: 'var(--c-consulting)' },
+  { href: '/blog', label: 'Blog', img: '/images/irwin-naked-by-larry-bell.jpg', c: 'var(--c-blog)' },
+];
+---
+<Base title="Design C — doors and columns">
+  <p class="switcher">Design demo: <a href="/design-a">A</a> · <a href="/design-b">B</a> · <strong>C</strong> · <a href="/">current</a></p>
+
+  <div class="hero">
+    <div>
+      <p class="mission-c">Hybrid Arts brings artists and experts from different fields together to address real-world challenges in new ways.</p>
+      <nav class="doors-c">
+        {doors.map((d, i) => (
+          <a href={d.href} style={`--door:${d.c}`} data-img={d.img} data-i={i}>{d.label}</a>
+        ))}
+      </nav>
+    </div>
+    <div class="stage">
+      <img id="stage-img" src={doors[0].img} alt="" />
+    </div>
+  </div>
+
+  <div class="strip">
+    <a href={`/blog/${latest.id}`}>
+      {latest.data.cover && <img src={latest.data.cover} alt="" />}
+      <span><em>Latest post</em>{latest.data.title}</span>
+    </a>
+    <a href="/music">
+      <img src="/images/srg0900.jpg" alt="" />
+      <span><em>New album</em>Voices: translations of Paul Celan in dub</span>
+    </a>
+    <a href="/consulting#testimonials">
+      <img src="/images/gulgun.jpg" alt="" />
+      <span><em>Consulting</em>What collaborators say about working together</span>
+    </a>
+  </div>
+</Base>
+
+<style>
+  .switcher { font-size: 14px; color: var(--muted); margin: 16px 0 0; }
+  .hero { display: grid; grid-template-columns: 1.1fr 1fr; gap: 40px; align-items: center; min-height: calc(100vh - 330px); }
+  .mission-c { font-size: clamp(17px, 1.9vw, 21px); max-width: 36ch; line-height: 1.4; margin: 0 0 5vh; }
+  .doors-c { display: flex; flex-direction: column; }
+  .doors-c a { font-size: clamp(44px, 7.5vw, 84px); font-weight: 680; letter-spacing: -0.03em; line-height: 1.06; text-decoration: none; width: fit-content; color: var(--door); transition: transform .12s ease, color .12s ease; }
+  .doors-c a:hover { transform: translateX(0.12em); color: var(--ink); }
+  .stage img { width: 100%; aspect-ratio: 4/5; object-fit: cover; display: block; transition: opacity .18s ease; }
+  .strip { display: grid; grid-template-columns: repeat(3, 1fr); gap: 28px; border-top: 1px solid var(--rule); margin-top: 40px; padding-top: 22px; }
+  .strip a { display: flex; gap: 12px; text-decoration: none; }
+  .strip img { width: 84px; height: 64px; object-fit: cover; flex: none; }
+  .strip span { font-size: 14.5px; line-height: 1.35; }
+  .strip em { display: block; font-style: normal; font-size: 12px; color: var(--muted); margin-bottom: 2px; }
+  .strip a:hover span { color: var(--c-art); }
+  @media (max-width: 700px) { .hero { grid-template-columns: 1fr; } .stage { order: 2; } .strip { grid-template-columns: 1fr; } }
+</style>
+
+<script>
+  const img = document.getElementById('stage-img');
+  document.querySelectorAll('.doors-c a').forEach((a) => {
+    a.addEventListener('mouseenter', () => {
+      const src = a.getAttribute('data-img');
+      if (img && img.getAttribute('src') !== src) {
+        img.style.opacity = '0';
+        setTimeout(() => { img.setAttribute('src', src); img.style.opacity = '1'; }, 150);
+      }
+    });
+  });
+</script>

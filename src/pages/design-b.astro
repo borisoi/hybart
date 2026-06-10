@@ -1,0 +1,65 @@
+---
+import Base from '../layouts/Base.astro';
+import { getCollection } from 'astro:content';
+const posts = (await getCollection('blog'))
+  .sort((a, b) => b.data.date.valueOf() - a.data.date.valueOf())
+  .slice(0, 4);
+const fmt = (d: Date) => d.toLocaleDateString('en-US', { month: 'short', day: 'numeric', year: 'numeric' });
+---
+<Base title="Design B — front page">
+  <p class="switcher">Design demo: <a href="/design-a">A</a> · <strong>B</strong> · <a href="/design-c">C</a> · <a href="/">current</a></p>
+  <p class="mission-b">Hybrid Arts brings artists and experts from different fields together to address real-world challenges in new ways.</p>
+
+  <div class="cols">
+    <section style="--col: var(--c-consulting)">
+      <h2>Consulting</h2>
+      <a href="/consulting"><img src="/images/srg2837-crop.jpg" alt="Creative collaboration session" /></a>
+      <p>Strategy, coaching, curating and program development for artists, organizations and museums working across sectors. <a href="/consulting">More →</a></p>
+      <blockquote>
+        Boris excels at developing strategies that are both globally informed and locally relevant.
+        <cite>— India Pierce Lee, Cuyahoga Community College</cite>
+      </blockquote>
+    </section>
+
+    <section style="--col: var(--c-blog)">
+      <h2>From the blog</h2>
+      {posts.map((p) => (
+        <a class="post" href={`/blog/${p.id}`}>
+          {p.data.cover && <img src={p.data.cover} alt="" />}
+          <span>
+            <em>{fmt(p.data.date)}</em>
+            {p.data.title}
+          </span>
+        </a>
+      ))}
+      <p><a href="/blog">All posts →</a></p>
+    </section>
+
+    <section style="--col: var(--c-music)">
+      <h2>Art &amp; music</h2>
+      <a href="/music"><img src="/images/srg0900.jpg" alt="Performance" /></a>
+      <p><a href="/music">Voices: translations of Paul Celan in dub</a> — new album and live performance.</p>
+      <a href="/art"><img src="/images/srg1679.jpg" alt="Art project" /></a>
+      <p><a href="/art">Archive of art projects →</a></p>
+    </section>
+  </div>
+</Base>
+
+<style>
+  .switcher { font-size: 14px; color: var(--muted); margin: 16px 0 0; }
+  .mission-b { font-size: clamp(20px, 2.6vw, 30px); font-weight: 600; letter-spacing: -0.015em; max-width: 40ch; line-height: 1.25; margin: 28px 0 8px; }
+  .cols { display: grid; grid-template-columns: repeat(3, 1fr); gap: 32px; margin-top: 24px; }
+  .cols h2 { font-size: 15px; font-weight: 600; color: var(--col); border-bottom: 1px solid var(--rule); padding-bottom: 8px; margin: 0 0 14px; }
+  .cols img { width: 100%; aspect-ratio: 4/3; object-fit: cover; display: block; }
+  .cols p { font-size: 15px; margin: 10px 0 18px; }
+  .cols a { color: inherit; }
+  .cols p a, .cols blockquote { color: var(--col); }
+  .cols blockquote { border-left: 3px solid var(--col); margin: 0; padding-left: 12px; font-size: 14px; font-style: italic; color: var(--ink); }
+  .cols cite { display: block; font-style: normal; color: var(--muted); font-size: 13px; margin-top: 6px; }
+  .post { display: flex; gap: 10px; text-decoration: none; margin-bottom: 14px; }
+  .post img { width: 72px; height: 54px; aspect-ratio: auto; object-fit: cover; flex: none; }
+  .post span { font-size: 14px; line-height: 1.35; }
+  .post em { display: block; font-style: normal; font-size: 12px; color: var(--muted); }
+  .post:hover span { color: var(--col); }
+  @media (max-width: 700px) { .cols { grid-template-columns: 1fr; } }
+</style>

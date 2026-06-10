@@ -1,0 +1,34 @@
+---
+import Base from '../layouts/Base.astro';
+const doors = [
+  { href: '/art', label: 'Art', img: '/images/srg1679.jpg', c: 'var(--c-art)' },
+  { href: '/music', label: 'Music', img: '/images/srg0900.jpg', c: 'var(--c-music)' },
+  { href: '/consulting', label: 'Consulting', img: '/images/srg2837-crop.jpg', c: 'var(--c-consulting)' },
+  { href: '/blog', label: 'Blog', img: '/images/irwin-naked-by-larry-bell.jpg', c: 'var(--c-blog)' },
+];
+---
+<Base title="Design A — image doors">
+  <p class="switcher">Design demo: <strong>A</strong> · <a href="/design-b">B</a> · <a href="/design-c">C</a> · <a href="/">current</a></p>
+  <p class="mission-a">Hybrid Arts brings artists and experts from different fields together to address real-world challenges in new ways.</p>
+  <div class="doors-a">
+    {doors.map((d) => (
+      <a href={d.href} style={`--door:${d.c}`}>
+        <div class="ph" style={`background-image:url('${d.img}')`}></div>
+        <span>{d.label}</span>
+      </a>
+    ))}
+  </div>
+</Base>
+
+<style>
+  .switcher { font-size: 14px; color: var(--muted); margin: 16px 0 0; }
+  .mission-a { font-size: clamp(18px, 2.2vw, 24px); max-width: 34ch; line-height: 1.3; margin: 24px 0; }
+  .doors-a { display: grid; grid-template-columns: repeat(4, 1fr); gap: 6px; height: calc(100vh - 270px); min-height: 420px; }
+  .doors-a a { position: relative; display: flex; align-items: flex-end; text-decoration: none; overflow: hidden; }
+  .doors-a .ph { position: absolute; inset: 0; background-size: cover; background-position: center; transition: transform .25s ease, filter .25s ease; }
+  .doors-a a:hover .ph { transform: scale(1.03); filter: grayscale(1) contrast(1.05); }
+  .doors-a a::after { content: ''; position: absolute; inset: 0; background: var(--door); opacity: 0; mix-blend-mode: multiply; transition: opacity .25s ease; }
+  .doors-a a:hover::after { opacity: .55; }
+  .doors-a span { position: relative; z-index: 1; background: var(--door); color: var(--bg); font-size: clamp(20px, 2.6vw, 34px); font-weight: 650; letter-spacing: -0.02em; padding: 6px 14px; margin: 14px; }
+  @media (max-width: 700px) { .doors-a { grid-template-columns: 1fr 1fr; height: auto; } .doors-a a { aspect-ratio: 3/4; } }
+</style>
