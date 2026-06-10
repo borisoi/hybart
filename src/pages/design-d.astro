@@ -21,8 +21,8 @@ const accents = ['var(--c-art)', 'var(--c-music)', 'var(--c-consulting)', 'var(-
   <link rel="icon" href="/favicon.svg" type="image/svg+xml" />
 </head>
 <body class="d-body">
-  <button id="menu-open" class="menu-btn" aria-label="Open menu">
-    <img src="/images/r-rosette.png" alt="" />
+  <button id="menu-toggle" class="menu-btn" aria-label="Menu" aria-expanded="false">
+    <img src="/images/menu-rosette.png" alt="" />
   </button>
 
   <main class="tiles">
@@ -35,7 +35,6 @@ const accents = ['var(--c-art)', 'var(--c-music)', 'var(--c-consulting)', 'var(-
   </main>
 
   <div id="overlay" class="overlay" hidden>
-    <button id="menu-close" class="menu-btn close" aria-label="Close menu">×</button>
     <nav>
       {nav.map(([label, href], i) => (
         <a href={href} style={`--door:${accents[i]}`}>{label}</a>
@@ -68,8 +67,7 @@ const accents = ['var(--c-art)', 'var(--c-music)', 'var(--c-consulting)', 'var(-
   }
   .menu-btn img { width: 100%; height: auto; transition: transform .5s ease; }
   .menu-btn:hover img { transform: rotate(36deg); }
-  .menu-btn.close { font-size: 34px; font-weight: 400; color: var(--ink); line-height: 1; }
-  .menu-btn.close:hover { background: var(--ink); color: var(--bg); }
+  .menu-btn[aria-expanded="true"] img { transform: rotate(90deg); }
   .overlay {
     position: fixed; inset: 0; z-index: 10; background: var(--bg);
     display: flex; align-items: center; justify-content: center;
@@ -90,9 +88,14 @@ const accents = ['var(--c-art)', 'var(--c-music)', 'var(--c-consulting)', 'var(-
 
 <script>
   const overlay = document.getElementById('overlay');
-  document.getElementById('menu-open').addEventListener('click', () => overlay.removeAttribute('hidden'));
-  document.getElementById('menu-close').addEventListener('click', () => overlay.setAttribute('hidden', ''));
-  document.addEventListener('keydown', (e) => { if (e.key === 'Escape') overlay.setAttribute('hidden', ''); });
+  const toggle = document.getElementById('menu-toggle');
+  function setMenu(open) {
+    if (open) overlay.removeAttribute('hidden'); else overlay.setAttribute('hidden', '');
+    toggle.setAttribute('aria-expanded', String(open));
+  }
+  toggle.addEventListener('click', () => setMenu(overlay.hasAttribute('hidden')));
+  overlay.addEventListener('click', (e) => { if (e.target === overlay) setMenu(false); });
+  document.addEventListener('keydown', (e) => { if (e.key === 'Escape') setMenu(false); });
 </script>
 </body>
 </html>
