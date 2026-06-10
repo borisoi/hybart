@@ -4,7 +4,7 @@ const doors = [
   { href: '/art', label: 'Art', img: '/images/srg1679.jpg', c: 'var(--c-art)' },
   { href: '/music', label: 'Music', img: '/images/srg2620-medres.jpg', c: 'var(--c-music)' },
   { href: '/consulting', label: 'Consulting', img: '/images/srg0974.jpg', c: 'var(--c-consulting)' },
-  { href: '/blog', label: 'Blog', img: '/images/6t6a9095.jpeg', c: 'var(--c-blog)' },
+  { href: '/blog', label: 'Blog', img: '/images/screenshot-2025-09-09-at-7-56-15-am.jpg', c: 'var(--c-blog)' },
 ];
 const nav = [
   ['Art', '/art'], ['Music', '/music'], ['Consulting', '/consulting'],
@@ -22,7 +22,9 @@ const accents = ['var(--c-art)', 'var(--c-music)', 'var(--c-consulting)', 'var(-
 </head>
 <body class="d-body">
   <button id="menu-toggle" class="menu-btn" aria-label="Menu" aria-expanded="false">
-    <img src="/images/menu-rosette.png" alt="" />
+    <span class="dot" style="background:#00AEEF"><img src="/images/rosette-red.png" alt="" /></span>
+    <span class="dot" style="background:#EC008C"><img src="/images/rosette-green.png" alt="" /></span>
+    <span class="dot" style="background:#FFD400"><img src="/images/rosette-blue.png" alt="" /></span>
   </button>
 
   <main class="tiles">
@@ -61,13 +63,17 @@ const accents = ['var(--c-art)', 'var(--c-music)', 'var(--c-consulting)', 'var(-
     padding: 18px 28px;
   }
   .menu-btn {
-    position: fixed; top: 18px; right: 18px; z-index: 20;
-    cursor: pointer; background: var(--bg); border: none; border-radius: 999px;
-    width: 64px; height: 64px; padding: 6px; display: flex; align-items: center; justify-content: center;
+    position: fixed; top: 20px; right: 20px; z-index: 20;
+    cursor: pointer; background: none; border: none; padding: 0;
+    display: flex; gap: 10px;
   }
-  .menu-btn img { width: 100%; height: auto; transition: transform .5s ease; }
-  .menu-btn:hover img { transform: rotate(36deg); }
-  .menu-btn[aria-expanded="true"] img { transform: rotate(90deg); }
+  .dot {
+    width: 54px; height: 54px; border-radius: 50%;
+    display: flex; align-items: center; justify-content: center;
+  }
+  .dot img { width: 82%; height: auto; transition: transform .6s ease; }
+  .menu-btn:hover .dot img { transform: rotate(120deg); }
+  .menu-btn[aria-expanded="true"] .dot img { transform: rotate(240deg); }
   .overlay {
     position: fixed; inset: 0; z-index: 10; background: var(--bg);
     display: flex; align-items: center; justify-content: center;
