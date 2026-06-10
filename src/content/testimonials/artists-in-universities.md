@@ -1,7 +1,7 @@
 ---
 title: Artists in Universities
 person: Gudrun Lock and Paige Novak
-role: "Gudrun Lock, Artist; Prof. Paige Novak, Department Head and Chair in Environmental Engineering, University of Minnesota"
+role: "Artist; and Department Head and Chair in Environmental Engineering, University of Minnesota"
 date: 2019-03-11
 tags: [artists, organizations]
 oldSlug: /testimonials/gudrun-page

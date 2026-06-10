@@ -1,7 +1,7 @@
 ---
 title: Creativity and Mental Health
 person: Yuko Taniguchi and Kathryn Cullen
-role: "Yuko Taniguchi, Poet, Assistant Professor, Medicine and Arts, University of Minnesota; Prof. Kathryn Cullen, Division Director, Child and Adolescent Mental Health, University of Minnesota"
+role: "Poet, Assistant Professor of Medicine and Arts; and Division Director, Child and Adolescent Mental Health — University of Minnesota"
 date: 2024-09-08
 tags: [organizations, museums]
 oldSlug: /testimonials/yuko-katie
