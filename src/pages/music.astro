@@ -1,0 +1,39 @@
+---
+import Base from '../layouts/Base.astro';
+const bc = (kind: string, id: string) =>
+  `https://bandcamp.com/EmbeddedPlayer/${kind}=${id}/size=large/bgcol=faf9f5/linkcol=2f5be8/artwork=large/transparent=true/`;
+---
+<Base title="Music" accent="var(--c-music)">
+  <h1>Music</h1>
+
+  <h2>Voices: Translations of Paul Celan in Dub</h2>
+  <iframe title="Voices — Bandcamp player" src={bc('album', '513859743')} seamless style="width: 350px; height: 470px;" loading="lazy"></iframe>
+
+  <div class="prose">
+    <p>This album starts with the voice of Paul Celan: a Romanian-born Jew who survived the Holocaust to become one of the most important poets of the 20th century. His poetry is broken, halting and stuttering, yet his recitation of it is strangely rhythmic, almost metronomic.</p>
+    <p>I sampled Celan's reading of the poem Voices from the record released five years after his suicide, in 1975, and translated its cadence into rhythmic patterns with a method borrowed from the drummer Jaki Liebezeit: dots (one strike) and dashes (two strikes), like morse code. What Celan does with breath and pauses becomes the skeleton of each composition. Voice, therefore, is not only the title of the poem and record: it's subject, source, and compositional method.</p>
+    <p>The sound draws heavily from dub music: voice buried in reverb, heavy bass, effects that send words trailing off into space. But it wanders into darker, stranger territory: odd time signatures, drones, long stretches of texture and monotonous rhythms that sit between meditative and unsettling.</p>
+    <p>Celan didn't see his creations as complete; every reading of a poem leads back to its origin as much as forward into the open. This is also the ethos of dub: a recording is never finished, only versioned. Producers-artists strip tracks down, rebuild them, pass riddims between studios. What Celan did with breath and recitation, dub does with tape and reverb: treating the source not as a fixed artifact but living material.</p>
+    <p>Celan never mentioned the Holocaust in his poems. The catastrophe is always present, but unnamed. For someone who never lived in Germany, he also made a radical creative choice: to write in the language of his family's murderers. Not forgiveness, but a refusal to let a culture be reduced to its worst actors. In a time when we're pressed to pick sides and sort the world into us and them, his choice carries weight.</p>
+    <p>Dub felt like the right vessel: music that transforms without erasing. Words dissolve, echo, disappear into rhythm. But never quite vanish.</p>
+  </div>
+
+  <iframe class="video" title="Voices — live at Fusebox, Cincinnati, June 2026" src="https://player.vimeo.com/video/1199891625" allowfullscreen loading="lazy"></iframe>
+  <p style="color: var(--muted); font-size: 15px; margin-top: -24px;">Performance of the live adaptation of the Voices at Fusebox, Cincinnati, June 2026</p>
+
+  <h2>Liebezeit studies</h2>
+  <div class="embed-grid">
+    <iframe title="Bandcamp track 5/4" src={bc('track', '224440595')} seamless style="height: 470px;" loading="lazy"></iframe>
+    <iframe title="Bandcamp track 4/1" src={bc('track', '2453362657')} seamless style="height: 470px;" loading="lazy"></iframe>
+    <iframe title="Bandcamp track 3/3" src={bc('track', '775288227')} seamless style="height: 470px;" loading="lazy"></iframe>
+    <iframe title="Bandcamp track 9/1" src={bc('track', '481475439')} seamless style="height: 470px;" loading="lazy"></iframe>
+    <iframe title="Bandcamp album 1" src={bc('album', '1909097479')} seamless style="height: 470px;" loading="lazy"></iframe>
+  </div>
+
+  <div class="prose">
+    <p>These projects explore Jaki Liebezeit's rhythmic language as a framework for electronic composition. Liebezeit, former drummer for Can, reduced rhythm to its fundamentals: dots and dashes, single strikes and doubles, arranged in looping patterns. The method strips away conventional meter in favor of more fluid cyclical structures.</p>
+    <p>I applied his system to a set of hardware: three Moog DFAMs running interlocking patterns, a Subharmonicon generating polyrhythmic harmonic sequences and drones, a Labyrinth for another layer of rhythms, and a SOMA Lyra-8 for drones, texture and noise. The DFAMs in particular suited the method: running three of those simultaneously creates phase relationships.</p>
+    <p>Rhythmic cells built from dot-dash sequences became the scaffolding; the machines filled in harmony and timbre. The constraint proved generative, as limiting rhythmic vocabulary opened other possibilities for music that is repetitive but unstable, mechanical but breathing.</p>
+    <p><a href="https://againstinterpretation.bandcamp.com/">Against Interpretation on Bandcamp →</a></p>
+  </div>
+</Base>

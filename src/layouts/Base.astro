@@ -1,0 +1,61 @@
+---
+import '../styles/global.css';
+interface Props {
+  title: string;
+  description?: string;
+  accent?: string; // css color for --accent on this page
+}
+const { title, description, accent } = Astro.props;
+const path = Astro.url.pathname;
+const nav = [
+  ['Art', '/art'],
+  ['Music', '/music'],
+  ['Consulting', '/consulting'],
+  ['About', '/about'],
+  ['FAQ', '/faq'],
+  ['Contact', '/contact'],
+  ['Blog', '/blog'],
+];
+const year = new Date().getFullYear();
+---
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>{title === 'Hybrid Arts' ? title : `${title} — Hybrid Arts`}</title>
+  {description && <meta name="description" content={description} />}
+  <link rel="icon" href="/favicon.svg" type="image/svg+xml" />
+</head>
+<body style={accent ? `--accent: ${accent}` : undefined}>
+  <header class="site">
+    <a class="mark" href="/">Hybrid Arts</a>
+    <nav>
+      {nav.map(([label, href]) => (
+        <a href={href} aria-current={path === href || path.startsWith(href + '/') ? 'page' : undefined}>{label}</a>
+      ))}
+    </nav>
+  </header>
+
+  <main>
+    <slot />
+  </main>
+
+  <footer class="site">
+    <div>
+      <a href="/contact">Contact</a><br />
+      © {year} Hybrid Arts · Boris Oicherman
+    </div>
+    <div class="newsletter">
+      <!-- TODO: replace BUTTONDOWN_USERNAME after creating the Buttondown account -->
+      <form action="https://buttondown.com/api/emails/embed-subscribe/BUTTONDOWN_USERNAME" method="post" target="_blank">
+        <label for="bd-email">Hybrid Arts newsletter — fresh posts, no more than twice a month</label>
+        <div class="row">
+          <input type="email" name="email" id="bd-email" placeholder="Email address" required />
+          <button type="submit">Sign up</button>
+        </div>
+      </form>
+    </div>
+  </footer>
+</body>
+</html>
