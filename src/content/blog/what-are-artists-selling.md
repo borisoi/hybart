@@ -3,11 +3,11 @@ title: "What Are Artists  Selling? Investing in Hybrid Arts, pt. III: Demand / M
 date: 2024-10-06
 oldSlug: /blog/4
 slug: what-are-artists-selling
-cover: https://images.squarespace-cdn.com/content/v1/66913afa4988280c039abac6/1723663165556-4UFV5WS32EQNA9HNO3DZ/_SRG5269+Med+Size.jpg
+cover: /images/srg5269-med-size.jpg
 excerpt: "Revisiting the report “Investing in Creativity” through the lens of Hybrid Arts: Demand/Markets"
 ---
 
-![](https://images.squarespace-cdn.com/content/v1/66913afa4988280c039abac6/1723663165556-4UFV5WS32EQNA9HNO3DZ/_SRG5269+Med+Size.jpg?format=original)
+![](/images/srg5269-med-size.jpg)
 
 *Image: Participants in the* [*Habitability Workshop*](https://wam.umn.edu/habitability-project-public-conversation)*. Grass artwork by the architecture collective* [*Interesting Tactics*](https://www.interestingtactics.com/)*. Weisman Art Museum, Minneapolis, MN, 2019*
 
@@ -36,7 +36,7 @@ excerpt: "Revisiting the report “Investing in Creativity” through the lens o
 
 8 minute read
 
-![](https://images.squarespace-cdn.com/content/v1/66913afa4988280c039abac6/a85a4136-1afd-4d15-bbbd-ac55cc02a3de/T+Rosette+6.png?format=original)
+![](/images/t-rosette-6.png)
 
 *Just as we should view art not as an accumulation of so-called art objects, but as a way of approaching knowledge, we should also view knowledge not as an accumulation of data, but as a flexible mechanism for reorganizing reality.*   
 Luis Camnitzer, [An Artist, a Leader, and a Dean Were on a Boat](https://www.e-flux.com/journal/55/60319/an-artist-a-leader-and-a-dean-were-on-a-boat/)…
@@ -66,7 +66,7 @@ The IiC report proposes differentiating markets in two ways that better correspo
 
 The choices are not binary, rather representing a 2D continuum. Many artists engage with multiple types of art markets throughout their careers, often at the same time: they may sell work AND teach AND engage with communities AND collaborate with non-art professionals.
 
-![  Artists markets diagram  ](https://images.squarespace-cdn.com/content/v1/66913afa4988280c039abac6/f1d721d5-5469-49b5-af3f-d2200e676180/Art+Market+2D+space.png?format=original)
+![  Artists markets diagram  ](/images/art-market-2d-space.png)
 
 *Artists market diagram*
 
@@ -74,7 +74,7 @@ The discussion of hybrid arts markets occupies a significant portion of IiC and 
 
 This promise has remained largely unfulfilled more than two decades since the report's publication. To understand this stagnation, we might ask: what is, exactly, being promised by the hybrid arts markets?
 
-![](https://images.squarespace-cdn.com/content/v1/66913afa4988280c039abac6/af852ee5-b3e2-4386-8712-1e508d6cfd9d/T+Rosette+2.png?format=original)
+![](/images/t-rosette-2.png)
 
 #### What Hybrid Artists Are Selling?
 
@@ -96,7 +96,7 @@ This choice of language is crucial because it determines what kind of knowledge 
 
 My point in this theoretical digression is:
 
-![](https://images.squarespace-cdn.com/content/v1/66913afa4988280c039abac6/bbeb3144-78e8-4a2b-b00a-d8884e424075/T+Rosette+3.png?format=original)
+![](/images/t-rosette-3.png)
 
 #### Artists Are Professionals of Culture.
 
@@ -106,7 +106,7 @@ It is these sensibilities, knowledge, and skills that they are "selling" when th
 
 I am intentionally not attempting to identify what these skills and sensibilities are - that is a topic for another discussion, and a rather long one. I can, however, suggest what they can be used for, or: what organizations collaborating with artists are paying for. They pay artists for performing culture: for the labor of imagining their future in the wider cultural context of society.
 
-![](https://images.squarespace-cdn.com/content/v1/66913afa4988280c039abac6/699c3da5-6e69-457d-ad47-5e2630f5126e/T+Rosette+4.png?format=original)
+![](/images/t-rosette-4.png)
 
 #### The Failure of Hybrid Arts Markets
 
@@ -132,7 +132,7 @@ What stands in the way, I believe, is not simply a lack of knowledge, communicat
 
 It's the same culture that appreciates art but not artists, and confines culture to the “cultural sector”, that is responsible for our society's insistence on measuring artists' worth by the monetary value of their products, while failing to place value on artists' sensibilities, expertise, and skills.
 
-![](https://images.squarespace-cdn.com/content/v1/66913afa4988280c039abac6/f58dfc3a-7379-4ffa-ba3c-ca9bfe8792e8/T+Rosette+5.png?format=original)
+![](/images/t-rosette-5.png)
 
 #### Consulting Artists
 
@@ -148,7 +148,7 @@ Note the term "employ" – not "commission" or "host".
 
 A key feature of operational hybrid arts markets ought to be a reimagined way of engaging artists, where short-term, non-committal residencies and last-minute commissions give way to intentional learning, strategic administrative infrastructure, long-term contracts and employment. Those cultural determinants of health will not be addressed by a 1-month residency culminating with an exhibition, but by long-term process in which artists will be working alongside social workers, MDs, administrators, nurses, and many others.
 
-![](https://images.squarespace-cdn.com/content/v1/66913afa4988280c039abac6/a85a4136-1afd-4d15-bbbd-ac55cc02a3de/T+Rosette+6.png?format=original)
+![](/images/t-rosette-6.png)
 
 #### From Art to Artists
 

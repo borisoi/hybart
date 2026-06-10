@@ -6,7 +6,7 @@ personLink: https://wafaabilal.com/
 date: 2019-03-11
 tags: [artists, organizations, museums]
 oldSlug: /testimonials/wafaa
-image: https://images.squarespace-cdn.com/content/v1/66913afa4988280c039abac6/bd8bd000-010c-4c3b-987c-87a7db1693f3/Wafaa+Bilal.jpg
+image: /images/wafaa-bilal.jpg
 excerpt: What truly sets Boris apart is his innovative approach to transforming an artistic vision into a tangible, multifaceted project.
 ---
 

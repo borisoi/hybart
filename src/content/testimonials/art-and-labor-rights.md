@@ -6,7 +6,7 @@ personLink: https://monicasheets.com/
 date: 2024-10-07
 tags: [artists, museums]
 oldSlug: /testimonials/monica-sheets
-image: https://images.squarespace-cdn.com/content/v1/66913afa4988280c039abac6/b9d70b63-f975-4c16-8c0e-ece6ccea733f/Monica+Sheets.jpg
+image: /images/monica-sheets.jpg
 excerpt: Boris recognizes that collaborative processes, especially those involving artists, need space to develop organically in their own time and manner.
 ---
 

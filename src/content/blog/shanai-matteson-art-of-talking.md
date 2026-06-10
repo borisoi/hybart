@@ -3,11 +3,11 @@ title: "The Art of Talking to Each Other: Interview with Shanai Matteson"
 date: 2024-12-13
 oldSlug: /blog/7
 slug: shanai-matteson-art-of-talking
-cover: https://images.squarespace-cdn.com/content/v1/66913afa4988280c039abac6/1733924170103-488Z3N9YBFWZFNK69JT7/Shanai_Bio_2024.jpg
+cover: /images/shanai-bio-2024.jpg
 excerpt: "Our work for recognition and justice will have more impact if it grows from real relationships, rather than ideological position.&nbsp;"
 ---
 
-![](https://images.squarespace-cdn.com/content/v1/66913afa4988280c039abac6/1733924170103-488Z3N9YBFWZFNK69JT7/Shanai_Bio_2024.jpg?format=original)
+![](/images/shanai-bio-2024.jpg)
 
 - #### About Shanai Matteson
 
@@ -26,7 +26,7 @@ excerpt: "Our work for recognition and justice will have more impact if it grows
 
 20 minute read
 
-![](https://images.squarespace-cdn.com/content/v1/66913afa4988280c039abac6/defded05-bf29-45bb-90ff-b2e36458367e/R2+Rosette+6.png?format=original)
+![](/images/r2-rosette-6.png)
 
 *Our work for recognition and justice will have more impact if it grows from relationships, rather than ideological positions.*
 
@@ -40,12 +40,12 @@ excerpt: "Our work for recognition and justice will have more impact if it grows
 
 In my visual art, I work with materials of place and environment. For example, I gather earth from mine sites and use it to dye fabrics, creating prints that tell stories about land and industry. I also build installations like my mobile overlook project - it's a sculpture I pull on a trailer that has viewfinders where people can look at mines while we have conversations about place and community. I invite local people as tour guides for these conversations, making it a collaborative experience.
 
-![](https://images.squarespace-cdn.com/content/v1/66913afa4988280c039abac6/1734006294774-JUVQHTUITL08JJO245O0/Dying+Fabrics+copy+2.jpg?format=original)
-![](https://images.squarespace-cdn.com/content/v1/66913afa4988280c039abac6/1734006295054-BPSCBEAXPIG813GY9PCV/Dying+Fabrics.jpg?format=original)
-![](https://images.squarespace-cdn.com/content/v1/66913afa4988280c039abac6/1734005912476-OCHZC3L8NE5Q4J5TQN8T/4.jpg?format=original)
-![](https://images.squarespace-cdn.com/content/v1/66913afa4988280c039abac6/1734005888075-SEW5NX0RNPIXYJ4KG5W3/Mine+Not+Mine.png?format=original)
-![](https://images.squarespace-cdn.com/content/v1/66913afa4988280c039abac6/1734006793065-KN5UIEZLQ3NC57JPYKYZ/overlook4.jpg?format=original)
-![](https://images.squarespace-cdn.com/content/v1/66913afa4988280c039abac6/1734009243958-PKBZV6GHTXN4DI23BMIX/IMG_7380.jpeg?format=original)
+![](/images/dying-fabrics-copy-2.jpg)
+![](/images/dying-fabrics.jpg)
+![](/images/4.jpg)
+![](/images/mine-not-mine.jpg)
+![](/images/overlook4.jpg)
+![](/images/img-7380.jpeg)
 
 Lately my writing has become integrated with my organizing work. I write to process what's happening in our communities and to share stories that help people recognize each other. When I do workshops or events, the writing and artmaking often become vehicles for deeper conversations - like when I did textile printing workshops with mine waste dye, women started sharing stories about their families' connections to the mining industry and the land. I wrote an [essay](https://mnartists.walkerart.org/red-dirt-girls) about it.
 
@@ -53,7 +53,7 @@ I'm currently focused on an initiative that I'm developing with [Annie Humphrey]
 
 Everything I do - the art, the writing, the organizing - it's all about creating spaces where people can see each other and develop a sense of their own power through relationships and creative expression. That's how cultural organizing begins for me.
 
-![](https://images.squarespace-cdn.com/content/v1/66913afa4988280c039abac6/301413a9-698d-4668-85a3-07842ec90ae5/R2+Rosette+1.png?format=original)
+![](/images/r2-rosette-1.png)
 
 #### Collaboration
 
@@ -65,9 +65,9 @@ Over the years, I've worked a lot with academic institutions and scientists. Cur
 
 In my earlier project, Water Bar, we convened conversation around serving water over the bartop. We worked with scientists, policymakers, environmental justice organizers and other artists, helping them become more aware of their cultural context and find ways to engage with communities that aren't exploitative or extractive. For example, we created situations where scientists could connect with artists and cultural organizers, sharing water, food and stories to recognize each other as people rather than just in their professional roles.
 
-![](https://images.squarespace-cdn.com/content/v1/66913afa4988280c039abac6/1734006878420-354HI40A6A20LBFACKUK/IMG_5013.JPG?format=original)
-![](https://images.squarespace-cdn.com/content/v1/66913afa4988280c039abac6/1734006901165-DA5CKRWC4UG1Q6KJQ0QB/IMG_4957.JPG?format=original)
-![](https://images.squarespace-cdn.com/content/v1/66913afa4988280c039abac6/1734006857954-12MC3ALJE2ML9ULHS3VN/IMG_9274.jpeg?format=original)
+![](/images/img-5013.jpg)
+![](/images/img-4957.jpg)
+![](/images/img-9274.jpeg)
 
 But my most significant collaborations happen in the rural community where I grew up. I'm not engaging there as an artist - though that's a skill I bring and people know that. I'm engaging because of my relationship to the place. This allows me to build bridges between different groups who might not usually interact.
 
@@ -85,9 +85,9 @@ Some of the participants were statewide environmental organizers who typically a
 
 Where I see things fail is often in partnership with institutions.  I rarely work completely independently, there's often a bigger goal or somebody directing  a larger project - and things fail when top-down institutional mindsets take over. When the need for specific outcomes or visibility or fundraising goals become more important than the relationships we're building, that's when things go wrong.
 
-![](https://images.squarespace-cdn.com/content/v1/66913afa4988280c039abac6/1734009420759-RGZIGTGQAN8ONNH2GTF2/IMG_5847.jpg?format=original)
-![](https://images.squarespace-cdn.com/content/v1/66913afa4988280c039abac6/1734006843971-6T36NCRNA7WU8G0JS7W2/Water%2BBar%2BStorefront.jpg?format=original)
-![](https://images.squarespace-cdn.com/content/v1/66913afa4988280c039abac6/1734009354517-T0ZBC3EC8Q6QC851NE8C/IMG_5507.JPG?format=original)
+![](/images/img-5847.jpg)
+![](/images/water-bar-storefront.jpg)
+![](/images/img-5507.jpg)
 
 For example, with a non-profit I workedfor briefly, I went from being an independent artist-organizer to working on a campaign they were developing in my community. Initially the leadership seemed aligned with the vision of cultural organizing to build relationships and community power. But it became clear with time that they were more interested in extracting community stories to raise their own profile as an organization, and it became impossible for me to do the work I needed to do.
 
@@ -95,7 +95,7 @@ A lot of nonprofits seem to have lost sight of the importance of local relations
 
 Sometimes these failures happen because I underestimate how powerful institutional forces can be, or I overestimate my ability to serve as a mediator and buffer between institutional demands and community needs. But even these failures are valuable, they help me understand how to better navigate partnerships while staying true to the relational core of the work.
 
-![](https://images.squarespace-cdn.com/content/v1/66913afa4988280c039abac6/edeb0f1d-0f1a-4ebd-9a97-6d9e245f005b/R2+Rosette+2.png?format=original)
+![](/images/r2-rosette-2.png)
 
 #### Line 3
 
@@ -113,14 +113,14 @@ The role of art in this was interesting because I presented myself as an artist 
 
 Looking back, it was a crash course in movement dynamics, and I was way out of my depth. But at the same time, as an artist and organizer, I was doing some of the most authentic work I've ever done.
 
-![](https://images.squarespace-cdn.com/content/v1/66913afa4988280c039abac6/1734366076558-1GI8J083GYZXWSBVRK75/Stop+Line+3.jpg?format=original)
-![](https://images.squarespace-cdn.com/content/v1/66913afa4988280c039abac6/1734366089101-IHGQ3UHE5QAEQO77WIIW/73D07AA0-21AD-441A-A983-404E6CFA1A49.jpg?format=original)
-![](https://images.squarespace-cdn.com/content/v1/66913afa4988280c039abac6/1734366093298-C1349DX6A3UW99G1X7XF/A9CF752A-657A-4677-A953-9B59543A6C0D.jpg?format=original)
-![](https://images.squarespace-cdn.com/content/v1/66913afa4988280c039abac6/1734366098820-PJKGGNXRG9KC278DZ6E6/IMG_0060.jpeg?format=original)
-![](https://images.squarespace-cdn.com/content/v1/66913afa4988280c039abac6/1734366129025-ZA0DOKGSJ8FXQAIZ1N70/IMG_0074.jpeg?format=original)
-![](https://images.squarespace-cdn.com/content/v1/66913afa4988280c039abac6/1734366129755-IE4SSQTJ927IZKHAIELF/IMG_1317.jpeg?format=original)
-![](https://images.squarespace-cdn.com/content/v1/66913afa4988280c039abac6/1734366137491-534YA78JH8W2N9I8QGY5/IMG_1331.jpeg?format=original)
-![](https://images.squarespace-cdn.com/content/v1/66913afa4988280c039abac6/1734366138666-75OKMGW5WSALBBYXIMKN/IMG_1337.jpeg?format=original)
+![](/images/stop-line-3.jpg)
+![](/images/73d07aa0-21ad-441a-a983-404e6cfa1a49.jpg)
+![](/images/a9cf752a-657a-4677-a953-9b59543a6c0d.jpg)
+![](/images/img-0060.jpeg)
+![](/images/img-0074.jpeg)
+![](/images/img-1317.jpeg)
+![](/images/img-1331.jpeg)
+![](/images/img-1337.jpeg)
 
 **BO**: *Did Line 3 effort feel like a failure?*
 
@@ -132,7 +132,7 @@ While I don't dwell on 'we didn't stop it,' I do think that failure had profound
 
 As one elder said to me last summer, as we were sitting around a fire - these are the kinds of heartbreaks you never really get over.
 
-![](https://images.squarespace-cdn.com/content/v1/66913afa4988280c039abac6/f7914d51-9f39-4a8c-84cc-e62bb4f4a024/R2+Rosette+4.png?format=original)
+![](/images/r2-rosette-4.png)
 
 #### Local Cultural Organizing
 
@@ -140,10 +140,10 @@ As one elder said to me last summer, as we were sitting around a fire - these ar
 
 **SM:** I recently discovered something fascinating about my family's connection to this region. My grandfather came from the Lika River Valley in Croatia. It's a harsh region, cut off from the sea by mountains, with rocky soil. Turns out that mining companies in the States recruited men from that region to come work in the mines in Minnesota, Michigan and Pennsylvania. My grandfather’s family was one of them - him, and his brothers.
 
-![](https://images.squarespace-cdn.com/content/v1/66913afa4988280c039abac6/1734366277209-6K66C9QTR5OYAZIU0GFK/Croatia+trip+1.JPG?format=original)
-![](https://images.squarespace-cdn.com/content/v1/66913afa4988280c039abac6/1734366265044-ALNL1SUKXFCO9DVXW5SX/8F7F8380-F439-4432-A070-515270CFF22D_1_201_a.jpeg?format=original)
-![](https://images.squarespace-cdn.com/content/v1/66913afa4988280c039abac6/1734366258536-M1AYWDDCHJYA6A5AJ937/9DE4004B-67D3-4AFA-94C4-E20B2005A97B_1_105_c.jpeg?format=original)
-![](https://images.squarespace-cdn.com/content/v1/66913afa4988280c039abac6/1734366271339-B8HRM5KPNFRHJQ5W1MA4/Croatia+2.JPG?format=original)
+![](/images/croatia-trip-1.jpg)
+![](/images/8f7f8380-f439-4432-a070-515270cff22d-1-201-a.jpeg)
+![](/images/9de4004b-67d3-4afa-94c4-e20b2005a97b-1-105-c.jpeg)
+![](/images/croatia-2.jpg)
 
 Some of these men were actually recruited as strikebreakers—"scabs"—when workers had organized labor strikes to improve conditions in the mines. The companies needed cheap labor, and they turned to places like Lika. Many of these men would send money back home - the region was sustained for some time by remittances from America. Some men, like my friend's grandfather, left their families behind entirely and started new families here.
 
@@ -161,10 +161,10 @@ In fact, many people live here because they want to be left alone - that's their
 
 The traditional places where people used to connect are going away - fewer people go to church, there are fewer clubs and community spaces. This creates a real tension. That's why my organizing starts with personal connections - for example, that camp I described, it was part of our response to Rio Tinto's [nickel mine proposal](https://www.minnpost.com/community-voices/2024/04/the-whole-truth-about-talon-metals-and-rio-tinto/).
 
-![](https://images.squarespace-cdn.com/content/v1/66913afa4988280c039abac6/1734366536295-EAIA7TZUTJFDE184024T/IMG_4975.JPG?format=original)
-![](https://images.squarespace-cdn.com/content/v1/66913afa4988280c039abac6/1734366422637-WXDJVLPXXL5VOD5XAQUD/IMG_4948.JPG?format=original)
-![](https://images.squarespace-cdn.com/content/v1/66913afa4988280c039abac6/1734366399608-1MORS3QY1AN2R1BNC8W0/IMG_4969.JPG?format=original)
-![](https://images.squarespace-cdn.com/content/v1/66913afa4988280c039abac6/1734366499834-6FYJ01QO4NQVPXSS6081/IMG_5470.JPG?format=original)
+![](/images/img-4975.jpg)
+![](/images/img-4948.jpg)
+![](/images/img-4969.jpg)
+![](/images/img-5470.jpg)
 
 We have to deal with really complex dynamics. For example, I invited a local politician who's pro-industry, believing engagement with mining companies is inevitable, but he sat and listened to Indigenous people talk about wild rice harvest and what colonization has meant in our local context. It was uncomfortable, but it was real engagement with different perspectives that coexist in our community.
 
@@ -172,7 +172,7 @@ This is why traditional activist approaches often fail here. You can't just come
 
 That's what makes rural cultural organizing both challenging and essential - it's about building the relationships and understandings that make it possible for people to live together and face challenges together, even when they fundamentally disagree. Our work for recognition and justice will have more impact if it grows from relationships, rather than ideological positions.
 
-![](https://images.squarespace-cdn.com/content/v1/66913afa4988280c039abac6/94751598-2036-4ff2-95ea-9c37487db1bd/R2+Rosette+5.png?format=original)
+![](/images/r2-rosette-5.png)
 
 #### Funding and Support Infrastructure
 
@@ -180,9 +180,9 @@ That's what makes rural cultural organizing both challenging and essential - it'
 
 **SM:** I've had to design my own way of sustaining work, because I've found over time that I can't operate within a traditional organizational structure. So I've cobbled together various sources of support. I do artist residencies and fellowships, I write grants and participate in other people’s and organizations’ grants (like the [Long Term Ecological Research NSF grant](https://mspurbanlter.umn.edu/)). I also make and sell things on the side, like jewelry that I sell at farmers markets, though that's not much income.
 
-![](https://images.squarespace-cdn.com/content/v1/66913afa4988280c039abac6/1734366666673-42B2O2NMCOJGWL1SPQAP/Rio+Tinto+observation+1.jpeg?format=original)
-![](https://images.squarespace-cdn.com/content/v1/66913afa4988280c039abac6/1734366655375-RGZKBZTTRSBD26KMRGVV/Rio+Tinto+observation.jpeg?format=original)
-![](https://images.squarespace-cdn.com/content/v1/66913afa4988280c039abac6/1734366683272-6GKAN2RVYMTA2TELIE15/Students.jpg?format=original)
+![](/images/rio-tinto-observation-1.jpeg)
+![](/images/rio-tinto-observation.jpeg)
+![](/images/students.jpg)
 
 [Fire in the Village](https://www.fireinthevillage.org/) is partnered with the [MacRostie Art Center](https://macrostieartcenter.org/) in Grand Rapids, Minnesota. They're our fiscal sponsor and provide studio space. We're also developing relationships with big Minnesota and national foundations, but we're moving carefully. We want to build our work first and then decide what organizational form we should take, rather than rushing to become another 501(c)(3). We want to make sure the work is grounded in our communities and not the priorities of funders.
 
@@ -200,7 +200,7 @@ I see this disparity clearly when I help local artists - like recently, when I h
 
 An ideal support structure would help bridge these gaps, bringing resources and capacity-building to communities that have been overlooked by funding systems.
 
-![](https://images.squarespace-cdn.com/content/v1/66913afa4988280c039abac6/cfcd95c9-cbaa-4106-9941-be84a60bcb88/R2+Rosette+6.png?format=original)
+![](/images/r2-rosette-6.png)
 
 #### Inspirations
 
@@ -214,9 +214,9 @@ I'm really excited about the work of my collaborator [Annie Humphrey](https://ww
 
 [Rory Wakemup](https://wam.org/event/artist-talk-with-rory-erler-wakemup/) is another artist doing exciting work. He's such an expansive thinker and has a really visionary approach. It's been great having him join some of our work up North because he's really excited about getting young people activated as land defenders and water protectors through art projects that are really irreverent.
 
-![](https://images.squarespace-cdn.com/content/v1/66913afa4988280c039abac6/1734367215570-D7YJP4Q3SG4VUO9X4DA3/IMG_1171+copy.jpg?format=original)
-![](https://images.squarespace-cdn.com/content/v1/66913afa4988280c039abac6/1734366766496-1LLKURJ63SZVLMPUFUHC/IMG_1456.jpeg?format=original)
-![](https://images.squarespace-cdn.com/content/v1/66913afa4988280c039abac6/1734366771992-0VKQO7B45IKPASTL3K19/%D0%A8%D0%BE%D1%80%D0%BA%D1%81%D1%87%D0%BE%D0%BF.JPG?format=original)
+![](/images/img-1171-copy.jpg)
+![](/images/img-1456.jpeg)
+![](/images/img.jpg)
 
 I also work quite a bit with [Amoke Kubat](https://www.yomamashouse.com/), who's a real powerhouse. You know, she waited until she retired to really blossom as an artist, and now she's doing amazing work with bookmaking and printmaking and cultural organizing. It's pretty remarkable to see.
 
@@ -224,4 +224,4 @@ I also work quite a bit with [Amoke Kubat](https://www.yomamashouse.com/), who's
 
 **BO:** Thank you Shanai!
 
-![](https://images.squarespace-cdn.com/content/v1/66913afa4988280c039abac6/37531c70-1455-4c12-b969-83f91b76bd64/Shanai+Mine+Shovel.jpg?format=original)
+![](/images/shanai-mine-shovel.jpg)

@@ -3,11 +3,11 @@ title: "Alone You're Left With Just an Idea: Interview with Wafaa Bilal"
 date: 2025-11-16
 oldSlug: /blog/11
 slug: wafaa-bilal-alone-with-an-idea
-cover: https://images.squarespace-cdn.com/content/v1/66913afa4988280c039abac6/0dbe5e15-0e0d-492c-97d5-c18d0ccef601/Panel+combined+screenshots.jpg
+cover: /images/panel-combined-screenshots.jpg
 excerpt: "People think we have courage, but actually we simply don't know how to live with fear. … But we are afraid. We are terrified. We are the canaries in the coal mines: hey, there's danger, you got to be alert. And the powers that be don't know what to do with us."
 ---
 
-[![](https://images.squarespace-cdn.com/content/v1/66913afa4988280c039abac6/0dbe5e15-0e0d-492c-97d5-c18d0ccef601/Panel+combined+screenshots.jpg?format=original)](https://wafaabilal.com/)
+[![](/images/panel-combined-screenshots.jpg)](https://wafaabilal.com/)
 
 - #### About Wafaa Bilal
 
@@ -24,7 +24,7 @@ excerpt: "People think we have courage, but actually we simply don't know how to
   - **(Un)Importance of Museums:** Museums have structural constraints that make them slow to respond to urgent issues—alternative spaces are better suited for politically engaged work.
   - **Support for Artists:** The art funding system pushes artists toward commercial production cycles that make them forget why they create. Entities like Creative Capital that provide support with no commercial agenda attached are essential.
 
-![](https://images.squarespace-cdn.com/content/v1/66913afa4988280c039abac6/9d78794a-16bf-4cdd-aab9-dec56e17da7b/R2+Rosette+6.png?format=original)
+![](/images/r2-rosette-6.png)
 
 *People think we have courage, but actually we simply don't know how to live with fear. … But we are afraid. We are terrified. We are the canaries in the coal mines: hey, there's danger, you got to be alert. And the powers that be don't know what to do with us.*
 
@@ -38,11 +38,11 @@ Traditionally, the artist sits on top of the hierarchy of creation and imbues th
 
 I follow that tradition, but I go further. I redistribute the aura to all collaborators and participants. The collaborators invest their knowledge because they believe in the cause. Then when the work goes public, it generates an empathic response—audience members join in and they too generate the aura. Power moves from institution, to artist, to a changed structure altogether. Art is the motivator, the thing asking us to change the status quo.
 
-[![](https://images.squarespace-cdn.com/content/v1/66913afa4988280c039abac6/ebc15c8e-49bd-455a-90e4-3ffceb303e92/DT+4.jpg?format=original)](https://wafaabilal.com/domestic-tension/)
+[![](/images/dt-4.jpg)](https://wafaabilal.com/domestic-tension/)
 
 *Domestic Tension*, 2007. Courtesy of the artist.
 
-![](https://images.squarespace-cdn.com/content/v1/66913afa4988280c039abac6/df61eaf6-5261-4354-80d6-3a6a73b64738/R2+Rosette+1.png?format=original)
+![](/images/r2-rosette-1.png)
 
 #### Art as Platform for Engagement
 
@@ -58,7 +58,7 @@ What's left to the artist alone is the power of the storyteller. You tell a stor
 
 **BO:** I want to dig deeper into these relationships. It's a beautiful picture, where the aura is equally distributed, but the engagement is evidently *not* equally distributed. There's *you*—without you, nothing happens. Then direct collaborators who co-create with you: robot maker, website programmer. Then curators and museum workers. Then the public. Everyone's a collaborator, but there's also hierarchy. How do you think about these different levels of engagement?
 
-![](https://images.squarespace-cdn.com/content/v1/66913afa4988280c039abac6/92d8f9da-6b2b-416b-a487-256de153fedc/IMG_9318.JPG?format=original)
+![](/images/img-9318.jpg)
 
 *Domestic Tension*, installation at the Museum of Contemporaty Art, Chicago, 2025
 
@@ -70,7 +70,7 @@ And if it's a success, we must accept it with humility and put ego aside, becaus
 
 In "Domestic Tension" we were debating the color of the paintballs. Should it be red? Multicolored? An idea that would never have crossed my mind came from the American culture itself. It was yellow. I asked: why yellow? The team said: because [yellow represents the ribbon of supporting the troops](https://en.wikipedia.org/wiki/Yellow_ribbon).
 
-![](https://images.squarespace-cdn.com/content/v1/66913afa4988280c039abac6/1fb215ce-8967-47c6-bdeb-fb962d06bff2/R2+Rosette+2.png?format=original)
+![](/images/r2-rosette-2.png)
 
 #### Conflict Zone, Comfort Zone
 
@@ -86,11 +86,11 @@ And also: I created many of my projects during the ongoing conflict in Iraq. Not
 
 In our comfort zone we're distracted. Let me focus you there, on the conflict zone, and—boom, it beams you to what's happening there. That's why these projects unsettle us.
 
-[![](https://images.squarespace-cdn.com/content/v1/66913afa4988280c039abac6/9ca392dd-66c7-4e47-bf0d-23993e4ef0c0/IMG_9329.png?format=original)](https://wafaabilal.com/in-a-grain-of-wheat/)
+[![](/images/img-9329.jpg)](https://wafaabilal.com/in-a-grain-of-wheat/)
 
 *In the Grain of Wheat*, installation at the Museum of Contemporaty Art, Chicago, 2025
 
-![](https://images.squarespace-cdn.com/content/v1/66913afa4988280c039abac6/01acaf58-0d96-4236-ad43-23c13ebaead1/R2+Rosette+3.png?format=original)
+![](/images/r2-rosette-3.png)
 
 #### In the Grain of Wheat
 
@@ -106,7 +106,7 @@ I asked if I could scan it. Met people were my first collaborators—they gave m
 
 Then I decided to embed that 6 GB scan in a grain of wheat, in its DNA. So, when you grow that wheat, every grain would have a Lamassu in it. When you reverse engineer it, you recover the Lamassu. Why? Because wheat gave us the first human settlement, when the Sumerians started planting wheat and settled in the south of Iraq. The poetic act—when you look at that field of wheat, the Lamassu is invisible to the eye, but alive in every grain, accessible to generations to come.
 
-![](https://images.squarespace-cdn.com/content/v1/66913afa4988280c039abac6/46d11678-0a43-48c2-ac96-eeedf1743eb2/And_Counting_Wafaabilal_21.jpg?format=original)
+![](/images/and-counting-wafaabilal-21.jpg)
 
 *…and Counting*, 2010. Courtesy of the artist.
 
@@ -128,7 +128,7 @@ Then we looked for who could implement our plan. We needed a DNA lab.
 
 **BO:** Just to be clear—up to this point your only collaborators on the DNA part of the project are other artists? One artist builds a data compression algorithm, another designs a DNA modification roadmap?
 
-![](https://images.squarespace-cdn.com/content/v1/66913afa4988280c039abac6/3a2d635c-0d96-4de6-a9bb-ca65d97e5a4f/lamassu_render_hires4.jpg?format=original)
+![](/images/lamassu-render-hires4.jpg)
 
 *In a Grain of Wheat,* 2021. Curtesy of the artist.
 
@@ -138,13 +138,13 @@ So once we had the plan for how to get this code into DNA, we had to implement i
 
 But then came the curator-artist collaboration: we needed an object, a physical manifestation, not just the grain. Something embodying resilience, indexing the destruction, and rising. That's why at the MCA you saw a black 3D-printed Lamassu. There's no black Lamassu in Iraq. The black points to ISIS's attack.
 
-![](https://images.squarespace-cdn.com/content/v1/66913afa4988280c039abac6/b998e797-9fdc-4f10-ba32-a57f703eef5f/IMG_9370.png?format=original)
+![](/images/img-9370.jpg)
 
 *In the Grain of Wheat*, installation at the Museum of Contemporaty Art, Chicago, 2025
 
 Traditional Lamassus have five legs because they're next to gates—you see them from two angles, front and side. This one is marching, coming. One decision took me very long—the relation between the black Lamassu and the wheat. In conversation with the curator it became this magical gesture: what if grain is leaking from the hoof? When people take grains, the Lamassu produces more. The Lamassu itself becomes the storage, the sower.
 
-![](https://images.squarespace-cdn.com/content/v1/66913afa4988280c039abac6/eeb41bdb-a699-4d6c-8b7a-47e0563c7f61/IMG_9327.png?format=original)
+![](/images/img-9327.jpg)
 
 *In the Grain of Wheat*, installation at the Museum of Contemporaty Art, Chicago, 2025
 
@@ -156,7 +156,7 @@ Traditional Lamassus have five legs because they're next to gates—you see them
 
 **WB:** We tried.
 
-![](https://images.squarespace-cdn.com/content/v1/66913afa4988280c039abac6/52960251-4e3f-4011-97e6-4324809fb70d/R2+Rosette+4.png?format=original)
+![](/images/r2-rosette-4.png)
 
 #### Project Support
 
@@ -166,7 +166,7 @@ Traditional Lamassus have five legs because they're next to gates—you see them
 
 **BO:** One reason I left [curating](https://www.oicherman.art/boris/b-art/curator-for-creative-collaboration) to work for funders, I saw how difficult it is to fund complex projects that touch so many disciplinary fields. We know how to commission sculpture or painting, but most museums don't know how to commission something like "In a Grain of Wheat." MCA's openness to this project is remarkable.
 
-![](https://images.squarespace-cdn.com/content/v1/66913afa4988280c039abac6/8f0e027e-7dd6-49f4-9d48-ff8d3f19b6d2/Wafaa-+for+exhib+BD_28_32.jpg?format=original)
+![](/images/wafaa-for-exhib-bd-28-32.jpg)
 
 *3rdi*, 2010–11. Photo: Bryan Derballa.
 
@@ -180,13 +180,13 @@ What we need are more entities like Creative Capital. Give money to artists with
 
 **BO:** Besides Creative Capital, can you name other funders you've had success with?
 
-[![](https://images.squarespace-cdn.com/content/v1/66913afa4988280c039abac6/b6ecb170-80a7-4439-a3d3-2d1895b2ac84/168-01.jpg?format=original)](https://wafaabilal.com/168h01s/)
+[![](/images/168-01.jpg)](https://wafaabilal.com/168h01s/)
 
 168:01, 2016-ongoing. New Orleans Museum of Art.
 
 **WB:** [Artpace San Antonio](https://artpace.org/) is a fabulous residency. [Civitella Ranieri](https://civitella.org/) is another one. That's where the idea for "[168:01](https://arabamericanmuseum.org/exhibition/16801-an-installation-by-wafaa-bilal/)" came. I was drinking coffee when I got the idea. I started running around saying I got it, I got it. My friend was like, what did you get? I told her. We both started crying.
 
-![](https://images.squarespace-cdn.com/content/v1/66913afa4988280c039abac6/214dc3a0-931e-4f6a-ac79-b1648e5289b6/R2+Rosette+5.png?format=original)
+![](/images/r2-rosette-5.png)
 
 #### Artists, Museums, Society
 
@@ -204,7 +204,7 @@ What we need are more entities like Creative Capital. Give money to artists with
 
 **WB:** Exactly.
 
-[![](https://images.squarespace-cdn.com/content/v1/66913afa4988280c039abac6/4bb54b22-13d3-4643-b90f-b14d4ea0e7bb/Wafaa+Bilal_Sill+from+Virtual+Jihadi_video+game_2008.jpg?format=original)](https://wafaabilal.com/canto-iii/)
+[![](/images/wafaa-bilal-sill-from-virtual-jihadi-video-game-2008.jpg)](https://wafaabilal.com/canto-iii/)
 
 *Virtual Jihadi* (still), 2008. Curtesy of the artist.
 
@@ -220,9 +220,9 @@ Perhaps we could start a new museum! You know, museums tend to get outdated like
 
 **BO:** I expected I'd push you to critique the museums, and what I got from you instead is empathy for them. Your capacity for empathy is remarkable.
 
-![](https://images.squarespace-cdn.com/content/v1/66913afa4988280c039abac6/1763312305260-XA39PUMBOEVT9TG8S8BW/Combined.jpg?format=original)
-![](https://images.squarespace-cdn.com/content/v1/66913afa4988280c039abac6/1763312327351-EECTNVUX6FZYVC994750/IMG_9324.JPG?format=original)
-![](https://images.squarespace-cdn.com/content/v1/66913afa4988280c039abac6/1763312338373-ODSKOV9QU710CSB27YJI/IMG_9326.JPG?format=original)
+![](/images/combined.jpg)
+![](/images/img-9324.jpg)
+![](/images/img-9326.jpg)
 
 Rendering of *Canto III*,2024. © Wafaa Bilal, courtesy of the artist.
 

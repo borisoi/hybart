@@ -5,7 +5,7 @@ role: Founder and Board Chair, Foundry Arts
 date: 2024-09-10
 tags: [organizations]
 oldSlug: /testimonials/jshorey
-image: https://images.squarespace-cdn.com/content/v1/66913afa4988280c039abac6/6cdc0c2e-95b7-45d8-909a-425d1cacddec/J+Shorey.jpg
+image: /images/j-shorey.jpg
 excerpt: Boris's multifaceted strategy for the Foundry Arts demonstrates the arc of his ability to create models deeply rooted in local needs while drawing on global best practices.
 ---
 

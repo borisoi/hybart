@@ -5,7 +5,7 @@ role: "Poet, Assistant Professor of Medicine and Arts; and Division Director, Ch
 date: 2024-09-08
 tags: [organizations, museums]
 oldSlug: /testimonials/yuko-katie
-image: https://images.squarespace-cdn.com/content/v1/66913afa4988280c039abac6/1723924919371-M28XNPQIQDZAJ9Q4ZQJB/_SRG2837+crop.jpg
+image: /images/srg2837-crop.jpg
 excerpt: Boris's approach went beyond facilitating a relationship; he actively helped shape the project's evolution.
 ---
 

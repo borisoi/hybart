@@ -5,7 +5,7 @@ role: Artists; Assistant Professors, Stamps School of Art and Design, University
 date: 2024-08-17
 tags: [artists, museums]
 oldSlug: /testimonials/pedram-nooshin
-image: https://images.squarespace-cdn.com/content/v1/66913afa4988280c039abac6/1723925278657-6ZL5MO5R11DIBCUCLWCD/IMG_9482.jpg
+image: /images/img-9482.jpg
 excerpt: Boris's unique blend of cross-disciplinary expertise and advocacy for artists as equal partners defines his professional identity.
 ---
 

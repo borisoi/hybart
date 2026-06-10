@@ -6,7 +6,7 @@ personLink: https://rustbeltfibershed.com/
 date: 2024-08-20
 tags: [organizations]
 oldSlug: /testimonials/rbf
-image: https://images.squarespace-cdn.com/content/v1/66913afa4988280c039abac6/a621bd05-601f-458e-aaef-228eb754171c/Sarah+and+Jess.jpg
+image: /images/sarah-and-jess.jpg
 excerpt: Boris consistently challenged us to elevate our performance, helping us achieve in months what might have taken a year.
 ---
 

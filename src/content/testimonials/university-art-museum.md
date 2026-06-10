@@ -5,7 +5,7 @@ role: Director and Chief Curator (Retired), Weisman Art Museum, University of Mi
 date: 2019-03-11
 tags: [museums]
 oldSlug: /testimonials/lyndel
-image: https://images.squarespace-cdn.com/content/v1/66913afa4988280c039abac6/58786a9f-750c-4c43-a6df-d4a4081ecfd6/Lyndel+King.jpg
+image: /images/lyndel-king.jpg
 excerpt: Boris has a talent for using the university art museum as a platform to bring people together across disciplines, creating imaginative projects that one person or department could never have dreamed of alone.
 ---
 

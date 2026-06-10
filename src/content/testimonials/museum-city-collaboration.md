@@ -5,7 +5,7 @@ role: "Director, Arts and Culture, City of Seattle (formerly: Director of Arts, 
 date: 2024-09-10
 tags: [organizations, museums, artists]
 oldSlug: /testimonials/jshorey-azctl
-image: https://images.squarespace-cdn.com/content/v1/66913afa4988280c039abac6/3f5ae91b-e7fd-4fcd-a849-93cda3da93a4/Gulgun.jpg
+image: /images/gulgun.jpg
 excerpt: Our collaboration exemplified the power of partnerships between City governments and museums to foster cross-cultural understanding and community engagement.
 ---
 

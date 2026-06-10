@@ -5,7 +5,7 @@ role: Director of Resiliency and Sustainability at Northeast Ohio Public Energy 
 date: 2024-09-12
 tags: [organizations, museums]
 oldSlug: /testimonials/jshorey-azctl-k8nzy
-image: https://images.squarespace-cdn.com/content/v1/66913afa4988280c039abac6/f705f6f6-5c03-41aa-92b8-62a8a57d02d4/Deepa+Vedavyas+%233.jpg
+image: /images/deepa-vedavyas-3.jpg
 excerpt: Boris's approach has the potential to significantly transform how we address sustainability, making our efforts more inclusive, creative, and ultimately more effective.
 ---
 

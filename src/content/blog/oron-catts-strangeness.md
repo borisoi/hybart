@@ -3,11 +3,11 @@ title: "The strangeness of what's happening: Interview with Oron Catts"
 date: 2025-01-31
 oldSlug: /blog/8
 slug: oron-catts-strangeness
-cover: https://images.squarespace-cdn.com/content/v1/66913afa4988280c039abac6/1738072961725-839MTG04HRMEPQ7XROVI/6T6A9095.jpeg
+cover: /images/6t6a9095.jpeg
 excerpt: "Art is a very important instrument for highlighting issues that need more scrutiny, and for making what's hidden and obscured meaningful."
 ---
 
-![](https://images.squarespace-cdn.com/content/v1/66913afa4988280c039abac6/1738072961725-839MTG04HRMEPQ7XROVI/6T6A9095.jpeg?format=original)
+![](/images/6t6a9095.jpeg)
 
 - #### About Oron Catts
 
@@ -25,13 +25,13 @@ excerpt: "Art is a very important instrument for highlighting issues that need m
 
 16 minute read
 
-![](https://images.squarespace-cdn.com/content/v1/66913afa4988280c039abac6/e9bf3794-4f42-4466-91e1-500141c816bb/D+Rosette+new10.png?format=original)
+![](/images/d-rosette-new10.png)
 
 *Art is a very important instrument for highlighting issues that need more scrutiny, and for making what's hidden and obscured meaningful.*
 
 ####
 
-![](https://images.squarespace-cdn.com/content/v1/66913afa4988280c039abac6/7a3d3ac9-fdee-45a0-b330-9a9124e49ca9/D+Rosette+new+2.png?format=original)
+![](/images/d-rosette-new-2.png)
 
 #### The Motivations
 
@@ -43,8 +43,8 @@ Then there was what I believe to be one of the most important images of the late
 
 Then in 1996, [Dolly the sheep](https://www.nms.ac.uk/discover-catalogue/the-story-of-dolly-the-sheep) was born, the first cloned mammal. The merging of sciences and technologies - digital technologies, electrical engineering, mechanical engineering, biology - came together to create a single engineering paradigm that encompassed life itself. Human life was part of that continuum.
 
-![](https://images.squarespace-cdn.com/content/v1/66913afa4988280c039abac6/1738589721455-QLVEDS0W2DNIRPVDK7IY/ear+mosue+02.jpg?format=original)
-![](https://images.squarespace-cdn.com/content/v1/66913afa4988280c039abac6/1738243863671-9T1GKMJN8B6HEZ0EV7QD/dolly1stbornbonnie.jpeg?format=original)
+![](/images/ear-mosue-02.jpg)
+![](/images/dolly1stbornbonnie.jpeg)
 
 Mouse image: At Yilin Cao ‘s Laboratory, Shanghai, 2015. Photo by Oron Catts  
 Dolly image: Source: [*Two Decades After Dolly the Sheep, Here's What We've Learned About Cloning*](https://www.nbcnews.com/mach/science/two-decades-after-dolly-sheep-here-s-what-we-ve-n724096). Courtesy The Roslin Institute, The University of Edinburgh.
@@ -67,7 +67,7 @@ In my case, it was about being able to take things that can be considered mundan
 
 It's always masked with utility - everything that scientists and engineers are doing is weighed against the potential benefits. But art doesn't have a perceived utility. So, if you do those very same things as an artist, you can distill and purify the ethical conundrums that scientific methods and new technologies are creating. Art is a very important instrument for highlighting issues that need more scrutiny, and for making what's hidden and obscured meaningful.
 
-![](https://images.squarespace-cdn.com/content/v1/66913afa4988280c039abac6/9c64609a-04d0-4182-adc5-0b7c7315697d/D+Rosette+new3.png?format=original)
+![](/images/d-rosette-new3.png)
 
 #### The Early Days
 
@@ -81,7 +81,7 @@ Tissue engineering was all about interdisciplinary research - they wanted to get
 
 That was in '96 or '97, SymbioticA still didn't exist. We were fortunate that at exactly the same time, the Australia Council for the Arts started a new funding stream towards new media. They defined new media as any artform that engages with emerging technologies, and were struggling to find artists working with technologies that are not computer-based. So we became one of their case studies and received significant funding. We were able to survive and produce projects and have a [major exhibition in 1998](https://tcaproject.net/portfolio/stage-1/) where we showed the outcomes of two years of research.
 
-[![](https://images.squarespace-cdn.com/content/v1/66913afa4988280c039abac6/21d916f5-1b03-4323-a2ac-01c034a4328d/TCA-Project-Stage-One-Oron-Catts-Ionat-Zurr.jpg?format=original)](https://tcaproject.net/portfolio/stage-1/)
+[![](/images/tca-project-stage-one-oron-catts-ionat-zurr.jpg)](https://tcaproject.net/portfolio/stage-1/)
 
 From “Stage 1” exhibition. Image source: [The Tissue Culture and Art Project](https://tcaproject.net/portfolio/stage-1/)
 
@@ -97,7 +97,7 @@ Now, that was a coup. As far as we know, we were the first artists-in-residence 
 
 Vacanti showed us great respect and said, "That's the appointment we gave you. I don't know what “research” means to you, but we're going to treat you the same as others. You have the same rights and responsibilities as other fellows in the lab" - and there were about 30 of them, many with double MD-PhDs degrees. We participated in all the lab meetings and presented our research every week. So alongside someone trying to regrow hearts, kidneys or muscles, we were growing [worry dolls](https://tcaproject.net/portfolio/worry-dolls/) and [pig wings](https://tcaproject.net/portfolio/pigs-wings/).
 
-[![](https://images.squarespace-cdn.com/content/v1/66913afa4988280c039abac6/d895e153-9248-4ae9-84ed-a3c64aa4551a/Growing+Pig+Wings.png?format=original)](https://tcaproject.net/portfolio/pigs-wings/)
+[![](/images/growing-pig-wings.jpg)](https://tcaproject.net/portfolio/pigs-wings/)
 
 Growing Pig Wings. Image source: [The Tissue Culture and Art Project](https://tcaproject.net/portfolio/pigs-wings/)
 
@@ -109,7 +109,7 @@ In 2002, we had a [major retrospective](https://mass.nomad.net.au/wp-content/upl
 
 What was interesting is that we didn't promise much. We were fortunate to get the initial funding and to build the lab, and then the program, and only after we established everything did we ask for ongoing funding. The problem I often see is, to get funded you have to inflate your promises. You create unrealistic expectations, and when they're not delivered, the program folds. I've seen it happening repeatedly. With SymbioticA, there were no inflated expectations. Whatever we delivered - an internationally recognized program that became the benchmark for artistic collaboration with life sciences - was done from the bottom up and in stages, without pressure to deliver. Eventually, that approach [worked for almost 25 years](https://static.weboffice.uwa.edu.au/archive/www.symbiotica.uwa.edu.au/1161146.html).
 
-![](https://images.squarespace-cdn.com/content/v1/66913afa4988280c039abac6/85dfc455-fd57-4526-a53d-5a4c9488f65e/D+Rosette+new4.png?format=original)
+![](/images/d-rosette-new4.png)
 
 #### Working Across Disciplines
 
@@ -121,7 +121,7 @@ But on the other hand, he wanted to be historicized - he wanted artists to help 
 
 This led to our [Worry Dolls project](https://www.interaliamag.org/articles/tissue-culture-art-project-oron-catts-ionat-zurr/) - our first piece in his lab and the first living artwork we showed in a gallery. It was our version of [Guatemalan worry dolls](https://en.wikipedia.org/wiki/Worry_doll). I told him, "I see your concern. I'll grow you a doll so you can tell your worries to it and let us continue working." He had a good sense of humor and let us proceed, and things progressed well from there. There was this initial tension, but we navigated it because we already had lab training. This became one of my goals at SymbioticA: training artists thoroughly enough that they could work independently in labs.
 
-[![](https://images.squarespace-cdn.com/content/v1/66913afa4988280c039abac6/a68a9d36-4d10-46aa-a9a7-1c4c7e9938d6/Worry-Dolls.jpg?format=original)](https://www.interaliamag.org/articles/tissue-culture-art-project-oron-catts-ionat-zurr/)
+[![](/images/worry-dolls.jpg)](https://www.interaliamag.org/articles/tissue-culture-art-project-oron-catts-ionat-zurr/)
 
 A Semi-Living Worry Doll H. From *The Tissue Culture & Art(ificial) Wombs* Installation, Ars Electronica 2000. Image source: [Interalia Magazine](https://www.interaliamag.org/articles/tissue-culture-art-project-oron-catts-ionat-zurr/).
 
@@ -129,7 +129,7 @@ One interesting development - something I hadn't initially anticipated - was tha
 
 So SymbioticA wasn't just an art-and-biology  lab - it became a culture-and-biology lab, engaging with all aspects of humanity. This expanded our vocabulary significantly. At any given time we would have three to five residents who were as diverse as the scientists they worked with. You might find a performance artist, designer, architect, ethicist, geographer, tissue engineer, molecular biologist, and ecologist all working on their projects in the same room.
 
-![](https://images.squarespace-cdn.com/content/v1/66913afa4988280c039abac6/3aa757ed-8048-4f6a-866d-be30aca58e60/D+Rosette+new5.png?format=original)
+![](/images/d-rosette-new5.png)
 
 #### On Validation
 
@@ -143,7 +143,7 @@ From early on the work generated significant attention - [international press](h
 
 **Oron**: Institutions are made of individuals. I reported to the head of the School of Anatomy and Human Biology, and his attitude was, "I don't understand what you're doing, but your output is well-received, so keep going." The science faculty dean at the time was extremely open-minded and supportive, and the Vice Chancellor had genuine intellectual interest in our work. It was a different era. Universities now, especially in Australia, operate very differently. But by the time these changes occurred, we were established enough to weather them.
 
-![](https://images.squarespace-cdn.com/content/v1/66913afa4988280c039abac6/8275d476-f831-42bd-8dc6-ca2242f01d1a/D+Rosette+new6.png?format=original)
+![](/images/d-rosette-new6.png)
 
 #### On Collaboration
 
@@ -151,7 +151,7 @@ From early on the work generated significant attention - [international press](h
 
 **Oron**: When we started, our byline was "SymbioticA: The Arts and Science Collaborative Research Laboratory." We dropped the "collaboration" part very quickly though, because SymbioticA's focus has always been our residents and their research. Of the more than 150 different projects that came from SymbioticA, perhaps 20 could be considered true collaborations. A successful collaboration - among those very few - creates value that crosses different epistemologies. It produces new scientific knowledge while also generating art validated through exhibitions and by peers.
 
-![](https://images.squarespace-cdn.com/content/v1/66913afa4988280c039abac6/0d62bec3-0653-4c8f-ae2e-8c81b4eb2eca/KathyHigh_talk-amanda.jpg?format=original)
+![](/images/kathyhigh-talk-amanda.jpg)
 
 Lab meeting at SymbioticA HQ
 
@@ -159,7 +159,7 @@ We realized very soon that it was crucial to maintain the integrity of disciplin
 
 The synthesis happens, but it’s not only through the group dynamic and collaboration but through interpreting the work in different disciplinary contexts. One of our works, [Victimless Leather](https://en.wikipedia.org/wiki/Victimless_Leather), was shown in design exhibitions, [art exhibitions](https://www.nytimes.com/2008/05/13/science/13coat.html), and in a science museum. Every time its reading differed dramatically based on the exhibition context and hosting institution.
 
-[![](https://images.squarespace-cdn.com/content/v1/66913afa4988280c039abac6/6c84f353-7e12-4e66-9f59-b71004d78b31/TCA-Project-Victimless-Leather-Oron-Catts-and-Ionat-Zurr-02.jpg?format=original)](https://tcaproject.net/portfolio/victimless-leather/)
+[![](/images/tca-project-victimless-leather-oron-catts-and-ionat-zurr-02.jpg)](https://tcaproject.net/portfolio/victimless-leather/)
 
 Victimless Leather. Source: The Tissue Culture and Art Project
 
@@ -169,7 +169,7 @@ The graduate program we introduced in 2006 is relevant here, [Masters of Science
 
 It was successful but demanding. We kept it small because of the effort of customizing the program for each student. They shared maybe three or four units we offered, taking the remainder to become trained in both arts and sciences. Those were true hybrids. Some people trained in both professions and switched, but not by simply deciding "I'll become an artist" or "I'll become a scientist" - they studied properly. We often had people with two masters or PhD degrees.
 
-![](https://images.squarespace-cdn.com/content/v1/66913afa4988280c039abac6/91b0e76f-5940-411e-80dc-04ea21d8b99a/D+Rosette+new7.png?format=original)
+![](/images/d-rosette-new7.png)
 
 #### Support Structures
 
@@ -187,7 +187,7 @@ We received invitations and commissions. Ionat and I established a [laboratory](
 
 The main funding gap was resident funding. We couldn't invite artists, or support those from countries without funding structures. When we won the Ars Electronica Golden Nica, we used the money to bring artists from India and Taiwan who otherwise couldn't have come.
 
-![](https://images.squarespace-cdn.com/content/v1/66913afa4988280c039abac6/8b326eb9-104d-4aa3-aa9e-291dce2dbb8e/SymbioticA-Thumbnail.jpg?format=original)
+![](/images/symbiotica-thumbnail.jpg)
 
 Oron Catts and Ionat Zurr
 
@@ -197,7 +197,7 @@ Generally, there is a fundamental tension between our work and traditional art-i
 
 Hopefully things are changing with SymbioticA's rebirth at the Art Gallery of Western Australia. I hope to see more venues embracing this kind of art and developing infrastructure for it.
 
-![](https://images.squarespace-cdn.com/content/v1/66913afa4988280c039abac6/ba2aca52-178c-4c82-970e-5dafec5f220a/D+Rosette+new8.png?format=original)
+![](/images/d-rosette-new8.png)
 
 #### The New SymbioticA
 
@@ -213,7 +213,7 @@ I was also appointed director of the [Institute of Advanced Studies at the Unive
 
 **Boris**: There's good irony that [the move to shut you down](https://hyperallergic.com/862162/bio-artists-face-an-uncertain-future/) in fact enabled growth. Your influence grew within the university to encompass all open-ended inquiry, and SymbioticA expanded to become a part of a state museum. I'm curious to see where all this leads.
 
-![](https://images.squarespace-cdn.com/content/v1/66913afa4988280c039abac6/7c262f5c-86aa-42f9-878a-085821b2e6fd/D+Rosette+new9.png?format=original)
+![](/images/d-rosette-new9.png)
 
 #### Favorite Artists
 
@@ -221,7 +221,7 @@ I was also appointed director of the [Institute of Advanced Studies at the Unive
 
 **Oron**: The first inspiration was [Stelarc](https://en.wikipedia.org/wiki/Stelarc). We became good friends, but I consider him the most important living artist by far. His work, courage, and ability to formulate ideas are extraordinary.
 
-[![](https://images.squarespace-cdn.com/content/v1/66913afa4988280c039abac6/bd179bad-7b5d-4958-93e1-ef4178b8763a/stelarc-afp.jpeg?format=original)](https://www.independent.co.uk/news/world/australasia/performance-artist-grows-third-ear-on-arm-will-connect-to-internet-and-allow-world-to-listen-in-10451597.html)
+[![](/images/stelarc-afp.jpeg)](https://www.independent.co.uk/news/world/australasia/performance-artist-grows-third-ear-on-arm-will-connect-to-internet-and-allow-world-to-listen-in-10451597.html)
 
 Source: [*Man grows ear on his arm and will connect to the internet so the world can listen in*](https://www.independent.co.uk/news/world/australasia/performance-artist-grows-third-ear-on-arm-will-connect-to-internet-and-allow-world-to-listen-in-10451597.html)
 

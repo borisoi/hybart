@@ -5,7 +5,7 @@ role: Executive Vice President Chief Strategy Officer, Cuyahoga Community Colleg
 date: 2024-09-08
 tags: [organizations]
 oldSlug: /testimonials/india
-image: https://images.squarespace-cdn.com/content/v1/66913afa4988280c039abac6/2e9c3dca-ae6e-4edc-bce9-566fd5a801c3/India_Pierce_Lee_i.jpg
+image: /images/india-pierce-lee-i.jpg
 excerpt: Boris excels at developing strategies that are both globally informed and locally relevant, always with an eye towards equity and justice.
 ---
 

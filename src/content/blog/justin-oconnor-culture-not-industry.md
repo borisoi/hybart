@@ -3,11 +3,11 @@ title: "Culture is Not an Industry: Interview with Justin O’Connor"
 date: 2025-03-12
 oldSlug: /blog/9
 slug: justin-oconnor-culture-not-industry
-cover: https://images.squarespace-cdn.com/content/v1/66913afa4988280c039abac6/e47abe74-1025-4e2a-9634-ce1613f6f303/justin21.jpg
+cover: /images/justin21.jpg
 excerpt: "A thriving cultural life makes us better citizens. Not necessarily more productive citizens in the sense of producing more stuff, but flourishing citizens, as individuals and communities. That's the value of arts and culture for public policy."
 ---
 
-[![](https://images.squarespace-cdn.com/content/v1/66913afa4988280c039abac6/e47abe74-1025-4e2a-9634-ce1613f6f303/justin21.jpg?format=original)](https://justin-oconnor.com/)
+[![](/images/justin21.jpg)](https://justin-oconnor.com/)
 
 *This interview is a follow-up to my* [*review*](/blog/3) *of Justin O'Connor's book "*[*Culture is Not an Industry*](https://manchesteruniversitypress.co.uk/9781526171269/#:~:text=This%20book%20is%20about%20what,for%20a%20more%20equitable%20future.)*," published on this blog in September. Our conversation explores several themes from review, so I suggest reading it for context. And of course, I can't recommend the book itself highly enough: it is an essential reading for everyone involved with the funding and policy of arts and culture.*
 
@@ -27,7 +27,7 @@ excerpt: "A thriving cultural life makes us better citizens. Not necessarily mor
 
 17 minute read
 
-![](https://images.squarespace-cdn.com/content/v1/66913afa4988280c039abac6/8d3a8484-5a2b-486e-8694-349e1f5c56cc/A+Rosette-2.6.png?format=original)
+![](/images/a-rosette-2-6.png)
 
 *A thriving cultural life makes us better citizens. Not necessarily more productive citizens in the sense of producing more stuff, but flourishing citizens, as individuals and communities. That's the value of arts and culture for public policy.*
 
@@ -47,7 +47,7 @@ But it wasn't just about support and money. How do you determine the value of a 
 
 **Justin:** There is a strong element of economics in it, but it's always been political economy. I make the distinction between them. Economics, or neoclassical economics, is based on rational, efficiency-maximizing individuals who will buy whatever they think is most valuable. Political economy asks much wider questions, like "How is wealth created and how is wealth divided?" “Pure” economics said, "We don't concern ourselves with that; the market does everything for us. Just do your equations." Political economy is about the construction of society as a whole, and this is where the culture fits in.
 
-![](https://images.squarespace-cdn.com/content/v1/66913afa4988280c039abac6/fa5bb255-3711-4df6-8722-3e81f1467656/A+Rosette-2.2.png?format=original)
+![](/images/a-rosette-2-2.png)
 
 #### Culture is Not an Industry: the background
 
@@ -69,7 +69,7 @@ The idea of Cultural Industries began at that period as a recognition that cultu
 
 We have to step back and ask: What is "arts and culture"? How do we value it? How can we radically rethink its position in society? What kind of policies might come from that? That's the story of the book. It is an attempt to break out of the failing "creative economy" thinking which has become the default in much of cultural policy.
 
-![](https://images.squarespace-cdn.com/content/v1/66913afa4988280c039abac6/2c065795-9fac-474d-8ce1-ac8d47460507/A+Rosette-2.3.png?format=original)
+![](/images/a-rosette-2-3.png)
 
 #### What is Culture?
 
@@ -103,7 +103,7 @@ The field of art and culture needs public attention. It needs the public to inve
 
 Then, in terms of cultural policy we can say, "Well, we have this field, this big conversation about life through symbols and sound, through art and culture. This conversation has to speak to the wider society, it has to intervene. It has to say something about male violence, about the rise of totalitarianism." We would hope that being able to provide a space for those cultural expressions would help with the problems, but it won't solve them - ultimately the solutions have to be political, economical and social.
 
-![](https://images.squarespace-cdn.com/content/v1/66913afa4988280c039abac6/d96dda5e-aba4-4892-9004-5b01bfacc96c/A+Rosette-2.4.png?format=original)
+![](/images/a-rosette-2-4.png)
 
 #### Cultural Infrastructure
 
@@ -141,7 +141,7 @@ Some of it is about providing basic infrastructure, but it's also about having a
 
 Then, indeed, some solutions might seem non-cultural. In Berlin, for example, which was transformed by gentrification within just a few years, they're considering regulations that would restrict property investors' returns. These aren't cultural measures, but they're put in place for a cultural purpose. This is what I mean by non-cultural forms of cultural policy - some directly support culture, others more broadly sustain the active social life of the community.
 
-![](https://images.squarespace-cdn.com/content/v1/66913afa4988280c039abac6/3efbef60-0d17-4a7c-a455-63bbd5c81f9d/A+Rosette-2.5.png?format=original)
+![](/images/a-rosette-2-5.png)
 
 #### Creative Industries Livability
 

@@ -3,11 +3,11 @@ title: "Investing in Hybrid Arts pt. I: Introduction"
 date: 2024-09-02
 oldSlug: /blog/1
 slug: investing-in-hybrid-arts-introduction
-cover: https://images.squarespace-cdn.com/content/v1/66913afa4988280c039abac6/24c69c5d-d59e-4c9d-b295-7bb876c66788/_SRG1679.jpg
+cover: /images/srg1679.jpg
 excerpt: "Revisiting the report “Investing in Creativity” through the lens of Hybrid Arts: Introduction"
 ---
 
-![  Image: Imprisoned artist participates via phone call in the PEN America Break Out event. In the background: installation by Daniel McCarthy Clifford ](https://images.squarespace-cdn.com/content/v1/66913afa4988280c039abac6/24c69c5d-d59e-4c9d-b295-7bb876c66788/_SRG1679.jpg?format=original)
+![  Image: Imprisoned artist participates via phone call in the PEN America Break Out event. In the background: installation by Daniel McCarthy Clifford ](/images/srg1679.jpg)
 
 *Image: Performance “Place of Space” by* [*The BodyCartography Project*](https://bodycartography.org/)*. Weisman Art Museum, Minneapolis, MN, 2018*
 
@@ -24,7 +24,7 @@ excerpt: "Revisiting the report “Investing in Creativity” through the lens o
 
 8 minutes read
 
-![](https://images.squarespace-cdn.com/content/v1/66913afa4988280c039abac6/1913906f-307a-43ff-95bb-cc0879977da2/A+Rosette-5.png?format=original)
+![](/images/a-rosette-5.png)
 
 *One interesting thing about being an artist now is that everything is a possibility. Which means you start out of a state of total chaos, and you have to assume the responsibility for every single thing you do or do not do.*Robert Irwin in *Drugs and Beyond*, Extension Media Center, UCLA for the National Institute of Mental Health, 1971
 
@@ -46,7 +46,7 @@ As far as artists were concerned, IiC’s statement was not news: that an artist
 
 For cultural philanthropy, however, considering support for the arts from artists' perspectives introduced a whole new series of questions it had barely dealt with.
 
-![](https://images.squarespace-cdn.com/content/v1/66913afa4988280c039abac6/ffbd9c82-287b-4a18-8673-7db53084e05d/A+Rosette-2.png?format=original)
+![](/images/a-rosette-2.png)
 
 #### Dimensions of Support for Artists
 
@@ -71,7 +71,7 @@ It turns out that, when you ask artists what's involved in practicing art, respo
 
 Sadly, most of them still do.
 
-![](https://images.squarespace-cdn.com/content/v1/66913afa4988280c039abac6/a3c6824b-f681-4ea2-9016-c659c9c632a6/A+Rosette-3.png?format=original)
+![](/images/a-rosette-3.png)
 
 #### Hybrid Arts Markets
 
@@ -85,7 +85,7 @@ Subsequently, many artists describe their art in rather complex terms. Some may 
 
 IiC recognized that when artists engage with fields outside of the arts they generate economic activity very different from traditional art markets, and called it "hybrid markets." I will use "hybrid arts markets" throughout this series instead to distinguish the term from similar expressions used in economics and business.
 
-![](https://images.squarespace-cdn.com/content/v1/66913afa4988280c039abac6/168ebef7-b114-48c0-8630-23983823f092/A+Rosette-4.png?format=original)
+![](/images/a-rosette-4.png)
 
 #### Hybrid Arts
 
@@ -97,7 +97,7 @@ Hybrid arts are indifferent to creative media, the nature, goals and products of
 
 To illustrate: an artist commissioned by an aerospace corporation to create an artwork for its collection doesn't necessarily participate in the hybrid arts market. However, an artist commissioned by an aerospace corporation to collaborate with its scientists and [design a scientific symposium](https://www.oicherman.art/boris/b-art/interview-with-robert-irwin) with the goal of contributing to the corporation's research agenda—does.
 
-![](https://images.squarespace-cdn.com/content/v1/66913afa4988280c039abac6/1913906f-307a-43ff-95bb-cc0879977da2/A+Rosette-5.png?format=original)
+![](/images/a-rosette-5.png)
 
 #### Dimensions of Support for Hybrid Arts
 

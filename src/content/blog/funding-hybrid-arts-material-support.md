@@ -3,11 +3,11 @@ title: "Funding Hybrid Arts. Investing in Hybrid Arts, pt. IV: Material Support"
 date: 2024-11-15
 oldSlug: /blog/6
 slug: funding-hybrid-arts-material-support
-cover: https://images.squarespace-cdn.com/content/v1/66913afa4988280c039abac6/95a73c00-5122-49ee-90fc-918a8f21690a/_SRG2620_medres.jpg
+cover: /images/srg2620-medres.jpg
 excerpt: "Material Support for Hybrid Arts: revisiting the report “Investing in Creativity” through the lens of Hybrid Arts."
 ---
 
-![](https://images.squarespace-cdn.com/content/v1/66913afa4988280c039abac6/95a73c00-5122-49ee-90fc-918a8f21690a/_SRG2620_medres.jpg?format=original)
+![](/images/srg2620-medres.jpg)
 
 *Image: “Conversations About Sleep” by* [*Peng Wu*](https://wam.umn.edu/peng-wu-and-art-sleep) *and Dr. Michael Howell, Weisman Art Museum, 2018, Arts and Medicine program at the University of Minnesota.*
 
@@ -31,7 +31,7 @@ excerpt: "Material Support for Hybrid Arts: revisiting the report “Investing i
 
 9 minute read
 
-![](https://images.squarespace-cdn.com/content/v1/66913afa4988280c039abac6/ec22c213-0d13-4109-990a-85fc8b39bf6c/H+Rosette-7.png?format=original)
+![](/images/h-rosette-7.png)
 
 *Just as we cannot solve a problem with the same mindset that created it, we cannot achieve cultural democracy or equity with the same tools, strategies, and structures that built and have maintained our current inequitable systems. To move forward, we must look, think, and act widely.*
 
@@ -45,7 +45,7 @@ The report’s recommendations are as relevant today as they were 20 years ago: 
 
 In this post, I'll focus on these unique demands of hybrid arts, particularly as they relate to artists who engage with non-arts for- and non-profit institutions.
 
-![](https://images.squarespace-cdn.com/content/v1/66913afa4988280c039abac6/fb886a21-2b2c-4ed1-a9ea-427aada93bea/H+Rosette-2.png?format=original)
+![](/images/h-rosette-2.png)
 
 #### “Entrepreneurs” and “Consultants”
 
@@ -59,7 +59,7 @@ In the other group are artists whose work requires engaging with institutions—
 
 As a result, support structures today look very much like they did in the 60s: short-term residencies, limited vision for impact, and ambition that rarely extends beyond "[artists using the organization as their studio](https://www.oicherman.art/boris/b-art/interview-with-robert-irwin)". It's this group that I'll focus on for the remainder of this post.
 
-![](https://images.squarespace-cdn.com/content/v1/66913afa4988280c039abac6/52c56476-6b53-4572-9f87-4bf318f113fa/H+Rosette-3.png?format=original)
+![](/images/h-rosette-3.png)
 
 #### Support Framework for Consulting Artists
 
@@ -79,7 +79,7 @@ Cultural philanthropy has evolved to support production, collection, and present
 
 I will attempt to imagine what such funding programs might look like if they did exist.
 
-![](https://images.squarespace-cdn.com/content/v1/66913afa4988280c039abac6/b2431adb-ff6d-46ae-a419-73052d67b672/H+Rosette-4.png?format=original)
+![](/images/h-rosette-4.png)
 
 #### Putting Culture Everywhere
 
@@ -100,7 +100,7 @@ To illustrate why language is important, consider what naming a funding program 
 
 Let's dive deeper into the HHS example.
 
-![](https://images.squarespace-cdn.com/content/v1/66913afa4988280c039abac6/d3b151c5-627a-494f-8669-44ec54e41298/H+Rosette-5.png?format=original)
+![](/images/h-rosette-5.png)
 
 #### Case study: Cultural Determinants of Health
 
@@ -114,7 +114,7 @@ Enter the professionals of culture: consulting artists whose sensibilities, skil
 
 The challenge for philanthropy, in turn, is learning how to adequately support professionals of culture working in healthcare contexts.
 
-![](https://images.squarespace-cdn.com/content/v1/66913afa4988280c039abac6/b85b39bf-a3d8-41c0-ac4f-dde2b82c8e77/H+Rosette-6.png?format=original)
+![](/images/h-rosette-6.png)
 
 #### Embedding Culture in Non-Art Grants
 
@@ -129,7 +129,7 @@ Making all this happen will require grantmaking professionals from HHS and Cultu
 
 And indeed, between Arts and Culture and all other programs too.
 
-![](https://images.squarespace-cdn.com/content/v1/66913afa4988280c039abac6/2e62fc42-e196-417c-b57b-bd403d31e564/H+Rosette-7.png?format=original)
+![](/images/h-rosette-7.png)
 
 #### From Programs to Worldmaking
 
