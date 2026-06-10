@@ -1,10 +1,10 @@
 ---
 import '../styles/global.css';
 const doors = [
-  { href: '/art', label: 'Art', img: 'https://images.squarespace-cdn.com/content/v1/66913afa4988280c039abac6/3f4ce52d-c86f-4e79-a67b-3879b97f800f/Responsa%21-09102.jpg?format=2500w', c: 'var(--c-art)' },
-  { href: '/music', label: 'Music', img: 'https://images.squarespace-cdn.com/content/v1/66913afa4988280c039abac6/1a94579f-c6ba-4183-8ec4-708c55c7a275/Field2.jpg?format=2500w', c: 'var(--c-music)' },
-  { href: '/consulting', label: 'Consulting', img: 'https://images.squarespace-cdn.com/content/v1/66913afa4988280c039abac6/a104b426-76b2-4d33-934c-1caf96a3b340/_SRG0974.jpg?format=2500w', c: 'var(--c-consulting)' },
-  { href: '/blog', label: 'Blog', img: 'https://images.squarespace-cdn.com/content/v1/66913afa4988280c039abac6/0651557e-e014-4b0f-a672-bfc3e03e9b79/Screenshot+2025-09-09+at+7.55.29%E2%80%AFAM.jpg?format=2500w', c: 'var(--c-blog)' },
+  { href: '/art', label: 'Art', img: '/images/srg1679.jpg', c: 'var(--c-art)' },
+  { href: '/music', label: 'Music', img: '/images/srg2620-medres.jpg', c: 'var(--c-music)' },
+  { href: '/consulting', label: 'Consulting', img: '/images/srg0974.jpg', c: 'var(--c-consulting)' },
+  { href: '/blog', label: 'Blog', img: '/images/6t6a9095.jpeg', c: 'var(--c-blog)' },
 ];
 const nav = [
   ['Art', '/art'], ['Music', '/music'], ['Consulting', '/consulting'],
@@ -21,7 +21,9 @@ const accents = ['var(--c-art)', 'var(--c-music)', 'var(--c-consulting)', 'var(-
   <link rel="icon" href="/favicon.svg" type="image/svg+xml" />
 </head>
 <body class="d-body">
-  <button id="menu-open" class="menu-btn" aria-label="Open menu">Menu</button>
+  <button id="menu-open" class="menu-btn" aria-label="Open menu">
+    <img src="/images/r-rosette.png" alt="" />
+  </button>
 
   <main class="tiles">
     {doors.map((d) => (
@@ -33,7 +35,7 @@ const accents = ['var(--c-art)', 'var(--c-music)', 'var(--c-consulting)', 'var(-
   </main>
 
   <div id="overlay" class="overlay" hidden>
-    <button id="menu-close" class="menu-btn close" aria-label="Close menu">Close</button>
+    <button id="menu-close" class="menu-btn close" aria-label="Close menu">×</button>
     <nav>
       {nav.map(([label, href], i) => (
         <a href={href} style={`--door:${accents[i]}`}>{label}</a>
@@ -61,10 +63,13 @@ const accents = ['var(--c-art)', 'var(--c-music)', 'var(--c-consulting)', 'var(-
   }
   .menu-btn {
     position: fixed; top: 18px; right: 18px; z-index: 20;
-    font: inherit; font-size: 16px; font-weight: 600; cursor: pointer;
-    background: var(--bg); color: var(--ink); border: none; border-radius: 999px; padding: 10px 22px;
+    cursor: pointer; background: var(--bg); border: none; border-radius: 999px;
+    width: 64px; height: 64px; padding: 6px; display: flex; align-items: center; justify-content: center;
   }
-  .menu-btn:hover { background: var(--ink); color: var(--bg); }
+  .menu-btn img { width: 100%; height: auto; transition: transform .5s ease; }
+  .menu-btn:hover img { transform: rotate(36deg); }
+  .menu-btn.close { font-size: 34px; font-weight: 400; color: var(--ink); line-height: 1; }
+  .menu-btn.close:hover { background: var(--ink); color: var(--bg); }
   .overlay {
     position: fixed; inset: 0; z-index: 10; background: var(--bg);
     display: flex; align-items: center; justify-content: center;
