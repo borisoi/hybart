@@ -1,0 +1,53 @@
+---
+title: "The Case of Local Knowledge"
+date: 2011-04-19
+tags: ["2011", "site specific", "installation"]
+cover: /images/art/front-2-rooms-13x18-300dpi.jpg
+order: 49
+oldUrl: https://www.oicherman.art/boris/b-art/the-case-of-local-knowledge
+---
+
+Series of two shows, Gros Gallery, Tel Aviv, 2011, followed by an unsanctioned and unannounced public intervention in Jerusalem.
+
+### Chapter I
+
+![](https://images.squarespace-cdn.com/content/v1/5d6f24a74c0f580001660549/1571524413890-DFK5GJSYSXTITV43CEMC/front+2+rooms+13x18+300dpi.jpg?format=original)
+![](https://images.squarespace-cdn.com/content/v1/5d6f24a74c0f580001660549/1571524492926-I2R53P5B7W5YFIAD5TXC/Blue+room+hall+_+window.jpg?format=original)
+![](https://images.squarespace-cdn.com/content/v1/5d6f24a74c0f580001660549/1571524373036-OVMAN8L1X3K63WYAEZ2K/_Orange+room+hall+_+Window++13x18+300dpi.jpg?format=original)
+![](https://images.squarespace-cdn.com/content/v1/5d6f24a74c0f580001660549/1571524367655-636N1M63ZZWL7SXP0M8L/_Blue+lamps.jpg?format=original)
+![](https://images.squarespace-cdn.com/content/v1/5d6f24a74c0f580001660549/1571524375283-1WO7W50XRHDRRM2EGWFT/_Orange+lamps.jpg?format=original)
+![](https://images.squarespace-cdn.com/content/v1/5d6f24a74c0f580001660549/1571524369791-ZP9DWVK5PIROZBV0J38O/_Blue+window+2+13x18+300dpi.jpg?format=original)
+![](https://images.squarespace-cdn.com/content/v1/5d6f24a74c0f580001660549/1571524375886-U92VKMOPMOM0VT5YTBWL/_Orange+window+1.jpg?format=original)
+![](https://images.squarespace-cdn.com/content/v1/5d6f24a74c0f580001660549/1571524371710-WZ9DJYMQ2ZDVL9TS4NT5/_Orange+half+window+2++13x18+300dpi.jpg?format=original)
+![](https://images.squarespace-cdn.com/content/v1/5d6f24a74c0f580001660549/1571524365856-G52NINR2GF2DSQ2P8401/_Blue+half+window+1+13x18+300dpi.jpg?format=original)
+![](https://images.squarespace-cdn.com/content/v1/5d6f24a74c0f580001660549/1571524364762-HK34S9X8D1GOZAFSA8TU/_Balcony+orange+blue++13x18+300dpi.jpg?format=original)
+![](https://images.squarespace-cdn.com/content/v1/5d6f24a74c0f580001660549/1571524369744-U61P2KV7O9ZTKNGM5KMA/_From+the+stairs+13x18+300dpi.jpg?format=original)
+
+Gelatin light filters, air conditioners (existing). The air conditioning in the blue room is turned to heating; in the orange room – cooling.
+
+### Chapter II
+
+![](https://images.squarespace-cdn.com/content/v1/5d6f24a74c0f580001660549/1571525052000-LC1AKARVBXB7HK1U57HQ/1.jpg?format=original)
+![](https://images.squarespace-cdn.com/content/v1/5d6f24a74c0f580001660549/1571525019291-KLPD5F4DBDE3FCXQDR00/_view+hills+3.jpg?format=original)
+![](https://images.squarespace-cdn.com/content/v1/5d6f24a74c0f580001660549/1571525004607-KGH78BQBNSGM9P9VUA9V/_IMG_0375+%281%29.JPG?format=original)
+![](https://images.squarespace-cdn.com/content/v1/5d6f24a74c0f580001660549/1571525025697-MRFM4LFCFFPB61PSQ054/_stone+tomb+4.jpg?format=original)
+![](https://images.squarespace-cdn.com/content/v1/5d6f24a74c0f580001660549/1571525059392-SXWNCF9XBNU8QBQQTSF2/2.jpg?format=original)
+![](https://images.squarespace-cdn.com/content/v1/5d6f24a74c0f580001660549/1571525388328-G1OZ12LDGN620T54PA47/stone+tomb+1-2.jpg?format=original)
+![](https://images.squarespace-cdn.com/content/v1/5d6f24a74c0f580001660549/1571525471161-9YVUUMV46DNDRJ36AHDL/tomb+1.jpg?format=original)
+![](https://images.squarespace-cdn.com/content/v1/5d6f24a74c0f580001660549/1571525071467-X5BGOQ9AQTSWSRWHNWBC/6.jpg?format=original)
+![](https://images.squarespace-cdn.com/content/v1/5d6f24a74c0f580001660549/1571525457024-VWRHOL81VGG9NVCQY9I5/tomb+10.jpg?format=original)
+![](https://images.squarespace-cdn.com/content/v1/5d6f24a74c0f580001660549/1571525457409-2Q1PKDOTE68G8U4U1WBJ/tomb+4.jpg?format=original)
+![](https://images.squarespace-cdn.com/content/v1/5d6f24a74c0f580001660549/1571525079302-3YFEWA480I3N5TF63RPD/stone4.jpg?format=original)
+![](https://images.squarespace-cdn.com/content/v1/5d6f24a74c0f580001660549/1571525086321-A7X8C78JH81K9QF1BTFN/stone5.jpg?format=original)
+
+Basalt rocks from Beit Shean area are scattered across the gallery
+
+![](https://images.squarespace-cdn.com/content/v1/5d6f24a74c0f580001660549/1570502121014-VF4FK7DGHANTGQW9R29J/_MG_5913.jpg?format=original)
+![](https://images.squarespace-cdn.com/content/v1/5d6f24a74c0f580001660549/1570502108170-7VPTZ0TPYGTWMRPJD906/_MG_5912.jpg?format=original)
+![](https://images.squarespace-cdn.com/content/v1/5d6f24a74c0f580001660549/1570502081922-EFHLPC12QBC9DFK9A1FJ/_MG_5909.jpg?format=original)
+![](https://images.squarespace-cdn.com/content/v1/5d6f24a74c0f580001660549/1570502051429-SDJVLXTWVXYQMO80NNJI/_MG_5905.jpg?format=original)
+![](https://images.squarespace-cdn.com/content/v1/5d6f24a74c0f580001660549/1570502033851-5P8RFMA974QZDEDLP2JP/_MG_5901.jpg?format=original)
+![](https://images.squarespace-cdn.com/content/v1/5d6f24a74c0f580001660549/1570501995230-JXC9G1TT2U5IW4U5QBQN/_MG_5893.jpg?format=original)
+![](https://images.squarespace-cdn.com/content/v1/5d6f24a74c0f580001660549/1570502006148-1QNRFMRTRUY11YX0XL0A/_MG_5897.jpg?format=original)
+
+Basalt rocks from Beit Shean area are scattered in the Valley of the Cross in Jerusalem. (2013 – present)
