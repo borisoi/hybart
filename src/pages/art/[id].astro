@@ -32,3 +32,51 @@ const year = p.data.tags.find((t) => /^(19|20)\d\d/.test(t));
   .art-project :global(.prose img) { border-radius: 22px; margin: 28px 0; }
   .art-project :global(.prose iframe) { width: 100%; max-width: 68ch; aspect-ratio: 16 / 9; height: auto; border-radius: 22px; margin: 28px 0; display: block; }
 </style>
+
+<script>
+  const prose = document.querySelector('.art-project .prose');
+  if (prose) {
+    const isImgP = (el) => {
+      if (el.tagName !== 'P') return false;
+      let imgs = 0;
+      for (const n of el.childNodes) {
+        if (n.nodeType === 1 && n.tagName === 'IMG') imgs++;
+        else if (n.nodeType === 1 && n.tagName !== 'BR') return false;
+        else if (n.nodeType === 3 && n.textContent.trim()) return false;
+      }
+      return imgs > 0;
+    };
+    let run = [];
+    const flush = () => {
+      const imgs = run.flatMap((p) => Array.from(p.querySelectorAll('img')));
+      if (imgs.length >= 2) {
+        const gal = document.createElement('div');
+        gal.className = 'gal';
+        gal.innerHTML =
+          '<div class="gal-frame"></div><div class="gal-nav">' +
+          '<button class="gal-prev" aria-label="Previous image">&lsaquo;</button>' +
+          '<span class="gal-count"></span>' +
+          '<button class="gal-next" aria-label="Next image">&rsaquo;</button></div>';
+        run[0].before(gal);
+        const frame = gal.querySelector('.gal-frame');
+        imgs.forEach((im) => { im.loading = 'lazy'; frame.appendChild(im); });
+        run.forEach((p) => p.remove());
+        const count = gal.querySelector('.gal-count');
+        let idx = 0;
+        const show = (i) => {
+          idx = (i + imgs.length) % imgs.length;
+          imgs.forEach((im, k) => im.classList.toggle('on', k === idx));
+          count.textContent = `${idx + 1} / ${imgs.length}`;
+        };
+        gal.querySelector('.gal-prev').addEventListener('click', () => show(idx - 1));
+        gal.querySelector('.gal-next').addEventListener('click', () => show(idx + 1));
+        show(0);
+      }
+      run = [];
+    };
+    for (const el of Array.from(prose.children)) {
+      if (isImgP(el)) run.push(el); else flush();
+    }
+    flush();
+  }
+</script>
