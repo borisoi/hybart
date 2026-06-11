@@ -24,6 +24,7 @@ const testimonials = defineCollection({
     tags: z.array(z.string()).default([]),
     oldSlug: z.string().optional(),
     image: z.string().optional(),
+    focus: z.string().optional(),
     excerpt: z.string(),
   }),
 });

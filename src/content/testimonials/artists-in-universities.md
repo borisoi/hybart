@@ -5,7 +5,7 @@ role: "Artist; and Department Head and Chair in Environmental Engineering, Unive
 date: 2019-03-11
 tags: [artists, organizations]
 oldSlug: /testimonials/gudrun-page
-image: /images/paige-gudrun-combo.jpg
+image: /images/paige-gudrun-tile.jpg
 excerpt: Our collaboration across art, engineering, and environmental science, made possible through Boris's vision and facilitation, has opened up new avenues for interdisciplinary learning and problem-solving.
 ---
 

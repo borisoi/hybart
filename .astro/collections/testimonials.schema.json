@@ -45,6 +45,9 @@
         "image": {
           "type": "string"
         },
+        "focus": {
+          "type": "string"
+        },
         "excerpt": {
           "type": "string"
         },

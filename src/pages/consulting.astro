@@ -16,7 +16,7 @@ const testimonials = (await getCollection('testimonials')).sort(
     <div class="t-grid">
       {testimonials.map((t) => (
         <a href={`/consulting/${t.id}`}>
-          <div class="ph" style={`background-image:url('${t.data.image}')`}></div>
+          <div class="ph" style={`background-image:url('${t.data.image}')${t.data.focus ? `; background-position: ${t.data.focus}` : ''}`}></div>
           <span>{t.data.title}<em>{t.data.person}</em></span>
         </a>
       ))}
