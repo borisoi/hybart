@@ -35,23 +35,23 @@ Metallized poliester
 
 ### Saewoon market, Seoul
 
-![](https://images.squarespace-cdn.com/content/v1/5d6f24a74c0f580001660549/1571316737138-VSIO9G3Y86WUZSRFZY5B/0-1.jpg?format=original)
-![](https://images.squarespace-cdn.com/content/v1/5d6f24a74c0f580001660549/1571316732925-OU2OTU080OPOCRI8NPJ1/2-4.JPG?format=original)
-![](https://images.squarespace-cdn.com/content/v1/5d6f24a74c0f580001660549/1571316738743-RJ242OO9M22J3NSDIN6O/3-4.JPG?format=original)
-![](https://images.squarespace-cdn.com/content/v1/5d6f24a74c0f580001660549/1571316746593-V8ZJKQ1QH806KOS93WUD/3-6.jpg?format=original)
-![](https://images.squarespace-cdn.com/content/v1/5d6f24a74c0f580001660549/1571316746594-EURAUGO481JZ5D24D72S/4-3.jpg?format=original)
-![](https://images.squarespace-cdn.com/content/v1/5d6f24a74c0f580001660549/1571316755582-R5UKYAC6ANV6R68J5IN8/5-1.jpg?format=original)
-![](https://images.squarespace-cdn.com/content/v1/5d6f24a74c0f580001660549/1571316754222-JRWENXSLANEZDJW8C3ZT/5-3.JPG?format=original)
-![](https://images.squarespace-cdn.com/content/v1/5d6f24a74c0f580001660549/1571316759166-4EC3LFXUCZBSZ5510O6V/6-1.JPG?format=original)
-![](https://images.squarespace-cdn.com/content/v1/5d6f24a74c0f580001660549/1571316761249-9A6M8BPGAW6RFG5HEZT3/7-1.JPG?format=original)
-![](https://images.squarespace-cdn.com/content/v1/5d6f24a74c0f580001660549/1571316764663-C47H9X5WHCBJHF85WTD7/8-1.JPG?format=original)
-![](https://images.squarespace-cdn.com/content/v1/5d6f24a74c0f580001660549/1571316766525-6T342E577Z8G8FJCR4VU/me+_+eric.jpg?format=original)
+![](/images/art/0-1.jpg)
+![](/images/art/2-4.jpg)
+![](/images/art/3-4.jpg)
+![](/images/art/3-6.jpg)
+![](/images/art/4-3.jpg)
+![](/images/art/5-1.jpg)
+![](/images/art/5-3.jpg)
+![](/images/art/6-1.jpg)
+![](/images/art/7-1.jpg)
+![](/images/art/8-1.jpg)
+![](/images/art/me-eric.jpg)
 
 With Eric Reeder. Photography: Eric Reeder, Boris Oicherman. Metallized Polyester
 
 ### Local Flow
 
-![](https://images.squarespace-cdn.com/content/v1/5d6f24a74c0f580001660549/1571953305113-K9MDM9DFWPG4K974CMQA/Local%2BFlow.jpg?format=original)
+![](/images/art/local-flow.jpg)
 
 Metallized Polyester
 

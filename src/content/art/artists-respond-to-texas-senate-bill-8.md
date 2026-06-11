@@ -34,4 +34,4 @@ The status of a political controversy does not exempt an issue from moral scruti
 
 Minneapolis, 2021
 
-[caption id="" align="alignnone" width="819"][![  If you see something  by Monica Sheets ](https://images.squarespace-cdn.com/content/v1/5d6f24a74c0f580001660549/18916d5e-276e-4d2b-9750-5f45a33d1361/USE-THIS-see_something-2.jpg?format=original)](https://wam.umn.edu/education/target-studio-for-creative-collaboration/laborofsharedmeaning/) If you see something by Monica Sheets [/caption]
+[caption id="" align="alignnone" width="819"][![  If you see something  by Monica Sheets ](/images/art/use-this-see-something-2.jpg)](https://wam.umn.edu/education/target-studio-for-creative-collaboration/laborofsharedmeaning/) If you see something by Monica Sheets [/caption]

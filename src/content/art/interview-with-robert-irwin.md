@@ -8,7 +8,7 @@ order: 14
 oldUrl: https://www.oicherman.art/boris/b-art/interview-with-robert-irwin
 ---
 
-[caption id="" align="alignnone" width="2000"][![ Robert Irwin at his studio during the First National Symposium on Habitability of Environments, 1970. Photograph by Larry Bell ](https://images.squarespace-cdn.com/content/v1/5d6f24a74c0f580001660549/8e8e9863-32ea-488e-b969-c72bd8b8a8b8/Irwin-at-symposium-1.jpeg?format=original)](https://wam.umn.edu/2018/10/01/habitability-of-environments-interview-with-robert-irwin/) Robert Irwin at his studio during the First National Symposium on Habitability of Environments, 1970. Photograph by Larry Bell [/caption]
+[caption id="" align="alignnone" width="2000"][![ Robert Irwin at his studio during the First National Symposium on Habitability of Environments, 1970. Photograph by Larry Bell ](/images/art/irwin-at-symposium-1.jpeg)](https://wam.umn.edu/2018/10/01/habitability-of-environments-interview-with-robert-irwin/) Robert Irwin at his studio during the First National Symposium on Habitability of Environments, 1970. Photograph by Larry Bell [/caption]
 
 Originally published on the [Weisman Art Museum](https://wam.umn.edu/2018/10/01/habitability-of-environments-interview-with-robert-irwin/) website in 2018
 
@@ -54,20 +54,20 @@ Normally, they come to town and they stay at the Intercontinental and they go do
 
 Then I had them brought over from the hotel. They were lost, they walked up an alley and there’s a hole in the wall that I just knocked down with a sledgehammer. They went in through it, and they were inside the space, which was a little bit like a capsule. There was no outdoor, no sense of where it was, no amenities, no outside light, no outside noise. I built a cardboard island, a stand for them to sit on so that the acoustics were good enough that they could carry on a normal conversation.
 
-[caption id="" align="alignnone" width="899"]![  Robert Irwin and Ed Wortz preparing Irwin’s studio for the symposium  ](https://images.squarespace-cdn.com/content/v1/5d6f24a74c0f580001660549/3ce96424-01e5-4e71-b461-62ffa9c12aa2/What-Happened-In-Part019.jpeg?format=original) Robert Irwin and Ed Wortz preparing Irwin’s studio for the symposium [/caption]
+[caption id="" align="alignnone" width="899"]![  Robert Irwin and Ed Wortz preparing Irwin’s studio for the symposium  ](/images/art/what-happened-in-part019.jpeg) Robert Irwin and Ed Wortz preparing Irwin’s studio for the symposium [/caption]
 
 They were really fucked up. They were really nervous. This is not what they bargained for. This was not a comfortable space. There’s no daylight. There’s no sense of outdoors. You’re in a capsule. And so they persevered. I mean, they went ahead to do what they do, gave their papers, and everyone sat on this island. But during the first morning a lot of physical changes were made. They took off their jackets and they did the best they could do to accommodate this space, be in this space.
 
-[caption id="" align="alignnone" width="1500"]![  Back alley leading to the opening to Irwin’s studio. Irwin and the freshly made opening  ](https://images.squarespace-cdn.com/content/v1/5d6f24a74c0f580001660549/8225c43a-2922-4aa1-b3d3-db14bc41e676/Combo-Photo.jpeg?format=original) Back alley leading to the opening to Irwin’s studio. Irwin and the freshly made opening [/caption]
+[caption id="" align="alignnone" width="1500"]![  Back alley leading to the opening to Irwin’s studio. Irwin and the freshly made opening  ](/images/art/combo-photo.jpeg) Back alley leading to the opening to Irwin’s studio. Irwin and the freshly made opening [/caption]
 
 With other artists involved we prepared a lunch;[[9]](https://www.oicherman.art/boris/b-art/interview-with-robert-irwin/#9) we tried to make it as crunchy as bittersweet, tactile as well as nutritious. In the afternoon, they broke up into smaller groups, each group having one component of the dialogue. We made rooms for them. We made a room that was just a little too small and we made a room that was just way too big. And we made a room that was too reverberant. And one which was too sound-dampened. Every room had a problem, a physical problem. And they persevered, because they’re professionals.
 
-[caption id="" align="alignnone" width="1000"]![  Lunch  ](https://images.squarespace-cdn.com/content/v1/5d6f24a74c0f580001660549/0f549b37-4016-437b-bc3a-bdf6cdec063d/img128.jpeg?format=original) Lunch [/caption]
+[caption id="" align="alignnone" width="1000"]![  Lunch  ](/images/art/img128.jpeg) Lunch [/caption]
 
 When they came the second day there was more light in the room. I had one wall made out of sonotubes[[10]](https://www.oicherman.art/boris/b-art/interview-with-robert-irwin/#10) so that I could just swing it up.[[11]](https://www.oicherman.art/boris/b-art/interview-with-robert-irwin/#11) And they were more relaxed that day. They changed. You could see their change of clothes and habits. People who started out the first day having trouble doing their papers, the second day they were in a much more accommodating mood. At the end of that day’s session I cut [the paper side wall] and we walked out through it; they all sat on the curb and began to intermix rather differently.
 
-[caption id="" align="alignnone" width="1000"]![ Symposium space on the first day ](https://images.squarespace-cdn.com/content/v1/5d6f24a74c0f580001660549/83eed00c-f78a-4aa1-8c61-d1382a4cf704/img129.jpeg?format=original) Symposium space on the first day [/caption]
-[caption id="" align="alignnone" width="1000"]![ Symposium space on the second day ](https://images.squarespace-cdn.com/content/v1/5d6f24a74c0f580001660549/116fac43-92d5-4806-b154-724147a16d9d/img127.jpeg?format=original) Symposium space on the second day [/caption]
+[caption id="" align="alignnone" width="1000"]![ Symposium space on the first day ](/images/art/img129.jpeg) Symposium space on the first day [/caption]
+[caption id="" align="alignnone" width="1000"]![ Symposium space on the second day ](/images/art/img127.jpeg) Symposium space on the second day [/caption]
 
 They were to go into those rooms, too big, too small, too reverberant, too dark, too light, and some said, “No. We’re not gonna go in them. We’ll go out and sit on the beach and hold our thing.” Which, of course . . . The first day they were in suits and second day they dressed more casually and were amenable to go sit outside or on the beach. And because obviously these rooms had been too uncomfortable. I don’t know to what degree they acknowledged that.
 
@@ -103,7 +103,7 @@ Responsibility now becomes how and what way do we organize it as a discipline, a
 
 I think the problem [of cross-disciplinary work] is still a problem. It hasn’t been solved. Cross disciplining is the ambition of a lot of people in academia and has very seldom ever been pulled off. I’m just weighing right now in my mind what it would take for you to be able to do that.[[14]](https://www.oicherman.art/boris/b-art/interview-with-robert-irwin/#14)
 
-[caption id="" align="alignnone" width="1000"]![  Afternoon session on the beach  ](https://images.squarespace-cdn.com/content/v1/5d6f24a74c0f580001660549/27895790-44e1-459c-b2af-74ab7f89d0c7/What-Happened-In-Part005.jpeg?format=original) Afternoon session on the beach [/caption]
+[caption id="" align="alignnone" width="1000"]![  Afternoon session on the beach  ](/images/art/what-happened-in-part005.jpeg) Afternoon session on the beach [/caption]
 
 **BO:** How would you imagine a show about the symposium?
 
@@ -145,7 +145,7 @@ The trip to the universe. It was a totally intriguing and beautiful problem, but
 
 Whether I’m right or wrong, in my mind I got involved in a really great question of what it means to be an artist right now and in what way art is going to manifest itself.
 
-[caption id="" align="alignnone" width="1000"]![  Symposium space on the second day. Image: Larry Bell (at the back, operating the movie camera)  ](https://images.squarespace-cdn.com/content/v1/5d6f24a74c0f580001660549/3418c42b-123f-4575-a9fa-e0f1a0590227/img134.jpeg?format=original) Symposium space on the second day. Image: Larry Bell (at the back, operating the movie camera) [/caption]
+[caption id="" align="alignnone" width="1000"]![  Symposium space on the second day. Image: Larry Bell (at the back, operating the movie camera)  ](/images/art/img134.jpeg) Symposium space on the second day. Image: Larry Bell (at the back, operating the movie camera) [/caption]
 
 **BO:** How did this question change after the symposium?
 
@@ -163,4 +163,4 @@ They tolerated this thing in the beginning—and then became aware that, essenti
 
 *All color images are from Larry Bell Studio archive. Bell’s color images of the symposium were discovered and first published by Matthew T. Simms in* Robert Irwin: A Conditional Art*, Yale University Press, 2016*
 
-[caption id="" align="alignnone" width="768"]![  Ed Wortz. Photographer unknown.  ](https://images.squarespace-cdn.com/content/v1/5d6f24a74c0f580001660549/e8933564-d041-4011-9abf-5a6fd131565d/Wortz-in-space-suit.jpeg?format=original) Ed Wortz. Photographer unknown. [/caption]
+[caption id="" align="alignnone" width="768"]![  Ed Wortz. Photographer unknown.  ](/images/art/wortz-in-space-suit.jpeg) Ed Wortz. Photographer unknown. [/caption]

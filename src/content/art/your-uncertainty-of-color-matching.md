@@ -7,9 +7,9 @@ order: 54
 oldUrl: https://www.oicherman.art/boris/b-art/your-uncertainty-of-color-matching
 ---
 
-![](https://images.squarespace-cdn.com/content/v1/5d6f24a74c0f580001660549/1571773552478-0358ZH9JV5H47UUA2ONB/IMG_MDA101645_1600px.jpg?format=original)
-![](https://images.squarespace-cdn.com/content/v1/5d6f24a74c0f580001660549/1571773552539-N5N1CYXQLU2VHXZKCXKV/IMG_MDA101646_1600px.jpg?format=original)
-![](https://images.squarespace-cdn.com/content/v1/5d6f24a74c0f580001660549/1571773553083-W1S7TLXG6R70NPMY5TNL/IMG_MDA101647_1600px.jpg?format=original)
+![](/images/art/img-mda101645-1600px.jpg)
+![](/images/art/img-mda101646-1600px.jpg)
+![](/images/art/img-mda101647-1600px.jpg)
 
 Olafur Eliasson with Boris Ocherman  
 [Ikon Gallery](https://www.ikon-gallery.org/event/your-uncertainty-of-colour-matching-experiment/), Birmingham, UK, 26 July – 17 September 2006

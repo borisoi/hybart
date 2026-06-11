@@ -7,21 +7,21 @@ order: 17
 oldUrl: https://www.oicherman.art/boris/b-art/why-red
 ---
 
-![](https://images.squarespace-cdn.com/content/v1/5d6f24a74c0f580001660549/1569185000248-24ZQZNQ2CZ1E8QEXU3HH/_BOB6215-Edit-Edit.jpg?format=original)
-![](https://images.squarespace-cdn.com/content/v1/5d6f24a74c0f580001660549/1569185010435-84EWY95VFZQ4T99XYULE/_BOB6288-Edit.jpg?format=original)
-![](https://images.squarespace-cdn.com/content/v1/5d6f24a74c0f580001660549/1569185008782-SV2P2HBZIO0XQB41PYP2/_BOB6264-Edit.jpg?format=original)
-![](https://images.squarespace-cdn.com/content/v1/5d6f24a74c0f580001660549/1569185010893-2GIZEV8LJ17ROIU1KGVH/_BOB6296.jpg?format=original)
+![](/images/art/bob6215-edit-edit.jpg)
+![](/images/art/bob6288-edit.jpg)
+![](/images/art/bob6264-edit.jpg)
+![](/images/art/bob6296.jpg)
 ![](https://images.squarespace-cdn.com/content/v1/5d6f24a74c0f580001660549/1569185007456-3I7JIY9BXM0QWGX73P5D/_BOB6269-Edit.jpg?format=original)
-![](https://images.squarespace-cdn.com/content/v1/5d6f24a74c0f580001660549/1569184991071-6BX475ZD9K2THXNBEF88/_BOB6060-Edit.jpg?format=original)
-![](https://images.squarespace-cdn.com/content/v1/5d6f24a74c0f580001660549/1569184996316-HIKL2RRWXOMN1QZ1M7FO/_BOB6192-Edit-Edit.jpg?format=original)
-![](https://images.squarespace-cdn.com/content/v1/5d6f24a74c0f580001660549/1569184987941-HYN8HAJMRTROYZGX5G0Q/_BOB6057-Edit.jpg?format=original)
-![](https://images.squarespace-cdn.com/content/v1/5d6f24a74c0f580001660549/1569184996452-5ININ4XJNMCQLRK8ON9C/_BOB6184.jpg?format=original)
-![](https://images.squarespace-cdn.com/content/v1/5d6f24a74c0f580001660549/1569184979231-4B95TDNSKISHP4XM7HVN/_BOB5975-Edit.jpg?format=original)
-![](https://images.squarespace-cdn.com/content/v1/5d6f24a74c0f580001660549/1569184993906-601XVQO64DD56QJDWOBE/_BOB6131-Edit.jpg?format=original)
-![](https://images.squarespace-cdn.com/content/v1/5d6f24a74c0f580001660549/1569184978975-H63KSP3H53F0CPF6WBA9/_BOB6011-Edit-Edit.jpg?format=original)
-![](https://images.squarespace-cdn.com/content/v1/5d6f24a74c0f580001660549/1569184984421-7TALEPKAUYGBOF56KA2K/_BOB6039-HDR-Edit.jpg?format=original)
-![](https://images.squarespace-cdn.com/content/v1/5d6f24a74c0f580001660549/1569184984614-F6QLPO1U84B5HN7ZAMRS/_BOB6043-HDR-Edit.jpg?format=original)
-![](https://images.squarespace-cdn.com/content/v1/5d6f24a74c0f580001660549/1569184988006-L8OYY1D4EW8AOGL5GVQW/_BOB6048-HDR-Edit.jpg?format=original)
+![](/images/art/bob6060-edit.jpg)
+![](/images/art/bob6192-edit-edit.jpg)
+![](/images/art/bob6057-edit.jpg)
+![](/images/art/bob6184.jpg)
+![](/images/art/bob5975-edit.jpg)
+![](/images/art/bob6131-edit.jpg)
+![](/images/art/bob6011-edit-edit.jpg)
+![](/images/art/bob6039-hdr-edit.jpg)
+![](/images/art/bob6043-hdr-edit.jpg)
+![](/images/art/bob6048-hdr-edit.jpg)
 
 June 2017, Stanford CA, USA. Installation, durational performance. Glass, spotlight, gelatin filters, colored acrylic, books, furniture. Part of the MFA graduation exhibition, Department of Art and Art History, Stanford University.
 

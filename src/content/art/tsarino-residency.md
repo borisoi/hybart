@@ -28,12 +28,12 @@ Happening. Wood, existing construction
 
 ### Local Fabric
 
-![](https://images.squarespace-cdn.com/content/v1/5d6f24a74c0f580001660549/1571777347041-RRTTXGZPVNOTJ7JQ2RXS/library+1.JPG?format=original)
-![](https://images.squarespace-cdn.com/content/v1/5d6f24a74c0f580001660549/1571777348804-XYRTX44G6VL42ZVRFU2B/library+2.JPG?format=original)
-![](https://images.squarespace-cdn.com/content/v1/5d6f24a74c0f580001660549/1571777364958-N9CM766HXO4GZVDZIXXV/stage+2.JPG?format=original)
-![](https://images.squarespace-cdn.com/content/v1/5d6f24a74c0f580001660549/1571777407691-KG5SP3TPHSFZWFL1BK57/Fabric.JPG?format=original)
-![](https://images.squarespace-cdn.com/content/v1/5d6f24a74c0f580001660549/1571777458803-BVIC4B4ERR4BJZA3G8IX/closeup+9.JPG?format=original)
-![](https://images.squarespace-cdn.com/content/v1/5d6f24a74c0f580001660549/1571777503071-B0XDURY3SI3NDBYHR155/closeup+6.JPG?format=original)
+![](/images/art/library-1.jpg)
+![](/images/art/library-2.jpg)
+![](/images/art/stage-2.jpg)
+![](/images/art/fabric.jpg)
+![](/images/art/closeup-9.jpg)
+![](/images/art/closeup-6.jpg)
 
 Found collection of textiles
 

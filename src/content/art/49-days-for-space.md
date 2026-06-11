@@ -7,8 +7,8 @@ order: 22
 oldUrl: https://www.oicherman.art/boris/b-art/49-days-for-space
 ---
 
-![](https://images.squarespace-cdn.com/content/v1/5d6f24a74c0f580001660549/1569767999823-HW3F65I94VJ0Q4TRU8KW/49+Days+For+Space+1.jpg?format=original)
-![](https://images.squarespace-cdn.com/content/v1/5d6f24a74c0f580001660549/1569767992768-W5PTLPDU7IVOMUC6JYR4/49+Days+For+Space+2.JPG?format=original)
+![](/images/art/49-days-for-space-1.jpg)
+![](/images/art/49-days-for-space-2.jpg)
 
 7-week-long durational performance. In collaboration with Laura Steenberge. Electric guitar, transducers, software, hardware, computer. January-February 2016, Stanford, CA, USA. Image: Dave Kerr
 

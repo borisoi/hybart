@@ -19,14 +19,14 @@ Installation in the Water Tower. Fans, bulbs, cables
 
 ### Experiments in Closed Space
 
-![](https://images.squarespace-cdn.com/content/v1/5d6f24a74c0f580001660549/1571848974600-GECD6HHC08V6KOAPRE60/figure+with+shadow.jpg?format=original)
-![](https://images.squarespace-cdn.com/content/v1/5d6f24a74c0f580001660549/1571849017667-S8C7260LRBXXCPHQXNBN/projector+_+red+room+door+2.jpg?format=original)
-![](https://images.squarespace-cdn.com/content/v1/5d6f24a74c0f580001660549/1571849036892-GR2Y3KNHDA31D04YYUEN/Entrance.jpg?format=original)
-![](https://images.squarespace-cdn.com/content/v1/5d6f24a74c0f580001660549/1571849067350-AS0M64DIGSLMKJA3LSO9/Red+room.jpg?format=original)
-![](https://images.squarespace-cdn.com/content/v1/5d6f24a74c0f580001660549/1571849054727-3E5KMZPS1M2WJR5YGIMQ/Red+room+desk+2.jpg?format=original)
-![](https://images.squarespace-cdn.com/content/v1/5d6f24a74c0f580001660549/1571849092745-32WT44UQTARJFPNX65EI/red+door+1.jpg?format=original)
-![](https://images.squarespace-cdn.com/content/v1/5d6f24a74c0f580001660549/1571849127736-EGT16RYRLOF47Q6YOI90/Red+door.jpg?format=original)
-![](https://images.squarespace-cdn.com/content/v1/5d6f24a74c0f580001660549/1571849139067-EVND7W7VRB6HCG60NU8H/red+door+_+stones.jpg?format=original)
-![](https://images.squarespace-cdn.com/content/v1/5d6f24a74c0f580001660549/1571849160028-5W6E9R8K423AZC0GRUO7/Rocks+_+kid+4+13x18+300dpi.jpg?format=original)
+![](/images/art/figure-with-shadow.jpg)
+![](/images/art/projector-red-room-door-2.jpg)
+![](/images/art/entrance.jpg)
+![](/images/art/red-room.jpg)
+![](/images/art/red-room-desk-2.jpg)
+![](/images/art/red-door-1.jpg)
+![](/images/art/red-door.jpg)
+![](/images/art/red-door-stones.jpg)
+![](/images/art/rocks-kid-4-13x18-300dpi.jpg)
 
 Gallery exhibition. Videofeedback projection, silver gelatin prints, heating lamp, red gel filters, rocks.
