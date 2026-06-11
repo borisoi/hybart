@@ -10,9 +10,10 @@ export async function getStaticPaths() {
 const { p } = Astro.props;
 const { Content } = await render(p);
 const year = p.data.tags.find((t) => /^(19|20)\d\d/.test(t));
+const singleColumn = p.id === 'interview-with-robert-irwin';
 ---
 <Base title={p.data.title} accent="var(--c-art)">
-  <article class="art-project">
+  <article class="art-project" data-single={singleColumn ? '1' : undefined}>
     <p class="meta">
       {year && <span>{year}</span>}
       {p.data.tags.filter((t) => t !== year).map((t) => <span>{t}</span>)}
@@ -112,7 +113,8 @@ const year = p.data.tags.find((t) => /^(19|20)\d\d/.test(t));
     };
     const kids = Array.from(prose.children);
     const mediaEls = kids.filter(isMediaEl);
-    if (mediaEls.length > 0 && mediaEls.length < kids.length) {
+    const single = document.querySelector('.art-project')?.dataset.single === '1';
+    if (!single && mediaEls.length > 0) {
       const cols = document.createElement('div');
       cols.className = 'art-cols';
       const media = document.createElement('div'); media.className = 'col-media';
@@ -126,5 +128,25 @@ const year = p.data.tags.find((t) => /^(19|20)\d\d/.test(t));
       window.addEventListener('resize', updatePin);
       updatePin();
     }
+
+    // lightbox for images (not linked images, not videos)
+    const box = document.createElement('div');
+    box.className = 'lightbox';
+    box.hidden = true;
+    box.innerHTML = '<img alt="" />';
+    document.body.appendChild(box);
+    const boxImg = box.querySelector('img');
+    const close = () => { box.hidden = true; document.body.style.overflow = ''; };
+    box.addEventListener('click', close);
+    document.addEventListener('keydown', (e) => { if (e.key === 'Escape') close(); });
+    prose.querySelectorAll('img').forEach((im) => {
+      if (im.closest('a')) return;
+      im.classList.add('zoomable');
+      im.addEventListener('click', () => {
+        boxImg.src = im.src;
+        box.hidden = false;
+        document.body.style.overflow = 'hidden';
+      });
+    });
   }
 </script>

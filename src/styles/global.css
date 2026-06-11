@@ -89,6 +89,17 @@ blockquote { margin: 28px 0; padding-left: 18px; border-left: 3px solid var(--ac
 }
 .gal-nav button:hover { background: var(--ink); color: var(--bg); }
 .gal-count { font-size: 14px; color: var(--muted); min-width: 56px; text-align: center; }
+
+/* image lightbox */
+img.zoomable { cursor: zoom-in; }
+.lightbox {
+  position: fixed; inset: 0; z-index: 50;
+  background: rgba(17, 17, 17, 0.93);
+  display: flex; align-items: center; justify-content: center;
+  cursor: zoom-out;
+}
+.lightbox[hidden] { display: none; }
+.lightbox img { max-width: 94vw; max-height: 94vh; width: auto; height: auto; object-fit: contain; border-radius: 12px; }
 .prose a { color: var(--accent, var(--c-art)); }
 .prose a:hover { color: var(--ink); }
 
