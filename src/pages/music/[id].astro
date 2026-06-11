@@ -34,6 +34,8 @@ const singleColumn = false;
   .art-project :global(.prose iframe) { width: 100%; max-width: 68ch; aspect-ratio: 16 / 9; height: auto; border-radius: 22px; margin: 28px 0; display: block; }
   .art-project :global(.prose iframe[src*="bandcamp"]) { aspect-ratio: auto; height: 470px; max-width: 420px; }
   .art-project :global(.art-cols) { display: grid; grid-template-columns: 65fr 35fr; gap: 44px; align-items: start; }
+  .art-project :global(.art-cols.compact) { grid-template-columns: minmax(0, 440px) minmax(0, 1fr); gap: 56px; }
+  .art-project :global(.art-cols.compact .col-text) { max-width: 68ch; }
   .art-project :global(.art-cols.solo .col-media) { position: sticky; top: 24px; }
   .art-project :global(.art-cols .col-media .gal),
   .art-project :global(.art-cols .col-media p),
@@ -123,6 +125,11 @@ const singleColumn = false;
       const text = document.createElement('div'); text.className = 'col-text';
       for (const el of kids) (isMediaEl(el) ? media : text).appendChild(el);
       cols.append(media, text);
+      const mediaImgs = media.querySelectorAll('img').length;
+      const frames = Array.from(media.querySelectorAll('iframe'));
+      if (mediaImgs === 0 && frames.length > 0 && frames.every((f) => f.src.includes('bandcamp'))) {
+        cols.classList.add('compact');
+      }
       prose.appendChild(cols);
       const updatePin = () =>
         cols.classList.toggle('solo', media.offsetHeight < window.innerHeight - 90);
