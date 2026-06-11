@@ -12,13 +12,121 @@ const { Content } = await render(post);
 const fmt = (d: Date) =>
   d.toLocaleDateString('en-US', { year: 'numeric', month: 'long', day: 'numeric' });
 ---
-<Base title={post.data.title} description={post.data.excerpt} accent="var(--c-blog)" crumb="Blog" crumbHref="/blog">
-  <article>
-    <p style="color: var(--muted); font-size: 14px; margin: 48px 0 0;">{fmt(post.data.date)} · Boris Oicherman</p>
-    <h1 style="margin-top: 8px;">{post.data.title}</h1>
+<Base title={post.data.title} description={post.data.excerpt} accent="var(--c-blog)" crumb="Blog" crumbHref="/blog" wide>
+  <article class="post">
+    <p class="meta">{fmt(post.data.date)} · Boris Oicherman</p>
+    <h1>{post.data.title}</h1>
     <div class="prose">
       <Content />
     </div>
   </article>
   <p style="margin-top: 56px;"><a href="/blog">← All posts</a></p>
 </Base>
+
+<style>
+  .post .meta { color: var(--muted); font-size: 14px; margin: 48px 0 0; }
+  .post h1 { margin-top: 8px; max-width: 26ch; }
+  .post :global(.prose img) { border-radius: 22px; margin: 0 0 20px; width: 100%; }
+  .post :global(.prose iframe) { border-radius: 22px; width: 100%; }
+  .post :global(.brow) { display: grid; grid-template-columns: 58fr 42fr; gap: 52px; align-items: start; margin-bottom: 8px; }
+  .post :global(.brow .rtext) { max-width: 64ch; }
+  .post :global(.brow .rtext > :first-child) { margin-top: 0; }
+  .post :global(.brow .rmedia) { position: sticky; top: 24px; padding-top: 6px; }
+  .post :global(.brow .rmedia p) { max-width: none; margin: 0 0 14px; }
+  .post :global(details.intro) { border-top: 1px solid var(--rule); padding: 2px 0; }
+  .post :global(details.intro:last-of-type) { border-bottom: 1px solid var(--rule); }
+  .post :global(details.intro summary) { cursor: pointer; list-style: none; padding: 14px 0; font-weight: 600; font-size: 17px; }
+  .post :global(details.intro summary::-webkit-details-marker) { display: none; }
+  .post :global(details.intro summary::after) { content: ' +'; color: var(--c-blog); }
+  .post :global(details.intro[open] summary::after) { content: ' –'; }
+  .post :global(details.intro summary:hover) { color: var(--c-blog); }
+  .post :global(details.intro .intro-body) { padding: 0 0 18px; }
+  .post :global(details.intro .intro-body p) { margin-top: 0; }
+  @media (max-width: 860px) {
+    .post :global(.brow) { display: block; }
+    .post :global(.brow .rmedia) { position: static; margin: 18px 0; }
+  }
+</style>
+
+<script>
+  const prose = document.querySelector('.post .prose');
+  if (prose) {
+    // 1. turn leading "About ..." list blocks into accordions
+    const uls = Array.from(prose.children).slice(0, 4).filter((el) => el.tagName === 'UL');
+    const intros = [];
+    for (const ul of uls) {
+      const lis = Array.from(ul.children).filter((li) => li.querySelector('h1,h2,h3,h4,h5'));
+      if (lis.length === 0 || lis.length !== ul.children.length) continue;
+      for (const li of ul.children) {
+        const h = li.querySelector('h1,h2,h3,h4,h5');
+        const det = document.createElement('details');
+        det.className = 'intro';
+        const sum = document.createElement('summary');
+        sum.textContent = h.textContent;
+        h.remove();
+        const body = document.createElement('div');
+        body.className = 'intro-body';
+        while (li.firstChild) body.appendChild(li.firstChild);
+        det.append(sum, body);
+        intros.push(det);
+      }
+      ul.remove();
+    }
+
+    // 2. classify media paragraphs
+    const isMediaEl = (el) => {
+      if (el.tagName === 'IFRAME') return true;
+      if (el.tagName !== 'P') return false;
+      let media = 0;
+      for (const n of el.childNodes) {
+        if (n.nodeType === 3) { if (n.textContent.trim()) return false; continue; }
+        if (n.nodeType !== 1) continue;
+        if (n.tagName === 'IMG' || n.tagName === 'IFRAME') media++;
+        else if (n.tagName === 'A' && n.children.length === 1 && n.children[0].tagName === 'IMG') media++;
+        else if (n.tagName !== 'BR') return false;
+      }
+      return media > 0;
+    };
+
+    // 3. pull the lead image (cover) if it opens the post
+    const kids = () => Array.from(prose.children);
+    let coverEl = null;
+    for (const el of kids().slice(0, 2)) {
+      if (isMediaEl(el)) { coverEl = el; break; }
+    }
+    if (coverEl) coverEl.remove();
+
+    // 4. build rows: text accumulates left, each media element closes a row on the right
+    const rows = [];
+    let current = { text: [], media: [] };
+    if (intros.length) {
+      current.text = intros;
+      if (coverEl) current.media = [coverEl];
+      rows.push(current);
+      current = { text: [], media: [] };
+    } else if (coverEl) {
+      current.media.push(coverEl);
+    }
+    for (const el of kids()) {
+      if (isMediaEl(el)) {
+        current.media.push(el);
+        rows.push(current);
+        current = { text: [], media: [] };
+      } else {
+        current.text.push(el);
+      }
+    }
+    if (current.text.length || current.media.length) rows.push(current);
+
+    for (const r of rows) {
+      const row = document.createElement('div');
+      row.className = 'brow';
+      const rt = document.createElement('div'); rt.className = 'rtext';
+      const rm = document.createElement('div'); rm.className = 'rmedia';
+      r.text.forEach((el) => rt.appendChild(el));
+      r.media.forEach((el) => rm.appendChild(el));
+      row.append(rt, rm);
+      prose.appendChild(row);
+    }
+  }
+</script>

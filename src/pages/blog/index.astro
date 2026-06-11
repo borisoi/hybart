@@ -7,14 +7,39 @@ const posts = (await getCollection('blog')).sort(
 const fmt = (d: Date) =>
   d.toLocaleDateString('en-US', { year: 'numeric', month: 'long', day: 'numeric' });
 ---
-<Base title="Blog" accent="var(--c-blog)" crumb="Blog">
-  <p style="color: var(--muted); margin-top: 40px;">Essays, interviews and reviews about all things hybrid arts.</p>
-
-  {posts.map((p) => (
-    <article class="entry">
-      <p class="meta">{fmt(p.data.date)}</p>
-      <h2><a href={`/blog/${p.id}`}>{p.data.title}</a></h2>
-      {p.data.excerpt && <p><em>{p.data.excerpt}</em></p>}
-    </article>
-  ))}
+<Base title="Blog" description="Essays, interviews and reviews about all things hybrid arts." accent="var(--c-blog)" crumb="Blog" wide>
+  <div class="b-grid">
+    {posts.map((p) => (
+      <article>
+        <a class="b-tile" href={`/blog/${p.id}`}>
+          <div class="ph" style={`background-image:url('${p.data.cover}')`}></div>
+          <span>{p.data.title}</span>
+        </a>
+        <p class="b-meta">{fmt(p.data.date)}</p>
+        {p.data.excerpt && <p class="b-quote">{p.data.excerpt}</p>}
+      </article>
+    ))}
+  </div>
 </Base>
+
+<style>
+  .b-grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 36px 14px; margin-top: 28px; }
+  .b-tile {
+    position: relative; display: flex; align-items: flex-end;
+    aspect-ratio: 4 / 3; overflow: hidden; border-radius: 22px; text-decoration: none;
+  }
+  .b-tile .ph { position: absolute; inset: 0; background-size: cover; background-position: center; transition: transform .3s ease; }
+  .b-tile:hover .ph { transform: scale(1.04); }
+  .b-tile::after { content: ''; position: absolute; inset: 0; border-radius: 22px;
+    background: linear-gradient(to top, rgba(0,0,0,.6), rgba(0,0,0,0) 50%); }
+  .b-tile:hover::after { background: var(--c-blog); mix-blend-mode: multiply; opacity: .55; }
+  .b-tile span {
+    position: relative; z-index: 1; color: #faf9f5;
+    font-size: 17px; font-weight: 600; letter-spacing: -0.01em; line-height: 1.25;
+    padding: 12px 16px;
+  }
+  .b-meta { font-size: 13px; color: var(--muted); margin: 10px 2px 0; }
+  .b-quote { font-size: 15px; font-style: italic; color: var(--ink); margin: 4px 2px 0; line-height: 1.45; }
+  @media (max-width: 1100px) { .b-grid { grid-template-columns: repeat(2, 1fr); } }
+  @media (max-width: 600px) { .b-grid { grid-template-columns: 1fr; } }
+</style>
