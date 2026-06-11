@@ -31,6 +31,17 @@ const year = p.data.tags.find((t) => /^(19|20)\d\d/.test(t));
   .art-project h1 { margin-top: 8px; }
   .art-project :global(.prose img) { border-radius: 22px; margin: 28px 0; }
   .art-project :global(.prose iframe) { width: 100%; max-width: 68ch; aspect-ratio: 16 / 9; height: auto; border-radius: 22px; margin: 28px 0; display: block; }
+  .art-project :global(.art-cols) { display: grid; grid-template-columns: 1.05fr 0.95fr; gap: 44px; align-items: start; }
+  .art-project :global(.art-cols .col-media) { position: sticky; top: 24px; }
+  .art-project :global(.art-cols .col-media .gal),
+  .art-project :global(.art-cols .col-media iframe),
+  .art-project :global(.art-cols .col-media img) { max-width: none; width: 100%; }
+  .art-project :global(.art-cols .col-media > :first-child) { margin-top: 28px; }
+  .art-project :global(.art-cols .col-text) { max-width: 62ch; }
+  @media (max-width: 860px) {
+    .art-project :global(.art-cols) { display: block; }
+    .art-project :global(.art-cols .col-media) { position: static; }
+  }
 </style>
 
 <script>
@@ -83,5 +94,32 @@ const year = p.data.tags.find((t) => /^(19|20)\d\d/.test(t));
       if (isImgP(el)) run.push(el); else flush();
     }
     flush();
+
+    // split into media (left) and text (right) columns
+    const isMediaEl = (el) => {
+      if (el.classList && el.classList.contains('gal')) return true;
+      if (el.tagName === 'IFRAME') return true;
+      if (el.tagName !== 'P') return false;
+      let media = 0;
+      for (const n of el.childNodes) {
+        if (n.nodeType === 3) { if (n.textContent.trim()) return false; continue; }
+        if (n.nodeType !== 1) continue;
+        if (n.tagName === 'IMG' || n.tagName === 'IFRAME') media++;
+        else if (n.tagName === 'A' && n.children.length === 1 && n.children[0].tagName === 'IMG') media++;
+        else if (n.tagName !== 'BR') return false;
+      }
+      return media > 0;
+    };
+    const kids = Array.from(prose.children);
+    const mediaEls = kids.filter(isMediaEl);
+    if (mediaEls.length > 0 && mediaEls.length < kids.length) {
+      const cols = document.createElement('div');
+      cols.className = 'art-cols';
+      const media = document.createElement('div'); media.className = 'col-media';
+      const text = document.createElement('div'); text.className = 'col-text';
+      for (const el of kids) (isMediaEl(el) ? media : text).appendChild(el);
+      cols.append(media, text);
+      prose.appendChild(cols);
+    }
   }
 </script>
