@@ -1,0 +1,48 @@
+---
+import Base from '../../layouts/Base.astro';
+import { getCollection, render } from 'astro:content';
+
+export async function getStaticPaths() {
+  const items = await getCollection('testimonials');
+  return items.map((t) => ({ params: { id: t.id }, props: { t } }));
+}
+
+const { t } = Astro.props;
+const { Content } = await render(t);
+---
+<Base title={t.data.title} description={t.data.excerpt} accent="var(--c-consulting)" crumb="Consulting" crumbHref="/consulting" wide>
+  <article class="testimonial-page">
+    <p class="meta">{t.data.tags.map((tag) => <span>{tag}</span>)}</p>
+    <h1>{t.data.title}</h1>
+    <div class="t-cols">
+      <div class="t-media">
+        {t.data.image && <img src={t.data.image} alt={t.data.person} />}
+      </div>
+      <div class="prose t-body">
+        <Content />
+        <p class="byline">
+          {t.data.personLink
+            ? <a href={t.data.personLink}>{t.data.person}</a>
+            : t.data.person}, {t.data.role}
+        </p>
+      </div>
+    </div>
+  </article>
+  <p style="margin-top: 56px;"><a href="/consulting">← Consulting</a></p>
+</Base>
+
+<style>
+  .testimonial-page .meta { margin: 48px 0 0; display: flex; gap: 14px; flex-wrap: wrap; }
+  .testimonial-page .meta span { font-size: 14px; color: var(--muted); }
+  .testimonial-page h1 { margin-top: 8px; }
+  .t-cols { display: grid; grid-template-columns: 45fr 55fr; gap: 56px; align-items: start; }
+  .t-media { position: sticky; top: 24px; }
+  .t-media img { width: 100%; border-radius: 22px; }
+  .t-body { max-width: 62ch; }
+  .t-body :global(p:first-child) { margin-top: 0; }
+  .byline { color: var(--muted); font-size: 15px; }
+  @media (max-width: 860px) {
+    .t-cols { display: block; }
+    .t-media { position: static; margin-bottom: 28px; }
+  }
+</style>

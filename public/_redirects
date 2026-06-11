@@ -6,20 +6,20 @@
 # moved pages
 /aboutyb         /about        301
 
-# testimonials now live on the consulting page
-/testimonials    /consulting#testimonials   301
-/testimonials/monica-sheets        /consulting#art-and-labor-rights         301
-/testimonials/jshorey-azctl-k8nzy  /consulting#culture-and-sustainability   301
-/testimonials/jshorey-azctl        /consulting#museum-city-collaboration    301
-/testimonials/jshorey              /consulting#new-cultural-center          301
-/testimonials/yuko-katie           /consulting#creativity-and-mental-health 301
-/testimonials/india                /consulting#cultural-strategy            301
-/testimonials/rbf                  /consulting#startup-nonprofits           301
-/testimonials/pedram-nooshin       /consulting#art-law-and-immigration      301
-/testimonials/gudrun-page          /consulting#artists-in-universities      301
-/testimonials/lyndel               /consulting#university-art-museum        301
-/testimonials/wafaa                /consulting#art-without-borders          301
-/testimonials/*                    /consulting#testimonials                 301
+# testimonials are pages under /consulting
+/testimonials    /consulting   301
+/testimonials/monica-sheets        /consulting/art-and-labor-rights         301
+/testimonials/jshorey-azctl-k8nzy  /consulting/culture-and-sustainability   301
+/testimonials/jshorey-azctl        /consulting/museum-city-collaboration    301
+/testimonials/jshorey              /consulting/new-cultural-center          301
+/testimonials/yuko-katie           /consulting/creativity-and-mental-health 301
+/testimonials/india                /consulting/cultural-strategy            301
+/testimonials/rbf                  /consulting/startup-nonprofits           301
+/testimonials/pedram-nooshin       /consulting/art-law-and-immigration      301
+/testimonials/gudrun-page          /consulting/artists-in-universities      301
+/testimonials/lyndel               /consulting/university-art-museum        301
+/testimonials/wafaa                /consulting/art-without-borders          301
+/testimonials/*                    /consulting                              301
 
 # numeric blog slugs -> descriptive
 /blog/1   /blog/investing-in-hybrid-arts-introduction   301
