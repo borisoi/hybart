@@ -79,8 +79,8 @@ blockquote { margin: 28px 0; padding-left: 18px; border-left: 3px solid var(--ac
 
 /* image gallery (built client-side from consecutive images) */
 .gal { margin: 28px 0; max-width: 68ch; }
-.gal-frame { position: relative; aspect-ratio: 3 / 2; border-radius: 22px; overflow: hidden; background: rgba(20, 20, 20, 0.05); }
-.gal-frame img { position: absolute; inset: 0; width: 100%; height: 100%; object-fit: cover; margin: 0; display: none; border-radius: 0; }
+.gal-frame { position: relative; aspect-ratio: 3 / 2; border-radius: 22px; overflow: hidden; background: var(--bg); }
+.gal-frame img { position: absolute; inset: 0; width: 100%; height: 100%; object-fit: contain; margin: 0; display: none; border-radius: 22px; }
 .gal-frame img.on { display: block; }
 .gal-nav { display: flex; align-items: center; justify-content: center; gap: 16px; margin-top: 10px; }
 .gal-nav button {
