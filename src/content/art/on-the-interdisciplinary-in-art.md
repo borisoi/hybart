@@ -13,4 +13,4 @@ oldUrl: https://www.oicherman.art/boris/b-art/on-the-interdisciplinary-in-art
 ![](/images/art/img-3908.jpg)
 ![](/images/art/img-3910.jpg)
 
-[Essay](/s/Oicherman-On-The-Interdisciplinary-In-Art-V2.pdf) originally published as an artist book in English and Hebrew. 2017. Supported by the Israel Lottery Council for Culture and Art.
+[Essay](/files/Oicherman-On-The-Interdisciplinary-In-Art-V2.pdf) originally published as an artist book in English and Hebrew. 2017. Supported by the Israel Lottery Council for Culture and Art.

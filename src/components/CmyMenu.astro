@@ -1,0 +1,68 @@
+---
+const nav = [
+  ['Home', '/', 'var(--ink)'],
+  ['Art', '/art', 'var(--c-art)'],
+  ['Music', '/music', 'var(--c-music)'],
+  ['Consulting', '/consulting', 'var(--c-consulting)'],
+  ['About', '/about', 'var(--c-art)'],
+  ['FAQ', '/faq', 'var(--c-blog)'],
+  ['Contact', '/contact', 'var(--c-consulting)'],
+  ['Blog', '/blog', 'var(--c-blog)'],
+];
+---
+<button id="menu-toggle" class="menu-btn" aria-label="Menu" aria-expanded="false">
+  <svg viewBox="0 0 100 100" width="92" height="92" aria-hidden="true">
+    <g style="isolation: isolate">
+      <circle cx="50" cy="34" r="27" fill="#00AEEF" style="mix-blend-mode: multiply" />
+      <circle cx="35" cy="61" r="27" fill="#EC008C" style="mix-blend-mode: multiply" />
+      <circle cx="65" cy="61" r="27" fill="#FFD400" style="mix-blend-mode: multiply" />
+    </g>
+    <image class="ros" href="/images/rosette-red.png" x="35" y="19" width="30" height="30" />
+    <image class="ros" href="/images/rosette-green.png" x="20" y="46" width="30" height="30" />
+    <image class="ros" href="/images/rosette-blue.png" x="50" y="46" width="30" height="30" />
+  </svg>
+</button>
+
+<div id="overlay" class="overlay" hidden>
+  <nav>
+    {nav.map(([label, href, c]) => (
+      <a href={href} style={`--door:${c}`}>{label}</a>
+    ))}
+  </nav>
+</div>
+
+<style>
+  .menu-btn {
+    position: fixed; top: 14px; right: 14px; z-index: 20;
+    cursor: pointer; background: none; border: none; padding: 0; line-height: 0;
+  }
+  .menu-btn .ros {
+    transition: transform .6s ease;
+    transform-origin: center; transform-box: fill-box;
+  }
+  .menu-btn:hover .ros { transform: rotate(120deg); }
+  .menu-btn[aria-expanded="true"] .ros { transform: rotate(240deg); }
+  .overlay {
+    position: fixed; inset: 0; z-index: 10; background: var(--bg);
+    display: flex; align-items: center; justify-content: center;
+  }
+  .overlay[hidden] { display: none; }
+  .overlay nav { display: flex; flex-direction: column; align-items: flex-start; }
+  .overlay nav a {
+    font-size: clamp(36px, 6.5vh, 68px); font-weight: 680; letter-spacing: -0.03em; line-height: 1.12;
+    text-decoration: none; color: var(--ink); transition: color .12s ease, transform .12s ease;
+  }
+  .overlay nav a:hover { color: var(--door); transform: translateX(0.12em); }
+</style>
+
+<script>
+  const overlay = document.getElementById('overlay');
+  const toggle = document.getElementById('menu-toggle');
+  function setMenu(open) {
+    if (open) overlay.removeAttribute('hidden'); else overlay.setAttribute('hidden', '');
+    toggle.setAttribute('aria-expanded', String(open));
+  }
+  toggle.addEventListener('click', () => setMenu(overlay.hasAttribute('hidden')));
+  overlay.addEventListener('click', (e) => { if (e.target === overlay) setMenu(false); });
+  document.addEventListener('keydown', (e) => { if (e.key === 'Escape') setMenu(false); });
+</script>

@@ -1,21 +1,12 @@
 ---
 import '../styles/global.css';
+import CmyMenu from '../components/CmyMenu.astro';
 interface Props {
   title: string;
   description?: string;
   accent?: string; // css color for --accent on this page
 }
 const { title, description, accent } = Astro.props;
-const path = Astro.url.pathname;
-const nav = [
-  ['Art', '/art'],
-  ['Music', '/music'],
-  ['Consulting', '/consulting'],
-  ['About', '/about'],
-  ['FAQ', '/faq'],
-  ['Contact', '/contact'],
-  ['Blog', '/blog'],
-];
 const year = new Date().getFullYear();
 ---
 <!doctype html>
@@ -30,12 +21,8 @@ const year = new Date().getFullYear();
 <body style={accent ? `--accent: ${accent}` : undefined}>
   <header class="site">
     <a class="mark" href="/">Hybrid Arts</a>
-    <nav>
-      {nav.map(([label, href]) => (
-        <a href={href} aria-current={path === href || path.startsWith(href + '/') ? 'page' : undefined}>{label}</a>
-      ))}
-    </nav>
   </header>
+  <CmyMenu />
 
   <main>
     <slot />

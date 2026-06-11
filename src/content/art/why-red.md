@@ -25,7 +25,7 @@ oldUrl: https://www.oicherman.art/boris/b-art/why-red
 
 June 2017, Stanford CA, USA. Installation, durational performance. Glass, spotlight, gelatin filters, colored acrylic, books, furniture. Part of the MFA graduation exhibition, Department of Art and Art History, Stanford University.
 
-Download the [MFA thesis](/s/Boris-Oicherman-MFA-thesis.pdf) and [catalogue of books on red that were part of the exhibition](https://docs.google.com/spreadsheets/d/1r3LFchwYm8Zh6YH18Jc8pWXtGCwM_CQ4K3GC_UXfd58/edit?usp=sharing).
+Download the [MFA thesis](/files/Boris-Oicherman-MFA-thesis.pdf) and [catalogue of books on red that were part of the exhibition](https://docs.google.com/spreadsheets/d/1r3LFchwYm8Zh6YH18Jc8pWXtGCwM_CQ4K3GC_UXfd58/edit?usp=sharing).
 
 **Why Red? (excerpt from the thesis)**
 

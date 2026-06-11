@@ -74,6 +74,8 @@ blockquote { margin: 28px 0; padding-left: 18px; border-left: 3px solid var(--ac
 
 /* prose container for markdown-rendered content */
 .prose img { margin: 28px 0; }
+.prose iframe { width: 100%; max-width: 68ch; aspect-ratio: 16 / 9; height: auto; margin: 28px 0; display: block; }
+.prose iframe[src*="bandcamp"] { aspect-ratio: auto; }
 .prose a { color: var(--accent, var(--c-art)); }
 .prose a:hover { color: var(--ink); }
 

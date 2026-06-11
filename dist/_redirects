@@ -38,3 +38,7 @@
 # squarespace leftovers
 /cart  /  301
 /home  /  301
+
+# removed art entries
+/art/hybrid-arts        /consulting  301
+/art/hybrid-arts-blog   /blog        301

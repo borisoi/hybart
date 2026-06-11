@@ -1,16 +1,12 @@
 ---
 import '../styles/global.css';
+import CmyMenu from '../components/CmyMenu.astro';
 const doors = [
   { href: '/music', label: 'Music', img: '/images/field-no-text.jpg', c: 'var(--c-music)' },
   { href: '/art', label: 'Art', img: '/images/responsa-09102.jpg', c: 'var(--c-art)' },
   { href: '/consulting', label: 'Consulting', img: '/images/srg0974.jpg', c: 'var(--c-consulting)' },
   { href: '/blog', label: 'Blog', img: '/images/wafaa-blog-tile.jpg', c: 'var(--c-blog)' },
 ];
-const nav = [
-  ['Art', '/art'], ['Music', '/music'], ['Consulting', '/consulting'],
-  ['About', '/about'], ['FAQ', '/faq'], ['Contact', '/contact'], ['Blog', '/blog'],
-];
-const accents = ['var(--c-art)', 'var(--c-music)', 'var(--c-consulting)', 'var(--c-art)', 'var(--c-blog)', 'var(--c-consulting)', 'var(--c-blog)'];
 ---
 <!doctype html>
 <html lang="en">
@@ -22,18 +18,7 @@ const accents = ['var(--c-art)', 'var(--c-music)', 'var(--c-consulting)', 'var(-
   <link rel="icon" href="/favicon.svg" type="image/svg+xml" />
 </head>
 <body class="d-body">
-  <button id="menu-toggle" class="menu-btn" aria-label="Menu" aria-expanded="false">
-    <svg viewBox="0 0 100 100" width="92" height="92" aria-hidden="true">
-      <g style="isolation: isolate">
-        <circle cx="50" cy="34" r="27" fill="#00AEEF" style="mix-blend-mode: multiply" />
-        <circle cx="35" cy="61" r="27" fill="#EC008C" style="mix-blend-mode: multiply" />
-        <circle cx="65" cy="61" r="27" fill="#FFD400" style="mix-blend-mode: multiply" />
-      </g>
-      <image class="ros" href="/images/rosette-red.png" x="35" y="19" width="30" height="30" />
-      <image class="ros" href="/images/rosette-green.png" x="20" y="46" width="30" height="30" />
-      <image class="ros" href="/images/rosette-blue.png" x="50" y="46" width="30" height="30" />
-    </svg>
-  </button>
+  <CmyMenu />
 
   <main class="tiles">
     {doors.map((d) => (
@@ -43,15 +28,6 @@ const accents = ['var(--c-art)', 'var(--c-music)', 'var(--c-consulting)', 'var(-
       </a>
     ))}
   </main>
-
-  <div id="overlay" class="overlay" hidden>
-    <nav>
-      {nav.map(([label, href], i) => (
-        <a href={href} style={`--door:${accents[i]}`}>{label}</a>
-      ))}
-    </nav>
-  </div>
-
 
 <style>
   .d-body { margin: 0; background: var(--bg); }
@@ -69,43 +45,10 @@ const accents = ['var(--c-art)', 'var(--c-music)', 'var(--c-consulting)', 'var(-
     font-size: clamp(34px, 5vw, 64px); font-weight: 680; letter-spacing: -0.025em;
     padding: 18px 28px;
   }
-  .menu-btn {
-    position: fixed; top: 14px; right: 14px; z-index: 20;
-    cursor: pointer; background: none; border: none; padding: 0; line-height: 0;
-  }
-  .menu-btn .ros {
-    transition: transform .6s ease;
-    transform-origin: center; transform-box: fill-box;
-  }
-  .menu-btn:hover .ros { transform: rotate(120deg); }
-  .menu-btn[aria-expanded="true"] .ros { transform: rotate(240deg); }
-  .overlay {
-    position: fixed; inset: 0; z-index: 10; background: var(--bg);
-    display: flex; align-items: center; justify-content: center;
-  }
-  .overlay[hidden] { display: none; }
-  .overlay nav { display: flex; flex-direction: column; align-items: flex-start; }
-  .overlay nav a {
-    font-size: clamp(40px, 7vh, 76px); font-weight: 680; letter-spacing: -0.03em; line-height: 1.12;
-    text-decoration: none; color: var(--ink); transition: color .12s ease, transform .12s ease;
-  }
-  .overlay nav a:hover { color: var(--door); transform: translateX(0.12em); }
   @media (max-width: 700px) {
     .tiles { grid-template-columns: 1fr; height: auto; min-height: 100vh; }
     .tiles a { aspect-ratio: 4/3; }
   }
 </style>
-
-<script>
-  const overlay = document.getElementById('overlay');
-  const toggle = document.getElementById('menu-toggle');
-  function setMenu(open) {
-    if (open) overlay.removeAttribute('hidden'); else overlay.setAttribute('hidden', '');
-    toggle.setAttribute('aria-expanded', String(open));
-  }
-  toggle.addEventListener('click', () => setMenu(overlay.hasAttribute('hidden')));
-  overlay.addEventListener('click', (e) => { if (e.target === overlay) setMenu(false); });
-  document.addEventListener('keydown', (e) => { if (e.key === 'Escape') setMenu(false); });
-</script>
 </body>
 </html>
