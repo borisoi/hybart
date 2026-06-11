@@ -54,7 +54,7 @@ const allTags = [...new Set(info.flatMap((i) => i.tags))].sort((a, b) => a.local
     border: none; border-radius: 999px; background: var(--ink); color: var(--bg);
   }
   #f-count { font-size: 14px; color: var(--muted); }
-  .art-grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 14px; margin-top: 12px; }
+  .art-grid { display: grid; grid-template-columns: repeat(4, 1fr); gap: 14px; margin-top: 12px; }
   .art-grid a {
     position: relative; display: flex; align-items: flex-end;
     aspect-ratio: 4 / 3; overflow: hidden; border-radius: 22px; text-decoration: none;
@@ -70,8 +70,9 @@ const allTags = [...new Set(info.flatMap((i) => i.tags))].sort((a, b) => a.local
     font-size: 17px; font-weight: 600; letter-spacing: -0.01em; line-height: 1.25;
     padding: 12px 16px;
   }
-  @media (max-width: 900px) { .art-grid { grid-template-columns: repeat(2, 1fr); } }
-  @media (max-width: 560px) { .art-grid { grid-template-columns: 1fr; } }
+  @media (max-width: 1200px) { .art-grid { grid-template-columns: repeat(3, 1fr); } }
+  @media (max-width: 860px) { .art-grid { grid-template-columns: repeat(2, 1fr); } }
+  @media (max-width: 540px) { .art-grid { grid-template-columns: 1fr; } }
 </style>
 
 <script>
