@@ -1,12 +1,25 @@
 ---
 title: "Voices. Translations of Paul Celan in Dub"
-date: 2026-01-10
+date: 2025-12-21
 tags: ["2025", "Release", "Album"]
 cover: /images/art/digital-cover-2kx2k-no-text.jpg
 order: 0
 ---
 
-<iframe src="https://bandcamp.com/EmbeddedPlayer/album=513859743/size=large/bgcol=faf9f5/linkcol=2f5be8/artwork=large/transparent=true/" seamless style="width: 350px; height: 470px; border: 0;" loading="lazy" title="Voices — Bandcamp player"></iframe>
+[![](/images/art/digital-cover-2kx2k-no-text.jpg)](https://www.subvert.fm/boris/voices-translations-of-paul-celan-in-dub)
+
+[**Listen on Subvert ↗**](https://www.subvert.fm/boris/voices-translations-of-paul-celan-in-dub)
+
+Released December 21, 2025.
+
+1. Watersurface
+2. Nettlepath
+3. Nightpervaded
+4. At which your heart
+5. Fullthroated (Intermezzo)
+6. Jacobsvoice
+7. From within the ark
+8. No voice
 
 This album starts with the voice of Paul Celan: a Romanian-born Jew who survived the Holocaust to become one of the most important poets of the 20th century. His poetry is broken, halting and stuttering, yet his recitation of it is strangely rhythmic, almost metronomic.
 
