@@ -19,10 +19,10 @@ Hose, existing fountain
 
 ### Local Fire
 
-![](https://images.squarespace-cdn.com/content/v1/5d6f24a74c0f580001660549/1571777104402-4RITK2O5EQ414GXJ1IPZ/1.jpg?format=original)
-![](https://images.squarespace-cdn.com/content/v1/5d6f24a74c0f580001660549/1571777113670-U12F7J18MAD3Z791VKKE/4.JPG?format=original)
-![](https://images.squarespace-cdn.com/content/v1/5d6f24a74c0f580001660549/1571777119245-0D9PCGWXS8AODB0JW82Z/5.JPG?format=original)
-![](https://images.squarespace-cdn.com/content/v1/5d6f24a74c0f580001660549/1571777132817-MCELPKLXBHL1YY2QVZ7N/6.JPG?format=original)
+![](/images/art/157177-1.jpg)
+![](/images/art/157177-4.jpg)
+![](/images/art/157177-5.jpg)
+![](/images/art/157177-6.jpg)
 
 Happening. Wood, existing construction
 

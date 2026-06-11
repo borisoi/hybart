@@ -23,7 +23,7 @@ oldUrl: https://www.oicherman.art/boris/b-art/color-experience-class
 ![](/images/art/bob3182.jpg)
 ![](/images/art/bob3191.jpg)
 ![](/images/art/bob3472.jpg)
-![](https://images.squarespace-cdn.com/content/v1/5d6f24a74c0f580001660549/1593270416171-ADPH153IIJDQE6NSAKTP/_BOB3478.jpg?format=original)
+![](/images/art/159327-bob3478.jpg)
 ![](/images/art/dsc06251.jpg)
 ![](/images/art/dsc06294.jpg)
 ![](/images/art/f2919424.jpg)

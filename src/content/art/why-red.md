@@ -11,7 +11,7 @@ oldUrl: https://www.oicherman.art/boris/b-art/why-red
 ![](/images/art/bob6288-edit.jpg)
 ![](/images/art/bob6264-edit.jpg)
 ![](/images/art/bob6296.jpg)
-![](https://images.squarespace-cdn.com/content/v1/5d6f24a74c0f580001660549/1569185007456-3I7JIY9BXM0QWGX73P5D/_BOB6269-Edit.jpg?format=original)
+![](/images/art/156918-bob6269-edit.jpg)
 ![](/images/art/bob6060-edit.jpg)
 ![](/images/art/bob6192-edit-edit.jpg)
 ![](/images/art/bob6057-edit.jpg)

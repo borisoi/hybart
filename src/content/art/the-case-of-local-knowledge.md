@@ -27,7 +27,7 @@ Gelatin light filters, air conditioners (existing). The air conditioning in the 
 
 ### Chapter II
 
-![](https://images.squarespace-cdn.com/content/v1/5d6f24a74c0f580001660549/1571525052000-LC1AKARVBXB7HK1U57HQ/1.jpg?format=original)
+![](/images/art/157152-1.jpg)
 ![](/images/art/view-hills-3.jpg)
 ![](/images/art/img-0375-1.jpg)
 ![](/images/art/stone-tomb-4.jpg)
