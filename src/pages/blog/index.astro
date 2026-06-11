@@ -7,9 +7,8 @@ const posts = (await getCollection('blog')).sort(
 const fmt = (d: Date) =>
   d.toLocaleDateString('en-US', { year: 'numeric', month: 'long', day: 'numeric' });
 ---
-<Base title="Blog" accent="var(--c-blog)">
-  <h1>Blog</h1>
-  <p style="color: var(--muted);">Essays, interviews and reviews about all things hybrid arts.</p>
+<Base title="Blog" accent="var(--c-blog)" crumb="Blog">
+  <p style="color: var(--muted); margin-top: 40px;">Essays, interviews and reviews about all things hybrid arts.</p>
 
   {posts.map((p) => (
     <article class="entry">

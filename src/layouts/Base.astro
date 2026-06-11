@@ -5,8 +5,11 @@ interface Props {
   title: string;
   description?: string;
   accent?: string; // css color for --accent on this page
+  crumb?: string; // section name shown as "Hybrid Arts/<crumb>"
+  crumbHref?: string; // make the crumb a link (on subpages)
+  wide?: boolean; // full-width layout
 }
-const { title, description, accent } = Astro.props;
+const { title, description, accent, crumb, crumbHref, wide } = Astro.props;
 const year = new Date().getFullYear();
 ---
 <!doctype html>
@@ -19,12 +22,15 @@ const year = new Date().getFullYear();
   <link rel="icon" href="/favicon.svg" type="image/svg+xml" />
 </head>
 <body style={accent ? `--accent: ${accent}` : undefined}>
-  <header class="site">
+  <header class:list={['site', { wide }]}>
     <a class="mark" href="/">Hybrid Arts</a>
+    {crumb && (
+      <span class="crumb">/{crumbHref ? <a href={crumbHref}>{crumb}</a> : crumb}</span>
+    )}
   </header>
   <CmyMenu />
 
-  <main>
+  <main class:list={[{ wide }]}>
     <slot />
   </main>
 

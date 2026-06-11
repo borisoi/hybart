@@ -8,9 +8,8 @@ const rendered = await Promise.all(
   testimonials.map(async (t) => ({ t, Content: (await render(t)).Content }))
 );
 ---
-<Base title="Consulting" accent="var(--c-consulting)">
-  <h1>Consulting</h1>
-  <div class="prose">
+<Base title="Consulting" accent="var(--c-consulting)" crumb="Consulting">
+  <div class="prose" style="margin-top: 40px;">
     <p>I work with artists seeking collaborators outside the arts, organizations bringing artists into their work, and museums rethinking how they support collaborative practice.</p>
     <p>What I offer depends on what you need: strategy, coaching, curating, program development, facilitation. Sometimes it's helping an artist articulate a vision that doesn't fit existing categories. Sometimes it's helping an institution define what a meaningful collaboration with an artist may look like. Sometimes it's making introductions between people who should be talking.</p>
     <p>My expertise is cross-sector collaboration in the arts: embedding artists in science, technology, higher education, healthcare, community development, government. Twenty years doing this as artist, curator, and administrator; I know where the friction points are and what makes these partnerships work. If you're working on something that doesn't fit existing structures, <a href="/contact">let's talk</a>.</p>

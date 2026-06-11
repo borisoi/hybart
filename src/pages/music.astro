@@ -3,10 +3,8 @@ import Base from '../layouts/Base.astro';
 const bc = (kind: string, id: string) =>
   `https://bandcamp.com/EmbeddedPlayer/${kind}=${id}/size=large/bgcol=faf9f5/linkcol=2f5be8/artwork=large/transparent=true/`;
 ---
-<Base title="Music" accent="var(--c-music)">
-  <h1>Music</h1>
-
-  <h2>Voices: Translations of Paul Celan in Dub</h2>
+<Base title="Music" accent="var(--c-music)" crumb="Music">
+  <h2 style="margin-top: 40px;">Voices: Translations of Paul Celan in Dub</h2>
   <iframe title="Voices — Bandcamp player" src={bc('album', '513859743')} seamless style="width: 350px; height: 470px;" loading="lazy"></iframe>
 
   <div class="prose">

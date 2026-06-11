@@ -16,10 +16,8 @@ const info = projects.map((p) => {
 const years = [...new Set(info.map((i) => i.year))].sort((a, b) => Number(b) - Number(a));
 const allTags = [...new Set(info.flatMap((i) => i.tags))].sort((a, b) => a.localeCompare(b, 'en', { sensitivity: 'base' }));
 ---
-<Base title="Art" description="Past and present art projects by Boris Oicherman" accent="var(--c-art)">
-  <h1>Art</h1>
-
-  <div class="filters">
+<Base title="Art" description="Past and present art projects by Boris Oicherman" accent="var(--c-art)" crumb="Art" wide>
+  <div class="filters" style="margin-top: 28px;">
     <select id="f-year" aria-label="Filter by year">
       <option value="">All years</option>
       {years.map((y) => <option value={y}>{y}</option>)}
@@ -43,7 +41,6 @@ const allTags = [...new Set(info.flatMap((i) => i.tags))].sort((a, b) => a.local
 </Base>
 
 <style>
-  :global(main) { max-width: none; padding: 0 40px; }
   .filters { display: flex; align-items: center; gap: 12px; margin: 4px 0 20px; flex-wrap: wrap; }
   .filters select {
     font: inherit; font-size: 15px; padding: 8px 12px;

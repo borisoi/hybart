@@ -35,12 +35,13 @@ main { max-width: var(--max); margin: 0 auto; padding: 0 24px; }
 /* header */
 header.site {
   max-width: var(--max); margin: 0 auto; padding: 20px 24px;
-  display: flex; flex-wrap: wrap; gap: 6px 22px; align-items: baseline;
+  display: flex; flex-wrap: wrap; gap: 6px 4px; align-items: baseline;
 }
-header.site .mark { font-weight: 650; font-size: 19px; text-decoration: none; margin-right: auto; letter-spacing: -0.01em; }
-header.site nav { display: flex; flex-wrap: wrap; gap: 4px 18px; }
-header.site nav a { text-decoration: none; font-size: 16px; }
-header.site nav a[aria-current="page"] { text-decoration: underline; }
+header.site .mark { font-weight: 650; font-size: 19px; text-decoration: none; letter-spacing: -0.01em; }
+header.site .crumb { font-weight: 650; font-size: 19px; letter-spacing: -0.01em; color: var(--accent, var(--ink)); }
+header.site .crumb a { color: inherit; text-decoration: none; }
+header.site.wide { max-width: none; padding-left: 40px; padding-right: 40px; }
+main.wide { max-width: none; padding: 0 40px; }
 
 /* footer */
 footer.site {

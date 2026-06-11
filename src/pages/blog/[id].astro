@@ -12,7 +12,7 @@ const { Content } = await render(post);
 const fmt = (d: Date) =>
   d.toLocaleDateString('en-US', { year: 'numeric', month: 'long', day: 'numeric' });
 ---
-<Base title={post.data.title} description={post.data.excerpt} accent="var(--c-blog)">
+<Base title={post.data.title} description={post.data.excerpt} accent="var(--c-blog)" crumb="Blog" crumbHref="/blog">
   <article>
     <p style="color: var(--muted); font-size: 14px; margin: 48px 0 0;">{fmt(post.data.date)} · Boris Oicherman</p>
     <h1 style="margin-top: 8px;">{post.data.title}</h1>
