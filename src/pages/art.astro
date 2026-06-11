@@ -2,25 +2,61 @@
 import Base from '../layouts/Base.astro';
 import { getCollection } from 'astro:content';
 const projects = (await getCollection('art')).sort((a, b) => a.data.order - b.data.order);
+
+const isYearTag = (t: string) => /^(19|20)\d\d( -)?$/.test(t.trim());
+const info = projects.map((p) => {
+  const yt = p.data.tags.find(isYearTag);
+  const year = yt ? yt.slice(0, 4) : String(p.data.date.getFullYear());
+  const yearLabel = yt ? yt.replace(' -', '–') : year;
+  const tags = p.data.tags.filter((t) => !isYearTag(t));
+  return { p, year, yearLabel, tags };
+});
+const years = [...new Set(info.map((i) => i.year))].sort((a, b) => Number(b) - Number(a));
+const allTags = [...new Set(info.flatMap((i) => i.tags))].sort((a, b) => a.localeCompare(b, 'en', { sensitivity: 'base' }));
 ---
 <Base title="Art" description="Past and present art projects by Boris Oicherman" accent="var(--c-art)">
   <h1>Art</h1>
-  <div class="art-grid">
-    {projects.map((p) => (
-      <a href={`/art/${p.id}`}>
+
+  <div class="filters">
+    <select id="f-year" aria-label="Filter by year">
+      <option value="">All years</option>
+      {years.map((y) => <option value={y}>{y}</option>)}
+    </select>
+    <select id="f-tag" aria-label="Filter by tag">
+      <option value="">All tags</option>
+      {allTags.map((t) => <option value={t}>{t}</option>)}
+    </select>
+    <button id="f-reset" hidden>Reset</button>
+    <span id="f-count"></span>
+  </div>
+
+  <div class="art-grid" id="art-grid">
+    {info.map(({ p, year, yearLabel, tags }) => (
+      <a href={`/art/${p.id}`} data-year={year} data-tags={tags.join('|')}>
         <div class="ph" style={`background-image:url('${p.data.cover}')`}></div>
-        <span>{p.data.shortTitle ?? p.data.title}</span>
+        <span>{p.data.shortTitle ?? p.data.title} ({yearLabel})</span>
       </a>
     ))}
   </div>
 </Base>
 
 <style>
+  .filters { display: flex; align-items: center; gap: 12px; margin: 4px 0 20px; flex-wrap: wrap; }
+  .filters select {
+    font: inherit; font-size: 15px; padding: 8px 12px;
+    border: 1px solid var(--ink); border-radius: 999px; background: transparent; color: var(--ink); cursor: pointer;
+  }
+  .filters button {
+    font: inherit; font-size: 14px; padding: 8px 14px; cursor: pointer;
+    border: none; border-radius: 999px; background: var(--ink); color: var(--bg);
+  }
+  #f-count { font-size: 14px; color: var(--muted); }
   .art-grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 14px; margin-top: 12px; }
   .art-grid a {
     position: relative; display: flex; align-items: flex-end;
     aspect-ratio: 4 / 3; overflow: hidden; border-radius: 22px; text-decoration: none;
   }
+  .art-grid a[hidden] { display: none; }
   .art-grid .ph { position: absolute; inset: 0; background-size: cover; background-position: center; transition: transform .3s ease; }
   .art-grid a:hover .ph { transform: scale(1.04); }
   .art-grid a::after { content: ''; position: absolute; inset: 0; border-radius: 22px;
@@ -34,3 +70,26 @@ const projects = (await getCollection('art')).sort((a, b) => a.data.order - b.da
   @media (max-width: 900px) { .art-grid { grid-template-columns: repeat(2, 1fr); } }
   @media (max-width: 560px) { .art-grid { grid-template-columns: 1fr; } }
 </style>
+
+<script>
+  const yearSel = document.getElementById('f-year');
+  const tagSel = document.getElementById('f-tag');
+  const reset = document.getElementById('f-reset');
+  const count = document.getElementById('f-count');
+  const tiles = Array.from(document.querySelectorAll('#art-grid a'));
+  function apply() {
+    const y = yearSel.value, t = tagSel.value;
+    let shown = 0;
+    for (const a of tiles) {
+      const ok = (!y || a.dataset.year === y) && (!t || a.dataset.tags.split('|').includes(t));
+      a.toggleAttribute('hidden', !ok);
+      if (ok) shown++;
+    }
+    const active = y || t;
+    reset.toggleAttribute('hidden', !active);
+    count.textContent = active ? `${shown} of ${tiles.length} projects` : '';
+  }
+  yearSel.addEventListener('change', apply);
+  tagSel.addEventListener('change', apply);
+  reset.addEventListener('click', () => { yearSel.value = ''; tagSel.value = ''; apply(); });
+</script>
