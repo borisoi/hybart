@@ -1,7 +1,7 @@
 ---
 title: "The World In Dub"
 date: 2024-12-14
-tags: ["2024 -", "Radio", "DJ"]
+tags: ["2024 - 2025", "Radio", "DJ"]
 cover: /images/art/radio-headshot.jpeg
 order: 1
 oldUrl: https://www.oicherman.art/boris/b-art/the-world-in-dub

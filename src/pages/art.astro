@@ -3,11 +3,13 @@ import Base from '../layouts/Base.astro';
 import { getCollection } from 'astro:content';
 const projects = (await getCollection('art')).sort((a, b) => a.data.order - b.data.order);
 
-const isYearTag = (t: string) => /^(19|20)\d\d( -)?$/.test(t.trim());
+const isYearTag = (t: string) => /^(19|20)\d\d( ?[-–] ?((19|20)?\d\d)?)?$/.test(t.trim());
 const info = projects.map((p) => {
   const yt = p.data.tags.find(isYearTag);
   const year = yt ? yt.slice(0, 4) : String(p.data.date.getFullYear());
-  const yearLabel = yt ? yt.replace(' -', '–') : year;
+  let yearLabel = yt ? yt.trim().replace(/ ?[-–] ?/, '–') : year;
+  const range = yearLabel.match(/^(\d{4})–(\d{4})$/);
+  if (range && range[1].slice(0, 2) === range[2].slice(0, 2)) yearLabel = `${range[1]}–${range[2].slice(2)}`;
   const tags = p.data.tags.filter((t) => !isYearTag(t));
   return { p, year, yearLabel, tags };
 });
