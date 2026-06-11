@@ -3,7 +3,7 @@ title: "Liebezeit Studies"
 date: 2024-06-07
 tags: ["2024 -", "Against Interpretation"]
 cover: /images/art/ai-1-cover-abstrakce.jpg
-order: 1
+order: 2
 ---
 
 <iframe src="https://bandcamp.com/EmbeddedPlayer/album=1909097479/size=large/bgcol=faf9f5/linkcol=2f5be8/artwork=large/transparent=true/" seamless style="width: 350px; height: 470px; border: 0;" loading="lazy" title="Album 1 — Bandcamp player"></iframe>

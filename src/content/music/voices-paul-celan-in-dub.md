@@ -20,6 +20,4 @@ Celan never mentioned the Holocaust in his poems. The catastrophe is always pres
 
 Dub felt like the right vessel: music that transforms without erasing. Words dissolve, echo, disappear into rhythm. But never quite vanish.
 
-<iframe src="https://player.vimeo.com/video/1199891625" allowfullscreen loading="lazy" title="Voices — live at Fusebox, Cincinnati, June 2026"></iframe>
-
-Performance of the live adaptation of the Voices at Fusebox, Cincinnati, June 2026.
+See also: [Voices Live at Fusebox](/music/voices-live-fusebox), the live adaptation of this album.
