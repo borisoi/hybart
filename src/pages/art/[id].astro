@@ -67,6 +67,11 @@ const year = p.data.tags.find((t) => /^(19|20)\d\d/.test(t));
           idx = (i + imgs.length) % imgs.length;
           imgs.forEach((im, k) => im.classList.toggle('on', k === idx));
           count.textContent = `${idx + 1} / ${imgs.length}`;
+          const im = imgs[idx];
+          const fit = () => {
+            if (im.naturalWidth) frame.style.aspectRatio = `${im.naturalWidth} / ${im.naturalHeight}`;
+          };
+          if (im.complete) fit(); else im.addEventListener('load', fit, { once: true });
         };
         gal.querySelector('.gal-prev').addEventListener('click', () => show(idx - 1));
         gal.querySelector('.gal-next').addEventListener('click', () => show(idx + 1));
