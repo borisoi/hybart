@@ -32,7 +32,7 @@ const year = p.data.tags.find((t) => /^(19|20)\d\d/.test(t));
   .art-project :global(.prose img) { border-radius: 22px; margin: 28px 0; }
   .art-project :global(.prose iframe) { width: 100%; max-width: 68ch; aspect-ratio: 16 / 9; height: auto; border-radius: 22px; margin: 28px 0; display: block; }
   .art-project :global(.art-cols) { display: grid; grid-template-columns: 1.05fr 0.95fr; gap: 44px; align-items: start; }
-  .art-project :global(.art-cols .col-media) { position: sticky; top: 24px; }
+  .art-project :global(.art-cols.solo .col-media) { position: sticky; top: 24px; }
   .art-project :global(.art-cols .col-media .gal),
   .art-project :global(.art-cols .col-media iframe),
   .art-project :global(.art-cols .col-media img) { max-width: none; width: 100%; }
@@ -114,7 +114,7 @@ const year = p.data.tags.find((t) => /^(19|20)\d\d/.test(t));
     const mediaEls = kids.filter(isMediaEl);
     if (mediaEls.length > 0 && mediaEls.length < kids.length) {
       const cols = document.createElement('div');
-      cols.className = 'art-cols';
+      cols.className = 'art-cols' + (mediaEls.length === 1 ? ' solo' : '');
       const media = document.createElement('div'); media.className = 'col-media';
       const text = document.createElement('div'); text.className = 'col-text';
       for (const el of kids) (isMediaEl(el) ? media : text).appendChild(el);
