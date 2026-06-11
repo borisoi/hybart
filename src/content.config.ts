@@ -41,4 +41,17 @@ const art = defineCollection({
   }),
 });
 
-export const collections = { blog, testimonials, art };
+const music = defineCollection({
+  loader: glob({ pattern: '**/*.md', base: './src/content/music' }),
+  schema: z.object({
+    title: z.string(),
+    shortTitle: z.string().optional(),
+    date: z.coerce.date(),
+    tags: z.array(z.string()).default([]),
+    cover: z.string().optional(),
+    order: z.number(),
+    oldUrl: z.string().optional(),
+  }),
+});
+
+export const collections = { blog, testimonials, art, music };

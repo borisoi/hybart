@@ -3,16 +3,16 @@ import Base from '../../layouts/Base.astro';
 import { getCollection, render } from 'astro:content';
 
 export async function getStaticPaths() {
-  const projects = await getCollection('art');
+  const projects = await getCollection('music');
   return projects.map((p) => ({ params: { id: p.id }, props: { p } }));
 }
 
 const { p } = Astro.props;
 const { Content } = await render(p);
 const year = p.data.tags.find((t) => /^(19|20)\d\d/.test(t));
-const singleColumn = p.id === 'interview-with-robert-irwin';
+const singleColumn = false;
 ---
-<Base title={p.data.title} accent="var(--c-art)" crumb="Art" crumbHref="/art" wide>
+<Base title={p.data.title} accent="var(--c-music)" crumb="Music" crumbHref="/music" wide>
   <article class="art-project" data-single={singleColumn ? '1' : undefined}>
     <p class="meta">
       {year && <span>{year}</span>}
@@ -23,7 +23,7 @@ const singleColumn = p.id === 'interview-with-robert-irwin';
       <Content />
     </div>
   </article>
-  <p style="margin-top: 56px;"><a href="/art">← All projects</a></p>
+  <p style="margin-top: 56px;"><a href="/music">← All music</a></p>
 </Base>
 
 <style>
