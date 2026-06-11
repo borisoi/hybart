@@ -22,9 +22,16 @@ const accents = ['var(--c-art)', 'var(--c-music)', 'var(--c-consulting)', 'var(-
 </head>
 <body class="d-body">
   <button id="menu-toggle" class="menu-btn" aria-label="Menu" aria-expanded="false">
-    <span class="dot" style="background:#00AEEF"><img src="/images/rosette-red.png" alt="" /></span>
-    <span class="dot" style="background:#EC008C"><img src="/images/rosette-green.png" alt="" /></span>
-    <span class="dot" style="background:#FFD400"><img src="/images/rosette-blue.png" alt="" /></span>
+    <svg viewBox="0 0 100 100" width="92" height="92" aria-hidden="true">
+      <g style="isolation: isolate">
+        <circle cx="50" cy="34" r="27" fill="#00AEEF" style="mix-blend-mode: multiply" />
+        <circle cx="35" cy="61" r="27" fill="#EC008C" style="mix-blend-mode: multiply" />
+        <circle cx="65" cy="61" r="27" fill="#FFD400" style="mix-blend-mode: multiply" />
+      </g>
+      <image class="ros" href="/images/rosette-red.png" x="35" y="19" width="30" height="30" />
+      <image class="ros" href="/images/rosette-green.png" x="20" y="46" width="30" height="30" />
+      <image class="ros" href="/images/rosette-blue.png" x="50" y="46" width="30" height="30" />
+    </svg>
   </button>
 
   <main class="tiles">
@@ -63,17 +70,15 @@ const accents = ['var(--c-art)', 'var(--c-music)', 'var(--c-consulting)', 'var(-
     padding: 18px 28px;
   }
   .menu-btn {
-    position: fixed; top: 20px; right: 20px; z-index: 20;
-    cursor: pointer; background: none; border: none; padding: 0;
-    display: flex; gap: 10px;
+    position: fixed; top: 14px; right: 14px; z-index: 20;
+    cursor: pointer; background: none; border: none; padding: 0; line-height: 0;
   }
-  .dot {
-    width: 54px; height: 54px; border-radius: 50%;
-    display: flex; align-items: center; justify-content: center;
+  .menu-btn .ros {
+    transition: transform .6s ease;
+    transform-origin: center; transform-box: fill-box;
   }
-  .dot img { width: 82%; height: auto; transition: transform .6s ease; }
-  .menu-btn:hover .dot img { transform: rotate(120deg); }
-  .menu-btn[aria-expanded="true"] .dot img { transform: rotate(240deg); }
+  .menu-btn:hover .ros { transform: rotate(120deg); }
+  .menu-btn[aria-expanded="true"] .ros { transform: rotate(240deg); }
   .overlay {
     position: fixed; inset: 0; z-index: 10; background: var(--bg);
     display: flex; align-items: center; justify-content: center;
