@@ -2,7 +2,7 @@
 title: "Voices Live at Fusebox"
 date: 2026-06-01
 tags: ["2026", "Performance"]
-cover: /images/field-no-text.jpg
+cover: "https://i.vimeocdn.com/video/2166838880-e6fd66eef55f6406da2ee298fce9117dbf7b6d5d15e16fe3f10662ecbaaf5653-d_1280?region=us"
 order: 1
 ---
 
