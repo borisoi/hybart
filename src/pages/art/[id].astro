@@ -114,12 +114,17 @@ const year = p.data.tags.find((t) => /^(19|20)\d\d/.test(t));
     const mediaEls = kids.filter(isMediaEl);
     if (mediaEls.length > 0 && mediaEls.length < kids.length) {
       const cols = document.createElement('div');
-      cols.className = 'art-cols' + (mediaEls.length === 1 ? ' solo' : '');
+      cols.className = 'art-cols';
       const media = document.createElement('div'); media.className = 'col-media';
       const text = document.createElement('div'); text.className = 'col-text';
       for (const el of kids) (isMediaEl(el) ? media : text).appendChild(el);
       cols.append(media, text);
       prose.appendChild(cols);
+      const updatePin = () =>
+        cols.classList.toggle('solo', media.offsetHeight < window.innerHeight - 90);
+      new ResizeObserver(updatePin).observe(media);
+      window.addEventListener('resize', updatePin);
+      updatePin();
     }
   }
 </script>
