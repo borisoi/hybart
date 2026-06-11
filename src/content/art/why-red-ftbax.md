@@ -7,6 +7,6 @@ order: 16
 oldUrl: https://www.oicherman.art/boris/b-art/why-red-ftbax
 ---
 
-![](/images/art/why-red.jpg)
+[![](/images/art/why-red.jpg)](/files/Boris-Oicherman-MFA-thesis.pdf)
 
 [MFA thesis](/files/Boris-Oicherman-MFA-thesis.pdf) , Department of Art and Art History, Stanford CA, USA.

@@ -43,6 +43,7 @@ const allTags = [...new Set(info.flatMap((i) => i.tags))].sort((a, b) => a.local
 </Base>
 
 <style>
+  :global(main) { max-width: none; padding: 0 40px; }
   .filters { display: flex; align-items: center; gap: 12px; margin: 4px 0 20px; flex-wrap: wrap; }
   .filters select {
     font: inherit; font-size: 15px; padding: 8px 12px;
