@@ -8,7 +8,9 @@ order: 14
 oldUrl: https://www.oicherman.art/boris/b-art/interview-with-robert-irwin
 ---
 
-[caption id="" align="alignnone" width="2000"][![ Robert Irwin at his studio during the First National Symposium on Habitability of Environments, 1970. Photograph by Larry Bell ](/images/art/irwin-at-symposium-1.jpeg)](https://wam.umn.edu/2018/10/01/habitability-of-environments-interview-with-robert-irwin/) Robert Irwin at his studio during the First National Symposium on Habitability of Environments, 1970. Photograph by Larry Bell [/caption]
+[![](/images/art/irwin-at-symposium-1.jpeg)](https://wam.umn.edu/2018/10/01/habitability-of-environments-interview-with-robert-irwin/)
+
+<small>Robert Irwin at his studio during the First National Symposium on Habitability of Environments, 1970. Photograph by Larry Bell</small>
 
 Originally published on the [Weisman Art Museum](https://wam.umn.edu/2018/10/01/habitability-of-environments-interview-with-robert-irwin/) website in 2018
 
@@ -24,9 +26,9 @@ Originally published on the [Weisman Art Museum](https://wam.umn.edu/2018/10/01/
 
 A bus brings a group of people, most wearing suits, white shirts, and ties and carrying briefcases, from the downtown Intercontinental Hotel to a troubled oceanside neighborhood of hippies, surfers, homeless, and artists. They disembark by the beach and wander down a decrepit alley toward a recently made hole in a brick wall. They step through the hole, pass by a pile of rubble, and walk down a small corridor into a large, dimly lit room with slightly colored skylights in the ceiling, white columns at one end, two rows of facing elevated red canvas chairs in the center, and pillows spread on the floor. The time is the morning of May 11, 1970; the place is the studio of minimalist painter Robert Irwin in Venice, California; and the event is the First National Symposium on Habitability of Environments by NASA.
 
-“Frequently mentioned but routinely under examined,”[[1]](https://www.oicherman.art/boris/b-art/interview-with-robert-irwin/#1) this unlikely constellation of contexts, places, and characters was the brainchild of Irwin and his friend and collaborator Edward (Ed) Wortz, an experimental psychologist, then of the The Garrett Corporation.[[2]](https://www.oicherman.art/boris/b-art/interview-with-robert-irwin/#2) Irwin redesigned his studio with the help of his neighbors artist Larry Bell, art fabricator Jack Brogan, and architect Frank Gehry. The facing rows of folding canvas chairs (Gehry’s idea) were for the panelists: the intentionally uncomfortable seating was meant to make it physically impossible to relax. The rest of the participants were invited to sit—or lie, as many eventually did—on the floor. The red chairs and Bell’s skylights contributed the only color to the space that otherwise was, on its first day, uniformly white.
+“Frequently mentioned but routinely under examined,”[[1]](#fn1) this unlikely constellation of contexts, places, and characters was the brainchild of Irwin and his friend and collaborator Edward (Ed) Wortz, an experimental psychologist, then of the The Garrett Corporation.[[2]](#fn2) Irwin redesigned his studio with the help of his neighbors artist Larry Bell, art fabricator Jack Brogan, and architect Frank Gehry. The facing rows of folding canvas chairs (Gehry’s idea) were for the panelists: the intentionally uncomfortable seating was meant to make it physically impossible to relax. The rest of the participants were invited to sit—or lie, as many eventually did—on the floor. The red chairs and Bell’s skylights contributed the only color to the space that otherwise was, on its first day, uniformly white.
 
-On the second day of the symposium the participants followed the same route and arrived at the same studio. The white columns were gone. Where the columns had been there was now a large opening to the outside covered by a translucent paper: light and sounds of the street entered freely into the studio, which made it more difficult for the panelists and the audience to hear the speakers. The additional effort invested into perceiving the content established in their consciousness the interconnectedness of the event and its surroundings. This connection was further reinforced on the third day, when all separation between the symposium and the outside disappeared: the translucent paper had been torn down and the symposium became open to and accessible from the street, with occasional curious passers-by drifting in (“drunks and beach bums and young kids”[[3]](https://www.oicherman.art/boris/b-art/interview-with-robert-irwin/#3)).
+On the second day of the symposium the participants followed the same route and arrived at the same studio. The white columns were gone. Where the columns had been there was now a large opening to the outside covered by a translucent paper: light and sounds of the street entered freely into the studio, which made it more difficult for the panelists and the audience to hear the speakers. The additional effort invested into perceiving the content established in their consciousness the interconnectedness of the event and its surroundings. This connection was further reinforced on the third day, when all separation between the symposium and the outside disappeared: the translucent paper had been torn down and the symposium became open to and accessible from the street, with occasional curious passers-by drifting in (“drunks and beach bums and young kids”[[3]](#fn3)).
 
 The participants ate their lunches on the curb outside. The afternoon discussion groups convened in Irwin’s second studio as well as in other artists’ studios nearby—those of Larry Bell, De Wain Valentine, and Ed Moses. One of those spaces, designed by Irwin, had uniformly lit, edgeless white walls that focused the discussants’ attention on their fellow participants: there was literally nothing else to fix the gaze on. Another room, one of Bell’s, had angled walls that made the acoustics so reverberant that speech became unintelligible: participants had to be near each other and speak softer. Still another of Bell’s rooms was small and painted black, with one bare incandescent bulb hanging in the center: it was considered by many to be overly oppressive. Most attendants found the discussion rooms untenable and eventually took charge of their working conditions, relocating their sessions to the nearby beach or the grass lawn.
 
@@ -40,34 +42,44 @@ The interview was preceded by three days of researching in the archives of LACMA
 <iframe src="https://player.vimeo.com/video/281793407?app_id=122963" width="480" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media" title="The First National Symposium on Habitability of Environments (2 mins summary)"></iframe>
 
 
-**ROBERT IRWIN:**The Art and Technology thing. All right. Just to put this in perspective: there were these people in New York[[4]](https://www.oicherman.art/boris/b-art/interview-with-robert-irwin/#4) who were trying to find an area of interest that could organize artists to stop being so, as they put it, with their heads in the sand, because there are all these technologies and methods in the world that they should be conversing with. It came out here to the West Coast in the form of LACMA’s curator Maurice Tuchman. Maurice Tuchman decided that he was gonna do the Art and Technology Program (A&T).[[5]](https://www.oicherman.art/boris/b-art/interview-with-robert-irwin/#5) He asked all the leading artists to participate in it. And he asked me and I told him, “No.” He said, “Why?” And I said, “Because for me this hasn’t anything to do with technology. It has to do with a dialogue between artists and scientists. That would be really interesting.”
+**ROBERT IRWIN:**The Art and Technology thing. All right. Just to put this in perspective: there were these people in New York[[4]](#fn4) who were trying to find an area of interest that could organize artists to stop being so, as they put it, with their heads in the sand, because there are all these technologies and methods in the world that they should be conversing with. It came out here to the West Coast in the form of LACMA’s curator Maurice Tuchman. Maurice Tuchman decided that he was gonna do the Art and Technology Program (A&T).[[5]](#fn5) He asked all the leading artists to participate in it. And he asked me and I told him, “No.” He said, “Why?” And I said, “Because for me this hasn’t anything to do with technology. It has to do with a dialogue between artists and scientists. That would be really interesting.”
 
-So he arranged a trip for me with the physicist Richard Feynman,[[6]](https://www.oicherman.art/boris/b-art/interview-with-robert-irwin/#6) to take me around to all the things that are going on, the grand tour of the universe, IBM, all the big stuff that was going on in Southern California. Feynman came to the airplane, sat down next to me and started drawing portraits of people in the plane, and we started having a really interesting dialogue. We talked about how his father used to take him to the woods, and, say, a bird would go “Tweet, tweet, tweet.” And the father would say, “What is that?” And Richard would say, “I don’t know.” And his father would tell him it’s a robin. And Richard said, “Oh, great.” They did this for many birds, and then at the end of it the father said, “What do you know now?” Richard tried to tell him what a robin sounds like and that he can remember birds’ names. Then his father told him, “You don’t know anything. All you know is the name and a little sound. What actually is *that*?” Feynman told me that that was the beginning of his inquiry, as it were.
+So he arranged a trip for me with the physicist Richard Feynman,[[6]](#fn6) to take me around to all the things that are going on, the grand tour of the universe, IBM, all the big stuff that was going on in Southern California. Feynman came to the airplane, sat down next to me and started drawing portraits of people in the plane, and we started having a really interesting dialogue. We talked about how his father used to take him to the woods, and, say, a bird would go “Tweet, tweet, tweet.” And the father would say, “What is that?” And Richard would say, “I don’t know.” And his father would tell him it’s a robin. And Richard said, “Oh, great.” They did this for many birds, and then at the end of it the father said, “What do you know now?” Richard tried to tell him what a robin sounds like and that he can remember birds’ names. Then his father told him, “You don’t know anything. All you know is the name and a little sound. What actually is *that*?” Feynman told me that that was the beginning of his inquiry, as it were.
 
 He asked me, “What does an artist do?” And I said, “What do you think an artist does?” And he told me about being a painter or a sculptor. I said, “You’re telling me names of birds. But you’re not saying anything. You’re not identifying anything.” So, he and I started having a long dialogue.
 
-Then later I went to a place called Garrett Corporation. There was this guy who came with some wild equipment all over him. He was doing physiology for the walks on the moon. He was trying to figure out how much energy a person uses to go up a 20º slope on the moon. He sat down and said, “What does an artist do?” And I said, “That’s a big question. What do we do that has a real edge to it?” He and I started having a conversation, and it carried on for the rest of his life. This was Ed Wortz.[[7]](https://www.oicherman.art/boris/b-art/interview-with-robert-irwin/#7)  He was maybe one of if not the most important person in my life in the following twenty years. And maybe I was to him, because by the time we got through, he no longer worked at the Garrett. He’d become a therapist. He’d shrunk every artist in L.A. Everybody who had a problem went to Edward; he’d become indispensable. And my dialogue with him had become indispensable for me.
+Then later I went to a place called Garrett Corporation. There was this guy who came with some wild equipment all over him. He was doing physiology for the walks on the moon. He was trying to figure out how much energy a person uses to go up a 20º slope on the moon. He sat down and said, “What does an artist do?” And I said, “That’s a big question. What do we do that has a real edge to it?” He and I started having a conversation, and it carried on for the rest of his life. This was Ed Wortz.[[7]](#fn7)  He was maybe one of if not the most important person in my life in the following twenty years. And maybe I was to him, because by the time we got through, he no longer worked at the Garrett. He’d become a therapist. He’d shrunk every artist in L.A. Everybody who had a problem went to Edward; he’d become indispensable. And my dialogue with him had become indispensable for me.
 
-He was asked by NASA to do a symposium on habitability.[[8]](https://www.oicherman.art/boris/b-art/interview-with-robert-irwin/#8) By that time he and I had been dialoguing for a while, so he gave me an invitation to do whatever I wanted to do. Give a paper, anything. I thought about it for a while, and thought, “No. One thing I don’t wanna do is a paper.” I thought about what happens in a symposium. What would I do? How would I communicate with these people? The symposium was on habitability and long-term space travel. And I thought: I’m gonna fuck with their habitability.
+He was asked by NASA to do a symposium on habitability.[[8]](#fn8) By that time he and I had been dialoguing for a while, so he gave me an invitation to do whatever I wanted to do. Give a paper, anything. I thought about it for a while, and thought, “No. One thing I don’t wanna do is a paper.” I thought about what happens in a symposium. What would I do? How would I communicate with these people? The symposium was on habitability and long-term space travel. And I thought: I’m gonna fuck with their habitability.
 
 Normally, they come to town and they stay at the Intercontinental and they go down to the conference room and they sit around a table and they talk. I had a studio in Venice, California, not a bad space. I prepared that space to hold the symposium. I cleared the whole thing out and made it over.
 
 Then I had them brought over from the hotel. They were lost, they walked up an alley and there’s a hole in the wall that I just knocked down with a sledgehammer. They went in through it, and they were inside the space, which was a little bit like a capsule. There was no outdoor, no sense of where it was, no amenities, no outside light, no outside noise. I built a cardboard island, a stand for them to sit on so that the acoustics were good enough that they could carry on a normal conversation.
 
-[caption id="" align="alignnone" width="899"]![  Robert Irwin and Ed Wortz preparing Irwin’s studio for the symposium  ](/images/art/what-happened-in-part019.jpeg) Robert Irwin and Ed Wortz preparing Irwin’s studio for the symposium [/caption]
+![](/images/art/what-happened-in-part019.jpeg)
+
+<small>Robert Irwin and Ed Wortz preparing Irwin’s studio for the symposium</small>
 
 They were really fucked up. They were really nervous. This is not what they bargained for. This was not a comfortable space. There’s no daylight. There’s no sense of outdoors. You’re in a capsule. And so they persevered. I mean, they went ahead to do what they do, gave their papers, and everyone sat on this island. But during the first morning a lot of physical changes were made. They took off their jackets and they did the best they could do to accommodate this space, be in this space.
 
-[caption id="" align="alignnone" width="1500"]![  Back alley leading to the opening to Irwin’s studio. Irwin and the freshly made opening  ](/images/art/combo-photo.jpeg) Back alley leading to the opening to Irwin’s studio. Irwin and the freshly made opening [/caption]
+![](/images/art/combo-photo.jpeg)
 
-With other artists involved we prepared a lunch;[[9]](https://www.oicherman.art/boris/b-art/interview-with-robert-irwin/#9) we tried to make it as crunchy as bittersweet, tactile as well as nutritious. In the afternoon, they broke up into smaller groups, each group having one component of the dialogue. We made rooms for them. We made a room that was just a little too small and we made a room that was just way too big. And we made a room that was too reverberant. And one which was too sound-dampened. Every room had a problem, a physical problem. And they persevered, because they’re professionals.
+<small>Back alley leading to the opening to Irwin’s studio. Irwin and the freshly made opening</small>
 
-[caption id="" align="alignnone" width="1000"]![  Lunch  ](/images/art/img128.jpeg) Lunch [/caption]
+With other artists involved we prepared a lunch;[[9]](#fn9) we tried to make it as crunchy as bittersweet, tactile as well as nutritious. In the afternoon, they broke up into smaller groups, each group having one component of the dialogue. We made rooms for them. We made a room that was just a little too small and we made a room that was just way too big. And we made a room that was too reverberant. And one which was too sound-dampened. Every room had a problem, a physical problem. And they persevered, because they’re professionals.
 
-When they came the second day there was more light in the room. I had one wall made out of sonotubes[[10]](https://www.oicherman.art/boris/b-art/interview-with-robert-irwin/#10) so that I could just swing it up.[[11]](https://www.oicherman.art/boris/b-art/interview-with-robert-irwin/#11) And they were more relaxed that day. They changed. You could see their change of clothes and habits. People who started out the first day having trouble doing their papers, the second day they were in a much more accommodating mood. At the end of that day’s session I cut [the paper side wall] and we walked out through it; they all sat on the curb and began to intermix rather differently.
+![](/images/art/img128.jpeg)
 
-[caption id="" align="alignnone" width="1000"]![ Symposium space on the first day ](/images/art/img129.jpeg) Symposium space on the first day [/caption]
-[caption id="" align="alignnone" width="1000"]![ Symposium space on the second day ](/images/art/img127.jpeg) Symposium space on the second day [/caption]
+<small>Lunch</small>
+
+When they came the second day there was more light in the room. I had one wall made out of sonotubes[[10]](#fn10) so that I could just swing it up.[[11]](#fn11) And they were more relaxed that day. They changed. You could see their change of clothes and habits. People who started out the first day having trouble doing their papers, the second day they were in a much more accommodating mood. At the end of that day’s session I cut [the paper side wall] and we walked out through it; they all sat on the curb and began to intermix rather differently.
+
+![](/images/art/img129.jpeg)
+
+<small>Symposium space on the first day</small>
+![](/images/art/img127.jpeg)
+
+<small>Symposium space on the second day</small>
 
 They were to go into those rooms, too big, too small, too reverberant, too dark, too light, and some said, “No. We’re not gonna go in them. We’ll go out and sit on the beach and hold our thing.” Which, of course . . . The first day they were in suits and second day they dressed more casually and were amenable to go sit outside or on the beach. And because obviously these rooms had been too uncomfortable. I don’t know to what degree they acknowledged that.
 
@@ -93,7 +105,7 @@ Nobody apparently had really got into the issues of what it was gonna be like in
 
 [Art] is not a teaching process. It’s not even a game of informing people. It’s a game of inquiry. It’s a way of looking at the world, which is what I changed for them. In which one examines the world and makes decisions, and how they have a meaning of their own, and what that meaning is. How we absorb it. How we act on it. How we function. How it affects us. How it makes, redefines what it’s like to be in this part of the world, in this house.
 
-You start out with [Jacques-Louis] David[[12]](https://www.oicherman.art/boris/b-art/interview-with-robert-irwin/#12) doing incredibly beautiful painting and, in less than one hundred years, you arrive at [Kazimir] Malevich.[[13]](https://www.oicherman.art/boris/b-art/interview-with-robert-irwin/#13) Malevich did the painting that he did, looked at it and said, “My God, everything we know is gone. It’s a desert.” He said, “Ah, yes. But it’s a desert of pure feeling.” You put those two together and, in the history of the nineteenth century, that’s exactly what art was doing. They did what I did in that symposium in a way: took away staples that disciplines are based on. What I had done with NASA was done to art in the nineteenth century.
+You start out with [Jacques-Louis] David[[12]](#fn12) doing incredibly beautiful painting and, in less than one hundred years, you arrive at [Kazimir] Malevich.[[13]](#fn13) Malevich did the painting that he did, looked at it and said, “My God, everything we know is gone. It’s a desert.” He said, “Ah, yes. But it’s a desert of pure feeling.” You put those two together and, in the history of the nineteenth century, that’s exactly what art was doing. They did what I did in that symposium in a way: took away staples that disciplines are based on. What I had done with NASA was done to art in the nineteenth century.
 
 Responsibility now becomes how and what way do we organize it as a discipline, as a way of knowing. That’s a big problem for me.
 
@@ -101,9 +113,11 @@ Responsibility now becomes how and what way do we organize it as a discipline, a
 
 **RI:**Because the symposium was done in the science world. LACMA never did a show about it. They never used the material. They did a show of the winking, blinking things that everybody did. The “art and science.” Nobody was interested at all. I think there’s been curiosity, but there’s never been any real interest in what happened there.
 
-I think the problem [of cross-disciplinary work] is still a problem. It hasn’t been solved. Cross disciplining is the ambition of a lot of people in academia and has very seldom ever been pulled off. I’m just weighing right now in my mind what it would take for you to be able to do that.[[14]](https://www.oicherman.art/boris/b-art/interview-with-robert-irwin/#14)
+I think the problem [of cross-disciplinary work] is still a problem. It hasn’t been solved. Cross disciplining is the ambition of a lot of people in academia and has very seldom ever been pulled off. I’m just weighing right now in my mind what it would take for you to be able to do that.[[14]](#fn14)
 
-[caption id="" align="alignnone" width="1000"]![  Afternoon session on the beach  ](/images/art/what-happened-in-part005.jpeg) Afternoon session on the beach [/caption]
+![](/images/art/what-happened-in-part005.jpeg)
+
+<small>Afternoon session on the beach</small>
 
 **BO:** How would you imagine a show about the symposium?
 
@@ -145,7 +159,9 @@ The trip to the universe. It was a totally intriguing and beautiful problem, but
 
 Whether I’m right or wrong, in my mind I got involved in a really great question of what it means to be an artist right now and in what way art is going to manifest itself.
 
-[caption id="" align="alignnone" width="1000"]![  Symposium space on the second day. Image: Larry Bell (at the back, operating the movie camera)  ](/images/art/img134.jpeg) Symposium space on the second day. Image: Larry Bell (at the back, operating the movie camera) [/caption]
+![](/images/art/img134.jpeg)
+
+<small>Symposium space on the second day. Image: Larry Bell (at the back, operating the movie camera)</small>
 
 **BO:** How did this question change after the symposium?
 
@@ -163,4 +179,26 @@ They tolerated this thing in the beginning—and then became aware that, essenti
 
 *All color images are from Larry Bell Studio archive. Bell’s color images of the symposium were discovered and first published by Matthew T. Simms in* Robert Irwin: A Conditional Art*, Yale University Press, 2016*
 
-[caption id="" align="alignnone" width="768"]![  Ed Wortz. Photographer unknown.  ](/images/art/wortz-in-space-suit.jpeg) Ed Wortz. Photographer unknown. [/caption]
+#### Notes
+
+<ol class="notes">
+<li id="fn1">James Thomas’s characterization of the Symposium in The Aesthetics of Habitability: Edward C. Wortz, NASA, and the Art of Light and Space, 1966–1973, PhD thesis, Stanford University, California, 2014.</li>
+<li id="fn2">An aerospace engineering company contracted by NASA for the development of inhabitable space capsules, characterized by the Time Magazine as the “…U.S.’s foremost specialist in keeping men alive in the yonder beyond their familiar surroundings.” (Time Magazine, Built on Thin Air, November 16, 1962).</li>
+<li id="fn3">Interview with Robert Irwin in Lawrence Weschler, Seeing Is Forgetting the Name of the Thing One Sees (Berkeley: University of California Press, 1982).</li>
+<li id="fn4">Irwin refers to Experiments in Art and Technology (EAT), a program founded by Billy Klüver, Fred Waldhauer, Robert Rauschenberg and Robert Whitman in New York in 1967.</li>
+<li id="fn5">Maurice Tuchman, A Report on Art and Technology Program of the Los Angeles County Museum of Art, LACMA, 1969–71.</li>
+<li id="fn6">Richard Phillips Feynman (1918–1988), Nobel laureate in physics in 1965.</li>
+<li id="fn7">Edward Charles Wortz (1930–2004), at the time a research scientist at the Garrett Corporation working on psychology of space travel.</li>
+<li id="fn8">Habitability is the study of habitable environments. In this case, the term refers to the design of habitable environments in outer space.</li>
+<li id="fn9">Larry Bell and Frank Gehry worked with Irwin on the design of the symposium.</li>
+<li id="fn10">Lightweight tubes made of cardboard.</li>
+<li id="fn11">The side wall of the studio behind the sonotubes was covered with translucent paper that let light and sound in.</li>
+<li id="fn12">Jacques-Louis David (1748–1825), French painter.</li>
+<li id="fn13">Kazimir Malevich (1879–1935), Russian painter.</li>
+<li id="fn14">Irwin refers to the potential of organizing the Second National Symposium on Habitability.</li>
+</ol>
+
+
+![](/images/art/wortz-in-space-suit.jpeg)
+
+<small>Ed Wortz. Photographer unknown.</small>
