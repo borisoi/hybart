@@ -57,10 +57,13 @@ const fmt = (d: Date) =>
   .post :global(.intro-head::after) { content: ' +'; color: var(--c-blog); }
   .post :global(.intro.open .intro-head::after) { content: ' –'; }
   .post :global(.intro-head:hover) { color: var(--c-blog); }
+  .post :global(.intro.intro-last) { margin-bottom: 3.2em; }
+  .post :global(p.rosette) { margin: 52px 0 4px; }
+  .post :global(p.rosette img) { width: 110px; margin: 0; border-radius: 0; }
   .post :global(.intro-body) {
-    overflow: hidden; max-height: 4.7em;
-    -webkit-mask-image: linear-gradient(#000 20%, transparent 96%);
-    mask-image: linear-gradient(#000 20%, transparent 96%);
+    overflow: hidden; max-height: 7.8em;
+    -webkit-mask-image: linear-gradient(#000 50%, transparent 97%);
+    mask-image: linear-gradient(#000 50%, transparent 97%);
   }
   .post :global(.intro.open .intro-body) {
     max-height: none; padding-bottom: 4px;
@@ -120,9 +123,19 @@ const fmt = (d: Date) =>
       ul.remove();
     }
 
+    // 1a. rosette chapter markers stay in the text flow as dividers
+    for (const el of Array.from(prose.children)) {
+      if (
+        el.tagName === 'P' &&
+        el.children.length === 1 &&
+        el.children[0].tagName === 'IMG' &&
+        /rosette/i.test(el.children[0].getAttribute('src') || '')
+      ) el.classList.add('rosette');
+    }
+
     // 1b. merge consecutive images into an arrow gallery (same widget as art pages)
     const isImgP = (el) => {
-      if (el.tagName !== 'P') return false;
+      if (el.tagName !== 'P' || el.classList.contains('rosette')) return false;
       let imgs = 0;
       for (const n of el.childNodes) {
         if (n.nodeType === 1 && n.tagName === 'IMG') imgs++;
@@ -172,6 +185,7 @@ const fmt = (d: Date) =>
     // 2. classify media paragraphs
     const isMediaEl = (el) => {
       if (el.classList && el.classList.contains('gal')) return true;
+      if (el.classList && el.classList.contains('rosette')) return false;
       if (el.tagName === 'IFRAME') return true;
       if (el.tagName !== 'P') return false;
       let media = 0;
@@ -250,5 +264,45 @@ const fmt = (d: Date) =>
       if (!im.complete) im.addEventListener('load', schedule, { once: true });
     });
     schedule();
+
+    // 4. lightbox for images and gallery images (same as art pages), rosettes excluded
+    const zoomables = Array.from(prose.querySelectorAll('img')).filter(
+      (im) => !im.closest('a') && !im.closest('.rosette')
+    );
+    if (zoomables.length) {
+      const box = document.createElement('div');
+      box.className = 'lightbox';
+      box.hidden = true;
+      box.innerHTML =
+        '<button class="lb-prev" aria-label="Previous image">&lsaquo;</button>' +
+        '<img alt="" />' +
+        '<button class="lb-next" aria-label="Next image">&rsaquo;</button>';
+      document.body.appendChild(box);
+      const boxImg = box.querySelector('img');
+      let lbIdx = 0;
+      const lbShow = (i) => {
+        lbIdx = (i + zoomables.length) % zoomables.length;
+        boxImg.src = zoomables[lbIdx].src;
+      };
+      const close = () => { box.hidden = true; document.body.style.overflow = ''; };
+      box.addEventListener('click', close);
+      box.querySelector('.lb-prev').addEventListener('click', (e) => { e.stopPropagation(); lbShow(lbIdx - 1); });
+      box.querySelector('.lb-next').addEventListener('click', (e) => { e.stopPropagation(); lbShow(lbIdx + 1); });
+      document.addEventListener('keydown', (e) => {
+        if (box.hidden) return;
+        if (e.key === 'Escape') close();
+        if (e.key === 'ArrowLeft') lbShow(lbIdx - 1);
+        if (e.key === 'ArrowRight') lbShow(lbIdx + 1);
+      });
+      if (zoomables.length < 2) box.classList.add('lb-single');
+      zoomables.forEach((im, i) => {
+        im.classList.add('zoomable');
+        im.addEventListener('click', () => {
+          lbShow(i);
+          box.hidden = false;
+          document.body.style.overflow = 'hidden';
+        });
+      });
+    }
   }
 </script>
