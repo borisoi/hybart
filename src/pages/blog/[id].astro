@@ -26,7 +26,8 @@ const fmt = (d: Date) =>
 <style>
   .post .meta { color: var(--muted); font-size: 14px; margin: 48px 0 0; }
   .post h1 { margin-top: 8px; max-width: 26ch; }
-  .post :global(.prose img) { border-radius: 22px; margin: 0 0 20px; width: 100%; }
+  .post.narrow { max-width: 72ch; margin-inline: auto; }
+  .post :global(.prose img) { border-radius: 22px; margin: 0 auto 20px; width: 100%; }
   .post :global(.prose iframe) { border-radius: 22px; width: 100%; }
   .post :global(.prose.cols) { position: relative; }
   .post :global(.prose.cols > :not(.rmedia)) { max-width: min(64ch, 55%); }
@@ -242,6 +243,9 @@ const fmt = (d: Date) =>
       g.els.forEach((el) => wrap.appendChild(el));
       g.el = wrap;
     }
+
+    // essays (little media) read as a centered single column
+    document.querySelector('.post')?.classList.toggle('narrow', groups.length < 3);
 
     const place = () => {
       if (!groups.length) return;
