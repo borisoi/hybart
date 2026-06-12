@@ -71,11 +71,12 @@ h3 { font-size: 19px; font-weight: 600; margin: 32px 0 10px; }
 h4 { font-size: 21px; line-height: 1.2; letter-spacing: -0.01em; font-weight: 650; margin: 44px 0 12px; }
 h1:empty, h2:empty, h3:empty, h4:empty { display: none; }
 mark {
-  background: transparent; color: inherit;
-  text-decoration: underline wavy var(--accent, var(--c-blog));
-  text-decoration-thickness: 1.5px;
-  text-underline-offset: 4px;
-  text-decoration-skip-ink: none;
+  /* hand-drawn pen underline (SVG tile; color hardcoded = blog gold) */
+  background: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='220' height='8' viewBox='0 0 220 8'%3E%3Cpath d='M2 5.8 C 18 3.4, 36 6.6, 54 4.8 C 70 3.3, 86 6.2, 104 5.0 C 122 3.6, 136 6.9, 156 4.4 C 172 2.9, 190 6.3, 218 4.9' fill='none' stroke='%23b88812' stroke-width='1.7' stroke-linecap='round'/%3E%3C/svg%3E") repeat-x left bottom;
+  background-size: 220px 8px;
+  padding-bottom: 3px;
+  color: inherit;
+  -webkit-box-decoration-break: clone; box-decoration-break: clone;
 }
 u { text-decoration-thickness: 1px; text-underline-offset: 3px; text-decoration-color: var(--accent, var(--c-blog)); }
 p, li { max-width: 68ch; }

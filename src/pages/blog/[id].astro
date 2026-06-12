@@ -30,7 +30,7 @@ const fmt = (d: Date) =>
   .post :global(.prose iframe) { border-radius: 22px; width: 100%; }
   .post :global(.prose.cols) { position: relative; }
   .post :global(.prose.cols > :not(.rmedia)) { max-width: min(64ch, 57%); }
-  .post :global(.prose.cols > .rmedia) { position: absolute; left: 61%; width: 39%; margin: 0; }
+  .post :global(.prose.cols > .rmedia) { position: absolute; left: 59%; width: 41%; margin: 0; }
   .post :global(.rmedia) { margin: 18px 0; }
   .post :global(.rmedia p) { max-width: none; margin: 0 0 14px; }
   .post :global(.rmedia iframe) { max-width: none; }
@@ -42,7 +42,7 @@ const fmt = (d: Date) =>
     font-size: clamp(20px, 2.3vw, 25px);
     line-height: 1.3;
     letter-spacing: -0.01em;
-    margin: 40px 0;
+    margin: 68px 0;
     max-width: 36ch;
     color: var(--c-blog);
   }
@@ -52,14 +52,14 @@ const fmt = (d: Date) =>
   .post :global(.intro-head) {
     display: block; width: 100%; text-align: left;
     background: none; border: 0; color: inherit; font: inherit;
-    cursor: pointer; padding: 14px 0; font-weight: 600; font-size: 17px;
+    cursor: pointer; padding: 14px 0; font-weight: 600; font-size: 19px;
   }
   .post :global(.intro-head::after) { content: ' +'; color: var(--c-blog); }
   .post :global(.intro.open .intro-head::after) { content: ' –'; }
   .post :global(.intro-head:hover) { color: var(--c-blog); }
   .post :global(.intro.intro-last) { margin-bottom: 3.2em; }
-  .post :global(p.rosette) { margin: 52px 0 4px; }
-  .post :global(p.rosette img) { width: 110px; margin: 0; border-radius: 0; }
+  .post :global(p.rosette) { float: left; clear: left; width: 96px; margin: 6px 22px 6px 0; }
+  .post :global(p.rosette img) { width: 100%; margin: 0; border-radius: 0; }
   .post :global(.intro-body) {
     overflow: hidden; max-height: 7.8em;
     -webkit-mask-image: linear-gradient(#000 50%, transparent 97%);
