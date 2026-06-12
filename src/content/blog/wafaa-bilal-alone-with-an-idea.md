@@ -3,7 +3,7 @@ title: "Alone You're Left With Just an Idea: Interview with Wafaa Bilal"
 date: 2025-11-16
 oldSlug: /blog/11
 slug: wafaa-bilal-alone-with-an-idea
-cover: /images/panel-combined-screenshots.jpg
+cover: /images/wafaa-blog-cover.jpg
 excerpt: "People think we have courage, but actually we simply don't know how to live with fear. … But we are afraid. We are terrified. We are the canaries in the coal mines: hey, there's danger, you got to be alert. And the powers that be don't know what to do with us."
 ---
 

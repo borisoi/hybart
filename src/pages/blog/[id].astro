@@ -29,9 +29,15 @@ const fmt = (d: Date) =>
   .post :global(.prose img) { border-radius: 22px; margin: 0 0 20px; width: 100%; }
   .post :global(.prose iframe) { border-radius: 22px; width: 100%; }
   .post :global(.prose.cols) { position: relative; }
-  .post :global(.prose.cols > :not(.rmedia)) { max-width: min(64ch, 57%); }
-  .post :global(.prose.cols > .rmedia) { position: absolute; left: 59%; width: 41%; margin: 0; }
+  .post :global(.prose.cols > :not(.rmedia)) { max-width: min(64ch, 55%); }
+  .post :global(.prose.cols > .rmedia) {
+    position: absolute;
+    left: calc(min(64ch, 55%) + 52px);
+    width: calc(100% - min(64ch, 55%) - 52px);
+    margin: 0;
+  }
   .post :global(.rmedia) { margin: 18px 0; }
+  .post :global(.prose:not(.cols) .rmedia) { max-width: 68ch; }
   .post :global(.rmedia p) { max-width: none; margin: 0 0 14px; }
   .post :global(.rmedia iframe) { max-width: none; }
   .post :global(.rmedia p.cap) { margin: -8px 4px 24px; }
@@ -46,7 +52,7 @@ const fmt = (d: Date) =>
     max-width: 36ch;
     color: var(--c-blog);
   }
-  .post :global(.prose.cols > p.pull) { max-width: min(36ch, 57%); }
+  .post :global(.prose.cols > p.pull) { max-width: min(36ch, 55%); }
   .post :global(.intro) { border-top: 1px solid var(--rule); padding: 2px 0; }
   .post :global(.intro.intro-last) { border-bottom: 1px solid var(--rule); }
   .post :global(.intro-head) {
@@ -239,7 +245,8 @@ const fmt = (d: Date) =>
 
     const place = () => {
       if (!groups.length) return;
-      if (window.matchMedia('(max-width: 860px)').matches) {
+      // posts with little media read better as a single column — media stays inline
+      if (groups.length < 3 || window.matchMedia('(max-width: 860px)').matches) {
         prose.classList.remove('cols');
         groups.forEach((g) => { g.el.style.top = ''; });
         prose.style.minHeight = '';
