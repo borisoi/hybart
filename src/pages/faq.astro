@@ -18,26 +18,20 @@ const faqs = [
     Frances Whitehead, <a href="http://embeddedartistproject.com/whatdoartistsknow.html">What Do Artists Know?</a>
   </blockquote>
 
-  {faqs.map(([q, a]) => (
-    <details class="testimonial">
-      <summary><span class="t-title">{q}</span></summary>
-      <div class="t-body prose"><p>{a}</p></div>
-    </details>
-  ))}
+  <div class="prose">
+    {faqs.map(([q, a]) => (
+      <>
+        <h3>{q}</h3>
+        <p>{a}</p>
+      </>
+    ))}
 
-  <details class="testimonial">
-    <summary><span class="t-title">Where did the name come from?</span></summary>
-    <div class="t-body prose">
-      <p>The term is inspired by the "hybrid economy" concept introduced in the 2003 report "<a href="https://www.urban.org/sites/default/files/publication/50806/411311-Investing-in-Creativity.PDF">Investing in Creativity: A Study of the Support Structure for U.S. Artists</a>", which highlighted artists working across sectors. Read more about this on the <a href="/blog/investing-in-hybrid-arts-introduction">blog</a>.</p>
-    </div>
-  </details>
+    <h3>Where did the name come from?</h3>
+    <p>The term is inspired by the "hybrid economy" concept introduced in the 2003 report "<a href="https://www.urban.org/sites/default/files/publication/50806/411311-Investing-in-Creativity.PDF">Investing in Creativity: A Study of the Support Structure for U.S. Artists</a>", which highlighted artists working across sectors. Read more about this on the <a href="/blog/investing-in-hybrid-arts-introduction">blog</a>.</p>
 
-  <details class="testimonial">
-    <summary><span class="t-title">Where do I find good examples of creative collaborations?</span></summary>
-    <div class="t-body prose">
-      <p>Check out projects by <a href="https://tcaproject.net/">SymbioticA</a>, <a href="https://www.rebuild-foundation.org/">Rebuild Foundation</a>, <a href="https://carolinesinders.com/">Caroline Sinders</a>, <a href="https://projectrowhouses.org/">Project Row Houses</a>, <a href="/art/interview-with-robert-irwin">Robert Irwin</a>, <a href="https://franceswhitehead.com/">Frances Whitehead</a>, <a href="https://municipal-artist.org/">Municipal Artist Partnerships</a>, <a href="https://www.thecpcp.org/">Center for Performance and Civic Practice</a>, <a href="https://www.yomamashouse.com/">Yo Mamas House</a>, ...</p>
-    </div>
-  </details>
+    <h3>Where do I find good examples of creative collaborations?</h3>
+    <p>Check out projects by <a href="https://tcaproject.net/">SymbioticA</a>, <a href="https://www.rebuild-foundation.org/">Rebuild Foundation</a>, <a href="https://carolinesinders.com/">Caroline Sinders</a>, <a href="https://projectrowhouses.org/">Project Row Houses</a>, <a href="/art/interview-with-robert-irwin">Robert Irwin</a>, <a href="https://franceswhitehead.com/">Frances Whitehead</a>, <a href="https://municipal-artist.org/">Municipal Artist Partnerships</a>, <a href="https://www.thecpcp.org/">Center for Performance and Civic Practice</a>, <a href="https://www.yomamashouse.com/">Yo Mamas House</a>, ...</p>
+  </div>
 
   <p style="margin-top: 36px;">Don't see your question? Ask it <a href="/contact">here</a>.</p>
 </Base>
