@@ -34,6 +34,9 @@ const fmt = (d: Date) =>
   .post :global(.brow .rmedia) { position: sticky; top: 24px; padding-top: 6px; }
   .post :global(.brow .rmedia p) { max-width: none; margin: 0 0 14px; }
   .post :global(.rmedia p.cap) { margin: -8px 4px 24px; }
+  .post :global(.prose .gal) { max-width: none; margin: 0 0 20px; }
+  .post :global(.rmedia .gal + p.cap) { margin-top: -2px; }
+  .post :global(.rmedia p:not(.cap) img) { max-height: 68vh; width: auto; max-width: 100%; }
   .post :global(p.pull) {
     font-size: clamp(20px, 2.3vw, 25px);
     line-height: 1.3;
@@ -82,8 +85,58 @@ const fmt = (d: Date) =>
       ul.remove();
     }
 
+    // 1b. merge consecutive images into an arrow gallery (same widget as art pages)
+    const isImgP = (el) => {
+      if (el.tagName !== 'P') return false;
+      let imgs = 0;
+      for (const n of el.childNodes) {
+        if (n.nodeType === 1 && n.tagName === 'IMG') imgs++;
+        else if (n.nodeType === 1 && n.tagName !== 'BR') return false;
+        else if (n.nodeType === 3 && n.textContent.trim()) return false;
+      }
+      return imgs > 0;
+    };
+    let run = [];
+    const flush = () => {
+      const imgs = run.flatMap((p) => Array.from(p.querySelectorAll('img')));
+      if (imgs.length >= 2) {
+        const gal = document.createElement('div');
+        gal.className = 'gal';
+        gal.innerHTML =
+          '<div class="gal-frame"></div><div class="gal-nav">' +
+          '<button class="gal-prev" aria-label="Previous image">&lsaquo;</button>' +
+          '<span class="gal-count"></span>' +
+          '<button class="gal-next" aria-label="Next image">&rsaquo;</button></div>';
+        run[0].before(gal);
+        const frame = gal.querySelector('.gal-frame');
+        imgs.forEach((im) => { im.loading = 'lazy'; frame.appendChild(im); });
+        run.forEach((p) => p.remove());
+        const count = gal.querySelector('.gal-count');
+        let idx = 0;
+        const show = (i) => {
+          idx = (i + imgs.length) % imgs.length;
+          imgs.forEach((im, k) => im.classList.toggle('on', k === idx));
+          count.textContent = `${idx + 1} / ${imgs.length}`;
+          const im = imgs[idx];
+          const fit = () => {
+            if (im.naturalWidth) frame.style.aspectRatio = `${im.naturalWidth} / ${im.naturalHeight}`;
+          };
+          if (im.complete) fit(); else im.addEventListener('load', fit, { once: true });
+        };
+        gal.querySelector('.gal-prev').addEventListener('click', () => show(idx - 1));
+        gal.querySelector('.gal-next').addEventListener('click', () => show(idx + 1));
+        show(0);
+      }
+      run = [];
+    };
+    for (const el of Array.from(prose.children)) {
+      if (isImgP(el)) run.push(el); else flush();
+    }
+    flush();
+
     // 2. classify media paragraphs
     const isMediaEl = (el) => {
+      if (el.classList && el.classList.contains('gal')) return true;
       if (el.tagName === 'IFRAME') return true;
       if (el.tagName !== 'P') return false;
       let media = 0;
