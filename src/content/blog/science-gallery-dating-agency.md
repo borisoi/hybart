@@ -11,9 +11,9 @@ excerpt: "We'd rather be where teenagers come on a first date than a quiet exhib
 
 - #### About Sarah and Ryan
 
-  ***Sarah Durcan*** *is Executive Director of Science Gallery International. With degrees in Communications from DCU and Cultural Policy and Arts Management from UCD, her background spans theater production and arts management. Former General Manager of Dublin Theatre Festival and Dublin Fringe Festival, Durcan has held board positions with the Abbey Theatre and Dublin City Council's Culture Company. A lead organizer of the #WakingTheFeminists campaign for gender equality in Irish theater, she's also worked as consultant producer with companies including The Corn Exchange and Theatre Lovett.*
+  ***<u>Sarah Durcan</u>*** *is Executive Director of Science Gallery International. With degrees in Communications from DCU and Cultural Policy and Arts Management from UCD, her background spans theater production and arts management. Former General Manager of Dublin Theatre Festival and Dublin Fringe Festival, Durcan has held board positions with the Abbey Theatre and Dublin City Council's Culture Company. A lead organizer of the #WakingTheFeminists campaign for gender equality in Irish theater, she's also worked as consultant producer with companies including The Corn Exchange and Theatre Lovett.*
 
-  [***Ryan Jefferi***](https://sciencegallery.org/m-r/dr-ryan-jefferies-director)[***es***](https://sciencegallery.org/network/people/sarah-durcan-associate-director) *is Director of Science Gallery Melbourne, the Grainger Museum and Director, Science, Academic and Learning at the Department of Museums and Collections. After completing a PhD in biomedical science at Murdoch University and postdoctoral fellowships at The University of Western Australia and University of Bristol, his career has spanned science research, education and museums. Jefferies has worked with the Western Australian Museum, Museums Victoria and the HBA Museum of Anatomy and Pathology, advocating for intersections between science and arts through major interdisciplinary exhibitions, festivals* [*and residencie*](https://sciencegallery.org/m-r/dr-ryan-jefferies-director)*s.*
+  [***<u>Ryan Jefferi</u>***](https://sciencegallery.org/m-r/dr-ryan-jefferies-director)[***es***](https://sciencegallery.org/network/people/sarah-durcan-associate-director) *is Director of Science Gallery Melbourne, the Grainger Museum and Director, Science, Academic and Learning at the Department of Museums and Collections. After completing a PhD in biomedical science at Murdoch University and postdoctoral fellowships at The University of Western Australia and University of Bristol, his career has spanned science research, education and museums. Jefferies has worked with the Western Australian Museum, Museums Victoria and the HBA Museum of Anatomy and Pathology, advocating for intersections between science and arts through major interdisciplinary exhibitions, festivals* [*and residencie*](https://sciencegallery.org/m-r/dr-ryan-jefferies-director)*s.*
 - #### Interview Takeaways
 
   - **Science Gallery** emerged in 2008 and evolved into a network model for art-science collaboration, operating six locations: Atlanta, US; Bengaluru, India; London, UK; Monterrey, Mexico; Melbourne, Australia; and Dublin, Ireland.
@@ -38,9 +38,9 @@ excerpt: "We'd rather be where teenagers come on a first date than a quiet exhib
 
 ![](/images/sg-infectious.jpg)
 
-[INFECTIOUS: Stay Away](https://www.youtube.com/playlist?list=PLD4EE739642692EA6), Science Gallery Dublin (2009). Photo: Patrick Bolger.
+<small>[INFECTIOUS: Stay Away](https://www.youtube.com/playlist?list=PLD4EE739642692EA6), Science Gallery Dublin (2009). Photo: Patrick Bolger.</small>
 
-Someone criticized us as "a cafe with an exhibition attached," which we loved, because that's exactly it—a third space where people figure things out. You'd have entrepreneurs and investors and moms and young folks all mixing. We'd rather be where teenagers come on a first date than a quiet exhibition space. It's all about the conversation.
+Someone criticized us as "a cafe with an exhibition attached," which we loved, because that's exactly it—a third space where people figure things out. You'd have entrepreneurs and investors and moms and young folks all mixing. <mark>We'd rather be where teenagers come on a first date than a quiet exhibition space. It's all about the conversation.</mark>
 
 Around 2011-2012, we [got a million euro grant](https://www.ecsite.eu/members/members-share/news/science-gallery-international-announces-eu11m-new-funding) from Google to set up Science Gallery International. So we spun out as a non-profit to build a peer network of multiple nodes, locally focused but internationally connected. That's the experiment we're still in—how do you build a network? Now we have six Science Galleries.
 
@@ -56,13 +56,13 @@ Last year we had four bricks-and-mortar galleries—it's taken time to reach thi
 
 **BO:** Are you still able to do controversial things like in the beginning?
 
-**SD:** What Science Gallery does as it matures is build trusting relationships that allow us space to be edgy and navigate tensions in a safe way for universities. Staying edgy is what the founders charged us to do, but there's of course temperance, given the world we're living in. Working with different stakeholders and leadership in different places creates different contexts. We have to be responsible to the organizations that host us, because Science Gallery isn't just about public engagement—it's about transforming host universities from within, innovating education itself.
+**SD:** What Science Gallery does as it matures is build trusting relationships that allow us space to be edgy and navigate tensions in a safe way for universities. Staying edgy is what the founders charged us to do, but there's of course temperance, given the world we're living in. Working with different stakeholders and leadership in different places creates different contexts. We have to be responsible to the organizations that host us, because <mark>Science Gallery isn't just about public engagement—it's about transforming host universities from within, innovating education itself</mark>.
 
 And we've seen those transformations happen. Former mediators and participants have gone on to research and teaching, transforming universities from within. Faculty told us how working with Science Gallery changed the ways they think about research.
 
 ![](/images/dsc-5741-hdr.jpg)
 
-Stuff Change, multi-sensory inflatable installation, by Denisa Pubalova, and Lea Luka Sikau. [CALORIE](https://sciencegallery.org/opencall/calorie), Science Gallery Bengaluru, 2025
+<small>Stuff Change, multi-sensory inflatable installation, by Denisa Pubalova, and Lea Luka Sikau. [CALORIE](https://sciencegallery.org/opencall/calorie), Science Gallery Bengaluru, 2025</small>
 
 ![](/images/b-rosette-2-2.png)
 
@@ -70,9 +70,9 @@ Stuff Change, multi-sensory inflatable installation, by Denisa Pubalova, and Lea
 
 **BO:** So, when you're pitching a new Science Gallery to a university, how do you tell that transformation story: this is how we will help you change?
 
-**SD:** Science Gallery speaks to all the strategic pillars of a university. First, education and student experience. Universities now know students need different pathways in. Our research showed 10% of students cited Science Gallery as the reason they went to Trinity.
+**SD:** Science Gallery speaks to all the strategic pillars of a university. First, education and student experience. Universities now know students need different pathways in. Our research showed <mark>10% of students cited Science Gallery as the reason they went to Trinity.</mark>
 
-Then there's academic research. We are internationally connected, sharing knowledge, exhibitions, and projects. Science Gallery lets the public participate in research and helps build multidisciplinary teams that break down silos. We're acting like the dating agency for collaborators, working with them to build public engagement from the start. What our staff bring is methodologies for navigating professional languages that don't always translate—research in social sciences and arts is very different from data sciences.
+Then there's academic research. We are internationally connected, sharing knowledge, exhibitions, and projects. Science Gallery lets the public participate in research and helps build multidisciplinary teams that break down silos. <mark>We're acting like the dating agency for collaborators, working with them to build public engagement from the start.</mark> What our staff bring is methodologies for navigating professional languages that don't always translate—research in social sciences and arts is very different from data sciences.
 
 Science Gallery is also a social space, a permeable boundary between city and university. And there's engagement with local communities, exploring topics important to people, navigating technology and ethics in fun ways.
 
@@ -80,15 +80,15 @@ And we throw a great party!
 
 ![](/images/science-gallery-darkmatters-lowres-85.webp)
 
-Image: Chroma V by Yunchul Kim in Science Gallery Melbourne’s DARK MATTERS. Photography: Emma Byrnes, 2023
+<small>Image: Chroma V by Yunchul Kim in Science Gallery Melbourne’s DARK MATTERS. Photography: Emma Byrnes, 2023</small>
 
 **RJ:** One kind of appeal to universities goes back to being edgy. We have a remit to be experimental about content, technology, emerging research. The need to be provocative is about our audience: that 15-30 year old demographic is difficult to engage. They'll call you out if you're not being real. They want us tackling issues that matter in their daily lives and society. To navigate challenging themes, you have to push boundaries to allow change to happen.
 
-Universities still deliver knowledge through disciplines, but the world doesn't fit in those boxes. Science Gallery bridges departments, facilitates collaboration between researchers and artists, creatives, designers, engineers, thinking about new ways of learning that inspire diverse students.
+Universities still deliver knowledge through disciplines, but the world doesn't fit in those boxes. <mark>Science Gallery bridges departments, facilitates collaboration between researchers and artists, creatives, designers, engineers, thinking about new ways of learning that inspire diverse students.</mark>
 
 **BO:** I want to ask about cultural diversity and its connection to collaboration and innovation. I've observed there's a very close connection—diverse people have diverse ideas. Working with as diverse a pool of people as possible is essential for innovation. What are your observations?
 
-**SD:** Yes, you're right. You cannot do transdisciplinary work and remain in cultural silos. But this isn't one-size-fits-all across the network. What's needed in Bangalore isn't what's needed in Monterey—the model requires cultural translation across locations. Take our mediator model of young people talking to each other—culturally, we're very chatty here in Ireland. That might not come naturally to young people in other locations.
+**SD:** Yes, you're right. <mark>You cannot do transdisciplinary work and remain in cultural silos.</mark> But this isn't one-size-fits-all across the network. What's needed in Bangalore isn't what's needed in Monterey—the model requires cultural translation across locations. Take our mediator model of young people talking to each other—culturally, we're very chatty here in Ireland. That might not come naturally to young people in other locations.
 
 **RJ:** From the Melbourne perspective, in Australia we have a huge gender gap in inspiring young women into science and technology. That's not global—our sister gallery in Bengaluru doesn't have that issue, lots of young women study engineering in India. So for us, inspiring more young women and gender diverse people is a remit, particularly when over 70% of future jobs will be in those disciplines.
 
@@ -106,7 +106,7 @@ Another is accessibility. We've been supporting the deaf and hard of hearing com
 
 ![](/images/061422-science-gallery-atlanta001.webp)
 
-We’re All Searching for Rest by William Massey, HOOKED, Science Gallery Atlanta (2022). Installation view. Photo: Jenna Heaton.
+<small>We’re All Searching for Rest by William Massey, HOOKED, Science Gallery Atlanta (2022). Installation view. Photo: Jenna Heaton.</small>
 
 **RJ:** Melbourne has a group called [Sci Curious](https://melbourne.sciencegallery.com/sci-curious)—a think tank of about 20 young people serving two-year terms. We partnered with the Faculty of Education researchers interested in what impact having a voice in Science Gallery programming has on their lives.
 
@@ -124,7 +124,7 @@ We're reaching a point where we can connect researchers on big multidisciplinary
 
 **RJ:** Our curatorial model is based on collaboration. We start with two think tank groups—Sci Curious, the youth, and Leonardos, a group of leaders and experts from a range of backgrounds. They brainstorm what's important right now, what would make a great exhibition. The two groups work together to form a theme, then launch an international open call—anyone worldwide can submit. We get over 500 submissions every time we do this.
 
-Then comes collaborative selection. We have a curatorial panel working with young people who make curatorial decisions. We also work with academics and experts within the chosen theme for fact-checking and connecting networks. We're the matchmakers, helping form collaborations between artists and researchers, providing space for them to develop something new. It's a non-traditional curatorial process—very open, genuinely youth-led.
+Then comes collaborative selection. We have a curatorial panel working with young people who make curatorial decisions. We also work with academics and experts within the chosen theme for fact-checking and connecting networks. <mark>We're the matchmakers, helping form collaborations between artists and researchers, providing space for them to develop something new.</mark> It's a non-traditional curatorial process—very open, genuinely youth-led.
 
 **SD:** We maintain academic rigor though. We can do speculative science, push the envelope, but there's still grounding—we should be able to explain the science behind it.
 
@@ -138,11 +138,11 @@ Being university-based, no matter what theme we pick, there's always an expert a
 
 **BO:** I wonder what Oron Catts would say about the ethics of donating your biological material to power cell phones!
 
-**SD:** We're not looking for perfect artworks, talking about failure and process is just as important as something looking beautiful. That's another aspect of being edgy—it's not about perfectly formed exhibitions. There's roughness and grit that makes them more appealing to the public and more honest about what this work actually is.
+**SD:** We're not looking for perfect artworks, <mark>talking about failure and process is just as important as something looking beautiful.</mark> That's another aspect of being edgy—it's not about perfectly formed exhibitions. There's roughness and grit that makes them more appealing to the public and more honest about what this work actually is.
 
 ![](/images/nanocarbon-cococcon-nopo-nanotechnology.jpg)
 
-Mediator during [CARBON](https://sciencegallery.org/opencall/carbon), Science Gallery Bengaluru (2023).
+<small>Mediator during [CARBON](https://sciencegallery.org/opencall/carbon), Science Gallery Bengaluru (2023).</small>
 
 ![](/images/b-rosette-2-5.png)
 
@@ -158,9 +158,9 @@ In terms of success, it's that transformative impact. Even just one person comin
 
 **RJ:** I'll give an example. Very few Deaf students, or students from low socioeconomic backgrounds, study at the At the University of Melbourne. When prospective students from these groups engage with Science Gallery programs, they're thinking "I am here at the University of Melbourne" for the first time. It feels more like a space for them. They start thinking "I want to study here."
 
-Diversifying access pathways for young people can be achieved via disruptive pedagogies - through the intersections of art and science. This transformative impact is also intercultural and interdisciplinary. But the university's current model may not be inclusive enough. So through Science Gallery we're piloting frameworks and policy changes that can ripple across the whole institution, translating into accessibility for different groups. Supporting 10 students can have a transformative impact if it changes an entire institution's culture.
+Diversifying access pathways for young people can be achieved via disruptive pedagogies - through the intersections of art and science. This transformative impact is also intercultural and interdisciplinary. But the university's current model may not be inclusive enough. So <mark>through Science Gallery we're piloting frameworks and policy changes that can ripple across the whole institution</mark>, translating into accessibility for different groups. Supporting 10 students can have a transformative impact if it changes an entire institution's culture.
 
-**SD:** I've sat with artworks and watched the public. A group of young lads come in, see something, and go "Oh wow, I like that." Their eyes open. Our mediators tell us they can have conversations with people in the gallery that they can't outside the door. The way it's set up feels safe for people to have chats. It opens different spaces, both within people's minds and across conversations, questioning in ways that aren't antagonistic.
+**SD:** I've sat with artworks and watched the public. A group of young lads come in, see something, and go "Oh wow, I like that." Their eyes open. <mark>Our mediators tell us they can have conversations with people in the gallery that they can't outside the door.</mark> The way it's set up feels safe for people to have chats. It opens different spaces, both within people's minds and across conversations, questioning in ways that aren't antagonistic.
 
 **BO:** It seems that success is presence of change, failure is absence of change. Transformation versus the lack thereof. Or, is it even useful to think about failures? Are there really failures in the sense of "I wish I hadn't done that"?
 
@@ -168,11 +168,11 @@ Diversifying access pathways for young people can be achieved via disruptive ped
 
 **RJ:** Wasn't there a Dublin exhibition called [Fail Better](https://universitytimes.ie/2014/03/science-gallery/)?
 
-**SD:** One of the most successful ones, from Samuel Beckett's "[Try again. Fail again. Fail better.](https://www.goethe.de/ins/us/en/sta/los/bih/feh/21891928.html)" It had Christopher Reeve's wheelchairs, a medal from one of our Olympic winners who didn't quite win gold. Talking about failure is important. The only real failure is if you don't learn or don't bring that learning back into the system.
+**SD:** One of the most successful ones, from Samuel Beckett's "[Try again. Fail again. Fail better.](https://www.goethe.de/ins/us/en/sta/los/bih/feh/21891928.html)" It had Christopher Reeve's wheelchairs, a medal from one of our Olympic winners who didn't quite win gold. Talking about failure is important. <mark>The only real failure is if you don't learn or don't bring that learning back into the system.</mark>
 
 ![](/images/fail-better.jpg)
 
-FAIL BETTER, Science Gallery Dublin (2014). Installation view. Photo: Dejan Karin.
+<small>FAIL BETTER, Science Gallery Dublin (2014). Installation view. Photo: Dejan Karin.</small>
 
 Sometimes we see challenges at new locations. They look at what Dublin or Melbourne are doing and try to move too quickly. But you should build slowly, recognizing there's a pattern of bold experimentation and then you might need to settle down. Being conscious of what you're trying to do—Science Gallery can go in so many directions.
 
@@ -218,13 +218,13 @@ We're seeing the rise of AI and technology at a revolutionary rate. We don't kno
 
 ![](/images/science-gallery-melbourne-distraction-credit-astrid-mulder-web-1-1.webp)
 
-Installation view of Arcade by Freeplay in Science Gallery Melbourne’s DISTRACTION. Photography: Astrid Mulder, 2025
+<small>Installation view of Arcade by Freeplay in Science Gallery Melbourne’s DISTRACTION. Photography: Astrid Mulder, 2025</small>
 
 **SD:** I see the network as defining feature. Mission one is transforming how our universities think about education. Mission two is how we connect that learning and accelerate it across locations.
 
-The grand ambition is that the Science Gallery way of thinking becomes more commonplace—how we think of leadership, impact on public policy, approaches to governance, not just education but innovation with ethics built in, scientific citizenship built in. That democratization of science is incredibly important to us.
+<mark>The grand ambition is that the Science Gallery way of thinking becomes more commonplace</mark>—how we think of leadership, impact on public policy, approaches to governance, not just education but innovation with ethics built in, scientific citizenship built in. That democratization of science is incredibly important to us.
 
-Fundamentally, humanities are under pressure—there's this battle where everything becomes "it's all science and tech." That tension is still very alive. But we need all our talents, all our disciplines. We have to reject this idea that you can return to a disciplinary monoculture and solve the world's problems. You can't. Without overstating what we can do, but being conscious of attending to those questions.
+Fundamentally, humanities are under pressure—there's this battle where everything becomes "it's all science and tech." That tension is still very alive. But we need all our talents, all our disciplines. <mark>We have to reject this idea that you can return to a disciplinary monoculture and solve the world's problems.</mark> You can't. Without overstating what we can do, but being conscious of attending to those questions.
 
 If we get it right, there should be multiple projects associated with Science Gallery that are fundamentally transformative. Because it is about young people who, in the next 15-20 years, will absolutely need to transform this world, to be that bridge to a better, brighter future.
 

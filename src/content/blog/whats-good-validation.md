@@ -9,7 +9,7 @@ excerpt: "Revisiting the report “Investing in Creativity” through the lens o
 
 ![](/images/srg0900.jpg)
 
-*Image: Performance “*[*Dance Like a Nurse, Nurse Like a Dancer*](https://wam.umn.edu/dance-nurse-nurse-dancer-1)*” at the Hennepin Public Library. Choreographer:* [*Anna Marie Shogren*](https://www.mcknightdancechoreo.org/anna-shogren)*. Weisman Art Museum, Minneapolis, MN, 2018*
+<small>*Image: Performance “*[*Dance Like a Nurse, Nurse Like a Dancer*](https://wam.umn.edu/dance-nurse-nurse-dancer-1)*” at the Hennepin Public Library. Choreographer:* [*Anna Marie Shogren*](https://www.mcknightdancechoreo.org/anna-shogren)*. Weisman Art Museum, Minneapolis, MN, 2018*</small>
 
 *This is the second post in the series of reflections on the report “Investing in Creativity: A Study of the Support Structure for U.S. Artists.” If you’re just arriving here, you might want to start with the* [*introduction*](/blog/1)*.  
  The series reviews the six dimensions of support for the artists—validation, markets, material support, training, networks, and information—through the lens of hybrid arts. This part explores the dimension of validation, examining the complex interplay between recognition by collaborators and the general public.*

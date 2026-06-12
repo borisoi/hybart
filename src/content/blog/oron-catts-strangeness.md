@@ -9,11 +9,11 @@ excerpt: "Art is a very important instrument for highlighting issues that need m
 
 ![](/images/6t6a9095.jpeg)
 
-- #### About Oron Catts
+- #### About <u>Oron Catts</u>
 
-  [Oron Catts](https://en.wikipedia.org/wiki/Oron_Catts) is an artist and researcher who has worked at the intersection of biology and art since the 1990s. After training in product design, he collaborated with Ionat Zurr to co-found [SymbioticA](https://en.wikipedia.org/wiki/SymbioticA), creating the world's first laboratory where artists could engage directly with biological research and wet lab practices. Through this initiative, they developed a model for art-science integration that has influenced similar programs worldwide.
+  [Oron Catts](https://en.wikipedia.org/wiki/Oron_Catts) is an artist and researcher who has worked at the intersection of biology and art since the 1990s. After training in product design, he collaborated with Ionat Zurr to co-found [<u>SymbioticA</u>](https://en.wikipedia.org/wiki/<u>SymbioticA</u>), creating the world's first laboratory where artists could engage directly with biological research and wet lab practices. Through this initiative, they developed a model for art-science integration that has influenced similar programs worldwide.
 
-  Catts now serves as Director of the Institute of Advanced Studies at the University of Western Australia while leading SymbioticA's evolution into an independent organization. His artistic work, conducted primarily with long-term collaborator Ionat Zurr through their [Tissue Culture & Art Project](https://tcaproject.net/), explores the philosophical and ethical implications of biotechnology.
+  Catts now serves as Director of the Institute of Advanced Studies at the University of Western Australia while leading SymbioticA's evolution into an independent organization. His artistic work, conducted primarily with long-term collaborator Ionat Zurr through their [<u>Tissue Culture & Art Project</u>](https://tcaproject.net/), explores the philosophical and ethical implications of biotechnology.
 - #### Interview Takeaways
 
   - [SymbioticA](https://en.wikipedia.org/wiki/SymbioticA) emerged in the 1990s as an artistic response to biotechnology's rise and the cultural and ethical challenges of treating life as an engineerable material.
@@ -21,7 +21,7 @@ excerpt: "Art is a very important instrument for highlighting issues that need m
   - Instead of pursuing traditional collaboration, they maintained distinct disciplinary boundaries, allowing work to be interpreted differently across scientific, artistic, and cultural contexts.
   - What began as an art project evolved into a broader cultural laboratory examining biology and society, attracting artists, humanists, social scientists, and researchers from various fields.
   - Success depended on two key factors: institutional allies willing to support "outlier" projects, and funding structures that enabled open-ended exploration without inflated promises.
-  - In 2023, the University of Western Australia decided to [discontinue](https://hyperallergic.com/862162/bio-artists-face-an-uncertain-future/) SymbioticA’s operation. Subsequently, an agreement was reached with the Art Gallery of Western Australia to reestablish the laboratory within its walls.
+  - In 2023, the University of Western Australia decided to [<u>discontinue</u>](https://hyperallergic.com/862162/bio-artists-face-an-uncertain-future/) SymbioticA’s operation. Subsequently, an agreement was reached with the Art Gallery of Western Australia to reestablish the laboratory within its walls.
 
 16 minute read
 
@@ -46,10 +46,10 @@ Then in 1996, [Dolly the sheep](https://www.nms.ac.uk/discover-catalogue/the-sto
 ![](/images/ear-mosue-02.jpg)
 ![](/images/dolly1stbornbonnie.jpeg)
 
-Mouse image: At Yilin Cao ‘s Laboratory, Shanghai, 2015. Photo by Oron Catts  
-Dolly image: Source: [*Two Decades After Dolly the Sheep, Here's What We've Learned About Cloning*](https://www.nbcnews.com/mach/science/two-decades-after-dolly-sheep-here-s-what-we-ve-n724096). Courtesy The Roslin Institute, The University of Edinburgh.
+<small>Mouse image: At Yilin Cao ‘s Laboratory, Shanghai, 2015. Photo by Oron Catts  
+Dolly image: Source: [*Two Decades After Dolly the Sheep, Here's What We've Learned About Cloning*](https://www.nbcnews.com/mach/science/two-decades-after-dolly-sheep-here-s-what-we-ve-n724096). Courtesy The Roslin Institute, The University of Edinburgh.</small>
 
-I was extremely interested in what this meant - how these new ways of manipulating life would impact us and the idea of life in general. My interest was to distill the strangeness of what's happening by liberating this knowledge from the biomedical silo and putting it in a new context.
+I was extremely interested in what this meant - how these new ways of manipulating life would impact us and the idea of life in general. <mark>My interest was to distill the strangeness of what's happening by liberating this knowledge from the biomedical silo and putting it in a new context.</mark>
 
 **Boris:** You studied design, right?
 
@@ -57,15 +57,15 @@ I was extremely interested in what this meant - how these new ways of manipulati
 
 While writing, I got concerned about some of the mindsets that were driving the field. I realized that I was more interested in the problems this proposition generates than the solutions it might yield. I also was interested in the prospect that, now that life is becoming a raw material, it opens up a new palette of artistic possibilities: moving away from art as representation and mediation of experiences to working with your subject matter as your object of manipulation. So I decided to continue my research as an artist, but to do it through direct experiential engagement with biology. My interest wasn't just about reading what's going on or speaking to scientists - I wanted to experience it myself.
 
-I wanted to feel what it means to manipulate life. The materiality of life itself, the problematics of engaging with life in such a way, became both the object and the subject of my art.
+<mark>I wanted to feel what it means to manipulate life. The materiality of life itself, the problematics of engaging with life in such a way, became both the object and the subject of my art.</mark>
 
 **Boris**: So you shifted from design to art when you became interested in problems more than in solutions. Say more!
 
-**Oron**: Design is a solution-driven profession, an optimistic pursuit. When you come up with a design outcome, it's referred to as a solution, and it's targeted to fulfill certain functions. Art, I believe, is one of those special places that’s about problematizing things. It's about making things strange and dealing with the unresolved - and dealing with it in an ambiguous way. The idea of art is to create awareness and challenge perceptions, not to solve problems.
+**Oron**: Design is a solution-driven profession, an optimistic pursuit. When you come up with a design outcome, it's referred to as a solution, and it's targeted to fulfill certain functions. <mark>Art, I believe, is one of those special places that’s about problematizing things. It's about making things strange and dealing with the unresolved - and dealing with it in an ambiguous way.</mark> <mark>The idea of art is to create awareness and challenge perceptions, not to solve problems.</mark>
 
 In my case, it was about being able to take things that can be considered mundane in the lab, and recontextualizing them to such an extent that their strangeness becomes apparent. There's a huge difference between how we think about life as a society, and what is happening to life within science and engineering. We have very little cultural language to cope and engage with what's happening in the lab - because we only ever see the products of that work.
 
-It's always masked with utility - everything that scientists and engineers are doing is weighed against the potential benefits. But art doesn't have a perceived utility. So, if you do those very same things as an artist, you can distill and purify the ethical conundrums that scientific methods and new technologies are creating. Art is a very important instrument for highlighting issues that need more scrutiny, and for making what's hidden and obscured meaningful.
+It's always masked with utility - everything that scientists and engineers are doing is weighed against the potential benefits. But art doesn't have a perceived utility. So, if you do those very same things as an artist, you can distill and purify the ethical conundrums that scientific methods and new technologies are creating. <mark>Art is a very important instrument for highlighting issues that need more scrutiny, and for making what's hidden and obscured meaningful.</mark>
 
 ![](/images/d-rosette-new3.png)
 
@@ -83,9 +83,9 @@ That was in '96 or '97, SymbioticA still didn't exist. We were fortunate that at
 
 [![](/images/tca-project-stage-one-oron-catts-ionat-zurr.jpg)](https://tcaproject.net/portfolio/stage-1/)
 
-From “Stage 1” exhibition. Image source: [The Tissue Culture and Art Project](https://tcaproject.net/portfolio/stage-1/)
+<small>From “Stage 1” exhibition. Image source: [The Tissue Culture and Art Project](https://tcaproject.net/portfolio/stage-1/)</small>
 
-When we had this exhibition, many artists approached us and asked, "How did you manage to get access to those resources? Get into the lab? Speak to scientists?" We realized there was tremendous interest among artists to try and follow similar trajectories.
+When we had this exhibition, many artists approached us and asked, "How did you manage to get access to those resources? Get into the lab? Speak to scientists?" <mark>We realized there was tremendous interest among artists to try and follow similar trajectories.</mark>
 
 Then in 1999 the Western Australia Lottery Commission announced a special grant to fund things that would not be funded in any other way. Together with scientists Prof. [Miranda Grounds](https://research-repository.uwa.edu.au/en/persons/miranda-grounds) and Dr. [Stuart Bunt](https://research-repository.uwa.edu.au/en/persons/stuart-bunt), we submitted an application to build a permanent space for artists in the Department of Anatomy and Human Biology at the University of Western Australia. And we were successful! That space became [SymbioticA](https://en.wikipedia.org/wiki/SymbioticA).
 
@@ -99,7 +99,7 @@ Vacanti showed us great respect and said, "That's the appointment we gave you. I
 
 [![](/images/growing-pig-wings.jpg)](https://tcaproject.net/portfolio/pigs-wings/)
 
-Growing Pig Wings. Image source: [The Tissue Culture and Art Project](https://tcaproject.net/portfolio/pigs-wings/)
+<small>Growing Pig Wings. Image source: [The Tissue Culture and Art Project](https://tcaproject.net/portfolio/pigs-wings/)</small>
 
 We took this approach with us: that SymbioticA should be a research lab within the biological sciences department that happened to do artistic research, and all our researchers—artists or scientists—would be treated as equals. No hierarchy, everyone would have the same access to all resources.
 
@@ -107,7 +107,7 @@ It took time to convince people at first. Scientists would knock on the door and
 
 In 2002, we had a [major retrospective](https://mass.nomad.net.au/wp-content/uploads/beap/2002/program/pdf/BEAP%202002-Biofeel%20.pdf). We filled up the Perth Institute of Contemporary Arts and created the world’s biggest biological arts exhibitions at the time. With that exhibition's success, I went to the university and said, "We've got all this that we've done in just two years. We have the program running, and we have these plans for the future." The university decided this was something worth funding.
 
-What was interesting is that we didn't promise much. We were fortunate to get the initial funding and to build the lab, and then the program, and only after we established everything did we ask for ongoing funding. The problem I often see is, to get funded you have to inflate your promises. You create unrealistic expectations, and when they're not delivered, the program folds. I've seen it happening repeatedly. With SymbioticA, there were no inflated expectations. Whatever we delivered - an internationally recognized program that became the benchmark for artistic collaboration with life sciences - was done from the bottom up and in stages, without pressure to deliver. Eventually, that approach [worked for almost 25 years](https://static.weboffice.uwa.edu.au/archive/www.symbiotica.uwa.edu.au/1161146.html).
+<mark>What was interesting is that we didn't promise much.</mark> We were fortunate to get the initial funding and to build the lab, and then the program, and only after we established everything did we ask for ongoing funding. The problem I often see is, to get funded you have to inflate your promises. You create unrealistic expectations, and when they're not delivered, the program folds. I've seen it happening repeatedly. With SymbioticA, there were no inflated expectations. Whatever we delivered - an internationally recognized program that became the benchmark for artistic collaboration with life sciences - was done from the bottom up and in stages, without pressure to deliver. Eventually, that approach [worked for almost 25 years](https://static.weboffice.uwa.edu.au/archive/www.symbiotica.uwa.edu.au/1161146.html).
 
 ![](/images/d-rosette-new4.png)
 
@@ -123,11 +123,11 @@ This led to our [Worry Dolls project](https://www.interaliamag.org/articles/tiss
 
 [![](/images/worry-dolls.jpg)](https://www.interaliamag.org/articles/tissue-culture-art-project-oron-catts-ionat-zurr/)
 
-A Semi-Living Worry Doll H. From *The Tissue Culture & Art(ificial) Wombs* Installation, Ars Electronica 2000. Image source: [Interalia Magazine](https://www.interaliamag.org/articles/tissue-culture-art-project-oron-catts-ionat-zurr/).
+<small>A Semi-Living Worry Doll H. From *The Tissue Culture & Art(ificial) Wombs* Installation, Ars Electronica 2000. Image source: [Interalia Magazine](https://www.interaliamag.org/articles/tissue-culture-art-project-oron-catts-ionat-zurr/).</small>
 
 One interesting development - something I hadn't initially anticipated - was that when we opened the SymbioticA residency program, I had envisioned it only for artists. But we quickly started getting interest from other non-biologists who were curious about laboratory work and life sciences. We received applications from philosophers, ethicists, geographers, and social scientists. They also joined our residencies.
 
-So SymbioticA wasn't just an art-and-biology  lab - it became a culture-and-biology lab, engaging with all aspects of humanity. This expanded our vocabulary significantly. At any given time we would have three to five residents who were as diverse as the scientists they worked with. You might find a performance artist, designer, architect, ethicist, geographer, tissue engineer, molecular biologist, and ecologist all working on their projects in the same room.
+<mark>So SymbioticA wasn't just an art-and-biology  lab - it became a culture-and-biology lab, engaging with all aspects of humanity.</mark> This expanded our vocabulary significantly. At any given time we would have three to five residents who were as diverse as the scientists they worked with. You might find a performance artist, designer, architect, ethicist, geographer, tissue engineer, molecular biologist, and ecologist all working on their projects in the same room.
 
 ![](/images/d-rosette-new5.png)
 
@@ -149,19 +149,19 @@ From early on the work generated significant attention - [international press](h
 
 **Boris**: What constitutes a successful collaboration for you?
 
-**Oron**: When we started, our byline was "SymbioticA: The Arts and Science Collaborative Research Laboratory." We dropped the "collaboration" part very quickly though, because SymbioticA's focus has always been our residents and their research. Of the more than 150 different projects that came from SymbioticA, perhaps 20 could be considered true collaborations. A successful collaboration - among those very few - creates value that crosses different epistemologies. It produces new scientific knowledge while also generating art validated through exhibitions and by peers.
+**Oron**: When we started, our byline was "SymbioticA: The Arts and Science Collaborative Research Laboratory." We dropped the "collaboration" part very quickly though, because SymbioticA's focus has always been our residents and their research. Of the more than 150 different projects that came from SymbioticA, perhaps 20 could be considered true collaborations. <mark>A successful collaboration - among those very few - creates value that crosses different epistemologies. It produces new scientific knowledge while also generating art validated through exhibitions and by peers.</mark>
 
 ![](/images/kathyhigh-talk-amanda.jpg)
 
-Lab meeting at SymbioticA HQ
+<small>Lab meeting at SymbioticA HQ</small>
 
-We realized very soon that it was crucial to maintain the integrity of disciplines. A scientist joins the group as a scientist, an artist as an artist, and an engineer as a technologist, and they maintain their disciplinary integrity within the project. When that boundary breaks down, you see scientists who think they are now artists after working on a couple of creative projects, or artists who learned some techniques and think they are technologists. That is problematic, and usually those relationships deteriorate quickly. When we maintained disciplinary integrity - when everyone understood their role in the group, not in terms of hierarchy but in terms of what they brought to the project - things worked well.
+<mark>We realized very soon that it was crucial to maintain the integrity of disciplines.</mark> A scientist joins the group as a scientist, an artist as an artist, and an engineer as a technologist, and they maintain their disciplinary integrity within the project. When that boundary breaks down, you see scientists who think they are now artists after working on a couple of creative projects, or artists who learned some techniques and think they are technologists. That is problematic, and usually those relationships deteriorate quickly. When we maintained disciplinary integrity - when everyone understood their role in the group, not in terms of hierarchy but in terms of what they brought to the project - things worked well.
 
 The synthesis happens, but it’s not only through the group dynamic and collaboration but through interpreting the work in different disciplinary contexts. One of our works, [Victimless Leather](https://en.wikipedia.org/wiki/Victimless_Leather), was shown in design exhibitions, [art exhibitions](https://www.nytimes.com/2008/05/13/science/13coat.html), and in a science museum. Every time its reading differed dramatically based on the exhibition context and hosting institution.
 
 [![](/images/tca-project-victimless-leather-oron-catts-and-ionat-zurr-02.jpg)](https://tcaproject.net/portfolio/victimless-leather/)
 
-Victimless Leather. Source: The Tissue Culture and Art Project
+<small>Victimless Leather. Source: The Tissue Culture and Art Project</small>
 
 The same is true for all SymbioticA research - if scientists describe the project, you'd read it as scientific work. If an artist presented it, you'd get a very different picture. It was important not to conflate these. That's why I emphasize disciplinary integrity - we must accept that  work can be understood in many ways.
 
@@ -175,7 +175,7 @@ It was successful but demanding. We kept it small because of the effort of custo
 
 **Boris**: Let's discuss support. What worked as a funding structure for your work? What didn't?
 
-**Oron**: That tiny grant from the Perth Institute of Contemporary Art in 1996 started everything. It showed our work mattered - there was interest. An open-ended research grant without deliverables, it allowed us to explore ideas. Without that grant, nothing would have happened.
+**Oron**: <mark>That tiny grant from the Perth Institute of Contemporary Art in 1996 started everything. It showed our work mattered - there was interest. An open-ended research grant without deliverables, it allowed us to explore ideas. Without that grant, nothing would have happened.</mark>
 
 But later SymbioticA really benefited from the federal arts funding body's growing interest in artists working with emerging technologies. They provided generous personal and project grants. Interestingly, in our experience these government systems are remarkably fair. They truly listen to artists and, being government organizations, they're strict about conflicts of interest.
 
@@ -189,11 +189,11 @@ The main funding gap was resident funding. We couldn't invite artists, or suppor
 
 ![](/images/symbiotica-thumbnail.jpg)
 
-Oron Catts and Ionat Zurr
+<small>Oron Catts and Ionat Zurr</small>
 
 Surprisingly, despite the fairly generous funding for our work,  Australia’s art scene has limited acceptance for hybrid arts projects. The artists have a strong international reputation because of the external exposure, but the venues are extremely conservative and artists like us have few local exhibition opportunities. I usually showed work locally only by initiating and curating exhibitions myself.
 
-Generally, there is a fundamental tension between our work and traditional art-institutional mission. Art galleries are, polemically speaking, places of death - preserving static objects for as long as possible. Bringing living artwork that grows and [might die](https://www.nytimes.com/2008/05/13/science/13coat.html)... when artists lend work to galleries, they typically sign agreements requiring the gallery to return it in original condition. This doesn't work with biological arts. For some reason, Australian galleries seemed more concerned about this than those elsewhere.
+Generally, there is a fundamental tension between our work and traditional art-institutional mission. <mark>Art galleries are, polemically speaking, places of death - preserving static objects for as long as possible.</mark> Bringing living artwork that grows and [might die](https://www.nytimes.com/2008/05/13/science/13coat.html)... when artists lend work to galleries, they typically sign agreements requiring the gallery to return it in original condition. This doesn't work with biological arts. For some reason, Australian galleries seemed more concerned about this than those elsewhere.
 
 Hopefully things are changing with SymbioticA's rebirth at the Art Gallery of Western Australia. I hope to see more venues embracing this kind of art and developing infrastructure for it.
 
@@ -223,7 +223,7 @@ I was also appointed director of the [Institute of Advanced Studies at the Unive
 
 [![](/images/stelarc-afp.jpeg)](https://www.independent.co.uk/news/world/australasia/performance-artist-grows-third-ear-on-arm-will-connect-to-internet-and-allow-world-to-listen-in-10451597.html)
 
-Source: [*Man grows ear on his arm and will connect to the internet so the world can listen in*](https://www.independent.co.uk/news/world/australasia/performance-artist-grows-third-ear-on-arm-will-connect-to-internet-and-allow-world-to-listen-in-10451597.html)
+<small>Source: [*Man grows ear on his arm and will connect to the internet so the world can listen in*](https://www.independent.co.uk/news/world/australasia/performance-artist-grows-third-ear-on-arm-will-connect-to-internet-and-allow-world-to-listen-in-10451597.html)</small>
 
 [Critical Art Ensemble](http://critical-art.net/) significantly influenced me when I encountered them in the late '90s. Their approach taught me much about distinguishing art from activism - they lean toward activism. They did two residencies with us, which was wonderful.
 

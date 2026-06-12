@@ -13,7 +13,7 @@ excerpt: "Our work for recognition and justice will have more impact if it grows
 
   [Shanai](https://shanai.work/) is an artist, writer, mother, community-based researcher, and cultural organizer. She lives and works in Anishinaabe territory, in rural Aitkin County, Minnesota – the same small community where she grew up. Shanai weaves together art-making, organizing, and deep engagement with place, creating collaborative public art projects, documentary films, and social spaces that explore our relationships with land, water, and each other. She is passionate about water equity, climate resilience, Indigenous cultural resurgence, and the emergence of feminist and holistic economies.
 
-  Shanai is co-founder of [Fire in the Village](https://www.fireinthevillage.org/), a collective of artists and cultural organizers who create spaces for connection through poetry, music, printmaking, and storytelling in rural northern Minnesota. She also co-founded [Water Bar & Public Studio](https://www.worksprogress.org/water-bar/), an artist-led benefit corporation that served water to build relationships that transform culture.
+  Shanai is co-founder of [<u>Fire in the Village</u>](https://www.fireinthevillage.org/), a collective of artists and cultural organizers who create spaces for connection through poetry, music, printmaking, and storytelling in rural northern Minnesota. She also co-founded [<u>Water Bar & Public Studio</u>](https://www.worksprogress.org/water-bar/), an artist-led benefit corporation that served water to build relationships that transform culture.
 
   Her work has been supported by the Bush Foundation, McKnight Foundation, and National Endowment for the Arts.
 - #### Interview Takeaways
@@ -51,7 +51,7 @@ Lately my writing has become integrated with my organizing work. I write to proc
 
 I'm currently focused on an initiative that I'm developing with [Annie Humphrey](https://www.anniehumphreymusic.com/), an Anishinaabe artist and musician from Leech Lake Reservation. We named it "[Fire in the Village](https://www.fireinthevillage.org/)" because of how we think about the role of fire in communities. Sometimes it's an actual campfire where people gather to cook and work together, but it's also about sparking something inside people that helps them understand their own power. Annie, who was mentored by [John Trudell](https://en.wikipedia.org/wiki/John_Trudell), teaches that real power doesn't come from corporations or government - it comes from our relationships with each other and with the land.
 
-Everything I do - the art, the writing, the organizing - it's all about creating spaces where people can see each other and develop a sense of their own power through relationships and creative expression. That's how cultural organizing begins for me.
+<mark>Everything I do - the art, the writing, the organizing - it's all about creating spaces where people can see each other</mark> and develop a sense of their own power through relationships and creative expression. That's how cultural organizing begins for me.
 
 ![](/images/r2-rosette-1.png)
 
@@ -71,19 +71,19 @@ In my earlier project, Water Bar, we convened conversation around serving water 
 
 But my most significant collaborations happen in the rural community where I grew up. I'm not engaging there as an artist - though that's a skill I bring and people know that. I'm engaging because of my relationship to the place. This allows me to build bridges between different groups who might not usually interact.
 
-For me, organizing doesn't start with big questions or messages. It starts with the campfire where we're sharing stories and recognizing each other, and then we figure out what we need to do together. With Fire in the Village, we're deliberately taking our time, rather than rushing to become another nonprofit. We're letting it grow organically because we believe lasting change happens when you build deep community bonds first.
+<mark>For me, organizing doesn't start with big questions or messages.</mark> It starts with the campfire where we're sharing stories and recognizing each other, and then we figure out what we need to do together. With Fire in the Village, we're deliberately taking our time, rather than rushing to become another nonprofit. We're letting it grow organically because we believe lasting change happens when you build deep community bonds first.
 
-What makes these collaborations meaningful is that they're rooted in genuine connection to place. When you're truly part of a community, you can't treat it as an abstraction - you have to deal with all the complexities and contradictions, and find ways to bring people together across their differences. That's the heart of my collaborative practice.
+What makes these collaborations meaningful is that they're rooted in genuine connection to place. <mark>When you're truly part of a community, you can't treat it as an abstraction - you have to deal with all the complexities and contradictions, and find ways to bring people together across their differences.</mark> That's the heart of my collaborative practice.
 
 **BO**: *What successful and failed collaborations look like?*
 
-**SM**: I honestly don't think much in terms of success and failure, but I do have a sense of when something works. For me, success is about generating relational connections - when people who see things differently are able to build human relationships with each other, or when someone starts to understand a place as real and living rather than just a dot on a map.
+**SM**: I honestly don't think much in terms of success and failure, but I do have a sense of when something works. For me, <mark>success is about generating relational connections - when people who see things differently are able to build human relationships with each other</mark>, or when someone starts to understand a place as real and living rather than just a dot on a map.
 
 Take our recent [Harvest Camp](https://www.mnipl.org/event/community-harvest-camp/) for example. Instead of organizing a symposium about mining and environmental issues, we rented an outdoor camp where everyone could stay together. We had art and music to welcome people, shared meals, and learned from each other - like having a local farmer teach people how to make sauerkraut while discussing food sovereignty and justice.
 
 Some of the participants were statewide environmental organizers who typically approach our community with their pre-planned campaigns. One of my goals was to shift that mindset by helping them see the people and the place as more than just a campaign site. When that kind of shift happens - that's success.
 
-Where I see things fail is often in partnership with institutions.  I rarely work completely independently, there's often a bigger goal or somebody directing  a larger project - and things fail when top-down institutional mindsets take over. When the need for specific outcomes or visibility or fundraising goals become more important than the relationships we're building, that's when things go wrong.
+<mark>Where I see things fail is often in partnership with institutions.</mark>  I rarely work completely independently, there's often a bigger goal or somebody directing  a larger project - and things fail when top-down institutional mindsets take over. When the need for specific outcomes or visibility or fundraising goals become more important than the relationships we're building, that's when things go wrong.
 
 ![](/images/img-5847.jpg)
 ![](/images/water-bar-storefront.jpg)
@@ -103,11 +103,11 @@ Sometimes these failures happen because I underestimate how powerful institution
 
 **SM**: [Line 3](https://en.wikipedia.org/wiki/Line_3_pipeline) is an oil pipeline built and managed by the Canadian company [Enbridge](https://www.enbridge.com/). Its construction was accompanied by a national [protest movement](https://en.wikipedia.org/wiki/Stop_Line_3_protests) that ultimately failed to stop it. Thousands of people came to our community to protest the construction, and I found myself in a unique position as both a local person and an arts activist trying to bridge different communities and approaches to resistance. I co-developed and led an arts and culture program that accompanied movement, in a space next to the construction site, which also happened to be in the small town where I grew up.
 
-I quickly learned that because I knew the people and the place very intimately, I had a different role to play: I was able to mediate, to a degree, between the locals and the activists who were coming to participate in movement activities. I couldn't treat the local community as an abstraction, because I wasn't an abstract person to them. I was known, this was my home.
+I quickly learned that because I knew the people and the place very intimately, I had a different role to play: I was able to mediate, to a degree, between the locals and the activists who were coming to participate in movement activities. <mark>I couldn't treat the local community as an abstraction, because I wasn't an abstract person to them.</mark> I was known, this was my home.
 
 I didn't realize how complex it would be to work with visiting activists as a local. There was some hesitation from activists about taking guidance from someone like me - they were hoping to find leadership that could perfectly embody their vision, though of course that's not really how leadership works in real communities. I also came to understand how much I needed mentorship from people with deep spiritual connections to the land to help guide the work, but finding those mentors took time.
 
-I didn't fully realize how much the state would see my presence as a threat because I disrupted their narrative. They were prepared for clear categories: Indigenous protesters and "outsiders" from urban places far away on one side, and local white communities on the other - where they could spread racist narratives about Indigenous people to invoke fear and animosity. They just didn't know what to do with a white woman who had generational local connections and was unwilling to go along with their story.
+I didn't fully realize how much the state would see my presence as a threat because I disrupted their narrative. They were prepared for clear categories: Indigenous protesters and "outsiders" from urban places far away on one side, and local white communities on the other - where they could spread racist narratives about Indigenous people to invoke fear and animosity. <mark>They just didn't know what to do with a white woman who had generational local connections and was unwilling to go along with their story.</mark>
 
 The role of art in this was interesting because I presented myself as an artist who was there to organize. That's what I really wanted to do and what I thought I was doing, but I’m not sure most people understood what that means. Early on it gave me access and freedom - there were encounters near the construction zone, for example, and I would say, "I’m just gathering material for an art project!” But when it became clear that I’m doing more than just “making art”, I became a person of interest. I was [surveilled](https://www.theguardian.com/uk-news/2021/oct/05/line-3-pipeline-enbridge-paid-police-arrest-protesters), and they [tried to put me in jail](https://www.mprnews.org/story/2022/07/18/defendants-seek-dismissal-of-line-3-protest-charges).
 
@@ -151,7 +151,7 @@ It’s striking how this history shapes current politics. Many of the important 
 
 That region had a clan system that developed for protection against invading armies, and you can still see that clan behavior in Minnesota. My family, for example - everyone lives on one road, and you really don’t go down that road unless you have business with the family.
 
-The politics around mining in our region today grows from this cultural history. Through my organizing work, I've seen how deeply it shapes people's relationships with industry and land. Many welcome mining companies because our ancestors came here specifically to work in the mines. A lot of us European settlers don't know what's at the root of ourselves and our connections to land, so we gravitate toward things that anchor us. For people in my community, that's often a nostalgia for the mining industry, or our dependence on corporations. Understanding that history helps me understand the complexity of organizing.
+The politics around mining in our region today grows from this cultural history. Through my organizing work, I've seen how deeply it shapes people's relationships with industry and land. Many welcome mining companies because our ancestors came here specifically to work in the mines. <mark>A lot of us European settlers don't know what's at the root of ourselves and our connections to land, so</mark> <mark>we gravitate toward things that anchor us. For people in my community, that's often a nostalgia for the mining industry, or our dependence on corporations. Understanding that history helps me understand the complexity of organizing.</mark>
 
 **BO:** *Say more about that - how would you describe those complexities of rural cultural organizing?*
 
@@ -168,9 +168,9 @@ The traditional places where people used to connect are going away - fewer peopl
 
 We have to deal with really complex dynamics. For example, I invited a local politician who's pro-industry, believing engagement with mining companies is inevitable, but he sat and listened to Indigenous people talk about wild rice harvest and what colonization has meant in our local context. It was uncomfortable, but it was real engagement with different perspectives that coexist in our community.
 
-This is why traditional activist approaches often fail here. You can't just come in with a campaign and expect people to get on board when they have never seen you before. They know you are only here for your own purposes. I've seen environmental activists approach our community as if it's something they can organize from outside. Instead, we need to help people recognize the humanity in each other and the importance of place - not just as a site of resistance, but as a community where people live and depend on each other.
+<mark>This is why traditional activist approaches often fail here. You can't just come in with a campaign and expect people to get on board when they have never seen you before.</mark> They know you are only here for your own purposes. I've seen environmental activists approach our community as if it's something they can organize from outside. Instead, we need to help people recognize the humanity in each other and the importance of place - not just as a site of resistance, but as a community where people live and depend on each other.
 
-That's what makes rural cultural organizing both challenging and essential - it's about building the relationships and understandings that make it possible for people to live together and face challenges together, even when they fundamentally disagree. Our work for recognition and justice will have more impact if it grows from relationships, rather than ideological positions.
+That's what makes rural cultural organizing both challenging and essential - it's about building the relationships and understandings that make it possible for people to live together and face challenges together, even when they fundamentally disagree. <mark>Our work for recognition and justice will have more impact if it grows from relationships, rather than ideological positions.</mark>
 
 ![](/images/r2-rosette-5.png)
 
@@ -184,7 +184,7 @@ That's what makes rural cultural organizing both challenging and essential - it'
 ![](/images/rio-tinto-observation.jpeg)
 ![](/images/students.jpg)
 
-[Fire in the Village](https://www.fireinthevillage.org/) is partnered with the [MacRostie Art Center](https://macrostieartcenter.org/) in Grand Rapids, Minnesota. They're our fiscal sponsor and provide studio space. We're also developing relationships with big Minnesota and national foundations, but we're moving carefully. We want to build our work first and then decide what organizational form we should take, rather than rushing to become another 501(c)(3). We want to make sure the work is grounded in our communities and not the priorities of funders.
+[Fire in the Village](https://www.fireinthevillage.org/) is partnered with the [MacRostie Art Center](https://macrostieartcenter.org/) in Grand Rapids, Minnesota. They're our fiscal sponsor and provide studio space. We're also developing relationships with big Minnesota and national foundations, but we're moving carefully. We want to build our work first and then decide what organizational form we should take, rather than rushing to become another 501(c)(3). <mark>We want to make sure the work is grounded in our communities and not the priorities of funders.</mark>
 
 The reality is that this is hard work to support. I have to hustle constantly, and it's very much paycheck to paycheck. One month I might have no money, and the next month I'll get $10,000 that immediately goes to paying back debts and getting equipment for the next project. I'm pretty good at grant writing and fundraising, but it takes up so much time - time I'd rather spend doing the work.
 
@@ -194,11 +194,11 @@ The reality is that this is hard work to support. I have to hustle constantly, a
 
 What also frustrates me is seeing the uneven distribution of resources. There are well-supported projects and residencies in cities; some are great but others are doing what look like top-down transactional engagement, but with a little bit more art to make it exciting. The priorities and goals of initiatives are often set by the supporting institutions or funders, and it’s not necessarily in their interest to open up to broader community consultation or grassroots power-building.
 
-We're trying to help people in rural communities just talk to their neighbors, and we can barely find resources to support that basic work. It's not just about supporting artists like me. What we really need is better infrastructure in rural communities, for grassroots organizing and for sustaining life. We need more creative community spaces, more money to invest in our communities, and the capacity to recognize or mentor leaders on the ground.
+<mark>We're trying to help people in rural communities just talk to their neighbors, and we can barely find resources to support that basic work</mark>. It's not just about supporting artists like me. What we really need is better infrastructure in rural communities, for grassroots organizing and for sustaining life. We need more creative community spaces, more money to invest in our communities, and the capacity to recognize or mentor leaders on the ground.
 
 I see this disparity clearly when I help local artists - like recently, when I helped an artist in my hometown write his first grant. He's a gifted painter, and is engaged locally, but he'd never be able to access grant funding in this town without someone helping him, and without that help, he literally can't get to the store or afford paints. I wish we had more people in the community with these skills and networks, I feel like I am spread thin sometimes. There's just not enough capacity here to even get most people to that next step, while the resources continue to concentrate in urban centers and established institutions.
 
-An ideal support structure would help bridge these gaps, bringing resources and capacity-building to communities that have been overlooked by funding systems.
+<mark>An ideal support structure would help bridge these gaps, bringing resources and capacity-building to communities that have been overlooked by funding systems.</mark>
 
 ![](/images/r2-rosette-6.png)
 

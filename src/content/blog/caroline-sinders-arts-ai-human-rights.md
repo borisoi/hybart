@@ -11,7 +11,7 @@ excerpt: "I'm always thinking about how art can be useful in a practical sense. 
 
 - #### About Caroline Sinders
 
-  Caroline Sinders is an artist examining technology's impact in society. She is the founder of [Convocation Design + Research](https://convocation.design/), an agency focusing on the intersections of machine learning, user research, designing for public good, and solving difficult communication problems. Caroline has worked with Amnesty International, Intel, IBM Watson, the Wikimedia Foundation, and others, and held fellowships with the Harvard Kennedy School, the Mozilla Foundation, Yerba Buena Center for the Arts, Eyebeam, STUDIO for Creative Inquiry, and the International Center of Photography. Caroline's work has been featured in the Tate Exchange in Tate Modern, Victoria and Albert Museum, MoMA PS1, LABoral, Ars Electronica, the Houston Center for Contemporary Craft, and many others.
+  Caroline Sinders is an artist examining technology's impact in society. She is the founder of [<u>Convocation Design + Research</u>](https://convocation.design/), an agency focusing on the intersections of machine learning, user research, designing for public good, and solving difficult communication problems. Caroline has worked with Amnesty International, Intel, IBM Watson, the Wikimedia Foundation, and others, and held fellowships with the Harvard Kennedy School, the Mozilla Foundation, Yerba Buena Center for the Arts, Eyebeam, STUDIO for Creative Inquiry, and the International Center of Photography. Caroline's work has been featured in the Tate Exchange in Tate Modern, Victoria and Albert Museum, MoMA PS1, LABoral, Ars Electronica, the Houston Center for Contemporary Craft, and many others.
 - #### Interview Takeaways
 
   - Caroline Sinders works as both artist and human rights researcher, using creative methods and speculative design to make complex technological systems more comprehensible.
@@ -32,7 +32,7 @@ excerpt: "I'm always thinking about how art can be useful in a practical sense. 
 
 **Boris Oicherman**: What do you do as an artist?
 
-[**Caroline Sinders**](https://carolinesinders.com/): It's hard to describe what I do. I'm a human rights researcher and an artist. It's about exploring how the creative process can be a research method across various fields, including social sciences, computer sciences and others. It's like this dance between two worlds that aren't usually seen as connected.
+[**Caroline Sinders**](https://carolinesinders.com/): It's hard to describe what I do. I'm a human rights researcher and an artist. <mark>It's about exploring how the creative process can be a research method across various fields,</mark> including social sciences, computer sciences and others. It's like this dance between two worlds that aren't usually seen as connected.
 
 Creativity isn't just about making pretty things - it can offer unique insights and approaches to issues that traditional research methods might miss. This work often includes critical or speculative design that explores possible futures or alternative realities.
 
@@ -40,7 +40,7 @@ But it's not theoretical. I'm always thinking about how art can be useful in a p
 
 There's this divide in the art world: some institutions seem to prefer art that's ambiguous and poetic, while others value more research-based work. And when people talk about research-based art, they often immediately think of documentaries. But I think it's more complex and interesting than that.
 
-I really like to sit in this in-between space, the area where we're constantly questioning what is and isn't art. It's not about fitting neatly into one category or another. Instead, it's about embracing the ambiguity and using it as a strength. 
+<mark>I really like to sit in this in-between space, the area where we're constantly questioning what is and isn't art. It's not about fitting neatly into one category or another. Instead, it's about embracing the ambiguity and using it as a strength.</mark> 
 
 This in-betweenness of my work allows me to approach problems from multiple angles. I can use artistic methods to explore human rights issues, or apply rigorous research methodologies to art projects. It's all about finding new ways to understand and address complex ideas and challenges.
 
@@ -48,7 +48,7 @@ So when I say I'm a human rights researcher and an artist, what I'm really sayin
 
 ![](/images/intertwinedintimacy-1.jpg)
 
-[Intertwined Intimacy](https://stamps.umich.edu/events/caroline-sinders-intertwined-intimacy), 2023
+<small>[Intertwined Intimacy](https://stamps.umich.edu/events/caroline-sinders-intertwined-intimacy), 2023</small>
 
 **BO**: What aspect of human rights do you work on?
 
@@ -62,7 +62,7 @@ I also look at how hate speech manifests on social media, and how technology fac
 
 **BO**: You've been working on artificial intelligence for a long time, way before it became popularized by ChatGPT. Can you share some examples of how you've engaged with AI from a human rights perspective?
 
-**CS**: A lot of my work has been about the politics of datasets. I think of datasets as ecosystems, and how they come together really impacts the "flavor" of an AI.
+**CS**: A lot of my work has been about the politics of datasets. <mark>I think of datasets as ecosystems, and how they come together really impacts the "flavor" of an AI.</mark>
 
 For example, my project, [Feminist Data Set](https://carolinesinders.com/feminist-data-set/) explores how we can imbue intersectionality into every step of the machine learning pipeline. Can there be a feminist AI?
 
@@ -72,17 +72,17 @@ Another aspect of AI that I am working on is educating consumers about how this 
 
 The "black box" nature of these algorithms raises complex issues. How do you explain to consumers what a recommendation algorithm is doing? Where do you place these explanations? How do you make sure they're understandable? And if we're offering alternatives, where do we place them and how do people find them?
 
-My long-term outlook has always been about making AI understandable. How can we take these complex systems and make them more human-readable and tangible? And beyond just understanding them, how can we help people have agency and autonomy within these large-scale technology systems?
+<mark>My long-term outlook has always been about making AI understandable. How can we take these complex systems and make them more human-readable and tangible? And beyond just understanding them, how can we help people have agency and autonomy within these large-scale technology systems?</mark>
 
 In this context, my work contributes to analyzing policy, for example, like the [European AI Act](https://digital-strategy.ec.europa.eu/en/policies/regulatory-framework-ai). I worked with a cohort of other organizations to interpret how the EU AI Act could impact digital products via [UX and UI design.](https://panoptykon.org/sites/default/files/2023-11/peoplevsbigtech_panoptykon_prototyping-empowerment_brief_20112023.pdf) This legislation is going to change how companies interact with consumers, and we'll be looking at how companies embody (or don't) the spirit of these regulations.
 
 ![](/images/leo-6267.jpg)
 
-Feminist Dataset workshop at [Z2X](https://z2x.zeit.de/), 2019
+<small>Feminist Dataset workshop at [Z2X](https://z2x.zeit.de/), 2019</small>
 
 **BO**: But you are an artist. Why are artists involved in this work?
 
-**CS**: The value artists bring to human rights is the ability to look at a problem and think about all the different ways to explore it. They are not hindered by disciplinary thinking. Maybe the best way to explore something is through storytelling, or VR, or an essay, or first-person interviews, or portraits, or even a white paper.
+**CS**: <mark>The value artists bring to human rights is the ability to look at a problem and think about all the different ways to explore it. They are not hindered by disciplinary thinking.</mark> Maybe the best way to explore something is through storytelling, or VR, or an essay, or first-person interviews, or portraits, or even a white paper.
 
 I’m really thinking about all the different tools in our toolbox. There are many ways to approach complex issues, and as an artist, I'm willing to try all of them out and see what works best for each specific situation. Being open to wild experimentation helps create experiences that make AI more understandable to people.
 
@@ -94,7 +94,7 @@ A great example is the [Anatomy of an AI](https://anatomyof.ai/) project by Kate
 
 **BO**: Can you talk about your collaborations outside of the arts?
 
-**CS**: Sure! You can picture my work happening simultaneously in human rights and art, with a gradient in between. My art connects both ends of the gradient by creating space for plurality and collaboration with academic and non-academic researchers, journalists, human rights activists, other artists, community leaders, youth, and others. All these voices and backgrounds are important in both art and human rights.
+**CS**: Sure! <mark>You can picture my work happening simultaneously in human rights and art, with a gradient in between. My art connects both ends of the gradient by creating space for plurality and collaboration</mark> with academic and non-academic researchers, journalists, human rights activists, other artists, community leaders, youth, and others. All these voices and backgrounds are important in both art and human rights.
 
 For example, I did a really big [project](https://www.techpolicy.press/what-is-secure-an-analysis-of-popular-messaging-apps/) with the organizations [Tech Policy Press](https://www.techpolicy.press/) and [Electronic Frontier Foundation](https://www.eff.org/). It took place at two locations: India and in Louisiana, US.
 
@@ -106,17 +106,17 @@ As we engaged with these communities, we observed specific knowledge gaps they h
 
 **BO:** So it’s not only collaborating with individuals, but with communities. Can you elaborate on that?
 
-**CS:** When I engage with communities, my approach is to offer myself as a resource. I tell them, "Use me, just take my knowledge, whatever you want. I'm here to help."
+**CS:** <mark>When I engage with communities, my approach is to offer myself as a resource. I tell them, "Use me, just take my knowledge, whatever you want. I'm here to help."</mark>
 
 I am also very careful not to insert myself into their processes. Instead, I make it clear that I'm available if they need a technologist to do an audit, or someone to help write Freedom of Information Act ([FOIA)](https://www.foia.gov/how-to.html) requests, or if they need help understanding complex concepts. The key is that I'm there to help in any way, but I don't want to step on their toes or over-involve myself.
 
-But what is also important is the awareness about the dynamics of "helping." I'm very conscious about not “helicoptering” in with my ideas. Instead, I move at the speed of trust, and I recognize that trust takes time to build. It's about being patient, listening, and allowing the community to guide the process rather than imposing my own agenda or assumptions.
+But what is also important is the awareness about the dynamics of "helping." <mark>I'm very conscious about not “helicoptering” in with my ideas. Instead, I move at the speed of trust, and I recognize that trust takes time to build.</mark> It's about being patient, listening, and allowing the community to guide the process rather than imposing my own agenda or assumptions.
 
 A large part of this work is about bringing in diverse viewpoints. This is crucial to ensure that our projects don't overlook important issues or inadvertently advocate for solutions that might harm particular groups. Bringing in a variety of voices is really important.
 
 ![](/images/potato-internet-whole.jpg)
 
-[Potato Internet](https://carolinesinders.com/the-potato-internet/), 2022-23
+<small>[Potato Internet](https://carolinesinders.com/the-potato-internet/), 2022-23</small>
 
 **BO:** How do you think about risk, success and failure in your collaborative work?
 
@@ -124,7 +124,7 @@ A large part of this work is about bringing in diverse viewpoints. This is cruci
 
 For example, if I were thinking about opening a yoga studio in a small village in, say, Croatia, I'd have to consider: Do I speak Croatian well enough? Do I understand the local dialect and cultural norms? Do I even have the skills to run a yoga studio? The answer to all of these would probably be no, which means it's not the right project for me, no matter how interesting it might seem.
 
-It all comes down to how we approach collaborations from the very beginning. I don't think in terms of failures, because even when things don't go as planned, we always learn something or build relationships. 
+It all comes down to how we approach collaborations from the very beginning. <mark>I don't think in terms of failures, because even when things don't go as planned, we always learn something or build relationships.</mark> 
 
 So when you ask about success, for me, it's not about matching plans with some predefined outcomes. It's about aligning expectations, doing proper groundwork, and being responsive to community needs. It's about creating meaningful collaborations where everyone involved feels heard and valued.
 
@@ -140,27 +140,27 @@ My income is split across many different sources. I'm an adjunct professor, I ha
 
 In fact, the majority of my income comes from human rights work: long-term projects with governments, NGOs and nonprofits. Only about 20% comes from the arts. I get smaller commissions, usually between $1,000 to $7,000, which are often very part-time or short-term projects.
 
-A major challenge I face is that funders rarely engage with both sides of my work, the art and human rights. For example, I once had work installed in the [Ford Foundation Gallery](https://www.fordfoundation.org/news-and-stories/news-and-press/news/ford-foundation-gallery-presents-what-models-make-worlds-critical-imaginaries-of-ai/), and when I mentioned I'd been a Ford grantee through their [public interest technology program](https://www.fordfoundation.org/news-and-stories/stories/announcing-1-3m-in-funding-for-digital-infrastructure-research/), the gallery folks were surprised. They had no idea about my work in that area.
+<mark>A major challenge I face is that funders rarely engage with both sides of my work, the art and human rights.</mark> For example, I once had work installed in the [Ford Foundation Gallery](https://www.fordfoundation.org/news-and-stories/news-and-press/news/ford-foundation-gallery-presents-what-models-make-worlds-critical-imaginaries-of-ai/), and when I mentioned I'd been a Ford grantee through their [public interest technology program](https://www.fordfoundation.org/news-and-stories/stories/announcing-1-3m-in-funding-for-digital-infrastructure-research/), the gallery folks were surprised. They had no idea about my work in that area.
 
 **BO:** You are an American living in Europe. Do you observe differences between the US and EU in terms of support for your work?
 
-**CS:** Definitely. In Europe there is more context and understanding for interdisciplinary work. When I propose a project that involves speculative design, participatory workshops, and foresight strategy, funders in Europe often know what I mean. They see speculative design as a legitimate creative and research method.
+**CS:** Definitely. <mark>In Europe there is more context and understanding for interdisciplinary work.</mark> When I propose a project that involves speculative design, participatory workshops, and foresight strategy, funders in Europe often know what I mean. They see speculative design as a legitimate creative and research method.
 
 For example, there are initiatives like [S+T+ARTS](https://starts.eu/) through the European Commission that fund projects combining art, science, and technology. While their support is often restricted to specific themes, they show a recognition of the value of interdisciplinary approaches.
 
-That's not to say it's necessarily easier to get funding in Europe, or that there's more money. But EU funders seem more open to projects that don't fit neatly into familiar categories. They're more comfortable with the idea that art and design can be valid research methods for addressing complex issues.
+That's not to say it's necessarily easier to get funding in Europe, or that there's more money. But <mark>EU funders seem more open to projects that don't fit neatly into familiar categories. They're more comfortable with the idea that art and design can be valid research methods for addressing complex issues.</mark>
 
-In contrast, in the US, I've found that funding often comes with more rigid expectations of products and categories. There's a tendency to put work into silos: either art or research, but not both.
+<mark>In contrast, in the US, I've found that funding often comes with more rigid expectations of products and categories.</mark> There's a tendency to put work into silos: either art or research, but not both.
 
 That said, these are general observations. There are certainly forward-thinking funders in the US, and more conventional ones in Europe. But overall, I've found the European funding landscape more receptive to my work.
 
 ![](/images/how-to-explain-hurricane-to-an-algorithm.jpeg)
 
-[How to Explain a Hurricane to an Algorithm](https://carolinesinders.com/how-to-explain-a-hurricane-to-an-algorithm/), *2005 — Current*
+<small>[How to Explain a Hurricane to an Algorithm](https://carolinesinders.com/how-to-explain-a-hurricane-to-an-algorithm/), *2005 — Current*</small>
 
 **BO:** If you had a magic wand, what would an ideal support infrastructure for your work look like?
 
-**CS:** I wish funders would be more open and willing to support work that spans many fields. For example, instead of just funding a paper, why not fund a paper plus a data visualization? Or a paper and a film about the future of the subject we've been exploring? Or a paper and speculative prototypes?
+**CS:** <mark>I wish funders would be more open and willing to support work that spans many fields.</mark> For example, instead of just funding a paper, why not fund a paper plus a data visualization? Or a paper and a film about the future of the subject we've been exploring? Or a paper and speculative prototypes?
 
 The ideal would be support that recognizes the value of work that happens across fields and allows for more emergent, flexible outcomes. It's about letting there be multiple deliverables of different sizes and types, all working together to create impact. This approach, I believe, would lead to more impactful work in both human rights and art.
 
@@ -180,7 +180,7 @@ Other artists in this field are [Mimi Onuoha](https://mimionuoha.com/) and [Adam
 
 And of course, I have to mention [Forensic Architecture](https://forensic-architecture.org/). Their work is a perfect example of how art, technology, and human rights can come together in powerful ways.
 
-What I appreciate about all these artists and collectives is how they're pushing the boundaries of what art can be and do. They're not just creating aesthetically interesting work, but they're using their artistic skills to engage with real-world issues, often in ways that can inform policy and drive social change.
+What I appreciate about all these artists and collectives is how they're pushing the boundaries of what art can be and do. <mark>They're not just creating aesthetically interesting work, but they're using their artistic skills to engage with real-world issues, often in ways that can inform policy and drive social change.</mark>
 
 It's also worth noting that much work in this field is done by collectives or collaborative projects, rather than individual artists. That speaks to the increasingly interdisciplinary and collaborative nature of this kind that requires bringing together diverse skills and perspectives to tackle complex issues.
 

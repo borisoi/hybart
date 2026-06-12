@@ -9,7 +9,7 @@ excerpt: "Revisiting the report “Investing in Creativity” through the lens o
 
 ![  Image: Imprisoned artist participates via phone call in the PEN America Break Out event. In the background: installation by Daniel McCarthy Clifford ](/images/srg1679.jpg)
 
-*Image: Performance “Place of Space” by* [*The BodyCartography Project*](https://bodycartography.org/)*. Weisman Art Museum, Minneapolis, MN, 2018*
+<small>*Image: Performance “Place of Space” by* [*The BodyCartography Project*](https://bodycartography.org/)*. Weisman Art Museum, Minneapolis, MN, 2018*</small>
 
 *This post launches the Hybrid Arts Blog, and its opening series that reflects on the concept of "hybrid arts" through the lens of the influential 2003 report "Investing in Creativity: A Study of the Support Structure for U.S. Artists." It introduces the report, examines how it reshaped our understanding of supporting artists, and why its findings are relevant for hybrid arts.*
 

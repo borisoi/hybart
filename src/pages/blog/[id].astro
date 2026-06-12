@@ -33,6 +33,15 @@ const fmt = (d: Date) =>
   .post :global(.brow .rtext > :first-child) { margin-top: 0; }
   .post :global(.brow .rmedia) { position: sticky; top: 24px; padding-top: 6px; }
   .post :global(.brow .rmedia p) { max-width: none; margin: 0 0 14px; }
+  .post :global(.rmedia p.cap) { margin: -8px 4px 24px; }
+  .post :global(p.pull) {
+    font-size: clamp(20px, 2.3vw, 25px);
+    line-height: 1.3;
+    letter-spacing: -0.01em;
+    margin: 40px 0;
+    max-width: 36ch;
+    color: var(--c-blog);
+  }
   .post :global(details.intro) { border-top: 1px solid var(--rule); padding: 2px 0; }
   .post :global(details.intro:last-of-type) { border-bottom: 1px solid var(--rule); }
   .post :global(details.intro summary) { cursor: pointer; list-style: none; padding: 14px 0; font-weight: 600; font-size: 17px; }
@@ -88,32 +97,64 @@ const fmt = (d: Date) =>
       return media > 0;
     };
 
+    // 2b. classify captions (<p><small>…</small></p>) and pull quotes (<p><em>…</em></p>)
+    const onlyChild = (el, tag) =>
+      el.tagName === 'P' &&
+      el.children.length === 1 &&
+      el.children[0].tagName === tag &&
+      Array.from(el.childNodes).every((n) => n.nodeType !== 3 || !n.textContent.trim());
+    const isCaption = (el) => onlyChild(el, 'SMALL');
+    for (const el of Array.from(prose.children)) {
+      if (onlyChild(el, 'EM')) el.classList.add('pull');
+    }
+
     // 3. pull the lead image (cover) if it opens the post
     const kids = () => Array.from(prose.children);
     let coverEl = null;
     for (const el of kids().slice(0, 2)) {
       if (isMediaEl(el)) { coverEl = el; break; }
     }
-    if (coverEl) coverEl.remove();
+    let coverCap = null;
+    if (coverEl) {
+      const next = coverEl.nextElementSibling;
+      if (next && isCaption(next)) {
+        coverCap = next;
+        coverCap.classList.add('cap');
+        coverCap.remove();
+      }
+      coverEl.remove();
+    }
+    const coverGroup = coverEl ? (coverCap ? [coverEl, coverCap] : [coverEl]) : [];
 
     // 4. build rows: text accumulates left, each media element closes a row on the right
     const rows = [];
     let current = { text: [], media: [] };
     if (intros.length) {
       current.text = intros;
-      if (coverEl) current.media = [coverEl];
+      current.media = coverGroup;
       rows.push(current);
       current = { text: [], media: [] };
-    } else if (coverEl) {
-      current.media.push(coverEl);
+    } else {
+      current.media.push(...coverGroup);
     }
+    let prevWasMedia = !!coverEl;
     for (const el of kids()) {
       if (isMediaEl(el)) {
         current.media.push(el);
-        rows.push(current);
-        current = { text: [], media: [] };
+        prevWasMedia = true;
+      } else if (isCaption(el) && prevWasMedia) {
+        // caption stays under its image
+        el.classList.add('cap');
+        if (current.media.length) current.media.push(el);
+        else if (rows.length) rows[rows.length - 1].media.push(el);
+        else current.media.push(el);
       } else {
+        if (current.media.length && current.text.length) {
+          rows.push(current);
+          current = { text: [], media: [] };
+        }
         current.text.push(el);
+        prevWasMedia = false;
       }
     }
     if (current.text.length || current.media.length) rows.push(current);

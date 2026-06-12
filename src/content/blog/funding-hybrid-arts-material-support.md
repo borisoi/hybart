@@ -9,7 +9,7 @@ excerpt: "Material Support for Hybrid Arts: revisiting the report “Investing i
 
 ![](/images/srg2620-medres.jpg)
 
-*Image: “Conversations About Sleep” by* [*Peng Wu*](https://wam.umn.edu/peng-wu-and-art-sleep) *and Dr. Michael Howell, Weisman Art Museum, 2018, Arts and Medicine program at the University of Minnesota.*
+<small>*Image: “Conversations About Sleep” by* [*Peng Wu*](https://wam.umn.edu/peng-wu-and-art-sleep) *and Dr. Michael Howell, Weisman Art Museum, 2018, Arts and Medicine program at the University of Minnesota.*</small>
 
 *This is the fourth post in the series of reflections on the report “*[*Investing in Creativity: A Study of the Support Structure for U.S. Artists*](https://www.urban.org/sites/default/files/publication/50806/411311-Investing-in-Creativity.PDF)*.” It builds upon the previous posts; if you are just arriving here you might want to start with the* [*introduction*](https://squid-trumpet-akbk.squarespace.com/blog/1)*. This post explores the material support needs of hybrid arts, examining how philanthropic foundations can adapt their funding structures to better support artists working in non-arts contexts.*
 

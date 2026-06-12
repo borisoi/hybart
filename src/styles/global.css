@@ -68,6 +68,14 @@ footer .newsletter button:hover { background: var(--c-art); border-color: var(--
 h1 { font-size: clamp(34px, 5.5vw, 56px); line-height: 1.05; letter-spacing: -0.02em; font-weight: 650; margin: 48px 0 28px; }
 h2 { font-size: clamp(22px, 3vw, 30px); line-height: 1.15; letter-spacing: -0.015em; font-weight: 600; margin: 44px 0 14px; }
 h3 { font-size: 19px; font-weight: 600; margin: 32px 0 10px; }
+h4 { font-size: 21px; line-height: 1.2; letter-spacing: -0.01em; font-weight: 650; margin: 44px 0 12px; }
+h1:empty, h2:empty, h3:empty, h4:empty { display: none; }
+mark {
+  background: color-mix(in srgb, var(--accent, var(--c-blog)) 16%, transparent);
+  color: inherit; padding: 0.05em 0.15em; border-radius: 3px;
+  -webkit-box-decoration-break: clone; box-decoration-break: clone;
+}
+u { text-decoration-thickness: 1px; text-underline-offset: 3px; text-decoration-color: var(--accent, var(--c-blog)); }
 p, li { max-width: 68ch; }
 hr { border: none; border-top: 1px solid var(--rule); margin: 40px 0; }
 img { max-width: 100%; height: auto; display: block; }
@@ -75,6 +83,7 @@ blockquote { margin: 28px 0; padding-left: 18px; border-left: 3px solid var(--ac
 
 /* prose container for markdown-rendered content */
 .prose img { margin: 28px 0; }
+.prose small { font-size: 14px; line-height: 1.45; color: var(--muted); display: inline-block; }
 .prose iframe { width: 100%; max-width: 68ch; aspect-ratio: 16 / 9; height: auto; margin: 28px 0; display: block; }
 .prose iframe[src*="bandcamp"] { aspect-ratio: auto; }
 

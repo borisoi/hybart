@@ -9,7 +9,7 @@ excerpt: "Revisiting the report “Investing in Creativity” through the lens o
 
 ![](/images/srg5269-med-size.jpg)
 
-*Image: Participants in the* [*Habitability Workshop*](https://wam.umn.edu/habitability-project-public-conversation)*. Grass artwork by the architecture collective* [*Interesting Tactics*](https://www.interestingtactics.com/)*. Weisman Art Museum, Minneapolis, MN, 2019*
+<small>*Image: Participants in the* [*Habitability Workshop*](https://wam.umn.edu/habitability-project-public-conversation)*. Grass artwork by the architecture collective* [*Interesting Tactics*](https://www.interestingtactics.com/)*. Weisman Art Museum, Minneapolis, MN, 2019*</small>
 
 *This is the third post in the series of reflections on the report “*[*Investing in Creativity: A Study of the Support Structure for U.S. Artists.*](https://www.urban.org/sites/default/files/publication/50806/411311-Investing-in-Creativity.PDF)*” If you are just arriving here, you might want to check out the* [*introduction*](/blog/1) *for the context. This installment explores the concept of hybrid arts markets, inviting us to reconsider our understanding of culture and the role of artists as professionals of culture.*
 
@@ -68,7 +68,7 @@ The choices are not binary, rather representing a 2D continuum. Many artists eng
 
 ![  Artists markets diagram  ](/images/art-market-2d-space.png)
 
-*Artists market diagram*
+<small>*Artists market diagram*</small>
 
 The discussion of hybrid arts markets occupies a significant portion of IiC and is, I believe, one of its central contributions. However, it doesn't present them as an established reality, but rather as a promise.
 
