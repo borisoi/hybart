@@ -7,6 +7,6 @@ order: 1
 oldUrl: /art/the-world-in-dub
 ---
 
-[![](/images/art/radio-headshot.jpeg)](/blog)
+![](/images/art/radio-headshot.jpeg)
 
 Broadcasting a live music show [The World in Dub](https://wruw.org/show/the-world-in-dub/) at the WRUW FM 91.1 as DJ Color Scientist
