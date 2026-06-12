@@ -4,7 +4,7 @@ date: 2020-10-25
 tags: ["collaboration", "essay", "writings", "2020", "Fascism", "Minnesota History", "Exhibition", "Brooks Turner"]
 cover: /images/art/brooks-16x9.jpg
 order: 11
-oldUrl: https://www.oicherman.art/boris/b-art/brooks-turner-legends-and-myths-of-ancient-minnesota
+oldUrl: /art/brooks-turner-legends-and-myths-of-ancient-minnesota
 ---
 
 *Originally published on the Weisman Art Museum website.*

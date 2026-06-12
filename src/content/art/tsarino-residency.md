@@ -4,7 +4,7 @@ date: 2011-05-22
 tags: ["2011", "residency", "public art", "installation", "site specific"]
 cover: /images/art/water-people-5.jpg
 order: 47
-oldUrl: https://www.oicherman.art/boris/b-art/tsarino-residency
+oldUrl: /art/tsarino-residency
 ---
 
 Series of site-conditioned works produced during the [residency at Tsarino](http://www.tsarino.org/), Bulgaria, 2011

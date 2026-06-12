@@ -4,7 +4,7 @@ date: 2011-04-19
 tags: ["2011", "site specific", "installation"]
 cover: /images/art/front-2-rooms-13x18-300dpi.jpg
 order: 49
-oldUrl: https://www.oicherman.art/boris/b-art/the-case-of-local-knowledge
+oldUrl: /art/the-case-of-local-knowledge
 ---
 
 Series of two shows, Gros Gallery, Tel Aviv, 2011, followed by an unsanctioned and unannounced public intervention in Jerusalem.

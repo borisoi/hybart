@@ -4,7 +4,7 @@ date: 2010-06-19
 tags: ["2010", "installation", "site specific"]
 cover: /images/art/7-cubic-meters-of-heat-1.jpg
 order: 51
-oldUrl: https://www.oicherman.art/boris/b-art/7-cubic-meters-of-heat
+oldUrl: /art/7-cubic-meters-of-heat
 ---
 
 ![](/images/art/7-cubic-meters-of-heat-1.jpg)

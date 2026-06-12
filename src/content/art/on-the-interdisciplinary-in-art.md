@@ -5,7 +5,7 @@ date: 2017-05-01
 tags: ["2017", "writings", "collaboration", "essay"]
 cover: /images/art/img-3907.jpg
 order: 18
-oldUrl: https://www.oicherman.art/boris/b-art/on-the-interdisciplinary-in-art
+oldUrl: /art/on-the-interdisciplinary-in-art
 ---
 
 ![](/images/art/img-3907.jpg)

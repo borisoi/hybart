@@ -4,7 +4,7 @@ date: 2021-07-09
 tags: ["collaboration", "essay", "writings", "2018", "Robert Irwin", "discipline", "multidisciplinary"]
 cover: /images/art/irwin-at-corporate-meeting.jpeg
 order: 9
-oldUrl: https://www.oicherman.art/boris/b-art/unlearning-the-elephant
+oldUrl: /art/unlearning-the-elephant
 ---
 
 [caption id="" align="alignnone" width="2000"][![ Peng Wu and Yu Youyang,  Irwin in the corporate meeting room , 2021. ](/images/art/irwin-at-corporate-meeting.jpeg)](https://mnartists.walkerart.org/unlearning-the-elephant-against-multidisciplinarity) Peng Wu and Yu Youyang, Irwin in the corporate meeting room , 2021. [/caption]

@@ -95,13 +95,13 @@ In fact, this relationship is reversed. "Hybrid arts" refers to what artists and
 
 Hybrid arts are indifferent to creative media, the nature, goals and products of artists' engagement with non-art fields, or what those fields are. Their defining characteristic is that artists consider collaboration with people in non-art fields to be integral to their creative practice.
 
-To illustrate: an artist commissioned by an aerospace corporation to create an artwork for its collection doesn't necessarily participate in the hybrid arts market. However, an artist commissioned by an aerospace corporation to collaborate with its scientists and [design a scientific symposium](https://www.oicherman.art/boris/b-art/interview-with-robert-irwin) with the goal of contributing to the corporation's research agenda—does.
+To illustrate: an artist commissioned by an aerospace corporation to create an artwork for its collection doesn't necessarily participate in the hybrid arts market. However, an artist commissioned by an aerospace corporation to collaborate with its scientists and [design a scientific symposium](/art/interview-with-robert-irwin) with the goal of contributing to the corporation's research agenda—does.
 
 ![](/images/a-rosette-5.png)
 
 #### Dimensions of Support for Hybrid Arts
 
-There are of course more interesting reasons to launch this blog with the reflection on “Investing in Creativity” than the fact that it [inspired my business’ name](https://www.hyb.art/about): IiC profoundly impacted how U.S. philanthropy thinks about supporting the arts and artists, from laying out a conceptual framework for many [other publications](https://heliconcollab.net/our_work/how-to-support-conditions-for-artists-to-thrive/) to establishing [new funding initiatives](https://www.unitedstatesartists.org/) and organizations.
+There are of course more interesting reasons to launch this blog with the reflection on “Investing in Creativity” than the fact that it [inspired my business’ name](/about): IiC profoundly impacted how U.S. philanthropy thinks about supporting the arts and artists, from laying out a conceptual framework for many [other publications](https://heliconcollab.net/our_work/how-to-support-conditions-for-artists-to-thrive/) to establishing [new funding initiatives](https://www.unitedstatesartists.org/) and organizations.
 
 Hybrid arts are extremely diverse. Nevertheless, after almost 25 years working at the "intersection of the arts with other fields," I've come to believe that many of the demands on the support infrastructure presented by creative collaboration in different fields are similar: supporting collaborations with communities may not look that different from supporting collaboration with university scientists or city hall administrators.
 
@@ -113,6 +113,6 @@ Indeed, hybrid arts markets feature in almost every dimension of the report, and
 
 To be blunt: while hybrid arts exist, hybrid arts markets largely don't.
 
-To remedy this, IiC calls for developing language, building knowledge, creating educational programs, and cultivating markets to better support "hybrid artists". This is where "Hybrid Arts" [the venture](https://www.hyb.art/) comes in. Wish me luck!
+To remedy this, IiC calls for developing language, building knowledge, creating educational programs, and cultivating markets to better support "hybrid artists". This is where "Hybrid Arts" [the venture](/) comes in. Wish me luck!
 
-This series of posts will follow the original report's structure, revisiting hybrid arts through each framework dimension, starting with [Validation](/blog/2).
+This series of posts will follow the original report's structure, revisiting hybrid arts through each framework dimension, starting with [Validation](/blog/whats-good-validation).

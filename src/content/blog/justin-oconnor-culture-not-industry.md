@@ -9,7 +9,7 @@ excerpt: "A thriving cultural life makes us better citizens. Not necessarily mor
 
 [![](/images/justin21.jpg)](https://justin-oconnor.com/)
 
-*This interview is a follow-up to my* [*review*](/blog/3) *of <u>Justin O'Connor</u>'s book "*[*<u>Culture is Not an Industry</u>*](https://manchesteruniversitypress.co.uk/9781526171269/#:~:text=This%20book%20is%20about%20what,for%20a%20more%20equitable%20future.)*," published on this blog in September. Our conversation explores several themes from review, so I suggest reading it for context. And of course, I can't recommend the book itself highly enough: it is an essential reading for everyone involved with the funding and policy of arts and culture.*
+*This interview is a follow-up to my* [*review*](/blog/art-is-a-right) *of <u>Justin O'Connor</u>'s book "*[*<u>Culture is Not an Industry</u>*](https://manchesteruniversitypress.co.uk/9781526171269/#:~:text=This%20book%20is%20about%20what,for%20a%20more%20equitable%20future.)*," published on this blog in September. Our conversation explores several themes from review, so I suggest reading it for context. And of course, I can't recommend the book itself highly enough: it is an essential reading for everyone involved with the funding and policy of arts and culture.*
 
 - #### About Justin O'Connor
 

@@ -5,7 +5,7 @@ date: 2016-09-27
 tags: ["2017", "installation", "sculpture", "performance", "durational", "site specific"]
 cover: /images/art/bob2422.jpg
 order: 20
-oldUrl: https://www.oicherman.art/boris/b-art/color-experience-class
+oldUrl: /art/color-experience-class
 ---
 
 ![](/images/art/f8838912.jpg)

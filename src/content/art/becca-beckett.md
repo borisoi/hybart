@@ -4,7 +4,7 @@ date: 2016-05-23
 tags: ["2016", "video", "beckett", "collaboration"]
 cover: /images/art/screen-shot-2019-10-23-at-8-59-05-am.jpg
 order: 21
-oldUrl: https://www.oicherman.art/boris/b-art/becca-beckett
+oldUrl: /art/becca-beckett
 ---
 
 

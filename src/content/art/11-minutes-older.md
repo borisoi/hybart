@@ -4,7 +4,7 @@ date: 2017-01-17
 tags: ["2017", "performance", "installation", "site specific", "public art"]
 cover: /images/art/11-minutes-older-image.jpg
 order: 19
-oldUrl: https://www.oicherman.art/boris/b-art/11-minutes-older
+oldUrl: /art/11-minutes-older
 ---
 
 

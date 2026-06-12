@@ -11,7 +11,7 @@ excerpt: "Material Support for Hybrid Arts: revisiting the report “Investing i
 
 <small>*Image: “Conversations About Sleep” by* [*Peng Wu*](https://wam.umn.edu/peng-wu-and-art-sleep) *and Dr. Michael Howell, Weisman Art Museum, 2018, Arts and Medicine program at the University of Minnesota.*</small>
 
-*This is the fourth post in the series of reflections on the report “*[*Investing in Creativity: A Study of the Support Structure for U.S. Artists*](https://www.urban.org/sites/default/files/publication/50806/411311-Investing-in-Creativity.PDF)*.” It builds upon the previous posts; if you are just arriving here you might want to start with the* [*introduction*](https://squid-trumpet-akbk.squarespace.com/blog/1)*. This post explores the material support needs of hybrid arts, examining how philanthropic foundations can adapt their funding structures to better support artists working in non-arts contexts.*
+*This is the fourth post in the series of reflections on the report “*[*Investing in Creativity: A Study of the Support Structure for U.S. Artists*](https://www.urban.org/sites/default/files/publication/50806/411311-Investing-in-Creativity.PDF)*.” It builds upon the previous posts; if you are just arriving here you might want to start with the* [*introduction*](/blog/investing-in-hybrid-arts-introduction)*. This post explores the material support needs of hybrid arts, examining how philanthropic foundations can adapt their funding structures to better support artists working in non-arts contexts.*
 
 - #### Summary of the report's Material Support section
 
@@ -55,19 +55,19 @@ In the first group are artists whose work does not require an institutional cont
 
 Practices of this kind, known as socially engaged arts, new public art, creative activism, community-engaged art, and other names, have developed significantly since the publication of IiC, and with them the knowledge of support structures. For those interested in diving deeper, I recommend the reports by the [Helicon Collaborative](https://heliconcollab.net/our-work/) and work of the [Center for Cultural Innovation](https://www.cciarts.org/) as two excellent sources. Unfortunately, the practice of philanthropy lags significantly behind the research: robust support for socially-engaged artists is still rare, but there is progress nevertheless.
 
-In the other group are artists whose work requires engaging with institutions—nonprofits, corporations, universities, government—whom I called "consulting artists" in the [previous post](https://www.hyb.art/blog/2). This type of practice has a significant history in contemporary art—for example, the work of the [Artists Placement Group](https://en.wikipedia.org/wiki/Artist_Placement_Group) in the UK in the 1960s. However, despite this long history, knowledge of support structures remains scarce, adequate philanthropic support is extremely scarse, and the field has largely stagnated.
+In the other group are artists whose work requires engaging with institutions—nonprofits, corporations, universities, government—whom I called "consulting artists" in the [previous post](/blog/whats-good-validation). This type of practice has a significant history in contemporary art—for example, the work of the [Artists Placement Group](https://en.wikipedia.org/wiki/Artist_Placement_Group) in the UK in the 1960s. However, despite this long history, knowledge of support structures remains scarce, adequate philanthropic support is extremely scarse, and the field has largely stagnated.
 
-As a result, support structures today look very much like they did in the 60s: short-term residencies, limited vision for impact, and ambition that rarely extends beyond "[artists using the organization as their studio](https://www.oicherman.art/boris/b-art/interview-with-robert-irwin)". It's this group that I'll focus on for the remainder of this post.
+As a result, support structures today look very much like they did in the 60s: short-term residencies, limited vision for impact, and ambition that rarely extends beyond "[artists using the organization as their studio](/art/interview-with-robert-irwin)". It's this group that I'll focus on for the remainder of this post.
 
 ![](/images/h-rosette-3.png)
 
 #### Support Framework for Consulting Artists
 
-I [introduced](https://www.hyb.art/blog/2) the notion of consulting artists as a way to frame the need to compensate artists for their knowledge and expertise in terms of a familiar professional category: consultants. Organizations engage consultants to access expertise they don't have. In the case of artists, this expertise is cultural.
+I [introduced](/blog/whats-good-validation) the notion of consulting artists as a way to frame the need to compensate artists for their knowledge and expertise in terms of a familiar professional category: consultants. Organizations engage consultants to access expertise they don't have. In the case of artists, this expertise is cultural.
 
 Such an engagement requires different kinds of organizational investment:
 
-- Investing in the work of intermediaries (see [Validation](https://www.hyb.art/blog/2)): people holding positions within the organization whose role is to mediate between the organization and the artists.
+- Investing in the work of intermediaries (see [Validation](/blog/whats-good-validation)): people holding positions within the organization whose role is to mediate between the organization and the artists.
 - The financial cost of hiring the artist for an extended period of time: fee/salary, benefits (if applicable), office/studio, and so on.
 - Investing in the organizational capacity to work with the artist: providing them access to organizational resources and knowledge; helping employees balance their regular commitments with the collaborative work; allocating administrative and financial resources to implement the changes resulting from the artist's work.
 
@@ -83,12 +83,12 @@ I will attempt to imagine what such funding programs might look like if they did
 
 #### Putting Culture Everywhere
 
-My [argument](/blog/4) for the notion of consulting artists was that
+My [argument](/blog/what-are-artists-selling) for the notion of consulting artists was that
 
 1. Culture is everywhere; nothing exists outside of it. All systemic challenges are cultural challenges.
 2. Artists are professionals of culture whose skills and expertise may be applied to cultural challenges in any field of human activity.
 
-What are the operational consequences of this logic for an imaginary philanthropic foundation that wishes to embrace it? Making sense of the demands for hybrid arts requires an expansion on the discussion of culture started in [Demands / Markets](https://www.hyb.art/blog/3).
+What are the operational consequences of this logic for an imaginary philanthropic foundation that wishes to embrace it? Making sense of the demands for hybrid arts requires an expansion on the discussion of culture started in [Demands / Markets](/blog/art-is-a-right).
 
 A typical foundation has specialized granting programs that correspond to its strategic focus. These may include health and human services, racial equity, education, housing, workforce development, research, environment, arts and culture, and so on.
 

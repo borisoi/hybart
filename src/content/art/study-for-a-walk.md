@@ -4,7 +4,7 @@ date: 2013-09-14
 tags: ["2013", "installation"]
 cover: /images/art/dsf3506.jpg
 order: 33
-oldUrl: https://www.oicherman.art/boris/b-art/study-for-a-walk
+oldUrl: /art/study-for-a-walk
 ---
 
 

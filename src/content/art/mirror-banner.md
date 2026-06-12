@@ -4,7 +4,7 @@ date: 2015-06-01
 tags: ["2015", "performance", "site specific", "public art"]
 cover: /images/art/img-2533.jpg
 order: 23
-oldUrl: https://www.oicherman.art/boris/b-art/mirror-banner
+oldUrl: /art/mirror-banner
 ---
 
 

@@ -4,7 +4,7 @@ date: 2019-04-07
 tags: ["2019", "performance", "curatorial"]
 cover: /images/art/responsa-08760.jpg
 order: 13
-oldUrl: https://www.oicherman.art/boris/b-art/responsa
+oldUrl: /art/responsa
 ---
 
 

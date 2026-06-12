@@ -4,7 +4,7 @@ date: 2012-07-02
 tags: ["2012", "site specific"]
 cover: /images/art/reflection-inside-3.jpg
 order: 41
-oldUrl: https://www.oicherman.art/boris/b-art/between-the-cloud-and-the-clock-arts-currents-6lzsa
+oldUrl: /art/between-the-cloud-and-the-clock-arts-currents-6lzsa
 ---
 
 ![](/images/art/reflection-inside-2.jpg)

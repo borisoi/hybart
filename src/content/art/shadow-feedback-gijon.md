@@ -5,7 +5,7 @@ date: 2010-01-23
 tags: ["2010", "site specific", "residency", "videofeedback"]
 cover: /images/art/shadows-going-down.jpg
 order: 52
-oldUrl: https://www.oicherman.art/boris/b-art/shadow-feedback-gijon
+oldUrl: /art/shadow-feedback-gijon
 ---
 
 

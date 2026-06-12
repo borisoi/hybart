@@ -4,7 +4,7 @@ date: 2013-06-08
 tags: ["2013", "installation", "public art", "residency"]
 cover: /images/art/dsf1628.jpg
 order: 35
-oldUrl: https://www.oicherman.art/boris/b-art/story-so-far
+oldUrl: /art/story-so-far
 ---
 
 ![](/images/art/dsf1648-2.jpg)

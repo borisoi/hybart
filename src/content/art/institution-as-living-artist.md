@@ -4,7 +4,7 @@ date: 2022-11-17
 tags: ["collaboration", "writings", "discipline", "multidisciplinary", "interview", "2022-"]
 cover: /images/art/sleeping-chapel.jpeg
 order: 5
-oldUrl: https://www.oicherman.art/boris/b-art/institution-as-living-artist
+oldUrl: /art/institution-as-living-artist
 ---
 
 [caption id="" align="alignnone" width="2560"][![ Peng Wu, Sleep Chapel, 2019 ](/images/art/sleeping-chapel.jpeg)](https://mnartists.walkerart.org/institution-as-living-artist-as-can-opener-as-system-change) Peng Wu, Sleep Chapel, 2019 [/caption]

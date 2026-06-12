@@ -4,7 +4,7 @@ date: 2014-12-02
 tags: ["2014", "installation", "site specific"]
 cover: /images/art/1-6.jpg
 order: 27
-oldUrl: https://www.oicherman.art/boris/b-art/light-catching-water
+oldUrl: /art/light-catching-water
 ---
 
 

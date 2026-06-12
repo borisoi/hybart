@@ -4,7 +4,7 @@ date: 2010-08-22
 tags: ["2010", "installation", "site specific", "photography"]
 cover: /images/art/7.jpg
 order: 50
-oldUrl: https://www.oicherman.art/boris/b-art/space-filling-picture
+oldUrl: /art/space-filling-picture
 ---
 
 ![](/images/art/157174-1.jpg)

@@ -4,7 +4,7 @@ date: 2013-06-16
 tags: ["2013", "installation", "site specific"]
 cover: /images/art/dsf1845-2.jpg
 order: 34
-oldUrl: https://www.oicherman.art/boris/b-art/between-the-cloud-and-the-clock-science-museum
+oldUrl: /art/between-the-cloud-and-the-clock-science-museum
 ---
 
 

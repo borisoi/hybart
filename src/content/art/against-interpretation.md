@@ -4,7 +4,7 @@ date: 2024-06-07
 tags: ["2024 -", "Music", "Against Interpretation"]
 cover: /images/art/ai-1-cover-abstrakce.jpg
 order: 4
-oldUrl: https://www.oicherman.art/boris/b-art/against-interpretation
+oldUrl: /art/against-interpretation
 ---
 
 [![](/images/art/ai-1-cover-abstrakce.jpg)](https://abstrakce.bandcamp.com/album/1)

@@ -4,7 +4,7 @@ date: 2013-06-01
 tags: ["2013", "installation", "public art"]
 cover: /images/art/dsf2177.jpg
 order: 36
-oldUrl: https://www.oicherman.art/boris/b-art/zigmund-gaza-jerusalem
+oldUrl: /art/zigmund-gaza-jerusalem
 ---
 
 Series of installations on the roof of cafe Zigmund on Gaza st., Jerusalem

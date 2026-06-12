@@ -4,7 +4,7 @@ date: 2013-10-08
 tags: ["2013", "Installation", "site specific"]
 cover: /images/art/dsf3919.jpg
 order: 32
-oldUrl: https://www.oicherman.art/boris/b-art/step-inside
+oldUrl: /art/step-inside
 ---
 
 ![](/images/art/dsf3903.jpg)

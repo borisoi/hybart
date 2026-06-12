@@ -4,7 +4,7 @@ date: 2014-07-23
 tags: ["site specific", "2014", "installation", "residency"]
 cover: /images/art/dsf7093.jpg
 order: 28
-oldUrl: https://www.oicherman.art/boris/b-art/windshop
+oldUrl: /art/windshop
 ---
 
 

@@ -4,7 +4,7 @@ date: 2017-06-01
 tags: ["2017", "installation", "sculpture", "performance", "durational", "site specific"]
 cover: /images/art/bob6215-edit-edit.jpg
 order: 17
-oldUrl: https://www.oicherman.art/boris/b-art/why-red
+oldUrl: /art/why-red
 ---
 
 ![](/images/art/bob6215-edit-edit.jpg)

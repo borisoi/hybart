@@ -4,7 +4,7 @@ date: 2016-02-01
 tags: ["2016", "durational", "performance", "collaboration", "sound", "site specific", "public art"]
 cover: /images/art/49-days-for-space-1.jpg
 order: 22
-oldUrl: https://www.oicherman.art/boris/b-art/49-days-for-space
+oldUrl: /art/49-days-for-space
 ---
 
 ![](/images/art/49-days-for-space-1.jpg)

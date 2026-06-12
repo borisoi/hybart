@@ -4,7 +4,7 @@ date: 2013-04-13
 tags: ["2013", "public art", "videofeedback", "residency"]
 cover: /images/art/mg-7154.jpg
 order: 37
-oldUrl: https://www.oicherman.art/boris/b-art/reflected-city
+oldUrl: /art/reflected-city
 ---
 
 

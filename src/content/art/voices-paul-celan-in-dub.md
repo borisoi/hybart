@@ -4,11 +4,11 @@ date: 2026-01-10
 tags: ["Music", "Release", "2025"]
 cover: /images/art/digital-cover-2kx2k-no-text.jpg
 order: 0
-oldUrl: https://www.oicherman.art/boris/b-art/voices-paul-celan-in-dub
+oldUrl: /art/voices-paul-celan-in-dub
 ---
 
 
-<iframe class="embedly-embed" src="//cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fbandcamp.com%2FEmbeddedPlayer%2Fv%3D2%2Falbum%3D513859743%2Fsize%3Dlarge%2Flinkcol%3D0084B4%2Fnotracklist%3Dtrue%2Ftwittercard%3Dtrue%2F&display_name=BandCamp&url=https%3A%2F%2Fagainstinterpretation.bandcamp.com%2Falbum%2Fvoices-translations-of-paul-celan-in-dub&image=https%3A%2F%2Ff4.bcbits.com%2Fimg%2Fa2571160481_5.jpg&type=text%2Fhtml&schema=bandcamp" width="350" height="467" scrolling="no" title="BandCamp embed" frameborder="0" allow="autoplay; fullscreen; encrypted-media; picture-in-picture;" allowfullscreen="true"></iframe>
+<iframe src="https://bandcamp.com/EmbeddedPlayer/album=513859743/size=large/bgcol=faf9f5/linkcol=2f5be8/artwork=small/tracklist=true/transparent=true/" seamless style="width: 100%; max-width: 420px; height: 472px; border: 0;" loading="lazy" title="Voices — full album player"></iframe>
 
 
 Album. Digital and CD released in December 2025. [Listen and buy on Bandcamp.](https://againstinterpretation.bandcamp.com/album/voices-translations-of-paul-celan-in-dub)  

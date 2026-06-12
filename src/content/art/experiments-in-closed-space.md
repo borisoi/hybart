@@ -4,7 +4,7 @@ date: 2011-04-22
 tags: ["2011", "exhibition", "site specific", "installation", "videofeedback"]
 cover: /images/art/spiral-top-down-srgb-13x18-300dpi.jpg
 order: 48
-oldUrl: https://www.oicherman.art/boris/b-art/experiments-in-closed-space
+oldUrl: /art/experiments-in-closed-space
 ---
 
 Solo exhibition the Gallery for the Israeli Art in the Tivon Memorial Centre, Israel

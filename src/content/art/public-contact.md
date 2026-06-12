@@ -4,7 +4,7 @@ date: 2012-10-02
 tags: ["2012", "public art"]
 cover: /images/art/mg-2729.jpg
 order: 39
-oldUrl: https://www.oicherman.art/boris/b-art/public-contact
+oldUrl: /art/public-contact
 ---
 
 ![](/images/art/mg-2352.jpg)

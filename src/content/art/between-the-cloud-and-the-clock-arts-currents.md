@@ -4,7 +4,7 @@ date: 2012-07-02
 tags: ["2012", "installation"]
 cover: /images/art/long-front-1.jpg
 order: 42
-oldUrl: https://www.oicherman.art/boris/b-art/between-the-cloud-and-the-clock-arts-currents
+oldUrl: /art/between-the-cloud-and-the-clock-arts-currents
 ---
 
 

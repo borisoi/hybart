@@ -4,7 +4,7 @@ date: 2012-02-17
 tags: ["2012", "residency", "public art", "installation"]
 cover: /images/art/dsc1254.jpg
 order: 44
-oldUrl: https://www.oicherman.art/boris/b-art/local-circumstances
+oldUrl: /art/local-circumstances
 ---
 
 Asia Pacific Artist Fellowship, February – June 2012. National Museum of Contemporary Art, Seoul, South Korea

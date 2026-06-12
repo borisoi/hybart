@@ -4,7 +4,7 @@ date: 2011-09-22
 tags: ["2011", "installation"]
 cover: /images/art/fog-bulb.jpg
 order: 46
-oldUrl: https://www.oicherman.art/boris/b-art/the-bulb-and-he-fog-machine
+oldUrl: /art/the-bulb-and-he-fog-machine
 ---
 
 

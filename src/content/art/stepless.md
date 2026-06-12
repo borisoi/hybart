@@ -4,7 +4,7 @@ date: 2015-06-01
 tags: ["2015", "site specific", "installation", "sculpture"]
 cover: /images/art/stepless.jpg
 order: 24
-oldUrl: https://www.oicherman.art/boris/b-art/stepless
+oldUrl: /art/stepless
 ---
 
 

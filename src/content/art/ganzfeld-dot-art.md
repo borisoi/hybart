@@ -4,7 +4,7 @@ date: 2020-05-04
 tags: ["2019"]
 cover: /images/art/bob3478.jpg
 order: 12
-oldUrl: https://www.oicherman.art/boris/b-art/ganzfeld-dot-art
+oldUrl: /art/ganzfeld-dot-art
 ---
 
 ![](/images/art/158860-bob3478.jpg)

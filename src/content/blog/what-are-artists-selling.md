@@ -11,7 +11,7 @@ excerpt: "Revisiting the report “Investing in Creativity” through the lens o
 
 <small>*Image: Participants in the* [*Habitability Workshop*](https://wam.umn.edu/habitability-project-public-conversation)*. Grass artwork by the architecture collective* [*Interesting Tactics*](https://www.interestingtactics.com/)*. Weisman Art Museum, Minneapolis, MN, 2019*</small>
 
-*This is the third post in the series of reflections on the report “*[*Investing in Creativity: A Study of the Support Structure for U.S. Artists.*](https://www.urban.org/sites/default/files/publication/50806/411311-Investing-in-Creativity.PDF)*” If you are just arriving here, you might want to check out the* [*introduction*](/blog/1) *for the context. This installment explores the concept of hybrid arts markets, inviting us to reconsider our understanding of culture and the role of artists as professionals of culture.*
+*This is the third post in the series of reflections on the report “*[*Investing in Creativity: A Study of the Support Structure for U.S. Artists.*](https://www.urban.org/sites/default/files/publication/50806/411311-Investing-in-Creativity.PDF)*” If you are just arriving here, you might want to check out the* [*introduction*](/blog/investing-in-hybrid-arts-introduction) *for the context. This installment explores the concept of hybrid arts markets, inviting us to reconsider our understanding of culture and the role of artists as professionals of culture.*
 
 - #### Summary of the report's Demands / Markets section
 
@@ -110,7 +110,7 @@ I am intentionally not attempting to identify what these skills and sensibilitie
 
 #### The Failure of Hybrid Arts Markets
 
-Now it's a good time to revisit the devastating IiC statistic referenced in the [Validation](https://www.hyb.art/blog/2) part of this series: 96% of the US population appreciates art, while only 27% appreciate artists.
+Now it's a good time to revisit the devastating IiC statistic referenced in the [Validation](/blog/whats-good-validation) part of this series: 96% of the US population appreciates art, while only 27% appreciate artists.
 
 IiC makes the following observations about hybrid arts markets:
 
@@ -136,7 +136,7 @@ It's the same culture that appreciates art but not artists, and confines culture
 
 #### Consulting Artists
 
-Contemporary art is rich with artists who make it their business to engage with cultural aspects of things outside of the arts: [space program](https://www.oicherman.art/boris/b-art/interview-with-robert-irwin), [biology](https://tcaproject.net/), [community development](https://www.rebuild-foundation.org/), [environment](https://melchin.org/oeuvre/revival-field/), [AI](https://carolinesinders.com/), [labor rights](https://www.hyb.art/testimonials/monica-sheets), [mental health](https://www.hyb.art/testimonials/yuko-katie), [immigrants resettlement](https://queensmuseum.org/program/immigrant-movement-international-2/), [economics](https://www.oicherman.art/boris/b-art/ioc),[technology](https://littlesun.org/)… These artists do not claim ownership of these fields—but they do assert the value of their expertise in them. I imagine they also would like to be paid for their work.
+Contemporary art is rich with artists who make it their business to engage with cultural aspects of things outside of the arts: [space program](/art/interview-with-robert-irwin), [biology](https://tcaproject.net/), [community development](https://www.rebuild-foundation.org/), [environment](https://melchin.org/oeuvre/revival-field/), [AI](https://carolinesinders.com/), [labor rights](/consulting/art-and-labor-rights), [mental health](/consulting/creativity-and-mental-health), [immigrants resettlement](https://queensmuseum.org/program/immigrant-movement-international-2/), [economics](/art/ioc),[technology](https://littlesun.org/)… These artists do not claim ownership of these fields—but they do assert the value of their expertise in them. I imagine they also would like to be paid for their work.
 
 The concept of paying for expertise isn't new: we call such contractors 'consultants'. Drawing a parallel between consultants and artists might seem unusual, but the similarities are substantial. Perhaps we can borrow an idea from [Sherlock Holmes](https://en.wikipedia.org/wiki/A_Study_in_Scarlet) and speak of 'consulting artists'.
 

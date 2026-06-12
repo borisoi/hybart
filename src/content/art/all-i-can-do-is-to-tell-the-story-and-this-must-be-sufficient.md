@@ -4,7 +4,7 @@ date: 2014-12-02
 tags: ["2014", "installation", "public art", "site specific"]
 cover: /images/art/dsf4139.jpg
 order: 26
-oldUrl: https://www.oicherman.art/boris/b-art/all-i-can-do-is-to-tell-the-story-and-this-must-be-sufficient
+oldUrl: /art/all-i-can-do-is-to-tell-the-story-and-this-must-be-sufficient
 ---
 
 

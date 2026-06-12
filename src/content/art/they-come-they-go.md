@@ -4,7 +4,7 @@ date: 2008-06-22
 tags: ["2008", "photography", "robert fripp", "animation"]
 cover: /images/art/frame-example.jpg
 order: 53
-oldUrl: https://www.oicherman.art/boris/b-art/they-come-they-go
+oldUrl: /art/they-come-they-go
 ---
 
 

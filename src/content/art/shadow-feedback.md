@@ -4,7 +4,7 @@ date: 2012-03-14
 tags: ["2012", "public art", "videofeedback"]
 cover: /images/art/dsc9636.jpg
 order: 43
-oldUrl: https://www.oicherman.art/boris/b-art/shadow-feedback
+oldUrl: /art/shadow-feedback
 ---
 
 

@@ -4,7 +4,7 @@ date: 2015-06-01
 tags: ["2015", "performance", "site specific", "public art", "land art", "residency"]
 cover: /images/art/movie-reenacted.jpg
 order: 25
-oldUrl: https://www.oicherman.art/boris/b-art/movie-reenacted
+oldUrl: /art/movie-reenacted
 ---
 
 

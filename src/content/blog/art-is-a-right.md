@@ -44,7 +44,7 @@ Advocacy is integral to arts and culture due to the sector's dependence on the g
 
 Of course, understanding the proverbial intrinsic value of the arts is the pursuit of the humanities: the labor of countless philosophers, theoreticians, historians, and artists, which, in itself, is a substantial part of human cultural heritage. Translating this heritage into the language of advocacy is not a trivial task.
 
-And if you, like [me](https://www.hyb.art/about), work at the intersection of the arts and other fields, articulating art in accessible terms becomes not just the stuff of books and documents but part of routine daily conversations with collaborators, stakeholders, and grant officers.
+And if you, like [me](/about), work at the intersection of the arts and other fields, articulating art in accessible terms becomes not just the stuff of books and documents but part of routine daily conversations with collaborators, stakeholders, and grant officers.
 
 One approach to simplifying this task is to show the arts’ instrumental value to non-arts things whose value is easier to communicate. This is the logic that led to the invention of Culture-As-Industry when, in 1997, Chris Smith, then UK's Minister of Culture, Media and Sport, set out to convince the Treasury to reverse 20 years of cuts to culture budgets. The proposed solution was to rebrand "Arts and Culture" as "Creative Industries".
 
@@ -86,7 +86,7 @@ Here’s my paraphrase of this claim.
 
 Creating and experiencing art is not something we *have* to do to survive. Rather, it is something we *choose* to do to satisfy a fundamentally human necessity to give life meaning.
 
-The prehistoric human [*chose*](http://chose) to crawl in complete underground darkness to create paintings on cave walls, despite having allegedly more important things to do such as evading predators and foraging for food. That choice was their human expression of freedom, and their art is the material manifestation of that freedom.
+The prehistoric human *chose* to crawl in complete underground darkness to create paintings on cave walls, despite having allegedly more important things to do such as evading predators and foraging for food. That choice was their human expression of freedom, and their art is the material manifestation of that freedom.
 
 Therefore, restricting your freedom of access to identity, affiliation, participation, creativity, and experience—your access to culture—makes you a less free human. Thus, the value of the arts is decoupled from "measurable outcomes" such as economic impact, and attached to a foundational human right that does not require an external justification.
 

@@ -4,7 +4,7 @@ date: 2018-01-01
 tags: ["collaboration", "essay", "writings", "2018", "curating"]
 cover: /images/art/on-collaboration.jpg
 order: 15
-oldUrl: https://www.oicherman.art/boris/b-art/collaboration-is-a-labour-of-creating-shared-meaning
+oldUrl: /art/collaboration-is-a-labour-of-creating-shared-meaning
 ---
 
 Originally published on the [Weisman Art Museum](https://wam.umn.edu/education/target-studio-for-creative-collaboration/laborofsharedmeaning/) website in 2018

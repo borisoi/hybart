@@ -5,7 +5,7 @@ date: 2022-09-20
 tags: ["2022-", "philantropy", "grantmaking", "collaboration"]
 cover: /images/art/tcf-hq-1.jpeg
 order: 6
-oldUrl: https://www.oicherman.art/boris/b-art/director-of-programs
+oldUrl: /art/director-of-programs
 ---
 
 ![](/images/art/tcf-hq-1.jpeg)

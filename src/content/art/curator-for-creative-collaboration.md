@@ -4,7 +4,7 @@ date: 2021-12-01
 tags: ["2017-", "curatorial", "museum", "collaboration"]
 cover: /images/art/curatorial-projects-landscape-cover-page.jpg
 order: 7
-oldUrl: https://www.oicherman.art/boris/b-art/curator-for-creative-collaboration
+oldUrl: /art/curator-for-creative-collaboration
 ---
 
 [![](/images/art/curatorial-projects-landscape-cover-page.jpg)](/files/Oicherman-Boris-Curatorial-Projects.pdf)

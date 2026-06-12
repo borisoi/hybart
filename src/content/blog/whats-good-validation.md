@@ -11,7 +11,7 @@ excerpt: "Revisiting the report “Investing in Creativity” through the lens o
 
 <small>*Image: Performance “*[*Dance Like a Nurse, Nurse Like a Dancer*](https://wam.umn.edu/dance-nurse-nurse-dancer-1)*” at the Hennepin Public Library. Choreographer:* [*Anna Marie Shogren*](https://www.mcknightdancechoreo.org/anna-shogren)*. Weisman Art Museum, Minneapolis, MN, 2018*</small>
 
-*This is the second post in the series of reflections on the report “Investing in Creativity: A Study of the Support Structure for U.S. Artists.” If you’re just arriving here, you might want to start with the* [*introduction*](/blog/1)*.  
+*This is the second post in the series of reflections on the report “Investing in Creativity: A Study of the Support Structure for U.S. Artists.” If you’re just arriving here, you might want to start with the* [*introduction*](/blog/investing-in-hybrid-arts-introduction)*.  
  The series reviews the six dimensions of support for the artists—validation, markets, material support, training, networks, and information—through the lens of hybrid arts. This part explores the dimension of validation, examining the complex interplay between recognition by collaborators and the general public.*
 
 - #### Summary of the report's Validation chapter
@@ -56,7 +56,7 @@ This piece of statistics is probably the most-quoted part of the report: 96% of 
 
 Society likes art but not so much the artists.
 
-It will take much more than a blog post to get to the bottom of this cultural aberration. The recent book "[Culture is Not an Industry](https://manchesteruniversitypress.co.uk/9781526171269/)" by Justin O'Connor offers some insights from the field of political economy; see my review of it [here](https://www.hyb.art/blog/3). In this post I will focus on some practical considerations of public validation that are especially relevant to the hybrid arts.
+It will take much more than a blog post to get to the bottom of this cultural aberration. The recent book "[Culture is Not an Industry](https://manchesteruniversitypress.co.uk/9781526171269/)" by Justin O'Connor offers some insights from the field of political economy; see my review of it [here](/blog/art-is-a-right). In this post I will focus on some practical considerations of public validation that are especially relevant to the hybrid arts.
 
 If your declared creative intention as a "hybrid artist" is to contribute to some aspect of society outside of the arts, it helps to know that society actually sees you as a potential contributor to begin with. But the 73% of the general population who do not see artists as valuable contributors surely include many potential collaborators!
 
@@ -92,7 +92,7 @@ Furthermore, when the connection is established, the developing relationships ar
 
 Enter *Intermediaries*: people with a foot in both the arts and non-arts whose job is to facilitate relationships between artists and non-artists. IiC discusses Intermediaries in the context of Demand / Markets dimension, but I believe that they should be introduced here because of their equal importance to Validation.
 
-In traditional arts, there are established roles for such intermediaries: agents, gallerists. There are no established positions of intermediaries in hybrid arts, and these roles are often performed by administrators and curators who happen to be in a suitable position and have the relevant skills, knowledge and motivation. The former position of yours truly as the [Curator for Creative Collaboration](https://www.oicherman.art/boris/b-art/institution-as-living-artist) is sadly an exception that proves the rule.
+In traditional arts, there are established roles for such intermediaries: agents, gallerists. There are no established positions of intermediaries in hybrid arts, and these roles are often performed by administrators and curators who happen to be in a suitable position and have the relevant skills, knowledge and motivation. The former position of yours truly as the [Curator for Creative Collaboration](/art/institution-as-living-artist) is sadly an exception that proves the rule.
 
 The report suggests that we need better language and documentation to articulate hybrid artists' roles, impacts and the ways to facilitate their art. It also points out that the knowledge does exist out there—it’s just rarely made public:
 

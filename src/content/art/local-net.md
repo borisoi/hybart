@@ -4,7 +4,7 @@ date: 2012-09-14
 tags: ["2012", "site specific", "public art", "residency"]
 cover: /images/art/top-in-out-1.jpg
 order: 40
-oldUrl: https://www.oicherman.art/boris/b-art/local-net
+oldUrl: /art/local-net
 ---
 
 

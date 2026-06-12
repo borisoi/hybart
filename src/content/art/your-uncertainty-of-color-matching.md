@@ -4,7 +4,7 @@ date: 2006-07-26
 tags: ["2007", "olafur eliasson", "collaboration", "color science"]
 cover: /images/art/img-mda101646-1600px.jpg
 order: 54
-oldUrl: https://www.oicherman.art/boris/b-art/your-uncertainty-of-color-matching
+oldUrl: /art/your-uncertainty-of-color-matching
 ---
 
 ![](/images/art/img-mda101645-1600px.jpg)

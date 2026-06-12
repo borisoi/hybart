@@ -4,7 +4,7 @@ date: 2020-12-01
 tags: ["2020", "collaboration", "art and finance"]
 cover: /images/art/screen-shot-2020-12-02-at-3-51-05-pm.jpg
 order: 10
-oldUrl: https://www.oicherman.art/boris/b-art/ioc
+oldUrl: /art/ioc
 ---
 
 [![](/images/art/ioc-manifeto-p1.jpg)](/files/Institute-of-Care-Manifesto.pdf)

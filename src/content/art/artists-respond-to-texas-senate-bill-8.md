@@ -5,7 +5,7 @@ date: 2021-09-01
 tags: ["collaboration", "essay", "writings", "Texas Senat Bill 8", "Reproductive Rights", "2021"]
 cover: /images/art/use-this-see-something-2.jpg
 order: 8
-oldUrl: https://www.oicherman.art/boris/b-art/artists-respond-to-texas-senate-bill-8
+oldUrl: /art/artists-respond-to-texas-senate-bill-8
 ---
 
 Originally published on the [Weisman Art Museum](https://wam.umn.edu/education/target-studio-for-creative-collaboration/laborofsharedmeaning/) website in 2021

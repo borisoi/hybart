@@ -4,7 +4,7 @@ date: 2013-11-02
 tags: ["2013", "installation", "site specific"]
 cover: /images/art/dsf4419.jpg
 order: 31
-oldUrl: https://www.oicherman.art/boris/b-art/nonlinear-construction
+oldUrl: /art/nonlinear-construction
 ---
 
 ![](/images/art/dsf4419.jpg)

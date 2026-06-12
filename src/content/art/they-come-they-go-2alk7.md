@@ -4,7 +4,7 @@ date: 2011-12-22
 tags: ["2011", "installation", "site specific"]
 cover: /images/art/screen-shot-2019-10-22-at-2-25-20-pm.jpg
 order: 45
-oldUrl: https://www.oicherman.art/boris/b-art/they-come-they-go-2alk7
+oldUrl: /art/they-come-they-go-2alk7
 ---
 
 

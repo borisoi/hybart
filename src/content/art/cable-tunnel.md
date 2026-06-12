@@ -4,7 +4,7 @@ date: 2014-06-02
 tags: ["installation", "site specific", "2014"]
 cover: /images/art/dsf6803.jpg
 order: 29
-oldUrl: https://www.oicherman.art/boris/b-art/cable-tunnel
+oldUrl: /art/cable-tunnel
 ---
 
 ![](/images/art/dsf6803.jpg)

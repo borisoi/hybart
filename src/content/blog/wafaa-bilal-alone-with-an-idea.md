@@ -164,7 +164,7 @@ Traditional Lamassus have five legs because they're next to gates—you see them
 
 **WB:** "In a Grain of Wheat" was commissioned by both [Creative Capital](https://creative-capital.org/) and MCA. Creative Capital supported the DNA work, and MCA commissioned the sculpture. Otherwise I could never have done it.
 
-**BO:** One reason I left [curating](https://www.oicherman.art/boris/b-art/curator-for-creative-collaboration) to work for funders, I saw how difficult it is to fund complex projects that touch so many disciplinary fields. We know how to commission sculpture or painting, but most museums don't know how to commission something like "In a Grain of Wheat." MCA's openness to this project is remarkable.
+**BO:** One reason I left [curating](/art/curator-for-creative-collaboration) to work for funders, I saw how difficult it is to fund complex projects that touch so many disciplinary fields. We know how to commission sculpture or painting, but most museums don't know how to commission something like "In a Grain of Wheat." MCA's openness to this project is remarkable.
 
 ![](/images/wafaa-for-exhib-bd-28-32.jpg)
 
