@@ -5,7 +5,7 @@ const doors = [
   { href: '/music', label: 'Music', img: '/images/field-no-text.jpg', c: 'var(--c-music)' },
   { href: '/art', label: 'Art', img: '/images/responsa-09102.jpg', c: 'var(--c-art)' },
   { href: '/consulting', label: 'Consulting', img: '/images/srg0974.jpg', c: 'var(--c-consulting)' },
-  { href: '/blog', label: 'Blog', img: '/images/wafaa-home-tile.jpg', c: 'var(--c-blog)' },
+  { href: '/blog', label: 'Blog', img: '/images/wafaa-home-tile.jpg', imgM: '/images/wafaa-blog-cover.jpg', c: 'var(--c-blog)' },
 ];
 ---
 <!doctype html>
@@ -22,8 +22,8 @@ const doors = [
 
   <main class="tiles">
     {doors.map((d) => (
-      <a href={d.href} style={`--door:${d.c}`}>
-        <div class="ph" style={`background-image:url('${d.img}')`}></div>
+      <a href={d.href} style={`--door:${d.c}; --ph:url('${d.img}')${d.imgM ? `; --ph-m:url('${d.imgM}')` : ''}`}>
+        <div class="ph"></div>
         <span>{d.label}</span>
       </a>
     ))}
@@ -36,7 +36,7 @@ const doors = [
     height: 100vh; padding: 14px; box-sizing: border-box; max-width: none;
   }
   .tiles a { position: relative; display: flex; align-items: flex-end; overflow: hidden; border-radius: 36px; text-decoration: none; }
-  .tiles .ph { position: absolute; inset: 0; background-size: cover; background-position: center; transition: transform .3s ease; }
+  .tiles .ph { position: absolute; inset: 0; background-size: cover; background-position: center; background-image: var(--ph); transition: transform .3s ease; }
   .tiles a:hover .ph { transform: scale(1.04); }
   .tiles a::after { content: ''; position: absolute; inset: 0; background: var(--door); opacity: 0; mix-blend-mode: multiply; transition: opacity .25s ease; border-radius: 36px; }
   .tiles a:hover::after { opacity: .5; }
@@ -48,6 +48,7 @@ const doors = [
   @media (max-width: 700px) {
     .tiles { grid-template-columns: 1fr; height: auto; min-height: 100vh; }
     .tiles a { aspect-ratio: 4/3; }
+    .tiles .ph { background-image: var(--ph-m, var(--ph)); }
   }
 </style>
 </body>
