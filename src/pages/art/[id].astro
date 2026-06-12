@@ -27,6 +27,10 @@ const singleColumn = p.id === 'interview-with-robert-irwin';
 </Base>
 
 <style>
+  .art-project.narrow { max-width: 72ch; margin-inline: auto; }
+  .art-project.narrow :global(.prose > p:first-child img),
+  .art-project.narrow :global(.prose > p:first-child) { max-width: none; }
+  .art-project.narrow :global(.prose img) { width: 100%; margin: 28px auto; }
   .art-project .meta { margin: 48px 0 0; display: flex; gap: 14px; flex-wrap: wrap; }
   .art-project .meta span { font-size: 14px; color: var(--muted); }
   .art-project h1 { margin-top: 8px; }
@@ -116,7 +120,17 @@ const singleColumn = p.id === 'interview-with-robert-irwin';
     const kids = Array.from(prose.children);
     const mediaEls = kids.filter(isMediaEl);
     const single = document.querySelector('.art-project')?.dataset.single === '1';
-    if (!single && mediaEls.length > 0) {
+
+    // exactly one image and nothing else: centered essay, image on top (like blog essays)
+    const soloImg =
+      mediaEls.length === 1 &&
+      !mediaEls[0].classList.contains('gal') &&
+      mediaEls[0].tagName !== 'IFRAME' &&
+      !mediaEls[0].querySelector('iframe');
+    if (soloImg || mediaEls.length === 0 || single) {
+      document.querySelector('.art-project')?.classList.add('narrow');
+      if (soloImg) prose.prepend(mediaEls[0]);
+    } else if (mediaEls.length > 0) {
       const cols = document.createElement('div');
       cols.className = 'art-cols';
       const media = document.createElement('div'); media.className = 'col-media';
