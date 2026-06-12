@@ -54,7 +54,7 @@ excerpt: "Everything I've done, the only thing I've done is I'm an artist figuri
 
 Robert Irwin, interviewed in [Drugs and Beyond](https://archive.org/details/0309_Social_Seminar_Drugs_and_Beyond_10_00_47_00), Extension Media Center, UCLA for the National Institute of Mental Health, 1971.
 
-<iframe src="https://player.vimeo.com/video/281793407?app_id=122963" title="The First National Symposium on Habitability of Environments (2 mins summary)" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+<iframe src="https://player.vimeo.com/video/281793407?app_id=122963" title="The First National Symposium on Habitability of Environments (2 mins summary)" style="aspect-ratio:4/3" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
 
 <small>Footage of the First National Symposium on Habitability of Environments. Venice, CA, 1970. Camera: Larry Bell. Editing: Boris Oicherman.</small>
 

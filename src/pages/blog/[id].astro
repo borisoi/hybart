@@ -28,11 +28,12 @@ const fmt = (d: Date) =>
   .post h1 { margin-top: 8px; max-width: 26ch; }
   .post :global(.prose img) { border-radius: 22px; margin: 0 0 20px; width: 100%; }
   .post :global(.prose iframe) { border-radius: 22px; width: 100%; }
-  .post :global(.brow) { display: grid; grid-template-columns: 58fr 42fr; gap: 52px; align-items: start; margin-bottom: 8px; }
-  .post :global(.brow .rtext) { max-width: 64ch; }
-  .post :global(.brow .rtext > :first-child) { margin-top: 0; }
-  .post :global(.brow .rmedia) { position: sticky; top: 24px; padding-top: 6px; }
-  .post :global(.brow .rmedia p) { max-width: none; margin: 0 0 14px; }
+  .post :global(.prose.cols) { position: relative; }
+  .post :global(.prose.cols > :not(.rmedia)) { max-width: min(64ch, 57%); }
+  .post :global(.prose.cols > .rmedia) { position: absolute; left: 61%; width: 39%; margin: 0; }
+  .post :global(.rmedia) { margin: 18px 0; }
+  .post :global(.rmedia p) { max-width: none; margin: 0 0 14px; }
+  .post :global(.rmedia iframe) { max-width: none; }
   .post :global(.rmedia p.cap) { margin: -8px 4px 24px; }
   .post :global(.prose .gal) { max-width: none; margin: 0 0 20px; }
   .post :global(.rmedia .gal + p.cap) { margin-top: -2px; }
@@ -45,42 +46,76 @@ const fmt = (d: Date) =>
     max-width: 36ch;
     color: var(--c-blog);
   }
-  .post :global(details.intro) { border-top: 1px solid var(--rule); padding: 2px 0; }
-  .post :global(details.intro:last-of-type) { border-bottom: 1px solid var(--rule); }
-  .post :global(details.intro summary) { cursor: pointer; list-style: none; padding: 14px 0; font-weight: 600; font-size: 17px; }
-  .post :global(details.intro summary::-webkit-details-marker) { display: none; }
-  .post :global(details.intro summary::after) { content: ' +'; color: var(--c-blog); }
-  .post :global(details.intro[open] summary::after) { content: ' –'; }
-  .post :global(details.intro summary:hover) { color: var(--c-blog); }
-  .post :global(details.intro .intro-body) { padding: 0 0 18px; }
-  .post :global(details.intro .intro-body p) { margin-top: 0; }
-  @media (max-width: 860px) {
-    .post :global(.brow) { display: block; }
-    .post :global(.brow .rmedia) { position: static; margin: 18px 0; }
+  .post :global(.prose.cols > p.pull) { max-width: min(36ch, 57%); }
+  .post :global(.intro) { border-top: 1px solid var(--rule); padding: 2px 0; }
+  .post :global(.intro.intro-last) { border-bottom: 1px solid var(--rule); }
+  .post :global(.intro-head) {
+    display: block; width: 100%; text-align: left;
+    background: none; border: 0; color: inherit; font: inherit;
+    cursor: pointer; padding: 14px 0; font-weight: 600; font-size: 17px;
   }
+  .post :global(.intro-head::after) { content: ' +'; color: var(--c-blog); }
+  .post :global(.intro.open .intro-head::after) { content: ' –'; }
+  .post :global(.intro-head:hover) { color: var(--c-blog); }
+  .post :global(.intro-body) {
+    overflow: hidden; max-height: 4.7em;
+    -webkit-mask-image: linear-gradient(#000 20%, transparent 96%);
+    mask-image: linear-gradient(#000 20%, transparent 96%);
+  }
+  .post :global(.intro.open .intro-body) {
+    max-height: none; padding-bottom: 4px;
+    -webkit-mask-image: none; mask-image: none;
+  }
+  .post :global(.intro-body p) { margin-top: 0; }
+  .post :global(.intro-close) {
+    display: none; background: none; border: 0; font: inherit;
+    cursor: pointer; padding: 0 0 16px; color: var(--muted); font-size: 15px;
+  }
+  .post :global(.intro.open .intro-close) { display: block; }
+  .post :global(.intro-close::after) { content: ' –'; color: var(--c-blog); }
+  .post :global(.intro-close:hover) { color: var(--c-blog); }
 </style>
 
 <script>
   const prose = document.querySelector('.post .prose');
   if (prose) {
     // 1. turn leading "About ..." list blocks into accordions
+    //    (closed: title + first lines fading out; open: full text + close link at the bottom)
     const uls = Array.from(prose.children).slice(0, 4).filter((el) => el.tagName === 'UL');
-    const intros = [];
     for (const ul of uls) {
       const lis = Array.from(ul.children).filter((li) => li.querySelector('h1,h2,h3,h4,h5'));
       if (lis.length === 0 || lis.length !== ul.children.length) continue;
+      const made = [];
       for (const li of ul.children) {
         const h = li.querySelector('h1,h2,h3,h4,h5');
-        const det = document.createElement('details');
+        const det = document.createElement('div');
         det.className = 'intro';
-        const sum = document.createElement('summary');
-        sum.textContent = h.textContent;
+        const head = document.createElement('button');
+        head.type = 'button';
+        head.className = 'intro-head';
+        head.textContent = h.textContent;
         h.remove();
         const body = document.createElement('div');
         body.className = 'intro-body';
         while (li.firstChild) body.appendChild(li.firstChild);
-        det.append(sum, body);
-        intros.push(det);
+        const closeBtn = document.createElement('button');
+        closeBtn.type = 'button';
+        closeBtn.className = 'intro-close';
+        closeBtn.textContent = 'Close';
+        head.addEventListener('click', () => det.classList.toggle('open'));
+        body.addEventListener('click', () => {
+          if (!det.classList.contains('open')) det.classList.add('open');
+        });
+        closeBtn.addEventListener('click', () => {
+          det.classList.remove('open');
+          if (det.getBoundingClientRect().top < 0) det.scrollIntoView({ block: 'nearest' });
+        });
+        det.append(head, body, closeBtn);
+        made.push(det);
+      }
+      if (made.length) {
+        made[made.length - 1].classList.add('intro-last');
+        made.forEach((d) => ul.before(d));
       }
       ul.remove();
     }
@@ -161,66 +196,59 @@ const fmt = (d: Date) =>
       if (onlyChild(el, 'EM')) el.classList.add('pull');
     }
 
-    // 3. pull the lead image (cover) if it opens the post
-    const kids = () => Array.from(prose.children);
-    let coverEl = null;
-    for (const el of kids().slice(0, 2)) {
-      if (isMediaEl(el)) { coverEl = el; break; }
-    }
-    let coverCap = null;
-    if (coverEl) {
-      const next = coverEl.nextElementSibling;
-      if (next && isCaption(next)) {
-        coverCap = next;
-        coverCap.classList.add('cap');
-        coverCap.remove();
-      }
-      coverEl.remove();
-    }
-    const coverGroup = coverEl ? (coverCap ? [coverEl, coverCap] : [coverEl]) : [];
-
-    // 4. build rows: text accumulates left, each media element closes a row on the right
-    const rows = [];
-    let current = { text: [], media: [] };
-    if (intros.length) {
-      current.text = intros;
-      current.media = coverGroup;
-      rows.push(current);
-      current = { text: [], media: [] };
-    } else {
-      current.media.push(...coverGroup);
-    }
-    let prevWasMedia = !!coverEl;
-    for (const el of kids()) {
+    // 3. marginalia layout: text flows continuously in the left column;
+    //    each media group is absolutely positioned in the right margin, anchored
+    //    to the start of its passage but sliding down when the previous group
+    //    needs the room — so text never gets stretched by tall media.
+    const groups = [];
+    let curMedia = null;
+    let chunkStart = null;
+    for (const el of Array.from(prose.children)) {
       if (isMediaEl(el)) {
-        current.media.push(el);
-        prevWasMedia = true;
-      } else if (isCaption(el) && prevWasMedia) {
-        // caption stays under its image
+        if (!curMedia) { curMedia = { els: [], anchor: chunkStart }; groups.push(curMedia); }
+        curMedia.els.push(el);
+      } else if (isCaption(el) && curMedia) {
         el.classList.add('cap');
-        if (current.media.length) current.media.push(el);
-        else if (rows.length) rows[rows.length - 1].media.push(el);
-        else current.media.push(el);
+        curMedia.els.push(el);
       } else {
-        if (current.media.length && current.text.length) {
-          rows.push(current);
-          current = { text: [], media: [] };
-        }
-        current.text.push(el);
-        prevWasMedia = false;
+        if (curMedia) { curMedia = null; chunkStart = null; }
+        if (!chunkStart) chunkStart = el;
       }
     }
-    if (current.text.length || current.media.length) rows.push(current);
-
-    for (const r of rows) {
-      const row = document.createElement('div');
-      row.className = 'brow';
-      const rt = document.createElement('div'); rt.className = 'rtext';
-      const rm = document.createElement('div'); rm.className = 'rmedia';
-      r.text.forEach((el) => rt.appendChild(el));
-      r.media.forEach((el) => rm.appendChild(el));
-      row.append(rt, rm);
-      prose.appendChild(row);
+    for (const g of groups) {
+      const wrap = document.createElement('div');
+      wrap.className = 'rmedia';
+      g.els[0].before(wrap);
+      g.els.forEach((el) => wrap.appendChild(el));
+      g.el = wrap;
     }
+
+    const place = () => {
+      if (!groups.length) return;
+      if (window.matchMedia('(max-width: 860px)').matches) {
+        prose.classList.remove('cols');
+        groups.forEach((g) => { g.el.style.top = ''; });
+        prose.style.minHeight = '';
+        return;
+      }
+      prose.classList.add('cols');
+      let prevBottom = 0;
+      for (const g of groups) {
+        const top = Math.max(g.anchor ? g.anchor.offsetTop : 0, prevBottom);
+        g.el.style.top = top + 'px';
+        prevBottom = top + g.el.offsetHeight + 36;
+      }
+      prose.style.minHeight = prevBottom - 36 + 'px';
+    };
+    let raf = 0;
+    const schedule = () => { cancelAnimationFrame(raf); raf = requestAnimationFrame(place); };
+    const ro = new ResizeObserver(schedule);
+    ro.observe(prose);
+    groups.forEach((g) => ro.observe(g.el));
+    window.addEventListener('resize', schedule);
+    prose.querySelectorAll('img').forEach((im) => {
+      if (!im.complete) im.addEventListener('load', schedule, { once: true });
+    });
+    schedule();
   }
 </script>
