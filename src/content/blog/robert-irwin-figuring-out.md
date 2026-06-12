@@ -15,7 +15,7 @@ excerpt: "Everything I've done, the only thing I've done is I'm an artist figuri
 
 - #### Introduction to the first interview publication (2018)
 
-  First edit of this interview was [<u>published</u>](https://wam.umn.edu/interview-robert-irwin-about-first-national-symposium-habitability-environments) in October 2018 on the Weisman Art Museum’s website.
+  [First edit of this interview](/art/interview-with-robert-irwin) was [<u>published</u>](https://wam.umn.edu/interview-robert-irwin-about-first-national-symposium-habitability-environments) in October 2018 on the Weisman Art Museum’s website.
 
   A bus brings a group of people, most wearing suits, white shirts, and ties and carrying briefcases, from the downtown Intercontinental Hotel to a troubled oceanside neighborhood of hippies, surfers, homeless, and artists. They disembark by the beach and wander down a decrepit alley toward a recently made hole in a brick wall. They step through the hole, pass by a pile of rubble, and walk down a small corridor into a large, dimly lit room with slightly colored skylights in the ceiling, white columns at one end, two rows of facing elevated red canvas chairs in the center, and pillows spread on the floor. The time is the morning of May 11, 1970; the place is the studio of minimalist painter Robert Irwin in Venice, California; and the event is the First National Symposium on Habitability of Environments by NASA.
 

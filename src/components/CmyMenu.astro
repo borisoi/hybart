@@ -43,8 +43,14 @@ const nav = [
   .menu-btn:hover .ros { transform: rotate(120deg); }
   .menu-btn[aria-expanded="true"] .ros { transform: rotate(240deg); }
   .overlay {
-    position: fixed; inset: 0; z-index: 10; background: var(--bg);
+    position: fixed; inset: 0; z-index: 10;
+    background: rgba(250, 249, 245, 0.55);
+    -webkit-backdrop-filter: blur(16px);
+    backdrop-filter: blur(16px);
     display: flex; align-items: center; justify-content: center;
+  }
+  @supports not ((backdrop-filter: blur(16px)) or (-webkit-backdrop-filter: blur(16px))) {
+    .overlay { background: var(--bg); }
   }
   .overlay[hidden] { display: none; }
   .overlay nav { display: flex; flex-direction: column; align-items: flex-start; }

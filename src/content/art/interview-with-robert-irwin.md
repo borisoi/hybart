@@ -14,6 +14,8 @@ oldUrl: https://www.oicherman.art/boris/b-art/interview-with-robert-irwin
 
 Originally published on the [Weisman Art Museum](https://wam.umn.edu/2018/10/01/habitability-of-environments-interview-with-robert-irwin/) website in 2018
 
+[A new edit of this interview is published in 2026](/blog/robert-irwin-figuring-out)
+
 *One interesting thing about being an artist now is that everything is a possibility. Which means you start out of the state of total chaos, and you have to assume the responsibility for every single thing you do or do not do. –*
 
 [Robert Irwin, from the film *Drugs and Beyond*, Extension Media Center, UCLA for the National Institute of Mental Health, 1971.](https://archive.org/details/0309_Social_Seminar_Drugs_and_Beyond_10_00_47_00)
