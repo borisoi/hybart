@@ -1,0 +1,90 @@
+---
+import '../../styles/global.css';
+import CmyMenu from '../../components/CmyMenu.astro';
+// Variant C — Orbit: four large section circles drift slowly ("breathe") around
+// a shared centre, overlapping in multiply. Hovering a circle scales it up and
+// lifts it forward. A blended wordmark sits where all four meet.
+const doors = [
+  { href: '/art',        label: 'Art',        c: 'var(--c-art)',        x: '-1', y: '-1', d: '0s'   },
+  { href: '/music',      label: 'Music',      c: 'var(--c-music)',      x: '1',  y: '-1', d: '-3s'  },
+  { href: '/consulting', label: 'Consulting', c: 'var(--c-consulting)', x: '-1', y: '1',  d: '-6s'  },
+  { href: '/blog',       label: 'Blog',       c: 'var(--c-blog)',       x: '1',  y: '1',  d: '-9s'  },
+];
+---
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Hybrid Arts — orbit</title>
+  <meta name="robots" content="noindex" />
+  <link rel="icon" href="/favicon.svg" type="image/svg+xml" />
+</head>
+<body class="d-body">
+  <CmyMenu />
+
+  <main class="stage">
+    {doors.map((d, i) => (
+      <a class="door" href={d.href}
+         style={`--c:${d.c}; --x:${d.x}; --y:${d.y}; --d:${d.d}; --i:${i}`}>
+        <span>{d.label}</span>
+      </a>
+    ))}
+    <div class="wordmark">Hybrid&nbsp;Arts</div>
+  </main>
+
+  <div class="variants">
+    <a href="/lab/rosette">rosette</a>
+    <a href="/lab/lenses">lenses</a>
+    <a href="/lab/orbit" aria-current="page">orbit</a>
+  </div>
+
+<style>
+  .d-body { margin: 0; background: var(--bg); }
+  .stage {
+    position: fixed; inset: 0; overflow: hidden;
+    isolation: isolate; background: var(--bg);
+    --R: 30vmin; --o: 16vmin;
+  }
+  .door {
+    position: absolute; left: 50%; top: 50%;
+    width: calc(var(--R) * 2); height: calc(var(--R) * 2);
+    margin: calc(var(--R) * -1) 0 0 calc(var(--R) * -1);
+    border-radius: 50%; background: var(--c);
+    mix-blend-mode: multiply; text-decoration: none;
+    display: flex; align-items: center; justify-content: center;
+    transform: translate(calc(var(--x) * var(--o)), calc(var(--y) * var(--o)));
+    animation: breathe 16s ease-in-out infinite; animation-delay: var(--d);
+    will-change: transform;
+  }
+  .door span {
+    color: var(--bg); font-weight: 700; letter-spacing: -0.03em;
+    font-size: clamp(22px, 4.4vmin, 54px);
+    transform: translate(calc(var(--x) * 9vmin), calc(var(--y) * 9vmin));
+    text-shadow: 0 1px 16px rgba(20,20,20,.4);
+  }
+  .door:hover { mix-blend-mode: normal; z-index: 9; animation-play-state: paused; }
+  @keyframes breathe {
+    0%,100% { transform: translate(calc(var(--x) * var(--o)),        calc(var(--y) * var(--o))); }
+    50%     { transform: translate(calc(var(--x) * var(--o) * 1.5),  calc(var(--y) * var(--o) * 1.5)); }
+  }
+  .wordmark {
+    position: absolute; left: 50%; top: 50%; transform: translate(-50%, -50%);
+    color: var(--bg); opacity: .85; pointer-events: none; z-index: 5;
+    font-weight: 700; letter-spacing: .02em; text-transform: uppercase;
+    font-size: clamp(13px, 1.8vmin, 20px); text-align: center;
+  }
+  .variants {
+    position: fixed; left: 50%; bottom: 16px; transform: translateX(-50%);
+    display: flex; gap: 10px; z-index: 30; font-size: 13px; letter-spacing: .02em;
+  }
+  .variants a {
+    color: var(--ink); text-decoration: none; opacity: .55;
+    padding: 4px 10px; border: 1px solid rgba(20,20,20,.18); border-radius: 999px;
+  }
+  .variants a[aria-current] { opacity: 1; border-color: var(--ink); }
+  @media (prefers-reduced-motion: reduce) { .door { animation: none; } }
+  @media (max-width: 700px) { .stage { --R: 26vmax; --o: 13vmax; } }
+</style>
+</body>
+</html>

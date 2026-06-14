@@ -1,0 +1,102 @@
+---
+import '../../styles/global.css';
+import CmyMenu from '../../components/CmyMenu.astro';
+// Variant A — Rosette cluster: four section circles overlapping in a tight
+// CMYK-registration cluster. Multiply blend mixes the overlaps to near-black,
+// echoing the menu rosette logo. Labels sit in each circle's pure outer lobe.
+const doors = [
+  { href: '/art',        label: 'Art',        c: 'var(--c-art)',        x: '-1', y: '-1' },
+  { href: '/music',      label: 'Music',      c: 'var(--c-music)',      x: '1',  y: '-1' },
+  { href: '/consulting', label: 'Consulting', c: 'var(--c-consulting)', x: '-1', y: '1'  },
+  { href: '/blog',       label: 'Blog',       c: 'var(--c-blog)',       x: '1',  y: '1'  },
+];
+---
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Hybrid Arts — rosette</title>
+  <meta name="robots" content="noindex" />
+  <link rel="icon" href="/favicon.svg" type="image/svg+xml" />
+</head>
+<body class="d-body">
+  <CmyMenu />
+
+  <main class="stage">
+    {doors.map((d) => (
+      <div class="disc" style={`--c:${d.c}; --x:${d.x}; --y:${d.y}`}></div>
+    ))}
+    {doors.map((d) => (
+      <a class="door" href={d.href} style={`--x:${d.x}; --y:${d.y}`}>
+        <span style={`--lx:${d.x}; --ly:${d.y}`}>{d.label}</span>
+      </a>
+    ))}
+    <div class="wordmark">Hybrid&nbsp;Arts</div>
+  </main>
+
+  <div class="variants">
+    <a href="/lab/rosette" aria-current="page">rosette</a>
+    <a href="/lab/lenses">lenses</a>
+    <a href="/lab/orbit">orbit</a>
+  </div>
+
+<style>
+  .d-body { margin: 0; background: var(--bg); }
+  .stage {
+    position: fixed; inset: 0; overflow: hidden;
+    isolation: isolate; background: var(--bg);
+    --R: 30vmin;          /* circle radius */
+    --o: 15vmin;          /* center offset from middle */
+  }
+  .disc, .door {
+    position: absolute;
+    width: calc(var(--R) * 2); height: calc(var(--R) * 2);
+    left: 50%; top: 50%; border-radius: 50%;
+    transform: translate(-50%, -50%)
+      translate(calc(var(--x) * var(--o)), calc(var(--y) * var(--o)));
+  }
+  .disc {
+    background: var(--c); mix-blend-mode: multiply;
+    transition: transform .5s ease;
+  }
+  .door { display: block; text-decoration: none; }
+  .door span {
+    position: absolute;
+    /* push label toward the circle's pure outer lobe */
+    left: 50%; top: 50%;
+    transform: translate(-50%, -50%)
+      translate(calc(var(--lx) * 14vmin), calc(var(--ly) * 14vmin));
+    color: var(--bg); font-weight: 700; letter-spacing: -0.03em;
+    font-size: clamp(22px, 4.2vmin, 52px); white-space: nowrap;
+    text-shadow: 0 1px 14px rgba(20,20,20,.35);
+  }
+  .door:hover ~ .disc {}
+  .door:hover span { transform:
+      translate(-50%, -50%)
+      translate(calc(var(--lx) * 14vmin), calc(var(--ly) * 14vmin)) scale(1.06); }
+  .wordmark {
+    position: absolute; left: 50%; top: 50%;
+    transform: translate(-50%, -50%);
+    color: var(--bg); opacity: .85; pointer-events: none;
+    font-weight: 700; letter-spacing: .02em;
+    font-size: clamp(13px, 1.8vmin, 20px); text-transform: uppercase;
+    text-align: center; z-index: 5;
+  }
+  .variants {
+    position: fixed; left: 50%; bottom: 16px; transform: translateX(-50%);
+    display: flex; gap: 10px; z-index: 30;
+    font-size: 13px; letter-spacing: .02em;
+  }
+  .variants a {
+    color: var(--ink); text-decoration: none; opacity: .55;
+    padding: 4px 10px; border: 1px solid rgba(20,20,20,.18); border-radius: 999px;
+  }
+  .variants a[aria-current] { opacity: 1; border-color: var(--ink); }
+  @media (max-width: 700px) {
+    .stage { --R: 26vmax; --o: 13vmax; }
+    .door span { font-size: clamp(20px, 6vmin, 40px); }
+  }
+</style>
+</body>
+</html>

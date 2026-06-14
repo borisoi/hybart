@@ -1,0 +1,88 @@
+---
+import '../../styles/global.css';
+import CmyMenu from '../../components/CmyMenu.astro';
+// Variant B — Lenses: four tall ellipses span the full height and overlap
+// horizontally, so the seams between them read as vertical mixed-colour bands,
+// like print registration / a CMY spectrum. Each lens is a section door.
+const doors = [
+  { href: '/art',        label: 'Art',        c: 'var(--c-art)',        cx: '20' },
+  { href: '/music',      label: 'Music',      c: 'var(--c-music)',      cx: '40' },
+  { href: '/consulting', label: 'Consulting', c: 'var(--c-consulting)', cx: '60' },
+  { href: '/blog',       label: 'Blog',       c: 'var(--c-blog)',       cx: '80' },
+];
+---
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Hybrid Arts — lenses</title>
+  <meta name="robots" content="noindex" />
+  <link rel="icon" href="/favicon.svg" type="image/svg+xml" />
+</head>
+<body class="d-body">
+  <CmyMenu />
+
+  <main class="stage">
+    {doors.map((d) => (
+      <div class="lens" style={`--c:${d.c}; --cx:${d.cx}%`}></div>
+    ))}
+    {doors.map((d) => (
+      <a class="door" href={d.href} style={`--cx:${d.cx}%`}>
+        <span>{d.label}</span>
+      </a>
+    ))}
+  </main>
+
+  <div class="variants">
+    <a href="/lab/rosette">rosette</a>
+    <a href="/lab/lenses" aria-current="page">lenses</a>
+    <a href="/lab/orbit">orbit</a>
+  </div>
+
+<style>
+  .d-body { margin: 0; background: var(--bg); }
+  .stage {
+    position: fixed; inset: 0; overflow: hidden;
+    isolation: isolate; background: var(--bg);
+    --w: 34vw;     /* lens width  */
+    --h: 128vh;    /* lens height (taller than viewport -> straight-ish sides) */
+  }
+  .lens, .door {
+    position: absolute; top: 50%; left: var(--cx);
+    width: var(--w); height: var(--h);
+    transform: translate(-50%, -50%);
+    border-radius: 50%;
+  }
+  .lens { background: var(--c); mix-blend-mode: multiply; }
+  .door { display: flex; align-items: center; justify-content: center; text-decoration: none; }
+  .door span {
+    color: var(--bg); font-weight: 700; letter-spacing: -0.02em;
+    font-size: clamp(20px, 3vw, 46px);
+    writing-mode: vertical-rl; text-orientation: mixed;
+    text-shadow: 0 1px 16px rgba(20,20,20,.4);
+    transition: transform .3s ease;
+  }
+  .door:hover span { transform: scale(1.08); }
+  .variants {
+    position: fixed; left: 50%; bottom: 16px; transform: translateX(-50%);
+    display: flex; gap: 10px; z-index: 30; font-size: 13px; letter-spacing: .02em;
+  }
+  .variants a {
+    color: var(--ink); text-decoration: none; opacity: .55;
+    padding: 4px 10px; border: 1px solid rgba(20,20,20,.18); border-radius: 999px;
+    background: rgba(250,249,245,.7);
+  }
+  .variants a[aria-current] { opacity: 1; border-color: var(--ink); }
+  @media (max-width: 700px) {
+    /* stack as horizontal lenses on narrow screens */
+    .stage { --w: 130vw; --h: 30vh; }
+    .lens, .door {
+      left: 50%; top: var(--cx);
+      width: var(--w); height: var(--h);
+    }
+    .door span { writing-mode: horizontal-tb; font-size: clamp(22px, 7vw, 40px); }
+  }
+</style>
+</body>
+</html>
