@@ -2,7 +2,7 @@
 import Base from '../layouts/Base.astro';
 ---
 <Base title="Contact" accent="var(--c-consulting)" crumb="Contact">
-  <div class="prose" style="margin-top: 40px;">
+  <div id="contact-intro" class="prose" style="margin-top: 40px;">
     <p>I never turn down a coffee! Whether you have an idea for a collaboration, insights to share on the Hybrid Arts blog, or just want to explore the possibilities of hybrid arts, I'd love to talk. Your unique perspective could spark something incredible. Reach out and let's see where the conversation leads.</p>
   </div>
 
@@ -15,7 +15,7 @@ import Base from '../layouts/Base.astro';
     <button type="submit">Send</button>
   </form>
 
-  <div id="contact-thanks" class="prose" hidden style="margin-top: 8px;">
+  <div id="contact-thanks" class="prose" hidden style="margin-top: 40px;">
     <p>Thank you, your message is on its way. I'll be in touch soon.</p>
   </div>
 
@@ -23,6 +23,7 @@ import Base from '../layouts/Base.astro';
     (function () {
       var form = document.getElementById('contact-form');
       var thanks = document.getElementById('contact-thanks');
+      var intro = document.getElementById('contact-intro');
       if (!form) return;
       form.addEventListener('submit', function (e) {
         e.preventDefault();
@@ -35,6 +36,7 @@ import Base from '../layouts/Base.astro';
           body: body
         }).then(function (res) {
           if (!res.ok) throw new Error('Bad status ' + res.status);
+          if (intro) intro.style.display = 'none';
           form.style.display = 'none';
           thanks.hidden = false;
         }).catch(function () {

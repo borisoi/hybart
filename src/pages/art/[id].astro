@@ -43,13 +43,18 @@ const isGanzfeld = p.id === 'ganzfeld-dot-art';
   .art-project :global(.prose img) { border-radius: 22px; margin: 28px 0; }
   .art-project :global(.prose iframe) { width: 100%; max-width: 68ch; aspect-ratio: 16 / 9; height: auto; border-radius: 22px; margin: 28px 0; display: block; }
   .art-project :global(.prose iframe[src*="bandcamp"]) { aspect-ratio: auto; height: 470px; max-width: 420px; }
-  .art-project :global(.art-cols) { display: grid; grid-template-columns: 65fr 35fr; gap: 44px; align-items: start; }
+  .art-project :global(.art-cols) { display: grid; grid-template-columns: 65fr 35fr; gap: 44px; align-items: start; margin-top: 28px; }
   .art-project :global(.art-cols.solo .col-media) { position: sticky; top: 24px; }
   .art-project :global(.art-cols .col-media .gal),
   .art-project :global(.art-cols .col-media p),
   .art-project :global(.art-cols .col-media iframe),
   .art-project :global(.art-cols .col-media img) { max-width: none; width: 100%; }
-  .art-project :global(.art-cols .col-media > :first-child) { margin-top: 28px; }
+  /* gallery images size to their content so portraits stay centered */
+  .art-project :global(.art-cols .col-media .gal-frame img) { width: auto; max-width: 100%; }
+  /* line up the tops of the media and text columns */
+  .art-project :global(.art-cols .col-media > :first-child),
+  .art-project :global(.art-cols .col-text > :first-child) { margin-top: 0; }
+  .art-project :global(.art-cols .col-media > :first-child img) { margin-top: 0; }
   .art-project :global(.art-cols .col-text) { max-width: 62ch; }
   #ganzfeld-overlay { position: fixed; inset: 0; z-index: 9999; background: #000; }
   #ganzfeld-overlay[hidden] { display: none; }
@@ -100,11 +105,6 @@ const isGanzfeld = p.id === 'ganzfeld-dot-art';
           idx = (i + imgs.length) % imgs.length;
           imgs.forEach((im, k) => im.classList.toggle('on', k === idx));
           count.textContent = `${idx + 1} / ${imgs.length}`;
-          const im = imgs[idx];
-          const fit = () => {
-            if (im.naturalWidth) frame.style.aspectRatio = `${im.naturalWidth} / ${im.naturalHeight}`;
-          };
-          if (im.complete) fit(); else im.addEventListener('load', fit, { once: true });
         };
         gal.querySelector('.gal-prev').addEventListener('click', () => show(idx - 1));
         gal.querySelector('.gal-next').addEventListener('click', () => show(idx + 1));
