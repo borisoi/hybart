@@ -2,19 +2,41 @@
 import Base from '../../layouts/Base.astro';
 import { getCollection, render } from 'astro:content';
 
+// Decide a page's layout from its content:
+//  - 'blog'   long text mixed with media -> blog-style essay (marginalia / centered)
+//  - 'cols'   several media works        -> 2-column rows, each title beside its media
+//  - 'center' a single image/gallery/video (or short text) -> one centered column
+function pageMode(body) {
+  let units = 0, run = 0, textlen = 0;
+  const flush = () => { if (run > 0) units++; run = 0; };
+  for (const raw of (body || '').split('\n')) {
+    const s = raw.trim();
+    if (!s) continue;
+    if (/^#{1,6}\s/.test(s)) { flush(); continue; }
+    if (/^!\[.*\]\(.*\)\s*$/.test(s)) { run++; continue; }
+    if (s.includes('<iframe')) { flush(); units++; continue; }
+    flush();
+    textlen += s.replace(/\[([^\]]*)\]\([^)]*\)/g, '$1').replace(/[#*_>]/g, '').length;
+  }
+  flush();
+  if (textlen >= 900) return 'blog';
+  if (units >= 2) return 'cols';
+  return 'center';
+}
+
 export async function getStaticPaths() {
   const projects = (await getCollection('art')).sort((a, b) => a.data.order - b.data.order);
   const n = projects.length;
   const label = (x) => x.data.shortTitle ?? x.data.title;
   return projects.map((p, i) => {
-    const prevP = projects[(i - 1 + n) % n];
-    const nextP = projects[(i + 1) % n];
+    const prevP = i > 0 ? projects[i - 1] : null;
+    const nextP = i < n - 1 ? projects[i + 1] : null;
     return {
       params: { id: p.id },
       props: {
         p,
-        prev: { id: prevP.id, title: label(prevP) },
-        next: { id: nextP.id, title: label(nextP) },
+        prev: prevP ? { id: prevP.id, title: label(prevP) } : null,
+        next: nextP ? { id: nextP.id, title: label(nextP) } : null,
       },
     };
   });
@@ -23,11 +45,11 @@ export async function getStaticPaths() {
 const { p, prev, next } = Astro.props;
 const { Content } = await render(p);
 const year = p.data.tags.find((t) => /^(19|20)\d\d/.test(t));
-const singleColumn = p.id === 'interview-with-robert-irwin';
+const mode = pageMode(p.body);
 const isGanzfeld = p.id === 'ganzfeld-dot-art';
 ---
 <Base title={p.data.title} accent="var(--c-art)" crumb="Art" crumbHref="/art" wide>
-  <article class="art-project" data-single={singleColumn ? '1' : undefined}>
+  <article class="art-project" data-mode={mode}>
     <p class="meta">
       {year && <span>{year}</span>}
       {p.data.tags.filter((t) => t !== year).map((t) => <span>{t}</span>)}
@@ -38,15 +60,19 @@ const isGanzfeld = p.id === 'ganzfeld-dot-art';
     </div>
   </article>
   <nav class="proj-nav">
-    <a class="prev" href={`/art/${prev.id}`}>
-      <span class="lbl">← Previous project</span>
-      <span class="t">{prev.title}</span>
-    </a>
+    {prev ? (
+      <a class="prev" href={`/art/${prev.id}`}>
+        <span class="lbl">← Previous project</span>
+        <span class="t">{prev.title}</span>
+      </a>
+    ) : <span class="prev"></span>}
     <a class="all" href="/art">All projects</a>
-    <a class="next" href={`/art/${next.id}`}>
-      <span class="lbl">Next project →</span>
-      <span class="t">{next.title}</span>
-    </a>
+    {next ? (
+      <a class="next" href={`/art/${next.id}`}>
+        <span class="lbl">Next project →</span>
+        <span class="t">{next.title}</span>
+      </a>
+    ) : <span class="next"></span>}
   </nav>
   {isGanzfeld && (
     <div id="ganzfeld-overlay" hidden>
@@ -56,32 +82,57 @@ const isGanzfeld = p.id === 'ganzfeld-dot-art';
 </Base>
 
 <style>
-  .art-project.narrow { max-width: 72ch; margin-inline: auto; }
-  .art-project.narrow :global(.prose > p:first-child img),
-  .art-project.narrow :global(.prose > p:first-child) { max-width: none; }
-  .art-project.narrow :global(.prose img) { width: 100%; margin: 28px auto; }
   .art-project .meta { margin: 48px 0 0; display: flex; gap: 14px; flex-wrap: wrap; }
   .art-project .meta span { font-size: 14px; color: var(--muted); }
   .art-project h1 { margin-top: 8px; }
   .art-project :global(.prose img) { border-radius: 22px; margin: 28px 0; }
   .art-project :global(.prose iframe) { width: 100%; max-width: 68ch; aspect-ratio: 16 / 9; height: auto; border-radius: 22px; margin: 28px 0; display: block; }
   .art-project :global(.prose iframe[src*="bandcamp"]) { aspect-ratio: auto; height: 470px; max-width: 420px; }
-  .art-project :global(.art-cols) { display: grid; grid-template-columns: 65fr 35fr; gap: 44px; align-items: start; margin-top: 28px; }
-  /* per-section rows: each title lines up with its media */
+
+  /* CENTER: a single image / gallery / video in one centered column */
+  .art-project.narrow { max-width: 72ch; margin-inline: auto; }
+  .art-project.narrow :global(.prose img) { width: 100%; margin: 28px auto; }
+  .art-project.narrow :global(.gal-frame img) { width: auto; max-width: 100%; }
+  .art-project.narrow :global(.prose iframe) { margin-inline: auto; }
+
+  /* COLS: per-section rows, each title lined up with its media */
   .art-project :global(.art-sec) { display: grid; grid-template-columns: 65fr 35fr; gap: 44px; align-items: start; margin-top: 52px; }
   .art-project :global(.art-sec.no-media) { display: block; }
-  .art-project :global(.art-cols.solo .col-media) { position: sticky; top: 24px; }
   .art-project :global(.col-media .gal),
   .art-project :global(.col-media p),
   .art-project :global(.col-media iframe),
   .art-project :global(.col-media img) { max-width: none; width: 100%; }
-  /* gallery images size to their content so portraits stay centered */
   .art-project :global(.col-media .gal-frame img) { width: auto; max-width: 100%; }
-  /* line up the tops of the media and text columns */
   .art-project :global(.col-media > :first-child),
   .art-project :global(.col-text > :first-child) { margin-top: 0; }
   .art-project :global(.col-media > :first-child img) { margin-top: 0; }
   .art-project :global(.col-text) { max-width: 62ch; }
+
+  /* BLOG: long text + media reads like a blog post (text left, media in the margin) */
+  .art-project.essay.narrow { max-width: 72ch; margin-inline: auto; }
+  .art-project.essay :global(.prose img) { border-radius: 22px; margin: 0 auto 20px; width: 100%; }
+  .art-project.essay :global(.prose iframe) { border-radius: 22px; width: 100%; }
+  .art-project.essay :global(.prose.cols) { position: relative; }
+  .art-project.essay :global(.prose.cols > :not(.rmedia)) { max-width: min(64ch, 55%); }
+  .art-project.essay :global(.prose.cols > .rmedia) {
+    position: absolute;
+    left: calc(min(64ch, 55%) + 52px);
+    width: calc(100% - min(64ch, 55%) - 52px);
+    margin: 0;
+  }
+  .art-project.essay :global(.rmedia) { margin: 18px 0; }
+  .art-project.essay :global(.prose:not(.cols) .rmedia) { max-width: 68ch; }
+  .art-project.essay :global(.rmedia p) { max-width: none; margin: 0 0 14px; }
+  .art-project.essay :global(.rmedia iframe) { max-width: none; }
+  .art-project.essay :global(.rmedia p.cap) { margin: -8px 4px 24px; color: var(--muted); font-size: 14px; }
+  .art-project.essay :global(.prose .gal) { max-width: none; margin: 0 0 20px; }
+  .art-project.essay :global(.rmedia p:not(.cap) img) { max-height: 68vh; width: auto; max-width: 100%; }
+  .art-project.essay :global(p.pull) {
+    font-size: clamp(20px, 2.3vw, 25px); line-height: 1.3; letter-spacing: -0.01em;
+    margin: 68px 0; max-width: 36ch; color: var(--c-art);
+  }
+  .art-project.essay :global(.prose.cols > p.pull) { max-width: min(36ch, 55%); }
+
   .proj-nav {
     display: flex; justify-content: space-between; align-items: baseline; gap: 24px;
     margin-top: 72px; padding-top: 24px; border-top: 1px solid var(--rule);
@@ -109,8 +160,6 @@ const isGanzfeld = p.id === 'ganzfeld-dot-art';
   }
   #ganzfeld-close:hover { color: rgba(255, 255, 255, 0.9); }
   @media (max-width: 860px) {
-    .art-project :global(.art-cols) { display: block; }
-    .art-project :global(.art-cols .col-media) { position: static; }
     /* stack each section: title + caption first, then its media */
     .art-project :global(.art-sec) { display: flex; flex-direction: column; gap: 6px; }
     .art-project :global(.art-sec .col-text) { order: 0; }
@@ -119,8 +168,11 @@ const isGanzfeld = p.id === 'ganzfeld-dot-art';
 </style>
 
 <script>
-  const prose = document.querySelector('.art-project .prose');
+  const article = document.querySelector('.art-project');
+  const prose = article && article.querySelector('.prose');
   if (prose) {
+    const mode = article.dataset.mode || 'center';
+
     // give each video its true aspect ratio (instead of a forced 16:9), and
     // centre + cap portrait videos so the player keeps all its controls.
     prose.querySelectorAll('iframe').forEach((f) => {
@@ -137,6 +189,7 @@ const isGanzfeld = p.id === 'ganzfeld-dot-art';
       }
     });
 
+    const isHeading = (el) => /^H[1-6]$/.test(el.tagName);
     const isImgP = (el) => {
       if (el.tagName !== 'P') return false;
       let imgs = 0;
@@ -147,6 +200,22 @@ const isGanzfeld = p.id === 'ganzfeld-dot-art';
       }
       return imgs > 0;
     };
+    const isMediaEl = (el) => {
+      if (el.classList && el.classList.contains('gal')) return true;
+      if (el.tagName === 'IFRAME') return true;
+      if (el.tagName !== 'P') return false;
+      let media = 0;
+      for (const n of el.childNodes) {
+        if (n.nodeType === 3) { if (n.textContent.trim()) return false; continue; }
+        if (n.nodeType !== 1) continue;
+        if (n.tagName === 'IMG' || n.tagName === 'IFRAME') media++;
+        else if (n.tagName === 'A' && n.children.length === 1 && n.children[0].tagName === 'IMG') media++;
+        else if (n.tagName !== 'BR') return false;
+      }
+      return media > 0;
+    };
+
+    // merge consecutive images into an arrow gallery (one media unit)
     let run = [];
     const flush = () => {
       const imgs = run.flatMap((p) => Array.from(p.querySelectorAll('img')));
@@ -180,113 +249,147 @@ const isGanzfeld = p.id === 'ganzfeld-dot-art';
     }
     flush();
 
-    // split into media (left) and text (right) columns
-    const isMediaEl = (el) => {
-      if (el.classList && el.classList.contains('gal')) return true;
-      if (el.tagName === 'IFRAME') return true;
-      if (el.tagName !== 'P') return false;
-      let media = 0;
-      for (const n of el.childNodes) {
-        if (n.nodeType === 3) { if (n.textContent.trim()) return false; continue; }
-        if (n.nodeType !== 1) continue;
-        if (n.tagName === 'IMG' || n.tagName === 'IFRAME') media++;
-        else if (n.tagName === 'A' && n.children.length === 1 && n.children[0].tagName === 'IMG') media++;
-        else if (n.tagName !== 'BR') return false;
-      }
-      return media > 0;
-    };
-    const kids = Array.from(prose.children);
-    const mediaEls = kids.filter(isMediaEl);
-    const single = document.querySelector('.art-project')?.dataset.single === '1';
-    const isHeading = (el) => /^H[1-6]$/.test(el.tagName);
-    const headings = kids.filter(isHeading);
+    if (mode === 'blog') blogLayout();
+    else if (mode === 'cols') colsLayout();
+    else article.classList.add('narrow');
 
-    // exactly one image and nothing else: centered essay, image on top (like blog essays)
-    const soloImg =
-      mediaEls.length === 1 &&
-      !mediaEls[0].classList.contains('gal') &&
-      mediaEls[0].tagName !== 'IFRAME' &&
-      !mediaEls[0].querySelector('iframe');
+    setupLightbox();
 
-    if (!single && headings.length >= 2) {
-      // multi-section page: lay each section out as its own two-column row so the
-      // section title lines up with that section's media. Content before the first
-      // heading stays in place as a full-width preamble.
-      const sections = [];
+    // --- COLS: one row per media unit; title + caption beside the media, tops aligned ---
+    function colsLayout() {
+      const kids = Array.from(prose.children);
+      const rows = [];
       let cur = null;
+      const preamble = [];
       for (const el of kids) {
-        if (isHeading(el)) { cur = { heading: el, items: [] }; sections.push(cur); }
-        else if (cur) cur.items.push(el);
+        if (isHeading(el)) { cur = { title: el, items: [], media: [] }; rows.push(cur); continue; }
+        if (isMediaEl(el)) {
+          if (!cur || cur.media.length) { cur = { title: null, items: [], media: [] }; rows.push(cur); }
+          cur.media.push(el); continue;
+        }
+        if (cur) cur.items.push(el); else preamble.push(el);
       }
-      for (const sec of sections) {
-        const hasMedia = sec.items.some(isMediaEl);
+      for (const r of rows) {
         const row = document.createElement('div');
-        row.className = hasMedia ? 'art-sec' : 'art-sec no-media';
-        if (hasMedia) {
+        if (r.media.length) {
+          row.className = 'art-sec';
           const media = document.createElement('div'); media.className = 'col-media';
           const text = document.createElement('div'); text.className = 'col-text';
-          text.appendChild(sec.heading);
-          for (const el of sec.items) (isMediaEl(el) ? media : text).appendChild(el);
+          if (r.title) text.appendChild(r.title);
+          for (const el of r.items) text.appendChild(el);
+          for (const el of r.media) media.appendChild(el);
           row.append(media, text);
         } else {
-          row.appendChild(sec.heading);
-          for (const el of sec.items) row.appendChild(el);
+          row.className = 'art-sec no-media';
+          if (r.title) row.appendChild(r.title);
+          for (const el of r.items) row.appendChild(el);
         }
         prose.appendChild(row);
       }
-    } else if (soloImg || mediaEls.length === 0 || single) {
-      document.querySelector('.art-project')?.classList.add('narrow');
-      if (soloImg) prose.prepend(mediaEls[0]);
-    } else if (mediaEls.length > 0) {
-      const cols = document.createElement('div');
-      cols.className = 'art-cols';
-      const media = document.createElement('div'); media.className = 'col-media';
-      const text = document.createElement('div'); text.className = 'col-text';
-      for (const el of kids) (isMediaEl(el) ? media : text).appendChild(el);
-      cols.append(media, text);
-      prose.appendChild(cols);
-      const updatePin = () =>
-        cols.classList.toggle('solo', media.offsetHeight < window.innerHeight - 90);
-      new ResizeObserver(updatePin).observe(media);
-      window.addEventListener('resize', updatePin);
-      updatePin();
     }
 
-    // lightbox for images (not linked images, not videos)
-    const zoomables = Array.from(prose.querySelectorAll('img')).filter((im) => !im.closest('a'));
-    const box = document.createElement('div');
-    box.className = 'lightbox';
-    box.hidden = true;
-    box.innerHTML =
-      '<button class="lb-prev" aria-label="Previous image">&lsaquo;</button>' +
-      '<img alt="" />' +
-      '<button class="lb-next" aria-label="Next image">&rsaquo;</button>';
-    document.body.appendChild(box);
-    const boxImg = box.querySelector('img');
-    let lbIdx = 0;
-    const lbShow = (i) => {
-      lbIdx = (i + zoomables.length) % zoomables.length;
-      boxImg.src = zoomables[lbIdx].src;
-    };
-    const close = () => { box.hidden = true; document.body.style.overflow = ''; };
-    box.addEventListener('click', close);
-    box.querySelector('.lb-prev').addEventListener('click', (e) => { e.stopPropagation(); lbShow(lbIdx - 1); });
-    box.querySelector('.lb-next').addEventListener('click', (e) => { e.stopPropagation(); lbShow(lbIdx + 1); });
-    document.addEventListener('keydown', (e) => {
-      if (box.hidden) return;
-      if (e.key === 'Escape') close();
-      if (e.key === 'ArrowLeft') lbShow(lbIdx - 1);
-      if (e.key === 'ArrowRight') lbShow(lbIdx + 1);
-    });
-    if (zoomables.length < 2) box.classList.add('lb-single');
-    zoomables.forEach((im, i) => {
-      im.classList.add('zoomable');
-      im.addEventListener('click', () => {
-        lbShow(i);
-        box.hidden = false;
-        document.body.style.overflow = 'hidden';
+    // --- BLOG: marginalia layout (text flows left, media floats in the right margin) ---
+    function blogLayout() {
+      article.classList.add('essay');
+      const onlyChild = (el, tag) =>
+        el.tagName === 'P' &&
+        el.children.length === 1 &&
+        el.children[0].tagName === tag &&
+        Array.from(el.childNodes).every((n) => n.nodeType !== 3 || !n.textContent.trim());
+      const isCaption = (el) => onlyChild(el, 'SMALL');
+      for (const el of Array.from(prose.children)) {
+        if (onlyChild(el, 'EM')) el.classList.add('pull');
+      }
+      const groups = [];
+      let curMedia = null;
+      let chunkStart = null;
+      for (const el of Array.from(prose.children)) {
+        if (isMediaEl(el)) {
+          if (!curMedia) { curMedia = { els: [], anchor: chunkStart }; groups.push(curMedia); }
+          curMedia.els.push(el);
+        } else if (isCaption(el) && curMedia) {
+          el.classList.add('cap');
+          curMedia.els.push(el);
+        } else {
+          if (curMedia) { curMedia = null; chunkStart = null; }
+          if (!chunkStart) chunkStart = el;
+        }
+      }
+      for (const g of groups) {
+        const wrap = document.createElement('div');
+        wrap.className = 'rmedia';
+        g.els[0].before(wrap);
+        g.els.forEach((el) => wrap.appendChild(el));
+        g.el = wrap;
+      }
+      article.classList.toggle('narrow', groups.length < 3);
+      const place = () => {
+        if (!groups.length) return;
+        if (groups.length < 3 || window.matchMedia('(max-width: 860px)').matches) {
+          prose.classList.remove('cols');
+          groups.forEach((g) => { g.el.style.top = ''; });
+          prose.style.minHeight = '';
+          return;
+        }
+        prose.classList.add('cols');
+        let prevBottom = 0;
+        for (const g of groups) {
+          const top = Math.max(g.anchor ? g.anchor.offsetTop : 0, prevBottom);
+          g.el.style.top = top + 'px';
+          prevBottom = top + g.el.offsetHeight + 36;
+        }
+        prose.style.minHeight = prevBottom - 36 + 'px';
+      };
+      let raf = 0;
+      const schedule = () => { cancelAnimationFrame(raf); raf = requestAnimationFrame(place); };
+      const ro = new ResizeObserver(schedule);
+      ro.observe(prose);
+      groups.forEach((g) => ro.observe(g.el));
+      window.addEventListener('resize', schedule);
+      prose.querySelectorAll('img').forEach((im) => {
+        if (!im.complete) im.addEventListener('load', schedule, { once: true });
       });
-    });
+      schedule();
+    }
+
+    // --- lightbox for images (not linked images, not videos) ---
+    function setupLightbox() {
+      const zoomables = Array.from(prose.querySelectorAll('img')).filter((im) => !im.closest('a'));
+      if (!zoomables.length) return;
+      const box = document.createElement('div');
+      box.className = 'lightbox';
+      box.hidden = true;
+      box.innerHTML =
+        '<button class="lb-prev" aria-label="Previous image">&lsaquo;</button>' +
+        '<img alt="" />' +
+        '<button class="lb-next" aria-label="Next image">&rsaquo;</button>';
+      document.body.appendChild(box);
+      const boxImg = box.querySelector('img');
+      let lbIdx = 0;
+      const lbShow = (i) => {
+        lbIdx = (i + zoomables.length) % zoomables.length;
+        boxImg.src = zoomables[lbIdx].src;
+      };
+      const close = () => { box.hidden = true; document.body.style.overflow = ''; };
+      box.addEventListener('click', close);
+      box.querySelector('.lb-prev').addEventListener('click', (e) => { e.stopPropagation(); lbShow(lbIdx - 1); });
+      box.querySelector('.lb-next').addEventListener('click', (e) => { e.stopPropagation(); lbShow(lbIdx + 1); });
+      document.addEventListener('keydown', (e) => {
+        if (box.hidden) return;
+        if (e.key === 'Escape') close();
+        if (e.key === 'ArrowLeft') lbShow(lbIdx - 1);
+        if (e.key === 'ArrowRight') lbShow(lbIdx + 1);
+      });
+      if (zoomables.length < 2) box.classList.add('lb-single');
+      zoomables.forEach((im, i) => {
+        im.classList.add('zoomable');
+        im.addEventListener('click', () => {
+          lbShow(i);
+          box.hidden = false;
+          document.body.style.overflow = 'hidden';
+        });
+      });
+    }
   }
 </script>
 
