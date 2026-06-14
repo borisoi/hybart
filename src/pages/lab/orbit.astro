@@ -1,14 +1,15 @@
 ---
 import '../../styles/global.css';
 import CmyMenu from '../../components/CmyMenu.astro';
-// Variant C — Orbit: four large section circles drift slowly ("breathe") around
-// a shared centre, overlapping in multiply. Hovering a circle scales it up and
-// lifts it forward. A blended wordmark sits where all four meet.
+// Variant C — Orbit: four image-filled circles drift slowly ("breathe") around a
+// shared centre, overlapping. Each circle holds its section photo (as the current
+// tiles do); the hover highlight is a CMY wash — Cyan / Magenta / Yellow — with a
+// White wash for Blog. CMY colours match the menu rosette logo.
 const doors = [
-  { href: '/art',        label: 'Art',        c: 'var(--c-art)',        x: '-1', y: '-1', d: '0s'   },
-  { href: '/music',      label: 'Music',      c: 'var(--c-music)',      x: '1',  y: '-1', d: '-3s'  },
-  { href: '/consulting', label: 'Consulting', c: 'var(--c-consulting)', x: '-1', y: '1',  d: '-6s'  },
-  { href: '/blog',       label: 'Blog',       c: 'var(--c-blog)',       x: '1',  y: '1',  d: '-9s'  },
+  { href: '/art',        label: 'Art',        img: '/images/responsa-09102.jpg', hl: '#EC008C', blend: 'multiply', op: '.55', x: '-1', y: '-1', d: '0s'  },
+  { href: '/music',      label: 'Music',      img: '/images/field-no-text.jpg',  hl: '#00AEEF', blend: 'multiply', op: '.55', x: '1',  y: '-1', d: '-3s' },
+  { href: '/consulting', label: 'Consulting', img: '/images/srg0974.jpg',        hl: '#FFD400', blend: 'multiply', op: '.5',  x: '-1', y: '1',  d: '-6s' },
+  { href: '/blog',       label: 'Blog',       img: '/images/wafaa-home-tile.jpg', hl: '#ffffff', blend: 'normal',  op: '.5',  x: '1',  y: '1',  d: '-9s' },
 ];
 ---
 <!doctype html>
@@ -24,13 +25,12 @@ const doors = [
   <CmyMenu />
 
   <main class="stage">
-    {doors.map((d, i) => (
+    {doors.map((d) => (
       <a class="door" href={d.href}
-         style={`--c:${d.c}; --x:${d.x}; --y:${d.y}; --d:${d.d}; --i:${i}`}>
+         style={`--img:url('${d.img}'); --hl:${d.hl}; --blend:${d.blend}; --op:${d.op}; --x:${d.x}; --y:${d.y}; --d:${d.d}`}>
         <span>{d.label}</span>
       </a>
     ))}
-    <div class="wordmark">Hybrid&nbsp;Arts</div>
   </main>
 
   <div class="variants">
@@ -42,37 +42,40 @@ const doors = [
 <style>
   .d-body { margin: 0; background: var(--bg); }
   .stage {
-    position: fixed; inset: 0; overflow: hidden;
-    isolation: isolate; background: var(--bg);
-    --R: 30vmin; --o: 16vmin;
+    position: fixed; inset: 0; overflow: hidden; background: var(--bg);
+    --R: 29vmin; --o: 15vmin;
   }
   .door {
     position: absolute; left: 50%; top: 50%;
     width: calc(var(--R) * 2); height: calc(var(--R) * 2);
     margin: calc(var(--R) * -1) 0 0 calc(var(--R) * -1);
-    border-radius: 50%; background: var(--c);
-    mix-blend-mode: multiply; text-decoration: none;
+    border-radius: 50%; overflow: hidden; text-decoration: none;
+    background: var(--img) center / cover no-repeat;
+    box-shadow: 0 0 0 7px var(--bg);     /* paper ring separates overlaps */
     display: flex; align-items: center; justify-content: center;
     transform: translate(calc(var(--x) * var(--o)), calc(var(--y) * var(--o)));
     animation: breathe 16s ease-in-out infinite; animation-delay: var(--d);
-    will-change: transform;
+    will-change: transform; z-index: 1;
   }
+  .door::after {
+    content: ''; position: absolute; inset: 0;
+    background: var(--hl); mix-blend-mode: var(--blend);
+    opacity: 0; transition: opacity .3s ease;
+  }
+  .door:hover::after { opacity: var(--op); }
   .door span {
+    position: relative; z-index: 2;
     color: var(--bg); font-weight: 700; letter-spacing: -0.03em;
     font-size: clamp(22px, 4.4vmin, 54px);
     transform: translate(calc(var(--x) * 9vmin), calc(var(--y) * 9vmin));
-    text-shadow: 0 1px 16px rgba(20,20,20,.4);
+    text-shadow: 0 1px 18px rgba(20,20,20,.55);
   }
-  .door:hover { mix-blend-mode: normal; z-index: 9; animation-play-state: paused; }
+  .door:hover {
+    z-index: 9; animation-play-state: paused;
+  }
   @keyframes breathe {
     0%,100% { transform: translate(calc(var(--x) * var(--o)),        calc(var(--y) * var(--o))); }
-    50%     { transform: translate(calc(var(--x) * var(--o) * 1.5),  calc(var(--y) * var(--o) * 1.5)); }
-  }
-  .wordmark {
-    position: absolute; left: 50%; top: 50%; transform: translate(-50%, -50%);
-    color: var(--bg); opacity: .85; pointer-events: none; z-index: 5;
-    font-weight: 700; letter-spacing: .02em; text-transform: uppercase;
-    font-size: clamp(13px, 1.8vmin, 20px); text-align: center;
+    50%     { transform: translate(calc(var(--x) * var(--o) * 1.45), calc(var(--y) * var(--o) * 1.45)); }
   }
   .variants {
     position: fixed; left: 50%; bottom: 16px; transform: translateX(-50%);
@@ -81,10 +84,11 @@ const doors = [
   .variants a {
     color: var(--ink); text-decoration: none; opacity: .55;
     padding: 4px 10px; border: 1px solid rgba(20,20,20,.18); border-radius: 999px;
+    background: rgba(250,249,245,.7);
   }
   .variants a[aria-current] { opacity: 1; border-color: var(--ink); }
   @media (prefers-reduced-motion: reduce) { .door { animation: none; } }
-  @media (max-width: 700px) { .stage { --R: 26vmax; --o: 13vmax; } }
+  @media (max-width: 700px) { .stage { --R: 25vmax; --o: 12vmax; } }
 </style>
 </body>
 </html>
