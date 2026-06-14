@@ -35,7 +35,7 @@ import Base from '../layouts/Base.astro';
           body: body
         }).then(function (res) {
           if (!res.ok) throw new Error('Bad status ' + res.status);
-          form.hidden = true;
+          form.style.display = 'none';
           thanks.hidden = false;
         }).catch(function () {
           if (btn) { btn.disabled = false; btn.textContent = 'Send'; }
