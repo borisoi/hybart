@@ -6,11 +6,42 @@ import Base from '../layouts/Base.astro';
     <p>I never turn down a coffee! Whether you have an idea for a collaboration, insights to share on the Hybrid Arts blog, or just want to explore the possibilities of hybrid arts, I'd love to talk. Your unique perspective could spark something incredible. Reach out and let's see where the conversation leads.</p>
   </div>
 
-  <form class="contact" name="contact" method="POST" data-netlify="true" netlify-honeypot="bot-field">
+  <form id="contact-form" class="contact" name="contact" method="POST" data-netlify="true" netlify-honeypot="bot-field">
+    <input type="hidden" name="form-name" value="contact" />
     <p hidden><label>Don't fill this out: <input name="bot-field" /></label></p>
     <label>Name <input type="text" name="name" required /></label>
     <label>Email <input type="email" name="email" required /></label>
     <label>Message <textarea name="message" rows="6" required></textarea></label>
     <button type="submit">Send</button>
   </form>
+
+  <div id="contact-thanks" class="prose" hidden style="margin-top: 8px;">
+    <p>Thank you, your message is on its way. I'll be in touch soon.</p>
+  </div>
+
+  <script is:inline>
+    (function () {
+      var form = document.getElementById('contact-form');
+      var thanks = document.getElementById('contact-thanks');
+      if (!form) return;
+      form.addEventListener('submit', function (e) {
+        e.preventDefault();
+        var btn = form.querySelector('button[type="submit"]');
+        if (btn) { btn.disabled = true; btn.textContent = 'Sending…'; }
+        var body = new URLSearchParams(new FormData(form)).toString();
+        fetch('/', {
+          method: 'POST',
+          headers: { 'Content-Type': 'application/x-www-form-urlencoded' },
+          body: body
+        }).then(function (res) {
+          if (!res.ok) throw new Error('Bad status ' + res.status);
+          form.hidden = true;
+          thanks.hidden = false;
+        }).catch(function () {
+          if (btn) { btn.disabled = false; btn.textContent = 'Send'; }
+          alert('Sorry, something went wrong sending your message. Please email boris@oicherman.net directly.');
+        });
+      });
+    })();
+  </script>
 </Base>
