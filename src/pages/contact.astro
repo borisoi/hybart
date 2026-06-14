@@ -4,6 +4,7 @@ import Base from '../layouts/Base.astro';
 <Base title="Contact" accent="var(--c-consulting)" crumb="Contact">
   <div id="contact-intro" class="prose" style="margin-top: 40px;">
     <p>I never turn down a coffee! Whether you have an idea for a collaboration, insights to share on the Hybrid Arts blog, or just want to explore the possibilities of hybrid arts, I'd love to talk. Your unique perspective could spark something incredible. Reach out and let's see where the conversation leads.</p>
+    <p>Use the form below, or email me directly at <a id="email-link" rel="nofollow">[enable JavaScript to see the address]</a>.</p>
   </div>
 
   <form id="contact-form" class="contact" name="contact" method="POST" data-netlify="true" netlify-honeypot="bot-field">
@@ -21,6 +22,10 @@ import Base from '../layouts/Base.astro';
 
   <script is:inline>
     (function () {
+      // assemble the address at runtime so it isn't in the page source for scrapers
+      var email = 'b' + '@' + 'hyb' + '.' + 'art';
+      var link = document.getElementById('email-link');
+      if (link) { link.href = 'mailto:' + email; link.textContent = email; }
       var form = document.getElementById('contact-form');
       var thanks = document.getElementById('contact-thanks');
       var intro = document.getElementById('contact-intro');
@@ -41,7 +46,7 @@ import Base from '../layouts/Base.astro';
           thanks.hidden = false;
         }).catch(function () {
           if (btn) { btn.disabled = false; btn.textContent = 'Send'; }
-          alert('Sorry, something went wrong sending your message. Please email boris@oicherman.art directly.');
+          alert('Sorry, something went wrong sending your message. Please email ' + email + ' directly.');
         });
       });
     })();
