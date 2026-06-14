@@ -64,5 +64,27 @@ const ogImage = new URL('/images/og-default.jpg', Astro.site ?? 'https://www.hyb
       </form>
     </div>
   </footer>
+
+  <script is:inline>
+    // Open external links and document downloads in a new tab.
+    (function () {
+      var here = location.hostname;
+      var docExt = /\.(pdf|zip|docx?|pptx?|xlsx?|csv|epub|key)(\?|#|$)/i;
+      document.querySelectorAll('a[href]').forEach(function (a) {
+        if (a.target) return;
+        var href = a.getAttribute('href') || '';
+        if (!href || href[0] === '#' || /^(mailto:|tel:)/i.test(href)) return;
+        var u;
+        try { u = new URL(href, location.href); } catch (e) { return; }
+        if (u.protocol !== 'http:' && u.protocol !== 'https:') return;
+        var external = u.hostname !== here;
+        var isDoc = docExt.test(u.pathname) || u.pathname.indexOf('/files/') === 0;
+        if (external || isDoc) {
+          a.target = '_blank';
+          a.rel = 'noopener noreferrer';
+        }
+      });
+    })();
+  </script>
 </body>
 </html>
