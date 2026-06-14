@@ -3,11 +3,24 @@ import Base from '../../layouts/Base.astro';
 import { getCollection, render } from 'astro:content';
 
 export async function getStaticPaths() {
-  const projects = await getCollection('art');
-  return projects.map((p) => ({ params: { id: p.id }, props: { p } }));
+  const projects = (await getCollection('art')).sort((a, b) => a.data.order - b.data.order);
+  const n = projects.length;
+  const label = (x) => x.data.shortTitle ?? x.data.title;
+  return projects.map((p, i) => {
+    const prevP = projects[(i - 1 + n) % n];
+    const nextP = projects[(i + 1) % n];
+    return {
+      params: { id: p.id },
+      props: {
+        p,
+        prev: { id: prevP.id, title: label(prevP) },
+        next: { id: nextP.id, title: label(nextP) },
+      },
+    };
+  });
 }
 
-const { p } = Astro.props;
+const { p, prev, next } = Astro.props;
 const { Content } = await render(p);
 const year = p.data.tags.find((t) => /^(19|20)\d\d/.test(t));
 const singleColumn = p.id === 'interview-with-robert-irwin';
@@ -24,7 +37,17 @@ const isGanzfeld = p.id === 'ganzfeld-dot-art';
       <Content />
     </div>
   </article>
-  <p style="margin-top: 56px;"><a href="/art">← All projects</a></p>
+  <nav class="proj-nav">
+    <a class="prev" href={`/art/${prev.id}`}>
+      <span class="lbl">← Previous project</span>
+      <span class="t">{prev.title}</span>
+    </a>
+    <a class="all" href="/art">All projects</a>
+    <a class="next" href={`/art/${next.id}`}>
+      <span class="lbl">Next project →</span>
+      <span class="t">{next.title}</span>
+    </a>
+  </nav>
   {isGanzfeld && (
     <div id="ganzfeld-overlay" hidden>
       <button id="ganzfeld-close" type="button" aria-label="Exit (Esc)">×</button>
@@ -56,6 +79,23 @@ const isGanzfeld = p.id === 'ganzfeld-dot-art';
   .art-project :global(.art-cols .col-text > :first-child) { margin-top: 0; }
   .art-project :global(.art-cols .col-media > :first-child img) { margin-top: 0; }
   .art-project :global(.art-cols .col-text) { max-width: 62ch; }
+  .proj-nav {
+    display: flex; justify-content: space-between; align-items: baseline; gap: 24px;
+    margin-top: 72px; padding-top: 24px; border-top: 1px solid var(--rule);
+  }
+  .proj-nav a { text-decoration: none; color: var(--ink); display: flex; flex-direction: column; gap: 3px; max-width: 40%; }
+  .proj-nav .next { text-align: right; align-items: flex-end; }
+  .proj-nav .all { align-self: center; color: var(--muted); font-size: 14px; max-width: none; }
+  .proj-nav .all:hover { color: var(--c-art); }
+  .proj-nav .lbl { font-size: 13px; color: var(--muted); }
+  .proj-nav .t { font-size: 19px; font-weight: 500; letter-spacing: -0.01em; line-height: 1.2; }
+  .proj-nav a:hover .t { color: var(--c-art); }
+  @media (max-width: 640px) {
+    .proj-nav { gap: 16px; }
+    .proj-nav .all { display: none; }
+    .proj-nav a { max-width: 50%; }
+    .proj-nav .t { font-size: 16px; }
+  }
   #ganzfeld-overlay { position: fixed; inset: 0; z-index: 9999; background: #000; }
   #ganzfeld-overlay[hidden] { display: none; }
   #ganzfeld-close {
