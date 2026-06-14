@@ -11,6 +11,7 @@ const { p } = Astro.props;
 const { Content } = await render(p);
 const year = p.data.tags.find((t) => /^(19|20)\d\d/.test(t));
 const singleColumn = p.id === 'interview-with-robert-irwin';
+const isGanzfeld = p.id === 'ganzfeld-dot-art';
 ---
 <Base title={p.data.title} accent="var(--c-art)" crumb="Art" crumbHref="/art" wide>
   <article class="art-project" data-single={singleColumn ? '1' : undefined}>
@@ -24,6 +25,11 @@ const singleColumn = p.id === 'interview-with-robert-irwin';
     </div>
   </article>
   <p style="margin-top: 56px;"><a href="/art">← All projects</a></p>
+  {isGanzfeld && (
+    <div id="ganzfeld-overlay" hidden>
+      <button id="ganzfeld-close" type="button" aria-label="Exit (Esc)">×</button>
+    </div>
+  )}
 </Base>
 
 <style>
@@ -45,6 +51,15 @@ const singleColumn = p.id === 'interview-with-robert-irwin';
   .art-project :global(.art-cols .col-media img) { max-width: none; width: 100%; }
   .art-project :global(.art-cols .col-media > :first-child) { margin-top: 28px; }
   .art-project :global(.art-cols .col-text) { max-width: 62ch; }
+  #ganzfeld-overlay { position: fixed; inset: 0; z-index: 9999; background: #000; }
+  #ganzfeld-overlay[hidden] { display: none; }
+  #ganzfeld-close {
+    position: fixed; top: 16px; right: 22px; z-index: 10000;
+    background: none; border: 0; padding: 0; line-height: 1;
+    font-size: 34px; color: rgba(255, 255, 255, 0.55); cursor: pointer;
+    transition: color 0.2s;
+  }
+  #ganzfeld-close:hover { color: rgba(255, 255, 255, 0.9); }
   @media (max-width: 860px) {
     .art-project :global(.art-cols) { display: block; }
     .art-project :global(.art-cols .col-media) { position: static; }
@@ -179,6 +194,72 @@ const singleColumn = p.id === 'interview-with-robert-irwin';
         box.hidden = false;
         document.body.style.overflow = 'hidden';
       });
+    });
+  }
+</script>
+
+<script>
+  // ganzfeld.art simulation — original by Boris Oicherman, 2020.
+  // Slowly cycles a fullscreen overlay through saturated hues.
+  const overlay = document.getElementById('ganzfeld-overlay');
+  if (overlay) {
+    const cycleDuration = 40; // seconds per cycle
+    const fps = 25;
+    const interval = 1000 / fps;
+    const startH = 315, S = 100, L = 50, arc = 45;
+
+    const hsl2rgb = (h, s, l) => {
+      s /= 100; l /= 100;
+      const c = (1 - Math.abs(2 * l - 1)) * s;
+      const x = c * (1 - Math.abs(((h / 60) % 2) - 1));
+      const m = l - c / 2;
+      let r = 0, g = 0, b = 0;
+      if (h < 60) { r = c; g = x; }
+      else if (h < 120) { r = x; g = c; }
+      else if (h < 180) { g = c; b = x; }
+      else if (h < 240) { g = x; b = c; }
+      else if (h < 300) { r = x; b = c; }
+      else { r = c; b = x; }
+      return [
+        Math.round((r + m) * 255),
+        Math.round((g + m) * 255),
+        Math.round((b + m) * 255),
+      ];
+    };
+
+    // Precompute the hue arc, then mirror it so colour returns to start (cycle).
+    const size = cycleDuration * fps;
+    const step = arc / size;
+    let frames = [];
+    for (let i = 0; i < size; i++) frames.push(hsl2rgb((startH + i * step) % 360, S, L));
+    frames = frames.concat(frames.slice().reverse());
+
+    let idx = 0;
+    let timer = null;
+    const paint = () => {
+      const [r, g, b] = frames[idx];
+      overlay.style.backgroundColor = `rgb(${r},${g},${b})`;
+      idx = (idx + 1) % frames.length;
+    };
+    const open = () => {
+      idx = 0;
+      overlay.hidden = false;
+      document.body.style.overflow = 'hidden';
+      paint();
+      timer = setInterval(paint, interval);
+    };
+    const close = () => {
+      if (timer) { clearInterval(timer); timer = null; }
+      overlay.hidden = true;
+      document.body.style.overflow = '';
+    };
+
+    document.querySelectorAll('a[href$="#ganzfeld"]').forEach((a) =>
+      a.addEventListener('click', (e) => { e.preventDefault(); open(); })
+    );
+    document.getElementById('ganzfeld-close')?.addEventListener('click', close);
+    document.addEventListener('keydown', (e) => {
+      if (!overlay.hidden && e.key === 'Escape') close();
     });
   }
 </script>
