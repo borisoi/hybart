@@ -42,13 +42,26 @@ export async function getStaticPaths() {
   });
 }
 
+// pull a short plain-text description from the body for SEO / social previews
+function metaDesc(body, fallback) {
+  for (const raw of (body || '').split('\n')) {
+    const s = raw.trim();
+    if (!s || /^!\[.*\]\(.*\)\s*$/.test(s) || s.includes('<iframe') || /^#{1,6}\s/.test(s) || /^<[^>]+>$/.test(s)) continue;
+    const t = s.replace(/!\[[^\]]*\]\([^)]*\)/g, '').replace(/\[([^\]]*)\]\([^)]*\)/g, '$1').replace(/[#*_>]/g, '').trim();
+    if (t.length < 8) continue;
+    return t.length > 160 ? t.slice(0, 157).replace(/\s+\S*$/, '') + '…' : t;
+  }
+  return fallback;
+}
+
 const { p, prev, next } = Astro.props;
 const { Content } = await render(p);
 const year = p.data.tags.find((t) => /^(19|20)\d\d/.test(t));
 const mode = pageMode(p.body);
 const isGanzfeld = p.id === 'ganzfeld-dot-art';
+const description = metaDesc(p.body, `${p.data.title} — a project by Boris Oicherman.`);
 ---
-<Base title={p.data.title} accent="var(--c-art)" crumb="Art" crumbHref="/art" wide>
+<Base title={p.data.title} description={description} image={p.data.cover} accent="var(--c-art)" crumb="Art" crumbHref="/art" wide>
   <article class="art-project" data-mode={mode}>
     <p class="meta">
       {year && <span>{year}</span>}

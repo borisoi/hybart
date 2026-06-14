@@ -10,7 +10,7 @@ export async function getStaticPaths() {
 const { t } = Astro.props;
 const { Content } = await render(t);
 ---
-<Base title={t.data.title} description={t.data.excerpt} accent="var(--c-consulting)" crumb="Consulting" crumbHref="/consulting" wide>
+<Base title={t.data.title} description={t.data.excerpt} image={t.data.image} accent="var(--c-consulting)" crumb="Consulting" crumbHref="/consulting" wide>
   <article class="testimonial-page">
     <p class="meta">{t.data.tags.map((tag) => <span>{tag}</span>)}</p>
     <h1>{t.data.title}</h1>

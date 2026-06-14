@@ -7,12 +7,24 @@ export async function getStaticPaths() {
   return projects.map((p) => ({ params: { id: p.id }, props: { p } }));
 }
 
+function metaDesc(body, fallback) {
+  for (const raw of (body || '').split('\n')) {
+    const s = raw.trim();
+    if (!s || /^!\[.*\]\(.*\)\s*$/.test(s) || s.includes('<iframe') || /^#{1,6}\s/.test(s) || /^<[^>]+>$/.test(s)) continue;
+    const t = s.replace(/!\[[^\]]*\]\([^)]*\)/g, '').replace(/\[([^\]]*)\]\([^)]*\)/g, '$1').replace(/[#*_>]/g, '').trim();
+    if (t.length < 8) continue;
+    return t.length > 160 ? t.slice(0, 157).replace(/\s+\S*$/, '') + '…' : t;
+  }
+  return fallback;
+}
+
 const { p } = Astro.props;
 const { Content } = await render(p);
 const year = p.data.tags.find((t) => /^(19|20)\d\d/.test(t));
 const singleColumn = false;
+const description = metaDesc(p.body, `${p.data.title} — music by Boris Oicherman.`);
 ---
-<Base title={p.data.title} accent="var(--c-music)" crumb="Music" crumbHref="/music" wide>
+<Base title={p.data.title} description={description} image={p.data.cover} accent="var(--c-music)" crumb="Music" crumbHref="/music" wide>
   <article class="art-project" data-single={singleColumn ? '1' : undefined}>
     <p class="meta">
       {year && <span>{year}</span>}
