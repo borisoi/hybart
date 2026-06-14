@@ -1,18 +1,31 @@
 ---
 import Base from '../layouts/Base.astro';
 import { getCollection } from 'astro:content';
-const projects = (await getCollection('art')).sort((a, b) => a.data.order - b.data.order);
+const artItems = (await getCollection('art')).sort((a, b) => a.data.order - b.data.order);
+const musicItems = (await getCollection('music')).sort((a, b) => a.data.order - b.data.order);
 
 const isYearTag = (t: string) => /^(19|20)\d\d( ?[-–] ?((19|20)?\d\d)?)?$/.test(t.trim());
-const info = projects.map((p) => {
-  const yt = p.data.tags.find(isYearTag);
-  const year = yt ? yt.slice(0, 4) : String(p.data.date.getFullYear());
+const toInfo = (entry: any, base: string) => {
+  const yt = entry.data.tags.find(isYearTag);
+  const year = yt ? yt.slice(0, 4) : String(entry.data.date.getFullYear());
   let yearLabel = yt ? yt.trim().replace(/ ?[-–] ?/, '–') : year;
   const range = yearLabel.match(/^(\d{4})–(\d{4})$/);
   if (range && range[1].slice(0, 2) === range[2].slice(0, 2)) yearLabel = `${range[1]}–${range[2].slice(2)}`;
-  const tags = p.data.tags.filter((t) => !isYearTag(t));
-  return { p, year, yearLabel, tags };
-});
+  const tags = entry.data.tags.filter((t: string) => !isYearTag(t));
+  return {
+    href: `${base}/${entry.id}`,
+    cover: entry.data.cover,
+    title: entry.data.shortTitle ?? entry.data.title,
+    year, yearLabel, tags, date: entry.data.date,
+  };
+};
+// Music projects mirror the canonical /music pages; slot them into the Art grid by date.
+const info = artItems.map((p) => toInfo(p, '/art'));
+for (const m of musicItems.map((m) => toInfo(m, '/music'))) {
+  let idx = info.findIndex((ci) => ci.date < m.date);
+  if (idx === -1) idx = info.length;
+  info.splice(idx, 0, m);
+}
 const years = [...new Set(info.map((i) => i.year))].sort((a, b) => Number(b) - Number(a));
 const allTags = [...new Set(info.flatMap((i) => i.tags))].sort((a, b) => a.localeCompare(b, 'en', { sensitivity: 'base' }));
 ---
@@ -31,10 +44,10 @@ const allTags = [...new Set(info.flatMap((i) => i.tags))].sort((a, b) => a.local
   </div>
 
   <div class="art-grid" id="art-grid">
-    {info.map(({ p, year, yearLabel, tags }) => (
-      <a href={`/art/${p.id}`} data-year={year} data-tags={tags.join('|')}>
-        <div class="ph" style={`background-image:url('${p.data.cover}')`}></div>
-        <span>{p.data.shortTitle ?? p.data.title} ({yearLabel})</span>
+    {info.map((it) => (
+      <a href={it.href} data-year={it.year} data-tags={it.tags.join('|')}>
+        <div class="ph" style={`background-image:url('${it.cover}')`}></div>
+        <span>{it.title} ({it.yearLabel})</span>
       </a>
     ))}
   </div>
