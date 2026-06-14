@@ -44,11 +44,9 @@ const singleColumn = false;
   .art-project :global(.art-cols .col-media > :first-child) { margin-top: 28px; }
   .art-project :global(.art-cols .col-text) { max-width: 62ch; }
   @media (max-width: 860px) {
+    /* media (players/embeds) on top, text below */
     .art-project :global(.art-cols) { display: block; }
     .art-project :global(.art-cols .col-media) { position: static; }
-    /* album pages: essay first, players after — don't shove text below the embeds */
-    .art-project :global(.art-cols.compact) { display: flex; flex-direction: column; }
-    .art-project :global(.art-cols.compact .col-media) { order: 2; }
   }
 </style>
 
