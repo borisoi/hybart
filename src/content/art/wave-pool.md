@@ -1,8 +1,8 @@
 ---
 title: "Executive & Artistic Director, Wave Pool"
 shortTitle: "Wave Pool"
-date: 2026-10-01
-tags: ["2026 -", "Cincinnati", "Direction"]
+date: 2025-10-01
+tags: ["2025 -", "Cincinnati", "Direction"]
 cover: "https://static1.squarespace.com/static/5633fcede4b0b0c3596ed436/t/69cacea61ab0435a177a2e65/1774898857495/1.jpg?format=1500w"
 order: 0
 ---
