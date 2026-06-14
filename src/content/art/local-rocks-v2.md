@@ -7,12 +7,12 @@ order: 38
 oldUrl: /art/local-rocks-v2
 ---
 
-![](/images/art/mg-5893.jpg)
-![](/images/art/mg-5897.jpg)
-![](/images/art/mg-5901.jpg)
-![](/images/art/mg-5905.jpg)
-![](/images/art/mg-5909.jpg)
-![](/images/art/mg-5912.jpg)
-![](/images/art/mg-5913.jpg)
+![Local Rocks V. 2](/images/art/mg-5893.jpg)
+![Local Rocks V. 2](/images/art/mg-5897.jpg)
+![Local Rocks V. 2](/images/art/mg-5901.jpg)
+![Local Rocks V. 2](/images/art/mg-5905.jpg)
+![Local Rocks V. 2](/images/art/mg-5909.jpg)
+![Local Rocks V. 2](/images/art/mg-5912.jpg)
+![Local Rocks V. 2](/images/art/mg-5913.jpg)
 
 Basalt rocks from Beit Shean area are scattered in the Valley of the Cross in Jerusalem. (2013 – present)

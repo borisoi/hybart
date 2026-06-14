@@ -7,7 +7,7 @@ cover: /images/srg5269-med-size.jpg
 excerpt: "Revisiting the report “Investing in Creativity” through the lens of Hybrid Arts: Demand/Markets"
 ---
 
-![](/images/srg5269-med-size.jpg)
+![What Are Artists  Selling? Investing in Hybrid Arts, pt. III: Demand / Markets](/images/srg5269-med-size.jpg)
 
 <small>*Image: Participants in the* [*Habitability Workshop*](https://wam.umn.edu/habitability-project-public-conversation)*. Grass artwork by the architecture collective* [*Interesting Tactics*](https://www.interestingtactics.com/)*. Weisman Art Museum, Minneapolis, MN, 2019*</small>
 
@@ -36,7 +36,7 @@ excerpt: "Revisiting the report “Investing in Creativity” through the lens o
 
 8 minute read
 
-![](/images/t-rosette-6.png)
+![What Are Artists  Selling? Investing in Hybrid Arts, pt. III: Demand / Markets](/images/t-rosette-6.png)
 
 *Just as we should view art not as an accumulation of so-called art objects, but as a way of approaching knowledge, we should also view knowledge not as an accumulation of data, but as a flexible mechanism for reorganizing reality.*   
 Luis Camnitzer, [An Artist, a Leader, and a Dean Were on a Boat](https://www.e-flux.com/journal/55/60319/an-artist-a-leader-and-a-dean-were-on-a-boat/)…
@@ -74,7 +74,7 @@ The discussion of hybrid arts markets occupies a significant portion of IiC and 
 
 This promise has remained largely unfulfilled more than two decades since the report's publication. To understand this stagnation, we might ask: what is, exactly, being promised by the hybrid arts markets?
 
-![](/images/t-rosette-2.png)
+![What Are Artists  Selling? Investing in Hybrid Arts, pt. III: Demand / Markets](/images/t-rosette-2.png)
 
 #### What Hybrid Artists Are Selling?
 
@@ -96,7 +96,7 @@ This choice of language is crucial because it determines what kind of knowledge 
 
 My point in this theoretical digression is:
 
-![](/images/t-rosette-3.png)
+![What Are Artists  Selling? Investing in Hybrid Arts, pt. III: Demand / Markets](/images/t-rosette-3.png)
 
 #### Artists Are Professionals of Culture.
 
@@ -106,7 +106,7 @@ It is these sensibilities, knowledge, and skills that they are "selling" when th
 
 I am intentionally not attempting to identify what these skills and sensibilities are - that is a topic for another discussion, and a rather long one. I can, however, suggest what they can be used for, or: what organizations collaborating with artists are paying for. They pay artists for performing culture: for the labor of imagining their future in the wider cultural context of society.
 
-![](/images/t-rosette-4.png)
+![What Are Artists  Selling? Investing in Hybrid Arts, pt. III: Demand / Markets](/images/t-rosette-4.png)
 
 #### The Failure of Hybrid Arts Markets
 
@@ -132,7 +132,7 @@ What stands in the way, I believe, is not simply a lack of knowledge, communicat
 
 It's the same culture that appreciates art but not artists, and confines culture to the “cultural sector”, that is responsible for our society's insistence on measuring artists' worth by the monetary value of their products, while failing to place value on artists' sensibilities, expertise, and skills.
 
-![](/images/t-rosette-5.png)
+![What Are Artists  Selling? Investing in Hybrid Arts, pt. III: Demand / Markets](/images/t-rosette-5.png)
 
 #### Consulting Artists
 
@@ -148,7 +148,7 @@ Note the term "employ" – not "commission" or "host".
 
 A key feature of operational hybrid arts markets ought to be a reimagined way of engaging artists, where short-term, non-committal residencies and last-minute commissions give way to intentional learning, strategic administrative infrastructure, long-term contracts and employment. Those cultural determinants of health will not be addressed by a 1-month residency culminating with an exhibition, but by long-term process in which artists will be working alongside social workers, MDs, administrators, nurses, and many others.
 
-![](/images/t-rosette-6.png)
+![What Are Artists  Selling? Investing in Hybrid Arts, pt. III: Demand / Markets](/images/t-rosette-6.png)
 
 #### From Art to Artists
 

@@ -61,4 +61,4 @@ During the past decades, artists became infinitely more adept at the work of upe
 
 Minneapolis, 2018
 
-[![](/images/art/on-collaboration.jpg)](https://wam.umn.edu/education/target-studio-for-creative-collaboration/laborofsharedmeaning/)
+[![Collaboration is a Labour of Creating Shared Meaning](/images/art/on-collaboration.jpg)](https://wam.umn.edu/education/target-studio-for-creative-collaboration/laborofsharedmeaning/)

@@ -7,7 +7,7 @@ order: 10
 oldUrl: /art/ioc
 ---
 
-[![](/images/art/ioc-manifeto-p1.jpg)](/files/Institute-of-Care-Manifesto.pdf)
+[![Institute of Care Manifesto](/images/art/ioc-manifeto-p1.jpg)](/files/Institute-of-Care-Manifesto.pdf)
 
 [Institute of Care Manifesto](/files/Institute-of-Care-Manifesto.pdf). Collaboration with Vienne Chan. Part of the [Institute of Care](http://instituteofcare.org) collaborative at the [European Media Artists in Residence Exchange (EMARE)](http://www.emare.eu/news/european-media-artists-residence-exchange-emare-selected-artists-2020-and-2021) with Vienne Chan, Alan Cunningham, and [Obsessive Possessive Aggression](http://www.o-p-a.org/) (OPA, Slobodanka Stevceska and Denis Saraginovski).
 

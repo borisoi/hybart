@@ -7,6 +7,6 @@ cover: "/images/art/wave-pool.jpg"
 order: 0
 ---
 
-![](/images/art/wave-pool.jpg)
+![Executive & Artistic Director, Wave Pool](/images/art/wave-pool.jpg)
 
 I am the Executive and Artistic Director of [Wave Pool](https://www.wavepoolgallery.org/), a socially-engaged contemporary art center in Camp Washington, Cincinnati, since October 2025.

@@ -7,21 +7,21 @@ order: 17
 oldUrl: /art/why-red
 ---
 
-![](/images/art/bob6215-edit-edit.jpg)
-![](/images/art/bob6288-edit.jpg)
-![](/images/art/bob6264-edit.jpg)
-![](/images/art/bob6296.jpg)
-![](/images/art/156918-bob6269-edit.jpg)
-![](/images/art/bob6060-edit.jpg)
-![](/images/art/bob6192-edit-edit.jpg)
-![](/images/art/bob6057-edit.jpg)
-![](/images/art/bob6184.jpg)
-![](/images/art/bob5975-edit.jpg)
-![](/images/art/bob6131-edit.jpg)
-![](/images/art/bob6011-edit-edit.jpg)
-![](/images/art/bob6039-hdr-edit.jpg)
-![](/images/art/bob6043-hdr-edit.jpg)
-![](/images/art/bob6048-hdr-edit.jpg)
+![Why Red?](/images/art/bob6215-edit-edit.jpg)
+![Why Red?](/images/art/bob6288-edit.jpg)
+![Why Red?](/images/art/bob6264-edit.jpg)
+![Why Red?](/images/art/bob6296.jpg)
+![Why Red?](/images/art/156918-bob6269-edit.jpg)
+![Why Red?](/images/art/bob6060-edit.jpg)
+![Why Red?](/images/art/bob6192-edit-edit.jpg)
+![Why Red?](/images/art/bob6057-edit.jpg)
+![Why Red?](/images/art/bob6184.jpg)
+![Why Red?](/images/art/bob5975-edit.jpg)
+![Why Red?](/images/art/bob6131-edit.jpg)
+![Why Red?](/images/art/bob6011-edit-edit.jpg)
+![Why Red?](/images/art/bob6039-hdr-edit.jpg)
+![Why Red?](/images/art/bob6043-hdr-edit.jpg)
+![Why Red?](/images/art/bob6048-hdr-edit.jpg)
 
 June 2017, Stanford CA, USA. Installation, durational performance. Glass, spotlight, gelatin filters, colored acrylic, books, furniture. Part of the MFA graduation exhibition, Department of Art and Art History, Stanford University.
 

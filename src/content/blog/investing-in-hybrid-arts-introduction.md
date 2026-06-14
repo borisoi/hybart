@@ -24,7 +24,7 @@ excerpt: "Revisiting the report “Investing in Creativity” through the lens o
 
 8 minutes read
 
-![](/images/a-rosette-5.png)
+![Investing in Hybrid Arts pt. I: Introduction](/images/a-rosette-5.png)
 
 *One interesting thing about being an artist now is that everything is a possibility. Which means you start out of a state of total chaos, and you have to assume the responsibility for every single thing you do or do not do.*Robert Irwin in *Drugs and Beyond*, Extension Media Center, UCLA for the National Institute of Mental Health, 1971
 
@@ -46,7 +46,7 @@ As far as artists were concerned, IiC’s statement was not news: that an artist
 
 For cultural philanthropy, however, considering support for the arts from artists' perspectives introduced a whole new series of questions it had barely dealt with.
 
-![](/images/a-rosette-2.png)
+![Investing in Hybrid Arts pt. I: Introduction](/images/a-rosette-2.png)
 
 #### Dimensions of Support for Artists
 
@@ -71,7 +71,7 @@ It turns out that, when you ask artists what's involved in practicing art, respo
 
 Sadly, most of them still do.
 
-![](/images/a-rosette-3.png)
+![Investing in Hybrid Arts pt. I: Introduction](/images/a-rosette-3.png)
 
 #### Hybrid Arts Markets
 
@@ -85,7 +85,7 @@ Subsequently, many artists describe their art in rather complex terms. Some may 
 
 IiC recognized that when artists engage with fields outside of the arts they generate economic activity very different from traditional art markets, and called it "hybrid markets." I will use "hybrid arts markets" throughout this series instead to distinguish the term from similar expressions used in economics and business.
 
-![](/images/a-rosette-4.png)
+![Investing in Hybrid Arts pt. I: Introduction](/images/a-rosette-4.png)
 
 #### Hybrid Arts
 
@@ -97,7 +97,7 @@ Hybrid arts are indifferent to creative media, the nature, goals and products of
 
 To illustrate: an artist commissioned by an aerospace corporation to create an artwork for its collection doesn't necessarily participate in the hybrid arts market. However, an artist commissioned by an aerospace corporation to collaborate with its scientists and [design a scientific symposium](/art/interview-with-robert-irwin) with the goal of contributing to the corporation's research agenda—does.
 
-![](/images/a-rosette-5.png)
+![Investing in Hybrid Arts pt. I: Introduction](/images/a-rosette-5.png)
 
 #### Dimensions of Support for Hybrid Arts
 

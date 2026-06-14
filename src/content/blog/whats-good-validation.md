@@ -7,7 +7,7 @@ cover: /images/srg0900.jpg
 excerpt: "Revisiting the report “Investing in Creativity” through the lens of Hybrid Arts: Valdation"
 ---
 
-![](/images/srg0900.jpg)
+![What’s Good? Investing in Hybrid Arts, pt. II: Validation](/images/srg0900.jpg)
 
 <small>*Image: Performance “*[*Dance Like a Nurse, Nurse Like a Dancer*](https://wam.umn.edu/dance-nurse-nurse-dancer-1)*” at the Hennepin Public Library. Choreographer:* [*Anna Marie Shogren*](https://www.mcknightdancechoreo.org/anna-shogren)*. Weisman Art Museum, Minneapolis, MN, 2018*</small>
 
@@ -38,7 +38,7 @@ excerpt: "Revisiting the report “Investing in Creativity” through the lens o
 
 8 minutes read
 
-![](/images/r-rosette-6.png)
+![What’s Good? Investing in Hybrid Arts, pt. II: Validation](/images/r-rosette-6.png)
 
 *The silly myth that the genius has to "suffer" is the sly excuse of a society which does not care for its productive members unless their work promises immediate technological or economic applications with calculable profit.*László Moholy-Nagy, *Vision in Motion*, 1947
 
@@ -48,7 +48,7 @@ Investing in Creativity (IiC) defines *validation* as the ascription of value to
 
 "Within" validation includes peer recognition, art criticism, prizes, and affiliations with prestigious institutions. "Outside" validation encompasses audience recognition, media coverage, and public acknowledgment of artists' societal contributions. While both are important for hybrid arts, this post will focus on the "outside": it is the collaboration with the non-art partners after all that makes the arts "hybrid".
 
-![](/images/r-rosette-1.png)
+![What’s Good? Investing in Hybrid Arts, pt. II: Validation](/images/r-rosette-1.png)
 
 #### Public Perception: the 96/27 Problem
 
@@ -62,7 +62,7 @@ If your declared creative intention as a "hybrid artist" is to contribute to som
 
 The report suggests that the situation can be even worse for the hybrid arts and notes that *contributions are particularly unappreciated – both inside and outside the cultural realm – when artists are active at the intersection of arts and other fields*. Indeed, artists share countless anecdotes about the initial strong rejection and genuine puzzlement about the possibility of collaborating with them, even from people who otherwise have strong appreciation of the arts.
 
-![](/images/r-rosette-2.png)
+![What’s Good? Investing in Hybrid Arts, pt. II: Validation](/images/r-rosette-2.png)
 
 #### Who is the audience?
 
@@ -76,7 +76,7 @@ However different those scenarios are, the artist's ability to develop the proje
 
 Validation by collaborators will get you the project. Validation by the general public will get you recognition as an artist, and future projects. Both are essential for sustaining a hybrid creative practice, the attribution of meaning to one's art and the feeling of professional achievement.
 
-![](/images/r-rosette-3.png)
+![What’s Good? Investing in Hybrid Arts, pt. II: Validation](/images/r-rosette-3.png)
 
 #### Intermediaries
 
@@ -100,7 +100,7 @@ The report suggests that we need better language and documentation to articulate
 
 This strikes a chord, exactly describing me: an administrator who spent years developing *theories about what works* and only now affording myself the time to write them up.
 
-![](/images/r-rosette-4.png)
+![What’s Good? Investing in Hybrid Arts, pt. II: Validation](/images/r-rosette-4.png)
 
 #### The Role of Art Museums
 
@@ -120,6 +120,6 @@ There are, of course, specialized art centers such as [ZKM Center for Art and Me
 
 Mainstream contemporary art museums should invest more in long-term, sustained programs and departments dedicated to creative collaboration, placing them within the wider context of contemporary arts and as integral to them. As importantly, there needs to be significant investment in developing curatorial practices for facilitation and interpretation of hybrid arts. Adding a note for myself to make a post about this.
 
-![](/images/r-rosette-5.png)
+![What’s Good? Investing in Hybrid Arts, pt. II: Validation](/images/r-rosette-5.png)
 
 In conclusion, validation for hybrid artists involves a complex interplay between collaborator recognition and public appreciation. While immediate validation from collaborators is crucial for project development, broader public recognition—often facilitated by cultural institutions—is essential for sustaining a hybrid creative practice and achieving professional fulfillment. As we continue to explore the dimensions of support for artists, we'll next turn our attention to Demand and Markets.

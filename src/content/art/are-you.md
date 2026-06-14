@@ -7,9 +7,9 @@ order: 30
 oldUrl: /art/are-you
 ---
 
-![](/images/art/dscf5968.jpg)
-![](/images/art/dscf6097.jpg)
-![](/images/art/dscf6118.jpg)
-![](/images/art/bob6334.jpg)
+![Are You?](/images/art/dscf5968.jpg)
+![Are You?](/images/art/dscf6097.jpg)
+![Are You?](/images/art/dscf6118.jpg)
+![Are You?](/images/art/bob6334.jpg)
 
 Vinyl stickers on mirrors in the public areas of the Royal Beach hotel, Tel Aviv. Part of the group exhibition “HeLa, Forms of Human Existence” (curator: [Daniel Landau](https://www.daniel-landau.com/)), HaYarkon 19 center for Art, Culture and Education, Tel Aviv

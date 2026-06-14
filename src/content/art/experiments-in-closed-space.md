@@ -19,14 +19,14 @@ Installation in the Water Tower. Fans, bulbs, cables
 
 ### Experiments in Closed Space
 
-![](/images/art/figure-with-shadow.jpg)
-![](/images/art/projector-red-room-door-2.jpg)
-![](/images/art/entrance.jpg)
-![](/images/art/red-room.jpg)
-![](/images/art/red-room-desk-2.jpg)
-![](/images/art/red-door-1.jpg)
-![](/images/art/red-door.jpg)
-![](/images/art/red-door-stones.jpg)
-![](/images/art/rocks-kid-4-13x18-300dpi.jpg)
+![Experiments in Closed Space](/images/art/figure-with-shadow.jpg)
+![Experiments in Closed Space](/images/art/projector-red-room-door-2.jpg)
+![Experiments in Closed Space](/images/art/entrance.jpg)
+![Experiments in Closed Space](/images/art/red-room.jpg)
+![Experiments in Closed Space](/images/art/red-room-desk-2.jpg)
+![Experiments in Closed Space](/images/art/red-door-1.jpg)
+![Experiments in Closed Space](/images/art/red-door.jpg)
+![Experiments in Closed Space](/images/art/red-door-stones.jpg)
+![Experiments in Closed Space](/images/art/rocks-kid-4-13x18-300dpi.jpg)
 
 Gallery exhibition. Videofeedback projection, silver gelatin prints, heating lamp, red gel filters, rocks.

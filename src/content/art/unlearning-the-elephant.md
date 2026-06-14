@@ -7,7 +7,7 @@ order: 9
 oldUrl: /art/unlearning-the-elephant
 ---
 
-[![](/images/art/irwin-at-corporate-meeting.jpeg)](https://mnartists.walkerart.org/unlearning-the-elephant-against-multidisciplinarity)
+[![Unlearning the Elephant: Against Multidisciplinarity](/images/art/irwin-at-corporate-meeting.jpeg)](https://mnartists.walkerart.org/unlearning-the-elephant-against-multidisciplinarity)
 
 <small>Peng Wu and Yu Youyang, Irwin in the corporate meeting room , 2021.</small>
 

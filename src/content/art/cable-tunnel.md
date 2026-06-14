@@ -7,9 +7,9 @@ order: 29
 oldUrl: /art/cable-tunnel
 ---
 
-![](/images/art/dsf6803.jpg)
-![](/images/art/dsf6809.jpg)
-![](/images/art/dsf6816.jpg)
-![](/images/art/dsf6834.jpg)
+![Cable Tunnel](/images/art/dsf6803.jpg)
+![Cable Tunnel](/images/art/dsf6809.jpg)
+![Cable Tunnel](/images/art/dsf6816.jpg)
+![Cable Tunnel](/images/art/dsf6834.jpg)
 
 A tunnel in an abandoned telecommunication facility is illuminated from the floor above through an existing opening in the ceiling. LED spotlights, tripods, fog machine. Gabirol Center for Art and Culture, Tel Aviv, Israel

@@ -7,7 +7,7 @@ order: 51
 oldUrl: /art/7-cubic-meters-of-heat
 ---
 
-![](/images/art/7-cubic-meters-of-heat-1.jpg)
-![](/images/art/7-cubic-meters-of-heat-2.jpg)
+![7 Cubic Meters of Heat](/images/art/7-cubic-meters-of-heat-1.jpg)
+![7 Cubic Meters of Heat](/images/art/7-cubic-meters-of-heat-2.jpg)
 
 8 halogen lamps heat up the area they illuminate. New Gallery, Jerusalem

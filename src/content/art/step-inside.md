@@ -7,11 +7,11 @@ order: 32
 oldUrl: /art/step-inside
 ---
 
-![](/images/art/dsf3903.jpg)
-![](/images/art/dsf3919.jpg)
-![](/images/art/dsf3922.jpg)
-![](/images/art/dsf3928.jpg)
-![](/images/art/dsf3923.jpg)
-![](/images/art/dsf3926.jpg)
+![Step Inside](/images/art/dsf3903.jpg)
+![Step Inside](/images/art/dsf3919.jpg)
+![Step Inside](/images/art/dsf3922.jpg)
+![Step Inside](/images/art/dsf3928.jpg)
+![Step Inside](/images/art/dsf3923.jpg)
+![Step Inside](/images/art/dsf3926.jpg)
 
 Books and catalogues of past exhibitions from the storage of the Artist House in Jerusalem are used to block the doorway in its gallery.

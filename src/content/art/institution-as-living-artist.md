@@ -7,7 +7,7 @@ order: 5
 oldUrl: /art/institution-as-living-artist
 ---
 
-[![](/images/art/sleeping-chapel.jpeg)](https://mnartists.walkerart.org/institution-as-living-artist-as-can-opener-as-system-change)
+[![Institution as Living Artist, as Can Opener, as System Change](/images/art/sleeping-chapel.jpeg)](https://mnartists.walkerart.org/institution-as-living-artist-as-can-opener-as-system-change)
 
 <small>Peng Wu, Sleep Chapel, 2019</small>
 

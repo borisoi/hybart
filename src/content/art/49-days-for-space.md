@@ -7,8 +7,8 @@ order: 22
 oldUrl: /art/49-days-for-space
 ---
 
-![](/images/art/49-days-for-space-1.jpg)
-![](/images/art/49-days-for-space-2.jpg)
+![49 Days For Space](/images/art/49-days-for-space-1.jpg)
+![49 Days For Space](/images/art/49-days-for-space-2.jpg)
 
 7-week-long durational performance. In collaboration with Laura Steenberge. Electric guitar, transducers, software, hardware, computer. January-February 2016, Stanford, CA, USA. Image: Dave Kerr
 

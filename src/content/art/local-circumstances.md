@@ -35,23 +35,23 @@ Metallized poliester
 
 ### Saewoon market, Seoul
 
-![](/images/art/0-1.jpg)
-![](/images/art/2-4.jpg)
-![](/images/art/3-4.jpg)
-![](/images/art/3-6.jpg)
-![](/images/art/4-3.jpg)
-![](/images/art/5-1.jpg)
-![](/images/art/5-3.jpg)
-![](/images/art/6-1.jpg)
-![](/images/art/7-1.jpg)
-![](/images/art/8-1.jpg)
-![](/images/art/me-eric.jpg)
+![Local Circumstances (Asia Pacific Fellowship)](/images/art/0-1.jpg)
+![Local Circumstances (Asia Pacific Fellowship)](/images/art/2-4.jpg)
+![Local Circumstances (Asia Pacific Fellowship)](/images/art/3-4.jpg)
+![Local Circumstances (Asia Pacific Fellowship)](/images/art/3-6.jpg)
+![Local Circumstances (Asia Pacific Fellowship)](/images/art/4-3.jpg)
+![Local Circumstances (Asia Pacific Fellowship)](/images/art/5-1.jpg)
+![Local Circumstances (Asia Pacific Fellowship)](/images/art/5-3.jpg)
+![Local Circumstances (Asia Pacific Fellowship)](/images/art/6-1.jpg)
+![Local Circumstances (Asia Pacific Fellowship)](/images/art/7-1.jpg)
+![Local Circumstances (Asia Pacific Fellowship)](/images/art/8-1.jpg)
+![Local Circumstances (Asia Pacific Fellowship)](/images/art/me-eric.jpg)
 
 With Eric Reeder. Photography: Eric Reeder, Boris Oicherman. Metallized Polyester
 
 ### Local Flow
 
-![](/images/art/local-flow.jpg)
+![Local Circumstances (Asia Pacific Fellowship)](/images/art/local-flow.jpg)
 
 Metallized Polyester
 

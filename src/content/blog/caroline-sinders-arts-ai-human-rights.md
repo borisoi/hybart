@@ -7,7 +7,7 @@ cover: /images/dsc5373-cropped.jpg
 excerpt: "I'm always thinking about how art can be useful in a practical sense. How can we use creativity to galvanize people towards action? That's the real power of this work - it can touch people emotionally through artistic elements while also informing them through research.&nbsp;"
 ---
 
-![](/images/dsc5373-cropped.jpg)
+![On Arts, AI and Human Rights: Interview with Caroline Sinders](/images/dsc5373-cropped.jpg)
 
 - #### About Caroline Sinders
 
@@ -22,11 +22,11 @@ excerpt: "I'm always thinking about how art can be useful in a practical sense. 
 
 12 minute read
 
-![](/images/b-rosette-2-5.png)
+![On Arts, AI and Human Rights: Interview with Caroline Sinders](/images/b-rosette-2-5.png)
 
 *I'm always thinking about how art can be useful in a practical sense. How can we use creativity to galvanize people towards action? That's the real power of this work - it can touch people emotionally through artistic elements while also informing them through research.*
 
-![](/images/b-rosette-2-2.png)
+![On Arts, AI and Human Rights: Interview with Caroline Sinders](/images/b-rosette-2-2.png)
 
 #### Creative Practice
 
@@ -46,7 +46,7 @@ This in-betweenness of my work allows me to approach problems from multiple angl
 
 So when I say I'm a human rights researcher and an artist, what I'm really saying is that I'm someone who lives in the spaces between these fields, constantly looking for new connections and ways to create impact. It's challenging, often hard to explain, but incredibly rewarding.
 
-![](/images/intertwinedintimacy-1.jpg)
+![On Arts, AI and Human Rights: Interview with Caroline Sinders](/images/intertwinedintimacy-1.jpg)
 
 <small>[Intertwined Intimacy](https://stamps.umich.edu/events/caroline-sinders-intertwined-intimacy), 2023</small>
 
@@ -76,7 +76,7 @@ The "black box" nature of these algorithms raises complex issues. How do you exp
 
 In this context, my work contributes to analyzing policy, for example, like the [European AI Act](https://digital-strategy.ec.europa.eu/en/policies/regulatory-framework-ai). I worked with a cohort of other organizations to interpret how the EU AI Act could impact digital products via [UX and UI design.](https://panoptykon.org/sites/default/files/2023-11/peoplevsbigtech_panoptykon_prototyping-empowerment_brief_20112023.pdf) This legislation is going to change how companies interact with consumers, and we'll be looking at how companies embody (or don't) the spirit of these regulations.
 
-![](/images/leo-6267.jpg)
+![On Arts, AI and Human Rights: Interview with Caroline Sinders](/images/leo-6267.jpg)
 
 <small>Feminist Dataset workshop at [Z2X](https://z2x.zeit.de/), 2019</small>
 
@@ -88,7 +88,7 @@ I’m really thinking about all the different tools in our toolbox. There are ma
 
 A great example is the [Anatomy of an AI](https://anatomyof.ai/) project by Kate Crawford and Vladan Joler. Kate is a seasoned AI practitioner and Vladan is a respected technologist and artist. Their deep visual investigation translated complex layers of AI into something understandable.
 
-![](/images/b-rosette-2-3.png)
+![On Arts, AI and Human Rights: Interview with Caroline Sinders](/images/b-rosette-2-3.png)
 
 #### Collaboration
 
@@ -114,7 +114,7 @@ But what is also important is the awareness about the dynamics of "helping." <ma
 
 A large part of this work is about bringing in diverse viewpoints. This is crucial to ensure that our projects don't overlook important issues or inadvertently advocate for solutions that might harm particular groups. Bringing in a variety of voices is really important.
 
-![](/images/potato-internet-whole.jpg)
+![On Arts, AI and Human Rights: Interview with Caroline Sinders](/images/potato-internet-whole.jpg)
 
 <small>[Potato Internet](https://carolinesinders.com/the-potato-internet/), 2022-23</small>
 
@@ -128,7 +128,7 @@ It all comes down to how we approach collaborations from the very beginning. <ma
 
 So when you ask about success, for me, it's not about matching plans with some predefined outcomes. It's about aligning expectations, doing proper groundwork, and being responsive to community needs. It's about creating meaningful collaborations where everyone involved feels heard and valued.
 
-![](/images/b-rosette-2-4.png)
+![On Arts, AI and Human Rights: Interview with Caroline Sinders](/images/b-rosette-2-4.png)
 
 #### Funding and Support Infrastructure
 
@@ -154,7 +154,7 @@ That's not to say it's necessarily easier to get funding in Europe, or that ther
 
 That said, these are general observations. There are certainly forward-thinking funders in the US, and more conventional ones in Europe. But overall, I've found the European funding landscape more receptive to my work.
 
-![](/images/how-to-explain-hurricane-to-an-algorithm.jpeg)
+![On Arts, AI and Human Rights: Interview with Caroline Sinders](/images/how-to-explain-hurricane-to-an-algorithm.jpeg)
 
 <small>[How to Explain a Hurricane to an Algorithm](https://carolinesinders.com/how-to-explain-a-hurricane-to-an-algorithm/), *2005 — Current*</small>
 
@@ -164,7 +164,7 @@ That said, these are general observations. There are certainly forward-thinking 
 
 The ideal would be support that recognizes the value of work that happens across fields and allows for more emergent, flexible outcomes. It's about letting there be multiple deliverables of different sizes and types, all working together to create impact. This approach, I believe, would lead to more impactful work in both human rights and art.
 
-![](/images/b-rosette-2-5.png)
+![On Arts, AI and Human Rights: Interview with Caroline Sinders](/images/b-rosette-2-5.png)
 
 #### Inspirations
 

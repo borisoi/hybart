@@ -7,7 +7,7 @@ cover: /images/img-7153.jpg
 excerpt: "Economics … simply cannot deal with the future. But culture can."
 ---
 
-![](/images/img-7153.jpg)
+![Art Is a Right: Review of the Book 'Culture Is Not an Industry'](/images/img-7153.jpg)
 
 [*Culture is Not an Industry*](https://manchesteruniversitypress.co.uk/9781526171269/) by Justin O’Connor, Manchester University Press, 2024
 
@@ -22,7 +22,7 @@ excerpt: "Economics … simply cannot deal with the future. But culture can."
   - *Culture is Not an Industry* reframes culture as a human right for meaningful life.
   - In the new framework, the cultural sector should be evaluated by the degree to which it facilitates people's right to culture.
 
-![](/images/y-rosette-8.png)
+![Art Is a Right: Review of the Book 'Culture Is Not an Industry'](/images/y-rosette-8.png)
 
 *Economics … simply cannot deal with the future. But culture can.*
 
@@ -38,7 +38,7 @@ In doing so, Ohio is representative of a global phenomenon. Almost universally, 
 
 #### Why 'Creative Industries'?
 
-![](/images/y-rosette-2.png)
+![Art Is a Right: Review of the Book 'Culture Is Not an Industry'](/images/y-rosette-2.png)
 
 Advocacy is integral to arts and culture due to the sector's dependence on the goodwill of policymakers, funders, and the general public. Finding satisfying language for this work has always been a pain.
 
@@ -60,7 +60,7 @@ But what exactly are "Creative Industries"? As O’Connor points out, 25 years l
 
 #### Culture as a Human Right
 
-![](/images/y-rosette-3.png)
+![Art Is a Right: Review of the Book 'Culture Is Not an Industry'](/images/y-rosette-3.png)
 
 Culture-As-Industry began as a well-intentioned attempt to facilitate increased investments in the arts. These investments never materialized.
 
@@ -92,7 +92,7 @@ Therefore, restricting your freedom of access to identity, affiliation, particip
 
 #### Cultural Infrastructure
 
-![](/images/y-rosette-4.png)
+![Art Is a Right: Review of the Book 'Culture Is Not an Industry'](/images/y-rosette-4.png)
 
 What follows from this proposition is a fascinating (for a recovering arts administrator) concept of Cultural Infrastructure.
 
@@ -106,7 +106,7 @@ This feels like something arts administrators should be able to work with.
 
 #### A New Direction for Arts Advocacy
 
-![](/images/y-rosette-5.png)
+![Art Is a Right: Review of the Book 'Culture Is Not an Industry'](/images/y-rosette-5.png)
 
 This discussion is not about our understanding of what arts and culture are: it’s about rhetorical devices we use to advocate for their value. It helps, however, when these devices represent reality.
 

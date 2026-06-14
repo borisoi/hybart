@@ -9,7 +9,7 @@ excerpt: "Everything I've done, the only thing I've done is I'm an artist figuri
 
 ### **Instead of an Obituary**
 
-[![](/images/irwin-naked-by-larry-bell.jpg)](https://en.wikipedia.org/wiki/Robert_Irwin_(artist))
+[![the only thing I've done is I'm an artist figuring out what an artist is](/images/irwin-naked-by-larry-bell.jpg)](https://en.wikipedia.org/wiki/Robert_Irwin_(artist))
 
 <small>Photograph by [Larry Bell](https://larrybell.com/)</small>
 
@@ -70,7 +70,7 @@ The art and technology thing. All right, just to put it in perspective. It start
 
 It came to the West Coast through [Maurice Tuchman](https://en.wikipedia.org/wiki/Maurice_Tuchman) at the Los Angeles County Museum (LACMA). He decided to do the [Art and Technology Project](https://archive.org/details/reportonarttechn00losa_), asking leading artists to participate. He asked me and I told him, "No." When he asked why, I said, "Because it shouldn’t have anything to do with technology. It should have to do with a dialogue between artists and scientists. That would be a really interesting exchange where they could learn from each other."
 
-![](/images/screenshot-2026-03-06-at-8-35-01-am.jpg)
+![the only thing I've done is I'm an artist figuring out what an artist is](/images/screenshot-2026-03-06-at-8-35-01-am.jpg)
 
 <small>*Cover: A Report on the Art and Technology Program by the Los Angeles County Museum of Art 1967-1971*</small>
 
@@ -82,7 +82,7 @@ He asked me, "What do artists do?" And I said, "What do you think?" And he told 
 
 At one of the places I eventually went to, called [Garrett](https://en.wikipedia.org/wiki/Garrett_AiResearch), there was this guy who had some wild equipment all over him, Ed Wortz. He was studying the physiology of walking on the moon, like figuring out how much energy it takes to go up a 20% slope. He sat down and also asked, "What do artists do?"
 
-![](/images/wortz-in-space-suit.webp)
+![the only thing I've done is I'm an artist figuring out what an artist is](/images/wortz-in-space-suit.webp)
 
 <small>*Ed Wortz. Photographer unknown.*</small>
 
@@ -94,14 +94,14 @@ He asked me to give a paper. I thought for a while about what happens in those e
 
 Normally, what happens in these events is, they come to town, stay at the Intercontinental downtown, go down to the conference room, sit around a table and talk. Instead what I did was: I prepared my studio in Venice to hold the symposium. I cleared the thing out and transformed it.
 
-![](/images/combo-photo.webp)
+![the only thing I've done is I'm an artist figuring out what an artist is](/images/combo-photo.webp)
 
 <small>*Back alley leading to the opening to Irwin’s studio. Irwin and the freshly made opening*</small>
 
 I had them brought to Venice by a circuitous route so that they were completely lost. They drove up an alley, got out of the bus, and there was a hole in the wall. I just knocked it down with a sledgehammer. They went in and they were inside my studio, which felt a little bit like a capsule: no amenities, no outside light, no outside noise. It was also very reverberant, hard to talk.
 
-![](/images/what-happened-in-part019.webp)
-![](/images/what-happened-in-part016-829x1024.jpg)
+![the only thing I've done is I'm an artist figuring out what an artist is](/images/what-happened-in-part019.webp)
+![the only thing I've done is I'm an artist figuring out what an artist is](/images/what-happened-in-part016-829x1024.jpg)
 
 And they were uncomfortable, really nervous. This is not what they bargained for. This was not a comfortable space. I mean, they went ahead and did what they do, gave their papers. And during the first morning some changes happened. They took off their jackets and did the best they could to accommodate this space. They persevered, because they were professionals.
 
@@ -109,7 +109,7 @@ In the afternoon, they broke up into smaller groups, each discussing some aspect
 
 I had the outside wall of my studio made out of sonotubes [tubes made of cardboard used in construction], very lightweight so I could easily swing them up. At the end of the first day we removed the tubes and you heard the street of Venice. They still couldn't see the outside because the front wall was covered with paper, it was open in a sense that it let soft light and sound through, but no visibility. People were like, "What's going on?"
 
-![](/images/img129.webp)
+![the only thing I've done is I'm an artist figuring out what an artist is](/images/img129.webp)
 
 <small>Symposium space on the first day. This and all color photographs below by Larry Bell.</small>
 
@@ -117,7 +117,7 @@ That night I also opened up a couple of skylights, so when they came the second 
 
 On the second day, only half of them would go into the breakout rooms. Some said, "No. We're not going in them. We'll go out and sit on the beach." The first day they had been in suits, and on the second day they were sitting on the beach. The environment had begun to change their actions and comforts.
 
-![](/images/irwin-at-symposium-1.webp)
+![the only thing I've done is I'm an artist figuring out what an artist is](/images/irwin-at-symposium-1.webp)
 
 <small>Robert Irwin at his studio, second day of the symposium</small>
 
@@ -127,7 +127,7 @@ At the end of the first session that day I cut the outside wall paper and we wal
 
 On the third day there was actually no outside wall. People walked by on the street and looked in and wanted to know what was going on. The police came by and wanted to know what was happening. The trash men banged their trash cans as they went by and everybody was peeking in. By the third day, nobody would go into those breakout rooms.
 
-![](/images/img128.webp)
+![the only thing I've done is I'm an artist figuring out what an artist is](/images/img128.webp)
 
 <small>Lunch</small>
 
@@ -137,7 +137,7 @@ Certain guys tore up their papers and just started speaking ad hoc, addressing w
 
 <mark>The symposium was, I think, a pretty big success. It didn't answer any questions, but it reframed the dialogue.</mark>
 
-![](/images/what-happened-in-part005.webp)
+![the only thing I've done is I'm an artist figuring out what an artist is](/images/what-happened-in-part005.webp)
 
 <small>Afternoon session on the beach</small>
 
@@ -145,7 +145,7 @@ Certain guys tore up their papers and just started speaking ad hoc, addressing w
 
 **RI:** Larry Bell had a camera in his hand the whole time. He photographed everything.
 
-![](/images/img134.webp)
+![the only thing I've done is I'm an artist figuring out what an artist is](/images/img134.webp)
 
 <small>Second or third day. Larry Bell operates the moving image camera by the back wall.</small>
 
@@ -169,7 +169,7 @@ I thought, you're here to talk about what's it going to be like in a capsule? Wh
 
 In a sense, we destroyed the symposium because people started talking about, "Why are we feeling this way?", and began to discuss the quality of being within a capsule. They started talking about what it felt, how much they were affected by spaces. Which was not a thing they as scientists normally considered. <mark>But, as an artist, I was more involved with that kind of problem than they were. It was a problem I was living with. So I presented it to them because it was gonna be a problem they were gonna deal with.</mark>
 
-![](/images/microwave-oven.jpg)
+![the only thing I've done is I'm an artist figuring out what an artist is](/images/microwave-oven.jpg)
 
 <small>Maquette of a microwave oven designed by Irwin for NASA, fabricated by Jack Brogan.</small>
 
@@ -187,7 +187,7 @@ Most startling things happened: the entire world became animated. Trees, of cour
 
 <mark>Those anechoic chamber experiments really focused me on the idea of what is the subject of art. The way I understood the symposium, and the art, it was not about informing people. It was an inquiry, a way of looking at the world.</mark> What I wanted to do is to change the way people who came to the Symposium were looking at the world. What does the world mean to us? How do we absorb it, act on it, function in it? How it affects us, makes us, redefines us?
 
-![](/images/irwin-and-turrell-in-the-anechoic-chamber.webp)
+![the only thing I've done is I'm an artist figuring out what an artist is](/images/irwin-and-turrell-in-the-anechoic-chamber.webp)
 
 <small>Robert Irwin and James Turrell in the UCLA anechoic chamber. Photograph by Malcolm Lubliner</small>
 
@@ -197,7 +197,7 @@ In the 20 years before that project I took painting apart and threw it away, bec
 
 <mark>To a great degree, the way art is practiced is like those guys on the first day of the symposium, when they came in their suits: they had a frame around their subject. But on what grounds do you make that frame?</mark>
 
-![](/images/getty-83-crop.jpg)
+![the only thing I've done is I'm an artist figuring out what an artist is](/images/getty-83-crop.jpg)
 
 <small>Irwin, *Life* magazine, 1962</small>
 
@@ -215,9 +215,9 @@ You put all this together and see that, in the history of the 19th century, the 
 
 **RI:** Because the symposium was done in the science world. LACMA never did a show about it. They did a show of all the winking, blinking things that were made in the Art and Technology project, but not the Symposium.
 
-![](/images/getty-127.jpg)
-![](/images/getty-122.jpg)
-![](/images/getty-131.jpg)
+![the only thing I've done is I'm an artist figuring out what an artist is](/images/getty-127.jpg)
+![the only thing I've done is I'm an artist figuring out what an artist is](/images/getty-122.jpg)
+![the only thing I've done is I'm an artist figuring out what an artist is](/images/getty-131.jpg)
 
 <small>Irwin’s notebooks. Getty Research Institute Archives</small>
 
@@ -247,7 +247,7 @@ I've never been to an art fair. I won't go in. I don't want to know about it. As
 
 I have a piece right now [2018] in a gallery right across the street from LACMA. The space is in an office building that actually had beautiful light. But the first thing the gallery did when they rented it was put up walls, so they can hang paintings. They immediately eliminated the most beautiful thing about the space. That tells you the state of art right now. And the worst thing is they don't even know their own history.
 
-[![](/images/screenshot-2026-03-08-at-11-38-23-am.jpg)](https://spruethmagers.com/exhibitions/robert-irwin-los-angeles/)
+[![the only thing I've done is I'm an artist figuring out what an artist is](/images/screenshot-2026-03-08-at-11-38-23-am.jpg)](https://spruethmagers.com/exhibitions/robert-irwin-los-angeles/)
 
 <small>Installation view, [Sprüth Magers Los Angeles](https://spruethmagers.com/exhibitions/robert-irwin-los-angeles/), 2018</small>
 
@@ -265,10 +265,10 @@ I have a piece right now [2018] in a gallery right across the street from LACMA.
 
 **RI:** It was more about science, it was not about art. It was science, but they had wandered into our area. You know what I mean? I was more prepared to deal with their problem than they were. They were dealing with a problem that was antithetical to their methodology. So <mark>what I did is experientially make them do something they don't normally do, which is to act as a sentient being for whom feelings are tantamount to ideas. That has political ramifications.</mark>
 
-![](/images/getty-5.jpg)
-![](/images/lacma-67.jpg)
-![](/images/getty-13.jpg)
-![](/images/lacma-68.jpg)
+![the only thing I've done is I'm an artist figuring out what an artist is](/images/getty-5.jpg)
+![the only thing I've done is I'm an artist figuring out what an artist is](/images/lacma-67.jpg)
+![the only thing I've done is I'm an artist figuring out what an artist is](/images/getty-13.jpg)
+![the only thing I've done is I'm an artist figuring out what an artist is](/images/lacma-68.jpg)
 
 <small>Printed materials from the symposium with Irwin’s notes</small>
 
@@ -290,10 +290,10 @@ That led to the [Market Street Project](https://www.artforum.com/features/los-an
 
 **RI:** There was some good stuff in there. You're not really looking at the art, you're saying, "Here's a group that's becoming dynamic, having interesting interactions, they're connecting in a meaningful way." You don't know who they are or what their work is, but it's actually more meaningful than when you curate with an abstract idea in mind. I was fascinated by this, so I turned my whole studio over to Josh. The project had interesting implications, but you couldn't make a dime on it.
 
-![](/images/getty-58.jpg)
-![](/images/getty-72-crop.jpg)
-![](/images/getty-73-crop.jpg)
-![](/images/getty-75-crop.jpg)
+![the only thing I've done is I'm an artist figuring out what an artist is](/images/getty-58.jpg)
+![the only thing I've done is I'm an artist figuring out what an artist is](/images/getty-72-crop.jpg)
+![the only thing I've done is I'm an artist figuring out what an artist is](/images/getty-73-crop.jpg)
+![the only thing I've done is I'm an artist figuring out what an artist is](/images/getty-75-crop.jpg)
 
 <small>Report on the Market Street Program 1971-1973</small>
 
@@ -307,7 +307,7 @@ I said, "The first thing you have to know: everything you're saying is true." An
 
 There's a photograph of the two of us. He looks like this little angel and I look like a fucking wild man.
 
-![](/images/robert-irwin-and-chris-burden.jpg)
+![the only thing I've done is I'm an artist figuring out what an artist is](/images/robert-irwin-and-chris-burden.jpg)
 
 <small>Irwin and Burden, early 1970s</small>
 
@@ -341,7 +341,7 @@ We're covering a lot of ground here!
 
 **BO:** It's a very interesting moment, a lot is changing in ways museums work. Many people I speak with are interested in the Symposium, in the art world but also outside of it.
 
-![](/images/getty-112-crop.jpg)
+![the only thing I've done is I'm an artist figuring out what an artist is](/images/getty-112-crop.jpg)
 
 <small>Irwin’s installation at the US pavilion at the 1976 Venice Biennale. Nails and rope on grass.</small>
 
@@ -357,13 +357,13 @@ They wanted to be there badly, and what brought them there had nothing to do wit
 
 <mark>But why has this idea of cross-disciplining failed so many times? It's such a good idea, of interdisciplinary dialogue. It's a very desirable idea that everyone appreciates, but it's very hard to find situations where it succeeded.</mark> If I were you, that's the first thing I'd try to figure out: why hasn't it worked.
 
-![](/images/lacma-49-crop.jpg)
-![](/images/lacma-50-crop.jpg)
-![](/images/lacma-51-crop.jpg)
-![](/images/lacma-52-crop.jpg)
-![](/images/lacma-53-crop.jpg)
-![](/images/lacma-54-crop.jpg)
-![](/images/lacma-55-crop.jpg)
+![the only thing I've done is I'm an artist figuring out what an artist is](/images/lacma-49-crop.jpg)
+![the only thing I've done is I'm an artist figuring out what an artist is](/images/lacma-50-crop.jpg)
+![the only thing I've done is I'm an artist figuring out what an artist is](/images/lacma-51-crop.jpg)
+![the only thing I've done is I'm an artist figuring out what an artist is](/images/lacma-52-crop.jpg)
+![the only thing I've done is I'm an artist figuring out what an artist is](/images/lacma-53-crop.jpg)
+![the only thing I've done is I'm an artist figuring out what an artist is](/images/lacma-54-crop.jpg)
+![the only thing I've done is I'm an artist figuring out what an artist is](/images/lacma-55-crop.jpg)
 
 <small>Drafts of Irwin, Turrell and Wortz’s draft texts for the Report on the Art and Technology Program</small>
 
@@ -383,7 +383,7 @@ The lady who made that place happen, Marianne Stockebrand, terrific lady. Tough 
 
 Judd was a terrific artist, a standout in a group of standouts. He wasn't just making art, he was changing the rules of the game.
 
-![](/images/9783775745604-hr02-1.jpg)
+![the only thing I've done is I'm an artist figuring out what an artist is](/images/9783775745604-hr02-1.jpg)
 
 <small>Dawn to Dusk, Chinati Foundation, Marfa, TX</small>
 
@@ -395,7 +395,7 @@ At one point the Museum of Modern Art was an art museum. It was really close to 
 
 There was one lady at MOMA who was pushing it to do things. Jenny Licht. She had one little room and she did a series of projects that were live. She'd let me in after the museum closed, because the painters wouldn't paint, the carpenters wouldn't do carpentry, they wouldn't do anything, because of the unions. So we had to do everything ourselves. She'd let me in at closing time and I would work all night. What I loved about it was, every time I went into this half-assed little room, right next door was a Brancusi!
 
-![](/images/screenshot-2026-03-09-at-7-27-26-am.jpg)
+![the only thing I've done is I'm an artist figuring out what an artist is](/images/screenshot-2026-03-09-at-7-27-26-am.jpg)
 
 <small>Irwin’s installation at MoMA, 1971</small>
 
@@ -411,7 +411,7 @@ It's become a party town, which is not necessarily to do with Judd. He was the o
 
 **RI:** I did the [Primal Palm Garden in LACMA](https://collections.lacma.org/node/424405). How I got that job was, I happened to be there the day Michael Govan, the director, was interviewing a landscape firm which was gonna do his grounds. He asked me to come and observe. They did a presentation about how they are going to plant some trees, and then at the end there was a lull and the guy asked me, what do you think? I said, "This is all nice, but there's no rhyme or reason for how and what way you chose those trees and how you put them together." And he said, "Okay smart ass, what would one be?"
 
-![](/images/cjbsfxcueaeyknp.jpg)
+![the only thing I've done is I'm an artist figuring out what an artist is](/images/cjbsfxcueaeyknp.jpg)
 
 <small>Primal Palm Garden, 2010, LACMA, Los Angeles, CA</small>
 
@@ -421,7 +421,7 @@ So here we are, we've got the tar pits there, the palms in the middle of the str
 
 Most people that go to the Getty Institute don't enter the museum. They go to the [garden](https://www.getty.edu/art/collection/object/108FPQ) I designed there. I didn't know anything about gardens before I made it, but apparently I did make an authentic garden, and they come, and they are the best audience. They're not the art world, they're just so enthusiastic, and they’re knowledgeable. They know what it is and they appreciate it, boy they appreciate what I introduced into the world.
 
-![](/images/getty-center-museum-garden-robert-irwin.jpg)
+![the only thing I've done is I'm an artist figuring out what an artist is](/images/getty-center-museum-garden-robert-irwin.jpg)
 
 <small>Getty Institute garden designed by Irwin</small>
 
@@ -441,6 +441,6 @@ But also, at 90 years old, I don't move around too well. I'm going to go to New 
 
 **BO:** I hope you come. Thank you so much for your time!
 
-![](/images/getty-98-crop.jpg)
+![the only thing I've done is I'm an artist figuring out what an artist is](/images/getty-98-crop.jpg)
 
 <small>*A Rainy Taxi, a Tea Cup Of Fur*, The New York Times, 1968</small>

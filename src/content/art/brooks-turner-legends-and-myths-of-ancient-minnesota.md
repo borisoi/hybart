@@ -25,10 +25,10 @@ Among the countless aberrations of 2020 in America, there is one that stands out
 
 Minneapolis, 2020
 
-[![](/images/art/brooks-16x9.jpg)](https://wam.umn.edu/education/target-studio-for-creative-collaboration/laborofsharedmeaning/)
+[![Brooks Turner: Legends and Myths of Ancient Minnesota](/images/art/brooks-16x9.jpg)](https://wam.umn.edu/education/target-studio-for-creative-collaboration/laborofsharedmeaning/)
 
 <small>Brooks Turner, “Elks Lodge,” 2020. Part of The Legends and Myths of Ancient Minnesota , an exhibition-in-print published in partnership with the Star Tribune on Oct. 25, 2020. Collage courtesy of the artist.</small>
-![](/images/art/brooks-turner-2.jpg)
-![](/images/art/srg7496.jpg)
+![Brooks Turner: Legends and Myths of Ancient Minnesota](/images/art/brooks-turner-2.jpg)
+![Brooks Turner: Legends and Myths of Ancient Minnesota](/images/art/srg7496.jpg)
 
 <small>Installation view, Brooks Turner: The Legends and Myths of Ancient Minnesota, an exhibition-in print-published with the Star Tribune , Oct. 25, 2020. On-site at Weisman Art Museum, Oct 2020 – Jan 2021. Photo: Boris Oicherman.</small>

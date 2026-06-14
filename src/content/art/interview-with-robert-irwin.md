@@ -8,7 +8,7 @@ order: 14
 oldUrl: https://www.oicherman.art/boris/b-art/interview-with-robert-irwin
 ---
 
-[![](/images/art/irwin-at-symposium-1.jpeg)](https://wam.umn.edu/2018/10/01/habitability-of-environments-interview-with-robert-irwin/)
+[![Interview with Robert Irwin about the First National Symposium on Habitability of Environments](/images/art/irwin-at-symposium-1.jpeg)](https://wam.umn.edu/2018/10/01/habitability-of-environments-interview-with-robert-irwin/)
 
 <small>Robert Irwin at his studio during the First National Symposium on Habitability of Environments, 1970. Photograph by Larry Bell</small>
 
@@ -58,28 +58,28 @@ Normally, they come to town and they stay at the Intercontinental and they go do
 
 Then I had them brought over from the hotel. They were lost, they walked up an alley and there’s a hole in the wall that I just knocked down with a sledgehammer. They went in through it, and they were inside the space, which was a little bit like a capsule. There was no outdoor, no sense of where it was, no amenities, no outside light, no outside noise. I built a cardboard island, a stand for them to sit on so that the acoustics were good enough that they could carry on a normal conversation.
 
-![](/images/art/what-happened-in-part019.jpeg)
+![Interview with Robert Irwin about the First National Symposium on Habitability of Environments](/images/art/what-happened-in-part019.jpeg)
 
 <small>Robert Irwin and Ed Wortz preparing Irwin’s studio for the symposium</small>
 
 They were really fucked up. They were really nervous. This is not what they bargained for. This was not a comfortable space. There’s no daylight. There’s no sense of outdoors. You’re in a capsule. And so they persevered. I mean, they went ahead to do what they do, gave their papers, and everyone sat on this island. But during the first morning a lot of physical changes were made. They took off their jackets and they did the best they could do to accommodate this space, be in this space.
 
-![](/images/art/combo-photo.jpeg)
+![Interview with Robert Irwin about the First National Symposium on Habitability of Environments](/images/art/combo-photo.jpeg)
 
 <small>Back alley leading to the opening to Irwin’s studio. Irwin and the freshly made opening</small>
 
 With other artists involved we prepared a lunch;[[9]](#fn9) we tried to make it as crunchy as bittersweet, tactile as well as nutritious. In the afternoon, they broke up into smaller groups, each group having one component of the dialogue. We made rooms for them. We made a room that was just a little too small and we made a room that was just way too big. And we made a room that was too reverberant. And one which was too sound-dampened. Every room had a problem, a physical problem. And they persevered, because they’re professionals.
 
-![](/images/art/img128.jpeg)
+![Interview with Robert Irwin about the First National Symposium on Habitability of Environments](/images/art/img128.jpeg)
 
 <small>Lunch</small>
 
 When they came the second day there was more light in the room. I had one wall made out of sonotubes[[10]](#fn10) so that I could just swing it up.[[11]](#fn11) And they were more relaxed that day. They changed. You could see their change of clothes and habits. People who started out the first day having trouble doing their papers, the second day they were in a much more accommodating mood. At the end of that day’s session I cut [the paper side wall] and we walked out through it; they all sat on the curb and began to intermix rather differently.
 
-![](/images/art/img129.jpeg)
+![Interview with Robert Irwin about the First National Symposium on Habitability of Environments](/images/art/img129.jpeg)
 
 <small>Symposium space on the first day</small>
-![](/images/art/img127.jpeg)
+![Interview with Robert Irwin about the First National Symposium on Habitability of Environments](/images/art/img127.jpeg)
 
 <small>Symposium space on the second day</small>
 
@@ -117,7 +117,7 @@ Responsibility now becomes how and what way do we organize it as a discipline, a
 
 I think the problem [of cross-disciplinary work] is still a problem. It hasn’t been solved. Cross disciplining is the ambition of a lot of people in academia and has very seldom ever been pulled off. I’m just weighing right now in my mind what it would take for you to be able to do that.[[14]](#fn14)
 
-![](/images/art/what-happened-in-part005.jpeg)
+![Interview with Robert Irwin about the First National Symposium on Habitability of Environments](/images/art/what-happened-in-part005.jpeg)
 
 <small>Afternoon session on the beach</small>
 
@@ -161,7 +161,7 @@ The trip to the universe. It was a totally intriguing and beautiful problem, but
 
 Whether I’m right or wrong, in my mind I got involved in a really great question of what it means to be an artist right now and in what way art is going to manifest itself.
 
-![](/images/art/img134.jpeg)
+![Interview with Robert Irwin about the First National Symposium on Habitability of Environments](/images/art/img134.jpeg)
 
 <small>Symposium space on the second day. Image: Larry Bell (at the back, operating the movie camera)</small>
 
@@ -201,6 +201,6 @@ They tolerated this thing in the beginning—and then became aware that, essenti
 </ol>
 
 
-![](/images/art/wortz-in-space-suit.jpeg)
+![Interview with Robert Irwin about the First National Symposium on Habitability of Environments](/images/art/wortz-in-space-suit.jpeg)
 
 <small>Ed Wortz. Photographer unknown.</small>

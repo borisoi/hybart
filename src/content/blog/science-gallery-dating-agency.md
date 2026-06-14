@@ -7,7 +7,7 @@ cover: /images/internationally-recognised.jpg
 excerpt: "We'd rather be where teenagers come on a first date than a quiet exhibition space. It's all about the conversation."
 ---
 
-[![](/images/internationally-recognised.jpg)](https://sciencegallery.org/)
+[![Science Gallery: The Dating Agency for Collaborations](/images/internationally-recognised.jpg)](https://sciencegallery.org/)
 
 - #### About Sarah and Ryan
 
@@ -24,7 +24,7 @@ excerpt: "We'd rather be where teenagers come on a first date than a quiet exhib
   - **Cultural diversity drives innovation**: Demographic and cultural diversity directly correlates with expanded research approaches.
   - **Mixed economic sustainability model**: Long-term viability requires combining university core funding, philanthropy, government grants, and earned income.
 
-![](/images/b-rosette-2-7.png)
+![Science Gallery: The Dating Agency for Collaborations](/images/b-rosette-2-7.png)
 
 *We'd rather be where teenagers come on a first date than a quiet exhibition space. It's all about the conversation.*
 
@@ -36,7 +36,7 @@ excerpt: "We'd rather be where teenagers come on a first date than a quiet exhib
 
 [Chris Horn](https://en.wikipedia.org/wiki/Chris_Horn_(computer_scientist)) was the original founder, [Michael John Gorman](https://sts-program.mit.edu/people/sts-faculty/michael-john-gorman/) and [Lynn Scarff](https://en.wikipedia.org/wiki/Lynn_Scarff) brought the vision—not just science engagement but art-science engagement, multidisciplinarity, STEM to STEAM. We decided to focus on 15-25 year olds, be future-focused, and have no permanent collection. We did controversial exhibitions that caused trouble: once [covered](https://www.youtube.com/playlist?list=PLD4EE739642692EA6) the building with "Infectious" during the swine flu outbreak. Nearly closed us down!
 
-![](/images/sg-infectious.jpg)
+![Science Gallery: The Dating Agency for Collaborations](/images/sg-infectious.jpg)
 
 <small>[INFECTIOUS: Stay Away](https://www.youtube.com/playlist?list=PLD4EE739642692EA6), Science Gallery Dublin (2009). Photo: Patrick Bolger.</small>
 
@@ -60,11 +60,11 @@ Last year we had four bricks-and-mortar galleries—it's taken time to reach thi
 
 And we've seen those transformations happen. Former mediators and participants have gone on to research and teaching, transforming universities from within. Faculty told us how working with Science Gallery changed the ways they think about research.
 
-![](/images/dsc-5741-hdr.jpg)
+![Science Gallery: The Dating Agency for Collaborations](/images/dsc-5741-hdr.jpg)
 
 <small>Stuff Change, multi-sensory inflatable installation, by Denisa Pubalova, and Lea Luka Sikau. [CALORIE](https://sciencegallery.org/opencall/calorie), Science Gallery Bengaluru, 2025</small>
 
-![](/images/b-rosette-2-2.png)
+![Science Gallery: The Dating Agency for Collaborations](/images/b-rosette-2-2.png)
 
 #### What’s In It for Universities?
 
@@ -78,7 +78,7 @@ Science Gallery is also a social space, a permeable boundary between city and un
 
 And we throw a great party!
 
-![](/images/science-gallery-darkmatters-lowres-85.webp)
+![Science Gallery: The Dating Agency for Collaborations](/images/science-gallery-darkmatters-lowres-85.webp)
 
 <small>Image: Chroma V by Yunchul Kim in Science Gallery Melbourne’s DARK MATTERS. Photography: Emma Byrnes, 2023</small>
 
@@ -96,7 +96,7 @@ We've focused on other aspects too. One is working with First Nations communitie
 
 Another is accessibility. We've been supporting the deaf and hard of hearing community, partnering with the Victorian College for the Deaf for learning programs. We've had to completely rethink how to deliver programs in a gallery environment. What is an exhibition like for a deaf individual? Those communities have pushed us, but it's allowed us to be far more accessible across the diversity, inclusion and equity space.
 
-![](/images/b-rosette-2-3.png)
+![Science Gallery: The Dating Agency for Collaborations](/images/b-rosette-2-3.png)
 
 #### Focus on Youth
 
@@ -104,7 +104,7 @@ Another is accessibility. We've been supporting the deaf and hard of hearing com
 
 **SD:** Take [Joseph Roche](https://josephroche.ie/), one of our first mediators—he's now Assistant Dean, studied astrophysics, works with NASA and Harvard, doing innovative things in the School of Education and bringing in significant funding. Two mediators from 2019 set up an AI healthcare company and used their Science Gallery knowledge to pitch differently to angel investors.
 
-![](/images/061422-science-gallery-atlanta001.webp)
+![Science Gallery: The Dating Agency for Collaborations](/images/061422-science-gallery-atlanta001.webp)
 
 <small>We’re All Searching for Rest by William Massey, HOOKED, Science Gallery Atlanta (2022). Installation view. Photo: Jenna Heaton.</small>
 
@@ -116,7 +116,7 @@ Our mediators visit other Science Gallery locations and connect through working 
 
 We're reaching a point where we can connect researchers on big multidisciplinary projects across locations for major funding. This challenges universities to rethink PhD offerings, because students expect multidisciplinary work now. Our focus groups showed this—in early days we argued science and art should connect, but now young people are already there, ahead of us.
 
-![](/images/b-rosette-2-4.png)
+![Science Gallery: The Dating Agency for Collaborations](/images/b-rosette-2-4.png)
 
 #### Cultivating Collaboration
 
@@ -140,11 +140,11 @@ Being university-based, no matter what theme we pick, there's always an expert a
 
 **SD:** We're not looking for perfect artworks, <mark>talking about failure and process is just as important as something looking beautiful.</mark> That's another aspect of being edgy—it's not about perfectly formed exhibitions. There's roughness and grit that makes them more appealing to the public and more honest about what this work actually is.
 
-![](/images/nanocarbon-cococcon-nopo-nanotechnology.jpg)
+![Science Gallery: The Dating Agency for Collaborations](/images/nanocarbon-cococcon-nopo-nanotechnology.jpg)
 
 <small>Mediator during [CARBON](https://sciencegallery.org/opencall/carbon), Science Gallery Bengaluru (2023).</small>
 
-![](/images/b-rosette-2-5.png)
+![Science Gallery: The Dating Agency for Collaborations](/images/b-rosette-2-5.png)
 
 #### Success and Failure
 
@@ -170,7 +170,7 @@ Diversifying access pathways for young people can be achieved via disruptive ped
 
 **SD:** One of the most successful ones, from Samuel Beckett's "[Try again. Fail again. Fail better.](https://www.goethe.de/ins/us/en/sta/los/bih/feh/21891928.html)" It had Christopher Reeve's wheelchairs, a medal from one of our Olympic winners who didn't quite win gold. Talking about failure is important. <mark>The only real failure is if you don't learn or don't bring that learning back into the system.</mark>
 
-![](/images/fail-better.jpg)
+![Science Gallery: The Dating Agency for Collaborations](/images/fail-better.jpg)
 
 <small>FAIL BETTER, Science Gallery Dublin (2014). Installation view. Photo: Dejan Karin.</small>
 
@@ -178,7 +178,7 @@ Sometimes we see challenges at new locations. They look at what Dublin or Melbou
 
 Not all locations have made it through to being full Science Galleries, and that's sometimes not the point. Things have popped up and closed down but still had an impact. Nothing is really lost. I don't know of any other network like this doing the work that has made it this far as a nonprofit still in existence 15 years on.
 
-![](/images/b-rosette-2-6.png)
+![Science Gallery: The Dating Agency for Collaborations](/images/b-rosette-2-6.png)
 
 #### Financial Support
 
@@ -204,7 +204,7 @@ In Bengaluru it's different—founded by the government of Karnataka as an indep
 
 **SD:** That's more working with others. Science Gallery London has staff to help the broader university apply for multidisciplinary research. We can facilitate different types of research funding into universities, but Science Gallery International doesn't necessarily host research funding directly.
 
-![](/images/b-rosette-2-7.png)
+![Science Gallery: The Dating Agency for Collaborations](/images/b-rosette-2-7.png)
 
 #### The Future
 
@@ -216,7 +216,7 @@ An example—we just launched the Global Classroom Initiative. The opportunity f
 
 We're seeing the rise of AI and technology at a revolutionary rate. We don't know what the next five years will bring, but it will be huge change. How do we continue to be at the forefront? How do we use technology as a tool for good? That's a real opportunity through this global classroom—augmented reality, metaverse environments, connecting young people across different locations.
 
-![](/images/science-gallery-melbourne-distraction-credit-astrid-mulder-web-1-1.webp)
+![Science Gallery: The Dating Agency for Collaborations](/images/science-gallery-melbourne-distraction-credit-astrid-mulder-web-1-1.webp)
 
 <small>Installation view of Arcade by Freeplay in Science Gallery Melbourne’s DISTRACTION. Photography: Astrid Mulder, 2025</small>
 

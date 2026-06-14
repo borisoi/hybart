@@ -50,6 +50,25 @@ const ogImage = new URL(image ?? '/images/og-default.jpg', SITE).href;
     gtag('js', new Date());
     gtag('config', 'G-15WJM4QZ9P');
   </script>
+  <script type="application/ld+json" is:inline set:html={JSON.stringify([
+    {
+      "@context": "https://schema.org",
+      "@type": "WebSite",
+      "name": "Hybrid Arts",
+      "url": "https://hyb.art",
+      "author": { "@type": "Person", "name": "Boris Oicherman" }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Person",
+      "name": "Boris Oicherman",
+      "url": "https://hyb.art",
+      "image": "https://hyb.art/images/srg0974.jpg",
+      "jobTitle": "Executive & Artistic Director, Wave Pool",
+      "worksFor": { "@type": "Organization", "name": "Wave Pool", "url": "https://www.wavepoolgallery.org/" },
+      "knowsAbout": ["Hybrid arts", "Creative collaboration", "Socially engaged art", "Color science"]
+    }
+  ])} />
 </head>
 <body style={accent ? `--accent: ${accent}` : undefined}>
   <header class:list={['site', { wide }]}>

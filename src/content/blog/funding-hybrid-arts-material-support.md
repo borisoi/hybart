@@ -7,7 +7,7 @@ cover: /images/srg2620-medres.jpg
 excerpt: "Material Support for Hybrid Arts: revisiting the report “Investing in Creativity” through the lens of Hybrid Arts."
 ---
 
-![](/images/srg2620-medres.jpg)
+![Funding Hybrid Arts. Investing in Hybrid Arts, pt. IV: Material Support](/images/srg2620-medres.jpg)
 
 <small>*Image: “Conversations About Sleep” by* [*Peng Wu*](https://wam.umn.edu/peng-wu-and-art-sleep) *and Dr. Michael Howell, Weisman Art Museum, 2018, Arts and Medicine program at the University of Minnesota.*</small>
 
@@ -31,7 +31,7 @@ excerpt: "Material Support for Hybrid Arts: revisiting the report “Investing i
 
 9 minute read
 
-![](/images/h-rosette-7.png)
+![Funding Hybrid Arts. Investing in Hybrid Arts, pt. IV: Material Support](/images/h-rosette-7.png)
 
 *Just as we cannot solve a problem with the same mindset that created it, we cannot achieve cultural democracy or equity with the same tools, strategies, and structures that built and have maintained our current inequitable systems. To move forward, we must look, think, and act widely.*
 
@@ -45,7 +45,7 @@ The report’s recommendations are as relevant today as they were 20 years ago: 
 
 In this post, I'll focus on these unique demands of hybrid arts, particularly as they relate to artists who engage with non-arts for- and non-profit institutions.
 
-![](/images/h-rosette-2.png)
+![Funding Hybrid Arts. Investing in Hybrid Arts, pt. IV: Material Support](/images/h-rosette-2.png)
 
 #### “Entrepreneurs” and “Consultants”
 
@@ -59,7 +59,7 @@ In the other group are artists whose work requires engaging with institutions—
 
 As a result, support structures today look very much like they did in the 60s: short-term residencies, limited vision for impact, and ambition that rarely extends beyond "[artists using the organization as their studio](/art/interview-with-robert-irwin)". It's this group that I'll focus on for the remainder of this post.
 
-![](/images/h-rosette-3.png)
+![Funding Hybrid Arts. Investing in Hybrid Arts, pt. IV: Material Support](/images/h-rosette-3.png)
 
 #### Support Framework for Consulting Artists
 
@@ -79,7 +79,7 @@ Cultural philanthropy has evolved to support production, collection, and present
 
 I will attempt to imagine what such funding programs might look like if they did exist.
 
-![](/images/h-rosette-4.png)
+![Funding Hybrid Arts. Investing in Hybrid Arts, pt. IV: Material Support](/images/h-rosette-4.png)
 
 #### Putting Culture Everywhere
 
@@ -100,7 +100,7 @@ To illustrate why language is important, consider what naming a funding program 
 
 Let's dive deeper into the HHS example.
 
-![](/images/h-rosette-5.png)
+![Funding Hybrid Arts. Investing in Hybrid Arts, pt. IV: Material Support](/images/h-rosette-5.png)
 
 #### Case study: Cultural Determinants of Health
 
@@ -114,7 +114,7 @@ Enter the professionals of culture: consulting artists whose sensibilities, skil
 
 The challenge for philanthropy, in turn, is learning how to adequately support professionals of culture working in healthcare contexts.
 
-![](/images/h-rosette-6.png)
+![Funding Hybrid Arts. Investing in Hybrid Arts, pt. IV: Material Support](/images/h-rosette-6.png)
 
 #### Embedding Culture in Non-Art Grants
 
@@ -129,7 +129,7 @@ Making all this happen will require grantmaking professionals from HHS and Cultu
 
 And indeed, between Arts and Culture and all other programs too.
 
-![](/images/h-rosette-7.png)
+![Funding Hybrid Arts. Investing in Hybrid Arts, pt. IV: Material Support](/images/h-rosette-7.png)
 
 #### From Programs to Worldmaking
 

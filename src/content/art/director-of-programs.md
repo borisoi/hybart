@@ -8,6 +8,6 @@ order: 6
 oldUrl: /art/director-of-programs
 ---
 
-![](/images/art/tcf-hq-1.jpeg)
+![Director, Arts and Culture - Grantmaking and Community Impact](/images/art/tcf-hq-1.jpeg)
 
 Between 2022-2024 I was the Director, in Arts and Culture at the [Cleveland Foundation](https://www.clevelandfoundation.org) in Cleveland, OH, USA.

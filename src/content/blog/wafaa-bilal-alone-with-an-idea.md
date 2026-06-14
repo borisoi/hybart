@@ -7,7 +7,7 @@ cover: /images/wafaa-blog-cover.jpg
 excerpt: "People think we have courage, but actually we simply don't know how to live with fear. … But we are afraid. We are terrified. We are the canaries in the coal mines: hey, there's danger, you got to be alert. And the powers that be don't know what to do with us."
 ---
 
-[![](/images/panel-combined-screenshots.jpg)](https://wafaabilal.com/)
+[![Alone You're Left With Just an Idea: Interview with Wafaa Bilal](/images/panel-combined-screenshots.jpg)](https://wafaabilal.com/)
 
 - #### About Wafaa Bilal
 
@@ -24,7 +24,7 @@ excerpt: "People think we have courage, but actually we simply don't know how to
   - **(Un)Importance of Museums:** Museums have structural constraints that make them slow to respond to urgent issues—alternative spaces are better suited for politically engaged work.
   - **Support for Artists:** The art funding system pushes artists toward commercial production cycles that make them forget why they create. Entities like Creative Capital that provide support with no commercial agenda attached are essential.
 
-![](/images/r2-rosette-6.png)
+![Alone You're Left With Just an Idea: Interview with Wafaa Bilal](/images/r2-rosette-6.png)
 
 *People think we have courage, but actually we simply don't know how to live with fear. … But we are afraid. We are terrified. We are the canaries in the coal mines: hey, there's danger, you got to be alert. And the powers that be don't know what to do with us.*
 
@@ -38,11 +38,11 @@ Traditionally, the artist sits on top of the hierarchy of creation and imbues th
 
 I follow that tradition, but I go further. I redistribute the aura to all collaborators and participants. The collaborators invest their knowledge because they believe in the cause. Then when the work goes public, it generates an empathic response—audience members join in and they too generate the aura. Power moves from institution, to artist, to a changed structure altogether. <mark>Art is the motivator, the thing asking us to change the status quo.</mark>
 
-[![](/images/dt-4.jpg)](https://wafaabilal.com/domestic-tension/)
+[![Alone You're Left With Just an Idea: Interview with Wafaa Bilal](/images/dt-4.jpg)](https://wafaabilal.com/domestic-tension/)
 
 <small>*Domestic Tension*, 2007. Courtesy of the artist.</small>
 
-![](/images/r2-rosette-1.png)
+![Alone You're Left With Just an Idea: Interview with Wafaa Bilal](/images/r2-rosette-1.png)
 
 #### Art as Platform for Engagement
 
@@ -58,7 +58,7 @@ Take "[Domestic Tension](https://wafaabilal.com/domestic-tension/)." It would ne
 
 **BO:** I want to dig deeper into these relationships. It's a beautiful picture, where the aura is equally distributed, but the engagement is evidently *not* equally distributed. There's *you*—without you, nothing happens. Then direct collaborators who co-create with you: robot maker, website programmer. Then curators and museum workers. Then the public. Everyone's a collaborator, but there's also hierarchy. How do you think about these different levels of engagement?
 
-![](/images/img-9318.jpg)
+![Alone You're Left With Just an Idea: Interview with Wafaa Bilal](/images/img-9318.jpg)
 
 <small>*Domestic Tension*, installation at the Museum of Contemporaty Art, Chicago, 2025</small>
 
@@ -70,7 +70,7 @@ And if it's a success, we must accept it with humility and put ego aside, becaus
 
 In "Domestic Tension" we were debating the color of the paintballs. Should it be red? Multicolored? An idea that would never have crossed my mind came from the American culture itself. It was yellow. I asked: why yellow? The team said: because [yellow represents the ribbon of supporting the troops](https://en.wikipedia.org/wiki/Yellow_ribbon).
 
-![](/images/r2-rosette-2.png)
+![Alone You're Left With Just an Idea: Interview with Wafaa Bilal](/images/r2-rosette-2.png)
 
 #### Conflict Zone, Comfort Zone
 
@@ -86,11 +86,11 @@ And also: I created many of my projects during the ongoing conflict in Iraq. Not
 
 In our comfort zone we're distracted. Let me focus you there, on the conflict zone, and—boom, it beams you to what's happening there. That's why these projects unsettle us.
 
-[![](/images/img-9329.jpg)](https://wafaabilal.com/in-a-grain-of-wheat/)
+[![Alone You're Left With Just an Idea: Interview with Wafaa Bilal](/images/img-9329.jpg)](https://wafaabilal.com/in-a-grain-of-wheat/)
 
 <small>*In the Grain of Wheat*, installation at the Museum of Contemporaty Art, Chicago, 2025</small>
 
-![](/images/r2-rosette-3.png)
+![Alone You're Left With Just an Idea: Interview with Wafaa Bilal](/images/r2-rosette-3.png)
 
 #### In the Grain of Wheat
 
@@ -106,7 +106,7 @@ I asked if I could scan it. Met people were my first collaborators—they gave m
 
 Then I decided to embed that 6 GB scan in a grain of wheat, in its DNA. So, when you grow that wheat, every grain would have a Lamassu in it. When you reverse engineer it, you recover the Lamassu. Why? Because wheat gave us the first human settlement, when the Sumerians started planting wheat and settled in the south of Iraq. <mark>The poetic act—when you look at that field of wheat, the Lamassu is invisible to the eye, but alive in every grain, accessible to generations to come.</mark>
 
-![](/images/and-counting-wafaabilal-21.jpg)
+![Alone You're Left With Just an Idea: Interview with Wafaa Bilal](/images/and-counting-wafaabilal-21.jpg)
 
 <small>*…and Counting*, 2010. Courtesy of the artist.</small>
 
@@ -128,7 +128,7 @@ Then we looked for who could implement our plan. We needed a DNA lab.
 
 **BO:** Just to be clear—up to this point your only collaborators on the DNA part of the project are other artists? One artist builds a data compression algorithm, another designs a DNA modification roadmap?
 
-![](/images/lamassu-render-hires4.jpg)
+![Alone You're Left With Just an Idea: Interview with Wafaa Bilal](/images/lamassu-render-hires4.jpg)
 
 <small>*In a Grain of Wheat,* 2021. Curtesy of the artist.</small>
 
@@ -138,13 +138,13 @@ So once we had the plan for how to get this code into DNA, we had to implement i
 
 But then came the curator-artist collaboration: we needed an object, a physical manifestation, not just the grain. Something embodying resilience, indexing the destruction, and rising. That's why at the MCA you saw a black 3D-printed Lamassu. There's no black Lamassu in Iraq. The black points to ISIS's attack.
 
-![](/images/img-9370.jpg)
+![Alone You're Left With Just an Idea: Interview with Wafaa Bilal](/images/img-9370.jpg)
 
 <small>*In the Grain of Wheat*, installation at the Museum of Contemporaty Art, Chicago, 2025</small>
 
 Traditional Lamassus have five legs because they're next to gates—you see them from two angles, front and side. This one is marching, coming. One decision took me very long—the relation between the black Lamassu and the wheat. In conversation with the curator it became this magical gesture: what if grain is leaking from the hoof? When people take grains, the Lamassu produces more. The Lamassu itself becomes the storage, the sower.
 
-![](/images/img-9327.jpg)
+![Alone You're Left With Just an Idea: Interview with Wafaa Bilal](/images/img-9327.jpg)
 
 <small>*In the Grain of Wheat*, installation at the Museum of Contemporaty Art, Chicago, 2025</small>
 
@@ -156,7 +156,7 @@ Traditional Lamassus have five legs because they're next to gates—you see them
 
 **WB:** We tried.
 
-![](/images/r2-rosette-4.png)
+![Alone You're Left With Just an Idea: Interview with Wafaa Bilal](/images/r2-rosette-4.png)
 
 #### Project Support
 
@@ -166,7 +166,7 @@ Traditional Lamassus have five legs because they're next to gates—you see them
 
 **BO:** One reason I left [curating](/art/curator-for-creative-collaboration) to work for funders, I saw how difficult it is to fund complex projects that touch so many disciplinary fields. We know how to commission sculpture or painting, but most museums don't know how to commission something like "In a Grain of Wheat." MCA's openness to this project is remarkable.
 
-![](/images/wafaa-for-exhib-bd-28-32.jpg)
+![Alone You're Left With Just an Idea: Interview with Wafaa Bilal](/images/wafaa-for-exhib-bd-28-32.jpg)
 
 <small>*3rdi*, 2010–11. Photo: Bryan Derballa.</small>
 
@@ -180,13 +180,13 @@ What we need are more entities like Creative Capital. Give money to artists with
 
 **BO:** Besides Creative Capital, can you name other funders you've had success with?
 
-[![](/images/168-01.jpg)](https://wafaabilal.com/168h01s/)
+[![Alone You're Left With Just an Idea: Interview with Wafaa Bilal](/images/168-01.jpg)](https://wafaabilal.com/168h01s/)
 
 <small>168:01, 2016-ongoing. New Orleans Museum of Art.</small>
 
 **WB:** [Artpace San Antonio](https://artpace.org/) is a fabulous residency. [Civitella Ranieri](https://civitella.org/) is another one. That's where the idea for "[168:01](https://arabamericanmuseum.org/exhibition/16801-an-installation-by-wafaa-bilal/)" came. I was drinking coffee when I got the idea. I started running around saying I got it, I got it. My friend was like, what did you get? I told her. We both started crying.
 
-![](/images/r2-rosette-5.png)
+![Alone You're Left With Just an Idea: Interview with Wafaa Bilal](/images/r2-rosette-5.png)
 
 #### Artists, Museums, Society
 
@@ -204,7 +204,7 @@ What we need are more entities like Creative Capital. Give money to artists with
 
 **WB:** Exactly.
 
-[![](/images/wafaa-bilal-sill-from-virtual-jihadi-video-game-2008.jpg)](https://wafaabilal.com/canto-iii/)
+[![Alone You're Left With Just an Idea: Interview with Wafaa Bilal](/images/wafaa-bilal-sill-from-virtual-jihadi-video-game-2008.jpg)](https://wafaabilal.com/canto-iii/)
 
 <small>*Virtual Jihadi* (still), 2008. Curtesy of the artist.</small>
 
@@ -220,9 +220,9 @@ Perhaps we could start a new museum! You know, museums tend to get outdated like
 
 **BO:** I expected I'd push you to critique the museums, and what I got from you instead is empathy for them. Your capacity for empathy is remarkable.
 
-![](/images/combined.jpg)
-![](/images/img-9324.jpg)
-![](/images/img-9326.jpg)
+![Alone You're Left With Just an Idea: Interview with Wafaa Bilal](/images/combined.jpg)
+![Alone You're Left With Just an Idea: Interview with Wafaa Bilal](/images/img-9324.jpg)
+![Alone You're Left With Just an Idea: Interview with Wafaa Bilal](/images/img-9326.jpg)
 
 <small>Rendering of *Canto III*,2024. © Wafaa Bilal, courtesy of the artist.</small>
 

@@ -34,6 +34,6 @@ The status of a political controversy does not exempt an issue from moral scruti
 
 Minneapolis, 2021
 
-[![](/images/art/use-this-see-something-2.jpg)](https://wam.umn.edu/education/target-studio-for-creative-collaboration/laborofsharedmeaning/)
+[![Artists Respond to Texas Senate Bill 8: An Introduction to the Series](/images/art/use-this-see-something-2.jpg)](https://wam.umn.edu/education/target-studio-for-creative-collaboration/laborofsharedmeaning/)
 
 <small>If you see something by Monica Sheets</small>
