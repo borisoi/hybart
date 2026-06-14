@@ -121,6 +121,22 @@ const isGanzfeld = p.id === 'ganzfeld-dot-art';
 <script>
   const prose = document.querySelector('.art-project .prose');
   if (prose) {
+    // give each video its true aspect ratio (instead of a forced 16:9), and
+    // centre + cap portrait videos so the player keeps all its controls.
+    prose.querySelectorAll('iframe').forEach((f) => {
+      if (/bandcamp/.test(f.src)) return;
+      const w = parseInt(f.getAttribute('width') || '', 10);
+      const h = parseInt(f.getAttribute('height') || '', 10);
+      if (!w || !h) return;
+      f.style.aspectRatio = `${w} / ${h}`;
+      if (h > w) {
+        f.style.width = 'auto';
+        f.style.maxWidth = '100%';
+        f.style.height = 'min(78vh, 150vw)';
+        f.style.marginInline = 'auto';
+      }
+    });
+
     const isImgP = (el) => {
       if (el.tagName !== 'P') return false;
       let imgs = 0;
