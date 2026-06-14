@@ -11,6 +11,9 @@ interface Props {
 }
 const { title, description, accent, crumb, crumbHref, wide } = Astro.props;
 const year = new Date().getFullYear();
+const ogTitle = title === 'Hybrid Arts' ? title : `${title} — Hybrid Arts`;
+const ogUrl = new URL(Astro.url.pathname, Astro.site ?? 'https://www.hyb.art').href;
+const ogImage = new URL('/images/og-default.jpg', Astro.site ?? 'https://www.hyb.art').href;
 ---
 <!doctype html>
 <html lang="en">
@@ -20,6 +23,18 @@ const year = new Date().getFullYear();
   <title>{title === 'Hybrid Arts' ? title : `${title} — Hybrid Arts`}</title>
   {description && <meta name="description" content={description} />}
   <link rel="icon" href="/favicon.svg" type="image/svg+xml" />
+  <meta property="og:type" content="website" />
+  <meta property="og:site_name" content="Hybrid Arts" />
+  <meta property="og:title" content={ogTitle} />
+  {description && <meta property="og:description" content={description} />}
+  <meta property="og:url" content={ogUrl} />
+  <meta property="og:image" content={ogImage} />
+  <meta property="og:image:width" content="1200" />
+  <meta property="og:image:height" content="630" />
+  <meta name="twitter:card" content="summary_large_image" />
+  <meta name="twitter:title" content={ogTitle} />
+  {description && <meta name="twitter:description" content={description} />}
+  <meta name="twitter:image" content={ogImage} />
 </head>
 <body style={accent ? `--accent: ${accent}` : undefined}>
   <header class:list={['site', { wide }]}>
