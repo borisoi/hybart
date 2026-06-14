@@ -53,9 +53,9 @@ const nav = [
     .overlay { background: var(--bg); }
   }
   .overlay[hidden] { display: none; }
-  .overlay nav { display: flex; flex-direction: column; align-items: flex-start; }
+  .overlay nav { display: flex; flex-direction: column; align-items: flex-start; gap: clamp(12px, 2.6vh, 30px); }
   .overlay nav a {
-    font-size: clamp(36px, 6.5vh, 68px); font-weight: 680; letter-spacing: -0.03em; line-height: 1.12;
+    font-size: clamp(36px, 6.5vh, 68px); font-weight: 440; letter-spacing: -0.02em; line-height: 1.08;
     text-decoration: none; color: var(--ink); transition: color .12s ease, transform .12s ease;
   }
   .overlay nav a:hover { color: var(--door); transform: translateX(0.12em); }
