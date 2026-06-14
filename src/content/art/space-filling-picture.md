@@ -8,7 +8,6 @@ oldUrl: /art/space-filling-picture
 ---
 
 ![](/images/art/157174-1.jpg)
-![](/images/art/2.jpg)
 ![](/images/art/3.jpg)
 ![](/images/art/dsc3220.jpg)
 ![](/images/art/157174-4.jpg)
