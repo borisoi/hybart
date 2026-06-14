@@ -3,11 +3,21 @@ import Base from '../../layouts/Base.astro';
 import { getCollection, render } from 'astro:content';
 
 export async function getStaticPaths() {
-  const posts = await getCollection('blog');
-  return posts.map((post) => ({ params: { id: post.id }, props: { post } }));
+  const posts = (await getCollection('blog')).sort(
+    (a, b) => b.data.date.valueOf() - a.data.date.valueOf()
+  );
+  const n = posts.length;
+  return posts.map((post, i) => ({
+    params: { id: post.id },
+    props: {
+      post,
+      prev: i > 0 ? { id: posts[i - 1].id, title: posts[i - 1].data.title } : null,
+      next: i < n - 1 ? { id: posts[i + 1].id, title: posts[i + 1].data.title } : null,
+    },
+  }));
 }
 
-const { post } = Astro.props;
+const { post, prev, next } = Astro.props;
 const { Content } = await render(post);
 const fmt = (d: Date) =>
   d.toLocaleDateString('en-US', { year: 'numeric', month: 'long', day: 'numeric' });
@@ -20,12 +30,43 @@ const fmt = (d: Date) =>
       <Content />
     </div>
   </article>
-  <p style="margin-top: 56px;"><a href="/blog">← All posts</a></p>
+  <nav class="post-nav">
+    {prev ? (
+      <a class="prev" href={`/blog/${prev.id}`}>
+        <span class="lbl">← Previous post</span>
+        <span class="t">{prev.title}</span>
+      </a>
+    ) : <span class="prev"></span>}
+    <a class="all" href="/blog">All posts</a>
+    {next ? (
+      <a class="next" href={`/blog/${next.id}`}>
+        <span class="lbl">Next post →</span>
+        <span class="t">{next.title}</span>
+      </a>
+    ) : <span class="next"></span>}
+  </nav>
 </Base>
 
 <style>
   .post .meta { color: var(--muted); font-size: 14px; margin: 48px 0 0; }
   .post h1 { margin-top: 8px; max-width: 26ch; }
+  .post-nav {
+    display: flex; justify-content: space-between; align-items: baseline; gap: 24px;
+    margin-top: 72px; padding-top: 24px; border-top: 1px solid var(--rule);
+  }
+  .post-nav a { text-decoration: none; color: var(--ink); display: flex; flex-direction: column; gap: 3px; max-width: 40%; }
+  .post-nav .next { text-align: right; align-items: flex-end; }
+  .post-nav .all { align-self: center; color: var(--muted); font-size: 14px; max-width: none; }
+  .post-nav .all:hover { color: var(--c-blog); }
+  .post-nav .lbl { font-size: 13px; color: var(--muted); }
+  .post-nav .t { font-size: 19px; font-weight: 500; letter-spacing: -0.01em; line-height: 1.2; }
+  .post-nav a:hover .t { color: var(--c-blog); }
+  @media (max-width: 640px) {
+    .post-nav { gap: 16px; }
+    .post-nav .all { display: none; }
+    .post-nav a { max-width: 50%; }
+    .post-nav .t { font-size: 16px; }
+  }
   .post.narrow { max-width: 72ch; margin-inline: auto; }
   .post :global(.prose img) { border-radius: 22px; margin: 0 auto 20px; width: 100%; }
   .post :global(.prose iframe) { border-radius: 22px; width: 100%; }
