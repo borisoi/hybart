@@ -35,6 +35,14 @@ const ogImage = new URL('/images/og-default.jpg', Astro.site ?? 'https://www.hyb
   <meta name="twitter:title" content={ogTitle} />
   {description && <meta name="twitter:description" content={description} />}
   <meta name="twitter:image" content={ogImage} />
+  <!-- Google Analytics (GA4) -->
+  <script is:inline async src="https://www.googletagmanager.com/gtag/js?id=G-15WJM4QZ9P"></script>
+  <script is:inline>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+    gtag('config', 'G-15WJM4QZ9P');
+  </script>
 </head>
 <body style={accent ? `--accent: ${accent}` : undefined}>
   <header class:list={['site', { wide }]}>
