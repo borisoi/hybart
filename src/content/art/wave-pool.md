@@ -9,4 +9,4 @@ order: 0
 
 ![](/images/art/wave-pool.jpg)
 
-Executive and Artistic Director of [Wave Pool](https://www.wavepoolgallery.org/), a socially-engaged contemporary art center in Camp Washington, Cincinnati, since October 2026. Wave Pool acts as a conduit for community change through artist opportunities and support.
+I am the Executive and Artistic Director of [Wave Pool](https://www.wavepoolgallery.org/), a socially-engaged contemporary art center in Camp Washington, Cincinnati, since October 2025.
