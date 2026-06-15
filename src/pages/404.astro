@@ -1,0 +1,27 @@
+---
+import Base from '../layouts/Base.astro';
+---
+<Base title="Page not found" description="That page doesn't exist." accent="var(--c-art)" crumb="404">
+  <div class="nf">
+    <h1>Page not found</h1>
+    <p>The page you were looking for isn't here, it may have moved when the site was rebuilt.</p>
+    <p class="links">
+      <a href="/">Home</a><span>·</span>
+      <a href="/art">Art</a><span>·</span>
+      <a href="/music">Music</a><span>·</span>
+      <a href="/consulting">Consulting</a><span>·</span>
+      <a href="/blog">Blog</a><span>·</span>
+      <a href="/contact">Contact</a>
+    </p>
+  </div>
+</Base>
+
+<style>
+  .nf { max-width: 60ch; margin: 12vh auto; text-align: center; }
+  .nf h1 { margin: 0 0 16px; }
+  .nf p { margin: 0 auto 20px; }
+  .nf .links { display: flex; flex-wrap: wrap; gap: 6px 12px; justify-content: center; }
+  .nf .links a { text-decoration: none; }
+  .nf .links a:hover { color: var(--c-art); }
+  .nf .links span { color: var(--muted); }
+</style>
