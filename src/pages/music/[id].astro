@@ -56,9 +56,15 @@ const description = metaDesc(p.body, `${p.data.title} — music by Boris Oicherm
   .art-project :global(.art-cols .col-media > :first-child) { margin-top: 28px; }
   .art-project :global(.art-cols .col-text) { max-width: 62ch; }
   @media (max-width: 860px) {
-    /* media (players/embeds) on top, text below */
-    .art-project :global(.art-cols) { display: block; }
-    .art-project :global(.art-cols .col-media) { position: static; }
+    /* plain single column: media (players/embeds) on top, text below, one scroll */
+    .art-project :global(.art-cols),
+    .art-project :global(.art-cols.compact),
+    .art-project :global(.art-cols.solo) { display: block; }
+    .art-project :global(.art-cols .col-media),
+    .art-project :global(.art-cols.solo .col-media) { position: static; top: auto; }
+    .art-project :global(.art-cols .col-text),
+    .art-project :global(.art-cols.compact .col-text) { max-width: none; }
+    .art-project :global(.art-cols .col-media > :first-child) { margin-top: 28px; }
   }
 </style>
 
