@@ -12,6 +12,15 @@ const faqs = [
 ];
 ---
 <Base title="Infrequently Asked Questions" description="What hybrid arts is, what artists bring to cross-sector collaborations, and how Boris Oicherman works with organizations on complex challenges." accent="var(--c-blog)" crumb="FAQ">
+  <script type="application/ld+json" is:inline set:html={JSON.stringify({
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": faqs.map(([q, a]) => ({
+      "@type": "Question",
+      "name": q,
+      "acceptedAnswer": { "@type": "Answer", "text": a }
+    }))
+  })} />
   <h1>Infrequently Asked Questions</h1>
   <blockquote>
     <em>Artists do not think outside the box - there is no box.</em><br />
@@ -19,6 +28,7 @@ const faqs = [
   </blockquote>
 
   <div class="prose">
+    <p>New here? Start with <a href="/what-is-hybrid-art">what hybrid art is</a>.</p>
     {faqs.map(([q, a]) => (
       <>
         <h3>{q}</h3>

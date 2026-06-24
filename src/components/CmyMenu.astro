@@ -67,6 +67,9 @@ const nav = [
   function setMenu(open) {
     if (open) overlay.removeAttribute('hidden'); else overlay.setAttribute('hidden', '');
     toggle.setAttribute('aria-expanded', String(open));
+    if (open && typeof window.gtag === 'function') {
+      window.gtag('event', 'menu_open', { page_location: window.location.href });
+    }
   }
   toggle.addEventListener('click', () => setMenu(overlay.hasAttribute('hidden')));
   overlay.addEventListener('click', (e) => { if (e.target === overlay) setMenu(false); });

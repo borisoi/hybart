@@ -1,0 +1,56 @@
+---
+import Base from '../layouts/Base.astro';
+---
+<Base
+  title="What Is Hybrid Art?"
+  description="Hybrid art is what happens when artists collaborate with partners outside the arts sector — in science, technology, healthcare, government, or community development. A plain-language explanation of hybrid arts and hybrid artists."
+  accent="var(--c-blog)"
+  crumb="What is hybrid art?">
+  <script type="application/ld+json" is:inline set:html={JSON.stringify({
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+      {
+        "@type": "Question",
+        "name": "What is hybrid art?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Hybrid art occurs when artists collaborate with partners outside the arts sector, such as in sciences, technology, healthcare, government, or community development. This cross-sector collaboration is the defining feature of hybrid arts."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "What is a hybrid artist?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "A hybrid artist is an artist who works across professional fields, bringing the capacity to interpret cultural information, connect knowledge across domains, and imagine new possibilities into settings such as science, technology, public health, or government."
+        }
+      }
+    ]
+  })} />
+
+  <h1>What is hybrid art?</h1>
+
+  <div class="prose">
+    <p><strong>Hybrid art occurs when artists collaborate with partners outside the arts sector</strong> — in sciences, technology, healthcare, government, or community development. This cross-sector collaboration is the defining feature of hybrid arts. It is less a style or medium than a way of working: an artist embedded where art is not usually expected.</p>
+
+    <h2>What is a hybrid artist?</h2>
+    <p>A hybrid artist works across professional fields. Artists excel at interpreting cultural information, connecting knowledge across domains, imagining new possibilities, and translating abstract ideas into tangible forms. They bring keen observational skills, comfort with ambiguity, and the ability to generate unexpected insights into any domain they enter.</p>
+
+    <h2>What do hybrid artists actually do?</h2>
+    <p>Art rarely solves problems directly. But artists often identify new problems or reframe existing ones, offering perspectives that lead to more effective solutions. Any organization dealing with complex issues can benefit — in public health, urban planning, education, technology, and government.</p>
+
+    <h2>Where the term comes from</h2>
+    <p>The term is inspired by the "hybrid economy" concept introduced in the 2003 report <a href="https://www.urban.org/sites/default/files/publication/50806/411311-Investing-in-Creativity.PDF">Investing in Creativity: A Study of the Support Structure for U.S. Artists</a>, which highlighted artists working across sectors. There is more on this in the <a href="/blog/investing-in-hybrid-arts-introduction">blog</a>.</p>
+
+    <h2>Examples of hybrid arts</h2>
+    <p>Good examples of cross-sector creative collaboration include <a href="https://tcaproject.net/">SymbioticA</a>, <a href="https://www.rebuild-foundation.org/">Rebuild Foundation</a>, <a href="https://carolinesinders.com/">Caroline Sinders</a>, <a href="https://projectrowhouses.org/">Project Row Houses</a>, <a href="/art/interview-with-robert-irwin">Robert Irwin</a>, and <a href="https://franceswhitehead.com/">Frances Whitehead</a>. You can also read interviews with hybrid artists on the <a href="/blog">Hybrid Arts blog</a>.</p>
+
+    <h2>Working with a hybrid artist</h2>
+    <p>I facilitate partnerships between artists and professionals in other fields, from experimental pilots to long-term institutional change. If your organization is facing a complex challenge, <a href="/consulting">see how this works</a> or <a href="/contact">get in touch</a>. More questions are answered in the <a href="/faq">FAQ</a>.</p>
+  </div>
+</Base>
+
+<style>
+  .prose h2 { margin-top: 32px; }
+</style>
