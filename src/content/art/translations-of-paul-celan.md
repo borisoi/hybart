@@ -7,6 +7,8 @@ order: -1
 mode: cols
 ---
 
+<p class="tr-rotate">Turn your phone sideways to read the translations side by side.</p>
+
 <div class="tr-set three">
 <div class="tr-col" lang="de">
 <h3>Engführung</h3>
@@ -746,7 +748,18 @@ Ruhe.</p>
 .tr-col p { max-width: none; margin: 0 0 1.5em; }
 .tr-col p.sep { margin: 2em 0; }
 .tr-stars { margin: 80px 0; letter-spacing: 0.35em; }
-@media (max-width: 860px) {
+.tr-rotate { display: none; }
+/* small screens, portrait: stack the languages and suggest rotating */
+@media (max-width: 860px) and (orientation: portrait) {
   .tr-set.two, .tr-set.three { grid-template-columns: 1fr; gap: 56px; }
+}
+@media (max-width: 860px) and (orientation: portrait) and (pointer: coarse) {
+  .tr-rotate { display: block; margin: 32px 0 0; font-size: 14px; color: var(--muted); }
+}
+/* small screens, landscape: keep the columns, tighten them */
+@media (max-width: 1000px) and (orientation: landscape) and (pointer: coarse) {
+  .tr-set { gap: 28px; }
+  .tr-col p { font-size: 15px; }
+  .tr-set h3 { font-size: 17px; }
 }
 </style>
