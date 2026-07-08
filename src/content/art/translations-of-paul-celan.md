@@ -747,7 +747,7 @@ Hältst du das für ein Gleichnis, suchst du den Schlüssel zu diesen Särgen, d
 .tr-set h3 { margin: 0 0 28px; font-size: 21px; }
 .tr-col { width: fit-content; max-width: 100%; }
 .tr-col p { max-width: none; margin: 0 0 1.5em; }
-.tr-col p.sep { margin: 2em 0; text-align: center; }
+.tr-col p.sep { margin: 2em 0; text-align: center; max-width: 26ch; }
 .tr-stars { margin: 80px 0; max-width: 1080px; text-align: center; letter-spacing: 0.35em; }
 .tr-rotate { display: none; }
 /* small screens, portrait: stack the languages and suggest rotating */
