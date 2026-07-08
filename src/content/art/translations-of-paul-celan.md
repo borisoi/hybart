@@ -694,21 +694,6 @@ vernarben.</p>
 
 <div class="tr-set two">
 <div class="tr-col" lang="de">
-<p>Höre:<br>
-es ist eine Zeit, aus der man Särge schnitzt. In den letzten Sarg wird das Messer gelegt, das dazu gebraucht wurde, und diesem, dem größten aller Toten, folgt die trauernde Menschheit. Das Wetter ist schön, der Himmel blau, der Leichenzug unendlich lang. Auf der Hälfte des Weges wird ein Lied angestimmt. Wie schön, wie weihevoll. Kein trauriger, aber auch kein fröhlicher Gesang, aber Gesang immerhin.<br>
-Hältst du das für ein Gleichnis, suchst du den Schlüssel zu diesen Särgen, den Ursprung des Messers, die Herkunft der langsam Dahinschreitenden, die jetzt singen? Du Tor! Laß ab davon, du wirst es nie erfahren, soweit reicht das, was du für deinen Verstand hältst, gewiß nicht. Hoch über deinem Kopfe vollzieht sich all das. Du siehst es nicht, hörst es nicht, merkst es nicht. Wozu auch? Schnitze auch du ein Messer. Folge auch du einem Sarg. Stimme auch du ein Lied an.</p>
-</div>
-<div class="tr-col" lang="ru">
-<p>Послушай:<br>
-это время, из которого вырезают гробы. В последний гроб будет положен нож, который для этого использовался, и за ним, величайшим из всех мёртвых, следует скорбящее человечество. Погода прекрасная, небо голубое, процессия бесконечно длинная. На половине пути песню затягивают. Как чудно, как благоговейно. Никакой грусти, но и никакого веселья в песне, но песня как-никак.<br>
-Ты считаешь это притчей, ты подбираешь ключ к этим гробам, выясняешь происхождение ножа, родословные медленно ушествующих, которые сейчас поют? Ты дурак! Брось, ты никогда не узнаешь, на что хватает того, что ты за свой разум считаешь, уж конечно не на это. Высоко над твоей головой исполняется всё это. Ты не видишь этого, не слышишь этого, не осознаешь этого. Так зачем? Вырежь и ты нож. Ступай и ты за гробом. Затяни и ты песню.</p>
-</div>
-</div>
-
-<p class="tr-stars">***</p>
-
-<div class="tr-set two">
-<div class="tr-col" lang="de">
 <p>Wirk nicht voraus,<br>
 sende nicht aus,<br>
 steh<br>
@@ -737,6 +722,21 @@ Ruhe.</p>
 <p>нимаю я тебя при<br>
 взамен любого<br>
 покоя.</p>
+</div>
+</div>
+
+<p class="tr-stars">***</p>
+
+<div class="tr-set two">
+<div class="tr-col" lang="de">
+<p>Höre:<br>
+es ist eine Zeit, aus der man Särge schnitzt. In den letzten Sarg wird das Messer gelegt, das dazu gebraucht wurde, und diesem, dem größten aller Toten, folgt die trauernde Menschheit. Das Wetter ist schön, der Himmel blau, der Leichenzug unendlich lang. Auf der Hälfte des Weges wird ein Lied angestimmt. Wie schön, wie weihevoll. Kein trauriger, aber auch kein fröhlicher Gesang, aber Gesang immerhin.<br>
+Hältst du das für ein Gleichnis, suchst du den Schlüssel zu diesen Särgen, den Ursprung des Messers, die Herkunft der langsam Dahinschreitenden, die jetzt singen? Du Tor! Laß ab davon, du wirst es nie erfahren, soweit reicht das, was du für deinen Verstand hältst, gewiß nicht. Hoch über deinem Kopfe vollzieht sich all das. Du siehst es nicht, hörst es nicht, merkst es nicht. Wozu auch? Schnitze auch du ein Messer. Folge auch du einem Sarg. Stimme auch du ein Lied an.</p>
+</div>
+<div class="tr-col" lang="ru">
+<p>Послушай:<br>
+это время, из которого вырезают гробы. В последний гроб будет положен нож, который для этого использовался, и за ним, величайшим из всех мёртвых, следует скорбящее человечество. Погода прекрасная, небо голубое, процессия бесконечно длинная. На половине пути песню затягивают. Как чудно, как благоговейно. Никакой грусти, но и никакого веселья в песне, но песня как-никак.<br>
+Ты считаешь это притчей, ты подбираешь ключ к этим гробам, выясняешь происхождение ножа, родословные медленно ушествующих, которые сейчас поют? Ты дурак! Брось, ты никогда не узнаешь, на что хватает того, что ты за свой разум считаешь, уж конечно не на это. Высоко над твоей головой исполняется всё это. Ты не видишь этого, не слышишь этого, не осознаешь этого. Так зачем? Вырежь и ты нож. Ступай и ты за гробом. Затяни и ты песню.</p>
 </div>
 </div>
 
