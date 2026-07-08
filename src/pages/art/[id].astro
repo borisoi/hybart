@@ -57,7 +57,7 @@ function metaDesc(body, fallback) {
 const { p, prev, next } = Astro.props;
 const { Content } = await render(p);
 const year = p.data.tags.find((t) => /^(19|20)\d\d/.test(t));
-const mode = pageMode(p.body);
+const mode = p.data.mode ?? pageMode(p.body);
 const isGanzfeld = p.id === 'ganzfeld-dot-art';
 const description = metaDesc(p.body, `${p.data.title} — a project by Boris Oicherman.`);
 ---

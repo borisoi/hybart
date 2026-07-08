@@ -39,6 +39,7 @@ const art = defineCollection({
     cover: z.string().optional(),
     order: z.number(),
     oldUrl: z.string().optional(),
+    mode: z.enum(['blog', 'cols', 'center']).optional(), // override auto layout detection
   }),
 });
 
