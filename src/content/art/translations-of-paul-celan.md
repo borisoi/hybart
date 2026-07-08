@@ -747,7 +747,7 @@ Ruhe.</p>
 .tr-set h3 { margin: 0 0 28px; font-size: 21px; }
 .tr-col p { max-width: none; margin: 0 0 1.5em; }
 .tr-col p.sep { margin: 2em 0; }
-.tr-stars { margin: 80px 0; letter-spacing: 0.35em; }
+.tr-stars { margin: 80px 0; max-width: 1080px; text-align: center; letter-spacing: 0.35em; }
 .tr-rotate { display: none; }
 /* small screens, portrait: stack the languages and suggest rotating */
 @media (max-width: 860px) and (orientation: portrait) {
