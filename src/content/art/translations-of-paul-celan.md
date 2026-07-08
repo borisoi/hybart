@@ -7,7 +7,7 @@ order: -1
 mode: cols
 ---
 
-<p class="tr-rotate">Turn your phone sideways to read the translations side by side.</p>
+<p class="tr-rotate">↻&nbsp;&nbsp;Turn your phone sideways to read the translations side by side.</p>
 
 <div class="tr-set three">
 <div class="tr-col" lang="de">
@@ -754,7 +754,11 @@ Ruhe.</p>
   .tr-set.two, .tr-set.three { grid-template-columns: 1fr; gap: 56px; }
 }
 @media (max-width: 860px) and (orientation: portrait) and (pointer: coarse) {
-  .tr-rotate { display: block; margin: 32px 0 0; font-size: 14px; color: var(--muted); }
+  .tr-rotate {
+    display: block; margin: 32px 0 0; padding: 14px 18px;
+    border: 1.5px solid var(--accent, var(--c-art)); border-radius: 16px;
+    font-size: 16px; line-height: 1.4; color: var(--ink);
+  }
 }
 /* small screens, landscape: keep the columns, tighten them */
 @media (max-width: 1000px) and (orientation: landscape) and (pointer: coarse) {
