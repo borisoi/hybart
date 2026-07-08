@@ -7,181 +7,6 @@ order: -1
 mode: cols
 ---
 
-<div class="tr-set two">
-<div class="tr-col" lang="de">
-<h3>Stimmen</h3>
-<p>Stimmen, ins Grün<br>
-der Wasserfläche geritzt.<br>
-Wenn der Eisvogel taucht,<br>
-sirrt die Sekunde:</p>
-<p>Was zu dir stand<br>
-an jedem der Ufer,<br>
-es tritt<br>
-gemäht in ein anderes Bild.</p>
-<p class="sep">*</p>
-<p>Stimmen vom Nesselweg her:</p>
-<p>Komm auf den Händen zu uns.<br>
-Wer mit der Lampe allein ist,<br>
-hat nur die Hand, draus zu lesen.</p>
-<p class="sep">*</p>
-<p>Stimmen, nachtdurchwachsen, Stränge,<br>
-an die du die Glocke hängst.</p>
-<p>Wölbe dich, Welt:<br>
-Wenn die Totenmuschel heranschwimmt,<br>
-will es hier läuten.</p>
-<p class="sep">*</p>
-<p>Stimmen, vor denen dein Herz<br>
-ins Herz deiner Mutter zurückweicht.<br>
-Stimmen vom Galgenbaum her,<br>
-wo Spätholz und Frühholz die Ringe<br>
-tauschen und tauschen.</p>
-<p class="sep">*</p>
-<p>Stimmen, kehlig, im Grus,<br>
-darin auch Unendliches schaufelt,<br>
-(herz-)<br>
-schleimiges Rinnsal.</p>
-<p>Setz hier die Boote aus, Kind,<br>
-die ich bemannte:</p>
-<p>Wenn mittschiffs die Bö sich ins Recht setzt,<br>
-treten die Klammern zusammen.</p>
-<p class="sep">*</p>
-<p>Jakobsstimme:</p>
-<p>Die Tränen.<br>
-Die Tränen im Bruderaug.<br>
-Eine blieb hängen, wuchs.<br>
-Wir wohnen darin.<br>
-Atme, daß<br>
-sie sich löse.</p>
-<p class="sep">*</p>
-<p>Stimmen im Innern der Arche:</p>
-<p>Es sind<br>
-nur die Münder<br>
-geborgen. Ihr<br>
-Sinkenden, hört<br>
-auch uns.</p>
-<p class="sep">*</p>
-<p>Keine<br>
-Stimme – ein</p>
-<p>Spätgeräusch, stundenfremd, deinen<br>
-Gedanken geschenkt, hier, endlich<br>
-herbeigewacht: ein<br>
-Fruchtblatt, augengroß, tief<br>
-geritzt; es<br>
-harzt, will nicht<br>
-vernarben.</p>
-</div>
-<div class="tr-col" lang="ru">
-<h3>Голоса</h3>
-<p>голоса, в зелень<br>
-водоглади процарапанные.<br>
-Когда зимородок пикирует,<br>
-свистит секунда:</p>
-<p>Что стояло c тобой<br>
-на всех берегах,<br>
-оно ступает<br>
-скошенное в другую сцену.</p>
-<p class="sep">*</p>
-<p>Голоса от крапивотропы:</p>
-<p>Приходи на руках к нам.<br>
-Кто с лампой наедине,<br>
-имеет лишь ладонь, чтобы с неё читать.</p>
-<p class="sep">*</p>
-<p>Голоса, ночевросшие, канаты<br>
-на которых ты колокол вешаешь.</p>
-<p>Выгнись, мир:<br>
-Когда смертораковина приплывет,<br>
-он здесь прозвенит.</p>
-<p class="sep">*</p>
-<p>Голоса, с которыми твоё сердце<br>
-в сердце твоей матери отступает.<br>
-Голоса от древовисельницы,<br>
-где позднедревесные и раннедревесные кольцами<br>
-обмениваются и обмениваются.</p>
-<p class="sep">*</p>
-<p>Голоса, гортанные, в щебне,<br>
-где даже бесконечность  вкапывается,<br>
-(сердце-)<br>
-слизкая струйка.</p>
-<p>Спускай тут корабли, дитя,<br>
-которым я нанимал команду:</p>
-<p>Когда на миделе хозяйничает шквал,<br>
-скобы смыкаются.</p>
-<p class="sep">*</p>
-<p>&nbsp;Йаковоголос:</p>
-<p>слёзы.<br>
-Слёзы в братоглазе.<br>
-Одна еще висит, выросла.<br>
-Мы в ней живем.<br>
-Вдохни, чтобы<br>
-отпустила.</p>
-<p class="sep">*</p>
-<p>Голоса изнутри ковчега:</p>
-<p>Это суть<br>
-только рты<br>
-спасены. Вы<br>
-тонущие, услышьте<br>
-и нас.</p>
-<p class="sep">*</p>
-<p>Без<br>
-голоса – один</p>
-<p>позднешумный, чужечасный, твоим<br>
-мыслям дарёный, сюда, наконец<br>
-припроснулся: один<br>
-плодолист, глазоразмерный, глубоко<br>
-процарапанный; он<br>
-смолится, не хочет<br>
-зарубцовываться.</p>
-</div>
-</div>
-
-<p class="tr-src"><small>Sources: <a href="https://www.babelmatrix.org/works/de/Celan,_Paul-1920/Stimmen">babelmatrix.org</a> · <a href="https://polutona.ru/?show=1123015020">polutona.ru</a></small></p>
-
-<div class="tr-set two">
-<div class="tr-col" lang="de">
-<p>Höre:<br>
-es ist eine Zeit, aus der man Särge schnitzt. In den letzten Sarg wird das Messer gelegt, das dazu gebraucht wurde, und diesem, dem größten aller Toten, folgt die trauernde Menschheit. Das Wetter ist schön, der Himmel blau, der Leichenzug unendlich lang. Auf der Hälfte des Weges wird ein Lied angestimmt. Wie schön, wie weihevoll. Kein trauriger, aber auch kein fröhlicher Gesang, aber Gesang immerhin.<br>
-Hältst du das für ein Gleichnis, suchst du den Schlüssel zu diesen Särgen, den Ursprung des Messers, die Herkunft der langsam Dahinschreitenden, die jetzt singen? Du Tor! Laß ab davon, du wirst es nie erfahren, soweit reicht das, was du für deinen Verstand hältst, gewiß nicht. Hoch über deinem Kopfe vollzieht sich all das. Du siehst es nicht, hörst es nicht, merkst es nicht. Wozu auch? Schnitze auch du ein Messer. Folge auch du einem Sarg. Stimme auch du ein Lied an.</p>
-</div>
-<div class="tr-col" lang="ru">
-<p>Послушай:<br>
-это время, из которого вырезают гробы. В последний гроб будет положен нож, который для этого использовался, и за ним, величайшим из всех мёртвых, следует скорбящее человечество. Погода прекрасная, небо голубое, процессия бесконечно длинная. На половине пути песню затягивают. Как чудно, как благоговейно. Никакой грусти, но и никакого веселья в песне, но песня как-никак.<br>
-Ты считаешь это притчей, ты подбираешь ключ к этим гробам, выясняешь происхождение ножа, родословные медленно ушествующих, которые сейчас поют? Ты дурак! Брось, ты никогда не узнаешь, на что хватает того, что ты за свой разум считаешь, уж конечно не на это. Высоко над твоей головой исполняется всё это. Ты не видишь этого, не слышишь этого, не осознаешь этого. Так зачем? Вырежь и ты нож. Ступай и ты за гробом. Затяни и ты песню.</p>
-</div>
-</div>
-
-<div class="tr-set two">
-<div class="tr-col" lang="de">
-<p>Wirk nicht voraus,<br>
-sende nicht aus,<br>
-steh<br>
-herein:</p>
-<p>durchgründet vom Nichts,<br>
-ledig allen<br>
-Gebets,<br>
-feinfügig, nach<br>
-der Vor-Schrift,<br>
-unüberholbar,</p>
-<p>nehm ich dich auf<br>
-statt aller<br>
-Ruhe.</p>
-</div>
-<div class="tr-col" lang="ru">
-<p>не действуй загодя,<br>
-не посылай туда,<br>
-замри<br>
-внутрь:</p>
-<p>чрезоснованный от ничто,<br>
-лишенный всех<br>
-молитв,<br>
-нежносоставленный, согласно<br>
-пред-писанию,<br>
-непревосходимый,</p>
-<p>нимаю я тебя при<br>
-взамен любого<br>
-покоя.</p>
-</div>
-</div>
-
 <div class="tr-set three">
 <div class="tr-col" lang="de">
 <h3>Engführung</h3>
@@ -734,6 +559,185 @@ asunderwrit.)</p>
 </div>
 </div>
 
+<p class="tr-stars">***</p>
+
+<div class="tr-set two">
+<div class="tr-col" lang="de">
+<h3>Stimmen</h3>
+<p>Stimmen, ins Grün<br>
+der Wasserfläche geritzt.<br>
+Wenn der Eisvogel taucht,<br>
+sirrt die Sekunde:</p>
+<p>Was zu dir stand<br>
+an jedem der Ufer,<br>
+es tritt<br>
+gemäht in ein anderes Bild.</p>
+<p class="sep">*</p>
+<p>Stimmen vom Nesselweg her:</p>
+<p>Komm auf den Händen zu uns.<br>
+Wer mit der Lampe allein ist,<br>
+hat nur die Hand, draus zu lesen.</p>
+<p class="sep">*</p>
+<p>Stimmen, nachtdurchwachsen, Stränge,<br>
+an die du die Glocke hängst.</p>
+<p>Wölbe dich, Welt:<br>
+Wenn die Totenmuschel heranschwimmt,<br>
+will es hier läuten.</p>
+<p class="sep">*</p>
+<p>Stimmen, vor denen dein Herz<br>
+ins Herz deiner Mutter zurückweicht.<br>
+Stimmen vom Galgenbaum her,<br>
+wo Spätholz und Frühholz die Ringe<br>
+tauschen und tauschen.</p>
+<p class="sep">*</p>
+<p>Stimmen, kehlig, im Grus,<br>
+darin auch Unendliches schaufelt,<br>
+(herz-)<br>
+schleimiges Rinnsal.</p>
+<p>Setz hier die Boote aus, Kind,<br>
+die ich bemannte:</p>
+<p>Wenn mittschiffs die Bö sich ins Recht setzt,<br>
+treten die Klammern zusammen.</p>
+<p class="sep">*</p>
+<p>Jakobsstimme:</p>
+<p>Die Tränen.<br>
+Die Tränen im Bruderaug.<br>
+Eine blieb hängen, wuchs.<br>
+Wir wohnen darin.<br>
+Atme, daß<br>
+sie sich löse.</p>
+<p class="sep">*</p>
+<p>Stimmen im Innern der Arche:</p>
+<p>Es sind<br>
+nur die Münder<br>
+geborgen. Ihr<br>
+Sinkenden, hört<br>
+auch uns.</p>
+<p class="sep">*</p>
+<p>Keine<br>
+Stimme – ein</p>
+<p>Spätgeräusch, stundenfremd, deinen<br>
+Gedanken geschenkt, hier, endlich<br>
+herbeigewacht: ein<br>
+Fruchtblatt, augengroß, tief<br>
+geritzt; es<br>
+harzt, will nicht<br>
+vernarben.</p>
+</div>
+<div class="tr-col" lang="ru">
+<h3>Голоса</h3>
+<p>голоса, в зелень<br>
+водоглади процарапанные.<br>
+Когда зимородок пикирует,<br>
+свистит секунда:</p>
+<p>Что стояло c тобой<br>
+на всех берегах,<br>
+оно ступает<br>
+скошенное в другую сцену.</p>
+<p class="sep">*</p>
+<p>Голоса от крапивотропы:</p>
+<p>Приходи на руках к нам.<br>
+Кто с лампой наедине,<br>
+имеет лишь ладонь, чтобы с неё читать.</p>
+<p class="sep">*</p>
+<p>Голоса, ночевросшие, канаты<br>
+на которых ты колокол вешаешь.</p>
+<p>Выгнись, мир:<br>
+Когда смертораковина приплывет,<br>
+он здесь прозвенит.</p>
+<p class="sep">*</p>
+<p>Голоса, с которыми твоё сердце<br>
+в сердце твоей матери отступает.<br>
+Голоса от древовисельницы,<br>
+где позднедревесные и раннедревесные кольцами<br>
+обмениваются и обмениваются.</p>
+<p class="sep">*</p>
+<p>Голоса, гортанные, в щебне,<br>
+где даже бесконечность  вкапывается,<br>
+(сердце-)<br>
+слизкая струйка.</p>
+<p>Спускай тут корабли, дитя,<br>
+которым я нанимал команду:</p>
+<p>Когда на миделе хозяйничает шквал,<br>
+скобы смыкаются.</p>
+<p class="sep">*</p>
+<p>&nbsp;Йаковоголос:</p>
+<p>слёзы.<br>
+Слёзы в братоглазе.<br>
+Одна еще висит, выросла.<br>
+Мы в ней живем.<br>
+Вдохни, чтобы<br>
+отпустила.</p>
+<p class="sep">*</p>
+<p>Голоса изнутри ковчега:</p>
+<p>Это суть<br>
+только рты<br>
+спасены. Вы<br>
+тонущие, услышьте<br>
+и нас.</p>
+<p class="sep">*</p>
+<p>Без<br>
+голоса – один</p>
+<p>позднешумный, чужечасный, твоим<br>
+мыслям дарёный, сюда, наконец<br>
+припроснулся: один<br>
+плодолист, глазоразмерный, глубоко<br>
+процарапанный; он<br>
+смолится, не хочет<br>
+зарубцовываться.</p>
+</div>
+</div>
+
+<p class="tr-stars">***</p>
+
+<div class="tr-set two">
+<div class="tr-col" lang="de">
+<p>Höre:<br>
+es ist eine Zeit, aus der man Särge schnitzt. In den letzten Sarg wird das Messer gelegt, das dazu gebraucht wurde, und diesem, dem größten aller Toten, folgt die trauernde Menschheit. Das Wetter ist schön, der Himmel blau, der Leichenzug unendlich lang. Auf der Hälfte des Weges wird ein Lied angestimmt. Wie schön, wie weihevoll. Kein trauriger, aber auch kein fröhlicher Gesang, aber Gesang immerhin.<br>
+Hältst du das für ein Gleichnis, suchst du den Schlüssel zu diesen Särgen, den Ursprung des Messers, die Herkunft der langsam Dahinschreitenden, die jetzt singen? Du Tor! Laß ab davon, du wirst es nie erfahren, soweit reicht das, was du für deinen Verstand hältst, gewiß nicht. Hoch über deinem Kopfe vollzieht sich all das. Du siehst es nicht, hörst es nicht, merkst es nicht. Wozu auch? Schnitze auch du ein Messer. Folge auch du einem Sarg. Stimme auch du ein Lied an.</p>
+</div>
+<div class="tr-col" lang="ru">
+<p>Послушай:<br>
+это время, из которого вырезают гробы. В последний гроб будет положен нож, который для этого использовался, и за ним, величайшим из всех мёртвых, следует скорбящее человечество. Погода прекрасная, небо голубое, процессия бесконечно длинная. На половине пути песню затягивают. Как чудно, как благоговейно. Никакой грусти, но и никакого веселья в песне, но песня как-никак.<br>
+Ты считаешь это притчей, ты подбираешь ключ к этим гробам, выясняешь происхождение ножа, родословные медленно ушествующих, которые сейчас поют? Ты дурак! Брось, ты никогда не узнаешь, на что хватает того, что ты за свой разум считаешь, уж конечно не на это. Высоко над твоей головой исполняется всё это. Ты не видишь этого, не слышишь этого, не осознаешь этого. Так зачем? Вырежь и ты нож. Ступай и ты за гробом. Затяни и ты песню.</p>
+</div>
+</div>
+
+<p class="tr-stars">***</p>
+
+<div class="tr-set two">
+<div class="tr-col" lang="de">
+<p>Wirk nicht voraus,<br>
+sende nicht aus,<br>
+steh<br>
+herein:</p>
+<p>durchgründet vom Nichts,<br>
+ledig allen<br>
+Gebets,<br>
+feinfügig, nach<br>
+der Vor-Schrift,<br>
+unüberholbar,</p>
+<p>nehm ich dich auf<br>
+statt aller<br>
+Ruhe.</p>
+</div>
+<div class="tr-col" lang="ru">
+<p>не действуй загодя,<br>
+не посылай туда,<br>
+замри<br>
+внутрь:</p>
+<p>чрезоснованный от ничто,<br>
+лишенный всех<br>
+молитв,<br>
+нежносоставленный, согласно<br>
+пред-писанию,<br>
+непревосходимый,</p>
+<p>нимаю я тебя при<br>
+взамен любого<br>
+покоя.</p>
+</div>
+</div>
+
 <style>
 .tr-set { display: grid; gap: 48px; align-items: start; margin: 64px 0; }
 .tr-set.two { grid-template-columns: repeat(2, minmax(0, 1fr)); max-width: 1080px; }
@@ -741,7 +745,7 @@ asunderwrit.)</p>
 .tr-set h3 { margin: 0 0 28px; font-size: 21px; }
 .tr-col p { max-width: none; margin: 0 0 1.5em; }
 .tr-col p.sep { margin: 2em 0; }
-.tr-src { margin: -24px 0 0; }
+.tr-stars { margin: 80px 0; letter-spacing: 0.35em; }
 @media (max-width: 860px) {
   .tr-set.two, .tr-set.three { grid-template-columns: 1fr; gap: 56px; }
 }
