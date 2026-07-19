@@ -6,8 +6,6 @@ cover: /images/art/lullabies-for-camp.jpg
 order: -1
 ---
 
-![CSX Queensgate Yard at night, Camp Washington, Cincinnati](/images/art/lullabies-for-camp.jpg)
-
 <iframe scrolling="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//soundcloud.com/boris_oicherman/study-for-lullaby-for-camp&color=%232f5be8&auto_play=false&hide_related=true&show_comments=false&show_reposts=false&show_teaser=false" style="width: 100%; max-width: 420px; height: 166px; border: 0;" loading="lazy" title="Study for Lullaby for Camp — SoundCloud player"></iframe>
 
 In-progress studies for a project based on field recordings of trains at the CSX Queensgate Yard in the Camp Washington neighborhood of Cincinnati, Ohio.
