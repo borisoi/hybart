@@ -8,7 +8,7 @@ order: -1
 mode: cols
 ---
 
-<p class="tr-note" lang="ru">Переводы стихотворений Пауля Целана с немецкого на русский язык: «Стретта» («Втеснение», Engführung), «Голоса» (Stimmen), «Не действуй загодя» (Wirk nicht voraus) и проза «Послушай…». Параллельный текст: немецкий оригинал и русский перевод рядом. Перевёл Борис Ойхерман.</p>
+<p class="tr-note" lang="ru">Переводы стихотворений Пауля Целана с немецкого на русский язык: «Стретта» («Втеснение», Engführung), «Голоса» (Stimmen), «Не действуй загодя» (Wirk nicht voraus) и проза «Послушай…». Перевод Бориса Ойхермана.</p>
 
 <p class="tr-rotate">↻&nbsp;&nbsp;Turn your phone sideways to read the translations side by side.</p>
 
