@@ -399,7 +399,7 @@ noone asks after you.</p>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;noone asks after you —</p>
 <p>The place where they lay, it has<br>
 a name — it has<br>
-no. They did not lie there. Something<br>
+none. They did not lie there. Something<br>
 lay between them. They<br>
 did not see through.</p>
 <p>Did not see, no,<br>
