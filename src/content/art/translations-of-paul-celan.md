@@ -384,10 +384,10 @@ terrain<br>
 with the unmistakable trace:</p>
 <p>Grass, asunderwrit. The stones, white,<br>
 with the shadows of the stalks:<br>
-Stop reading — look!<br>
-Stop looking — walk!</p>
+Stop reading – look!<br>
+Stop looking – walk!</p>
 <p>Walk, your hour<br>
-has no sisters, you are —<br>
+has no sisters, you are –<br>
 are at home. A wheel, slowly,<br>
 rolls out of itself, the spokes<br>
 clamber,<br>
@@ -396,9 +396,9 @@ needs no stars, nowhere<br>
 noone asks after you.</p>
 <p class="sep">*</p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Nowhere<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;noone asks after you —</p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;noone asks after you –</p>
 <p>The place where they lay, it has<br>
-a name — it has<br>
+a name – it has<br>
 none. They did not lie there. Something<br>
 lay between them. They<br>
 did not see through.</p>
@@ -410,7 +410,7 @@ sleep<br>
 came over them.</p>
 <p class="sep">*</p>
 <p>Came, came. Nowhere<br>
-is asking —</p>
+is asking –</p>
 <p>It's me, me,<br>
 I lay between you, I was<br>
 open, was<br>
@@ -419,18 +419,18 @@ obeyed, I<br>
 am still it, you<br>
 sleep though.</p>
 <p class="sep">*</p>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Am still it —</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Am still it –</p>
 <p>Years.<br>
 Years, years, a finger<br>
 probes down and up, probes<br>
 around:<br>
 Seams, palpable, here<br>
 it gapes asunder, here<br>
-it grew back together — who<br>
+it grew back together – who<br>
 covered it over?</p>
 <p class="sep">*</p>
 <p>Covered it<br>
-over — who?<br>
+over – who?<br>
 Came, came.<br>
 Came a word, came,<br>
 came through the night,<br>
@@ -438,12 +438,12 @@ wanted to shine, wanted to shine.</p>
 <p>Ash.<br>
 Ash, ash.<br>
 Night.<br>
-Night-and-night. — To the<br>
+Night-and-night. – To the<br>
 eye walk, to the moist one.</p>
 <p class="sep">*</p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;To the<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;eye walk,<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;to the moist one —</p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;to the moist one –</p>
 <p>Hurricanes.<br>
 Hurricanes, from ever,<br>
 Dustdrive, the other,<br>
@@ -454,7 +454,7 @@ opinion.</p>
 <p>Was, was<br>
 opinion. How<br>
 did we grasp each other<br>
-at — at with<br>
+at – at with<br>
 these<br>
 hands?</p>
 <p>It also stood written, that.<br>
@@ -475,7 +475,7 @@ vegetal.</p>
 Hurricanes, dus-<br>
 tdrive, there remained<br>
 time, remained,<br>
-to try this with the stone — it<br>
+to try this with the stone – it<br>
 was hospitable, it<br>
 did not cut into the word. How<br>
 well off we were:</p>
@@ -485,7 +485,7 @@ dense;<br>
 grapy and radiate; kidneyish,<br>
 platy and<br>
 lumpy; loose, bran-<br>
-ched —: they, it<br>
+ched –: they, it<br>
 did not cut into the word, it<br>
 spoke,<br>
 spoke gladly to dry eyes, before it shut them.</p>
@@ -505,7 +505,7 @@ the world, a millicrystal,<br>
 set in, set in.</p>
 <p class="sep">*</p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Set in, set in.<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Then —</p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Then –</p>
 <p>Nights, demixed. Circles,<br>
 green or blue, red<br>
 squares: the<br>
