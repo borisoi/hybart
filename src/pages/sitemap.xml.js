@@ -3,7 +3,7 @@ import { getCollection } from 'astro:content';
 export async function GET({ site }) {
   const base = (site ?? new URL('https://hyb.art/')).origin;
 
-  const statics = ['/', '/art', '/music', '/consulting', '/blog', '/about', '/faq', '/contact', '/what-is-hybrid-art'];
+  const statics = ['/', '/art', '/music', '/consulting', '/blog', '/about', '/faq', '/contact'];
   const art = (await getCollection('art')).map((p) => `/art/${p.id}`);
   const music = (await getCollection('music')).map((p) => `/music/${p.id}`);
   const blog = (await getCollection('blog')).map((p) => `/blog/${p.id}`);

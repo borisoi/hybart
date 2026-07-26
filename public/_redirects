@@ -5,6 +5,7 @@
 
 # moved pages
 /aboutyb         /about        301
+/what-is-hybrid-art   /faq    301
 
 # testimonials are pages under /consulting
 /testimonials    /consulting   301
