@@ -7,6 +7,8 @@ order: -1
 mode: cols
 ---
 
+<p class="tr-note" lang="ru">Переводы Пауля Целана на русский язык: «Стретта» («Втеснение»), «Голоса» и другие стихотворения — с немецким оригиналом.</p>
+
 <p class="tr-rotate">↻&nbsp;&nbsp;Turn your phone sideways to read the translations side by side.</p>
 
 <div class="tr-set three">
@@ -750,6 +752,7 @@ Hältst du das für ein Gleichnis, suchst du den Schlüssel zu diesen Särgen, d
 .tr-col p.sep { margin: 2em 0; text-align: center; max-width: 26ch; }
 .tr-stars { margin: 80px 0; max-width: 1080px; text-align: center; letter-spacing: 0.35em; }
 .tr-rotate { display: none; }
+.tr-note { color: var(--muted); font-size: 15px; max-width: 62ch; margin-top: 32px; }
 /* small screens, portrait: stack the languages and suggest rotating */
 @media (max-width: 860px) and (orientation: portrait) {
   .tr-set.two, .tr-set.three { grid-template-columns: 1fr; gap: 56px; }
