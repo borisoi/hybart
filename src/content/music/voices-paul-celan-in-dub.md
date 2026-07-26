@@ -6,7 +6,7 @@ cover: /images/art/digital-cover-2kx2k-no-text.jpg
 order: 0
 ---
 
-<iframe src="https://bandcamp.com/EmbeddedPlayer/album=513859743/size=large/bgcol=faf9f5/linkcol=2f5be8/artwork=small/tracklist=true/transparent=true/" seamless style="width: 100%; max-width: 420px; height: 472px; border: 0;" loading="lazy" title="Voices — full album player"></iframe>
+<iframe src="https://bandcamp.com/EmbeddedPlayer/album=513859743/size=large/bgcol=f5f4f2/linkcol=2f5be8/artwork=small/tracklist=true/transparent=true/" seamless style="width: 100%; max-width: 420px; height: 472px; border: 0;" loading="lazy" title="Voices — full album player"></iframe>
 
 [**Voices on Bandcamp ↗**](https://againstinterpretation.bandcamp.com/album/voices-translations-of-paul-celan-in-dub)
 
