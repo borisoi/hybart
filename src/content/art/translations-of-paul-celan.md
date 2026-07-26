@@ -1,5 +1,6 @@
 ---
-title: "Translations of Paul Celan"
+title: "Translations of Paul Celan · Переводы Пауля Целана"
+shortTitle: "Translations of Paul Celan"
 date: 2026-07-07
 tags: ["2026", "writings", "translation"]
 cover: /images/art/celan-translations.png
@@ -7,7 +8,7 @@ order: -1
 mode: cols
 ---
 
-<p class="tr-note" lang="ru">Переводы Пауля Целана на русский язык: «Стретта» («Втеснение»), «Голоса» и другие стихотворения.</p>
+<p class="tr-note" lang="ru">Переводы стихотворений Пауля Целана с немецкого на русский язык: «Стретта» («Втеснение», Engführung), «Голоса» (Stimmen), «Не действуй загодя» (Wirk nicht voraus) и проза «Послушай…». Параллельный текст: немецкий оригинал и русский перевод рядом. Перевёл Борис Ойхерман.</p>
 
 <p class="tr-rotate">↻&nbsp;&nbsp;Turn your phone sideways to read the translations side by side.</p>
 
@@ -696,6 +697,7 @@ vernarben.</p>
 
 <div class="tr-set two">
 <div class="tr-col" lang="de">
+<h3>„Wirk nicht voraus“</h3>
 <p>Wirk nicht voraus,<br>
 sende nicht aus,<br>
 steh<br>
@@ -711,6 +713,7 @@ statt aller<br>
 Ruhe.</p>
 </div>
 <div class="tr-col" lang="ru">
+<h3>«Не действуй загодя»</h3>
 <p>не действуй загодя,<br>
 не посылай туда,<br>
 замри<br>
@@ -731,11 +734,13 @@ Ruhe.</p>
 
 <div class="tr-set two">
 <div class="tr-col" lang="de">
+<h3>„Höre…“</h3>
 <p>Höre:<br>
 es ist eine Zeit, aus der man Särge schnitzt. In den letzten Sarg wird das Messer gelegt, das dazu gebraucht wurde, und diesem, dem größten aller Toten, folgt die trauernde Menschheit. Das Wetter ist schön, der Himmel blau, der Leichenzug unendlich lang. Auf der Hälfte des Weges wird ein Lied angestimmt. Wie schön, wie weihevoll. Kein trauriger, aber auch kein fröhlicher Gesang, aber Gesang immerhin.<br>
 Hältst du das für ein Gleichnis, suchst du den Schlüssel zu diesen Särgen, den Ursprung des Messers, die Herkunft der langsam Dahinschreitenden, die jetzt singen? Du Tor! Laß ab davon, du wirst es nie erfahren, soweit reicht das, was du für deinen Verstand hältst, gewiß nicht. Hoch über deinem Kopfe vollzieht sich all das. Du siehst es nicht, hörst es nicht, merkst es nicht. Wozu auch? Schnitze auch du ein Messer. Folge auch du einem Sarg. Stimme auch du ein Lied an.</p>
 </div>
 <div class="tr-col" lang="ru">
+<h3>«Послушай…»</h3>
 <p>Послушай:<br>
 это время, из которого вырезают гробы. В последний гроб будет положен нож, который для этого использовался, и за ним, величайшим из всех мёртвых, следует скорбящее человечество. Погода прекрасная, небо голубое, процессия бесконечно длинная. На половине пути песню затягивают. Как чудно, как благоговейно. Никакой грусти, но и никакого веселья в песне, но песня как-никак.<br>
 Ты считаешь это притчей, ты подбираешь ключ к этим гробам, выясняешь происхождение ножа, родословные медленно ушествующих, которые сейчас поют? Ты дурак! Брось, ты никогда не узнаешь, на что хватает того, что ты за свой разум считаешь, уж конечно не на это. Высоко над твоей головой исполняется всё это. Ты не видишь этого, не слышишь этого, не осознаешь этого. Так зачем? Вырежь и ты нож. Ступай и ты за гробом. Затяни и ты песню.</p>

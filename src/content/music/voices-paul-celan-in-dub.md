@@ -24,4 +24,4 @@ Celan never mentioned the Holocaust in his poems. The catastrophe is always pres
 
 Dub felt like the right vessel: music that transforms without erasing. Words dissolve, echo, disappear into rhythm. But never quite vanish.
 
-See also: [Voices Live at Fusebox](/music/voices-live-fusebox), the live adaptation of this album.
+See also: [Voices Live at Fusebox](/music/voices-live-fusebox), the live adaptation of this album, and my [translations of Paul Celan into Russian · переводы Целана на русский](/art/translations-of-paul-celan), including Voices (Stimmen · «Голоса»).
