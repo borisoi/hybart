@@ -9,7 +9,7 @@ image: /images/img-9482.jpg
 excerpt: Boris's unique blend of cross-disciplinary expertise and advocacy for artists as equal partners defines his professional identity.
 ---
 
-Working with Boris opened up new dimensions for our artistic practice. His innovative approach to curating extends far beyond traditional exhibition-making, focusing instead on fostering meaningful relationships between artists and researchers across diverse disciplines.
+Working with Boris opened up new dimensions for our artistic practice, because his approach to curating focuses on relationships between artists and researchers across disciplines.
 
 Boris's support was instrumental in developing 'Radio Rhizome,' our project combining social engagement, performance, and radio technology to explore hidden narratives of immigration law. He facilitated our fellowship with the Law School's 'Center for New Americans,' enabling us to engage deeply with immigration advocacy work. This project arise ongoing and unfolding to this date.
 
