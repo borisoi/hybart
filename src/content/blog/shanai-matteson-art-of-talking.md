@@ -206,7 +206,7 @@ I see this disparity clearly when I help local artists - like recently, when I h
 
 **BO:** Finally, who are other artists you consider important in your work?
 
-**CS:** All the artists I'm thinking of are based here in Minnesota, which reflects the phase I'm in right now. I'm very focused on local connections and collaborations - there's so much I'm learning about cultures and lifeways that's really relevant to where I am and how I want to grow.
+**SM:** All the artists I'm thinking of are based here in Minnesota, which reflects the phase I'm in right now. I'm very focused on local connections and collaborations - there's so much I'm learning about cultures and lifeways that's really relevant to where I am and how I want to grow.
 
 I'm really excited about the work of my collaborator [Annie Humphrey](https://www.anniehumphreymusic.com/). She's an Anishinaabe artist from Leech Lake Reservation, a musician and visual artist, and she challenges me in different ways.
 
