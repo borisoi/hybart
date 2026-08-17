@@ -6,11 +6,11 @@ date: 2024-09-08
 tags: [organizations, museums]
 oldSlug: /testimonials/yuko-katie
 image: /images/srg2837-crop.jpg
-excerpt: Boris's curatorial approach went beyond merely facilitating a relationship; he actively helped shape the project's evolution.
+excerpt: Boris actively helped shape the project's evolution.
 ---
 
 It was amazing to collaborate with Boris on "The Creativity Camp Study", a program exploring the intersection of creativity, mental health, and neuroscience. At the genesis of this work, Boris was instrumental in connecting experts across medicine, science, arts, and design, to make this journey possible. His unwavering support for interdisciplinary exploration was crucial for our project's success.
 
-Boris's curatorial approach went beyond merely facilitating a relationship; he actively helped shape the project's evolution. He encouraged us to push beyond conventional boundaries, always advocating for the critical role of artists in the conceptual design (not just the execution) of the project.
+Boris actively helped shape the project's evolution. He encouraged us to push beyond conventional boundaries, always advocating for the critical role of artists in the conceptual design (not just the execution) of the project.
 
 Throughout our collaboration, Boris was a champion for our scientific research, encouraging and supporting us in applying for federal and local funding to support the work. His ongoing commitment to reimagining the role of artists in academic and scientific contexts is innovative and exceptional.

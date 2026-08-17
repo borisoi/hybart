@@ -9,7 +9,7 @@ image: /images/deepa-vedavyas-3.jpg
 excerpt: Boris's approach has the potential to significantly transform how we address sustainability, making our efforts more inclusive, creative, and ultimately more effective.
 ---
 
-Working with Boris was an enlightening experience. He has a remarkable ability to bridge the gap between arts and sustainability, demonstrating how cultural practices and creative thinking can significantly enhance our efforts to implement the UN Sustainable Development Goals. His vision goes beyond conventional boundaries, fostering innovation and promoting a more holistic approach to global challenges.
+Working with Boris was an enlightening experience. He has a remarkable ability to bridge the gap between arts and sustainability, demonstrating how cultural practices and creative thinking can significantly enhance our efforts to implement the UN Sustainable Development Goals.
 
 Boris's deep knowledge of how culture can address complex societal challenges is matched by his open and collaborative spirit. He approaches collaborations with enthusiasm and a genuine desire to explore new possibilities. Our discussions were always thought-provoking, exploring new ways to harness the power of creativity to drive social impact and strengthen communities.
 
