@@ -2,7 +2,7 @@
 title: "Live with Nora Barton at Fusebox"
 date: 2026-11-07
 tags: ["2026", "Performance"]
-cover: "https://i.vimeocdn.com/video/2226028586-5c7485930fd3aa6b2e1978618f8feae4e1447902a8d58ad5d930c967d3a724a8-d_1280?region=us"
+cover: /images/art/live-with-nora-barton-fusebox.jpg
 order: -2
 ---
 
